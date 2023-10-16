@@ -1,5 +1,4 @@
 
-library("ggplot2")
 library("tidyverse")
 library("useful")
 
@@ -116,3 +115,6 @@ Player_stats = Player_stats %>%
   mutate(efficiency = (Pts+ Rebounds + Defensive_plays - (FG_att - FG_made) - Tnovers) / (On_court_time/60), .before = "Pt_diff_permin")
 
 y = Player_stats[which(Player_stats$On_court_time>600),]
+
+
+
