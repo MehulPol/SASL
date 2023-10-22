@@ -1,6 +1,6 @@
 
 library(tidyverse)
-games = read.csv("/Users/mehulpol/SASL/g.csv")
+games = read.csv("/Users/mehulpol/SASL/games.csv")
 
 # UVA_roster = c("Blake Buchanan","Dante Harris","Reece Beekman","Andrew Rohde",
 #                "Desmond Roberts","Taine Murray","Isaac Mckneely","Elijah Gertrude",
@@ -55,8 +55,70 @@ for (i in 1:nrow(games)){
   poss_vec = c(poss_vec,poss)
 } 
 games[,"Possession"] = poss_vec
+games[1,"Possession"] = "Cavs"
 
-write.csv(games, "games.csv", row.names=FALSE)
+num_poss = c()
+game_poss = 1
+for (i in 1:(nrow(games)-1)){
+  num_poss =c(num_poss,game_poss)
+  if (games$opp[i]==games$opp[i+1]){
+    if (games$Possession[i]!=games$Possession[i+1]){game_poss = game_poss + 1}
+  }
+  else{
+    game_poss = 0
+  }
+}
+num_poss =c(num_poss,game_poss)
+games[,"Possession Number"] = num_poss
+#write.csv(games, "games.csv", row.names=FALSE)
 
-# individual box scores
+# Individual Box Scores
 games = read.csv("/Users/mehulpol/SASL/games.csv")
+
+Box_Score = data.frame(Player = "", Pts= 0, Tnovers = 0, 
+                      FT_made = 0, FT_att = 0, FG_made = 0, FG_att = 0, 
+                      Three_made = 0, Three_att = 0, Rebounds = 0, 
+                      Steals = 0, Blocks = 0, fouls = 0)
+for (i_lineup in 1:length(UVA_roster[-length(UVA_roster)])) {
+  Box_Score = Box_Score %>%
+    add_row(Player = UVA_roster[i_lineup], Pts= 0, Tnovers = 0, 
+            FT_made = 0, FT_att = 0, FG_made = 0, FG_att = 0, 
+            Three_made =0, Three_att = 0, Rebounds = 0, 
+            Steals = 0, Blocks = 0, fouls = 0)
+  p_plays = subset(games,games$Player == UVA_roster[i_lineup])
+  for (i in 1:nrow(p_plays)){
+    if (p_plays$Event[i] == "Block"){
+      Box_Score$Blocks[i_lineup] = Box_Score$Blocks[i_lineup] + 1
+    } else if(p_plays$Event[i] == "Off Rebound" || p_plays$Event[i] == "Def Rebound"){
+      Box_Score$Rebounds[i_lineup] = Box_Score$Rebounds[i_lineup] + 1
+    } else if(p_plays$Event[i] == "Made FT"){
+      Box_Score$FT_made[i_lineup] = Box_Score$FT_made[i_lineup] + 1
+      Box_Score$FT_att[i_lineup] = Box_Score$FT_att[i_lineup] + 1
+      Box_Score$Pts[i_lineup] = Box_Score$Pts[i_lineup] + 1
+    } else if(p_plays$Event[i] == "Made Two"){
+      Box_Score$FG_made[i_lineup] = Box_Score$FG_made[i_lineup] + 1
+      Box_Score$FG_att[i_lineup] = Box_Score$FG_att[i_lineup] + 1
+      Box_Score$Pts[i_lineup] = Box_Score$Pts[i_lineup] + 2
+    } else if(p_plays$Event[i] == "Made Three"){
+      Box_Score$FG_made[i_lineup] = Box_Score$FG_made[i_lineup] + 1
+      Box_Score$FG_att[i_lineup] = Box_Score$FG_att[i_lineup] + 1
+      Box_Score$Three_made[i_lineup] = Box_Score$Three_made[i_lineup] + 1
+      Box_Score$Three_att[i_lineup] = Box_Score$Three_att[i_lineup] + 1
+      Box_Score$Pts[i_lineup] = Box_Score$Pts[i_lineup] + 3
+    } else if(p_plays$Event[i] == "Missed FT"){
+      Box_Score$FT_att[i_lineup] = Box_Score$FT_att[i_lineup] + 1
+    } else if(p_plays$Event[i] == "Missed Two"){
+      Box_Score$FG_att[i_lineup] = Box_Score$FG_att[i_lineup] + 1
+    } else if(p_plays$Event[i] == "Missed Three"){
+      Box_Score$FG_att[i_lineup] = Box_Score$FG_att[i_lineup] + 1
+      Box_Score$Three_att[i_lineup] = Box_Score$Three_att[i_lineup] + 1
+    } else if(p_plays$Event[i] == "Turnover"){
+      Box_Score$Tnovers[i_lineup] = Box_Score$Tnovers[i_lineup] + 1
+    } 
+  }
+}
+
+Box_Score = Box_Score[-1,]
+
+# Things not put into box score: offensive fouls + steals
+

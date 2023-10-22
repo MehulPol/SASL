@@ -4,7 +4,7 @@ library("useful")
 
 ## Obtain data from games ##
 
-games = read.csv("/Users/mehulpol/SASL/g.csv")
+games = read.csv("/Users/mehulpol/SASL/games.csv")
 
 UVA_roster = c("Kihei Clark", "Reece Beekman", "Armaan Franklin", "Jayden Gardner", 
                "Ben Vander Plas", "Kadin Shedrick", "Francisco Caffaro", "Ryan Dunn",
