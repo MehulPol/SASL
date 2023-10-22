@@ -88,32 +88,34 @@ for (i_lineup in 1:length(UVA_roster[-length(UVA_roster)])) {
   p_plays = subset(games,games$Player == UVA_roster[i_lineup])
   for (i in 1:nrow(p_plays)){
     if (p_plays$Event[i] == "Block"){
-      Box_Score$Blocks[i_lineup] = Box_Score$Blocks[i_lineup] + 1
+      Box_Score$Blocks[i_lineup + 1] = Box_Score$Blocks[i_lineup + 1] + 1
     } else if(p_plays$Event[i] == "Off Rebound" || p_plays$Event[i] == "Def Rebound"){
-      Box_Score$Rebounds[i_lineup] = Box_Score$Rebounds[i_lineup] + 1
+      Box_Score$Rebounds[i_lineup + 1] = Box_Score$Rebounds[i_lineup + 1] + 1
     } else if(p_plays$Event[i] == "Made FT"){
-      Box_Score$FT_made[i_lineup] = Box_Score$FT_made[i_lineup] + 1
-      Box_Score$FT_att[i_lineup] = Box_Score$FT_att[i_lineup] + 1
-      Box_Score$Pts[i_lineup] = Box_Score$Pts[i_lineup] + 1
+      Box_Score$FT_made[i_lineup + 1] = Box_Score$FT_made[i_lineup + 1] + 1
+      Box_Score$FT_att[i_lineup + 1] = Box_Score$FT_att[i_lineup + 1] + 1
+      Box_Score$Pts[i_lineup + 1] = Box_Score$Pts[i_lineup + 1] + 1
     } else if(p_plays$Event[i] == "Made Two"){
-      Box_Score$FG_made[i_lineup] = Box_Score$FG_made[i_lineup] + 1
-      Box_Score$FG_att[i_lineup] = Box_Score$FG_att[i_lineup] + 1
-      Box_Score$Pts[i_lineup] = Box_Score$Pts[i_lineup] + 2
+      Box_Score$FG_made[i_lineup + 1] = Box_Score$FG_made[i_lineup + 1] + 1
+      Box_Score$FG_att[i_lineup + 1] = Box_Score$FG_att[i_lineup + 1] + 1
+      Box_Score$Pts[i_lineup + 1] = Box_Score$Pts[i_lineup + 1] + 2
     } else if(p_plays$Event[i] == "Made Three"){
-      Box_Score$FG_made[i_lineup] = Box_Score$FG_made[i_lineup] + 1
-      Box_Score$FG_att[i_lineup] = Box_Score$FG_att[i_lineup] + 1
-      Box_Score$Three_made[i_lineup] = Box_Score$Three_made[i_lineup] + 1
-      Box_Score$Three_att[i_lineup] = Box_Score$Three_att[i_lineup] + 1
-      Box_Score$Pts[i_lineup] = Box_Score$Pts[i_lineup] + 3
+      Box_Score$FG_made[i_lineup + 1] = Box_Score$FG_made[i_lineup + 1] + 1
+      Box_Score$FG_att[i_lineup + 1] = Box_Score$FG_att[i_lineup + 1] + 1
+      Box_Score$Three_made[i_lineup + 1] = Box_Score$Three_made[i_lineup + 1] + 1
+      Box_Score$Three_att[i_lineup + 1] = Box_Score$Three_att[i_lineup + 1] + 1
+      Box_Score$Pts[i_lineup + 1] = Box_Score$Pts[i_lineup + 1] + 3
     } else if(p_plays$Event[i] == "Missed FT"){
-      Box_Score$FT_att[i_lineup] = Box_Score$FT_att[i_lineup] + 1
+      Box_Score$FT_att[i_lineup + 1] = Box_Score$FT_att[i_lineup + 1] + 1
     } else if(p_plays$Event[i] == "Missed Two"){
-      Box_Score$FG_att[i_lineup] = Box_Score$FG_att[i_lineup] + 1
+      Box_Score$FG_att[i_lineup + 1] = Box_Score$FG_att[i_lineup + 1] + 1
     } else if(p_plays$Event[i] == "Missed Three"){
-      Box_Score$FG_att[i_lineup] = Box_Score$FG_att[i_lineup] + 1
-      Box_Score$Three_att[i_lineup] = Box_Score$Three_att[i_lineup] + 1
+      Box_Score$FG_att[i_lineup + 1] = Box_Score$FG_att[i_lineup + 1] + 1
+      Box_Score$Three_att[i_lineup + 1] = Box_Score$Three_att[i_lineup + 1] + 1
     } else if(p_plays$Event[i] == "Turnover"){
-      Box_Score$Tnovers[i_lineup] = Box_Score$Tnovers[i_lineup] + 1
+      Box_Score$Tnovers[i_lineup + 1] = Box_Score$Tnovers[i_lineup + 1] + 1
+    } else if(p_plays$Event[i] == "Foul"){
+      Box_Score$fouls[i_lineup + 1] = Box_Score$fouls[i_lineup + 1] + 1
     } 
   }
 }
