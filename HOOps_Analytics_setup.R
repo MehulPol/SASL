@@ -61,7 +61,7 @@ num_poss = c()
 game_poss = 1
 for (i in 1:(nrow(games)-1)){
   num_poss =c(num_poss,game_poss)
-  if (games$opp[i]==games$opp[i+1]){
+  if (games$Opps[i]==games$Opps[i+1]){
     if (games$Possession[i]!=games$Possession[i+1]){game_poss = game_poss + 1}
   }
   else{
@@ -71,6 +71,9 @@ for (i in 1:(nrow(games)-1)){
 num_poss =c(num_poss,game_poss)
 games[,"Possession Number"] = num_poss
 #write.csv(games, "games.csv", row.names=FALSE)
+
+
+
 
 # Individual Box Scores
 games = read.csv("/Users/mehulpol/SASL/games.csv")

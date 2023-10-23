@@ -3,6 +3,11 @@ library("rvest")
 library("ggplot2")
 library("tidyverse")
 library("useful")
+library("stringr")
+
+UVA_roster = c("Kihei Clark", "Reece Beekman", "Armaan Franklin", "Jayden Gardner", 
+               "Ben Vander Plas", "Kadin Shedrick", "Francisco Caffaro", "Ryan Dunn",
+               "Isaac McKneely", "Taine Murray", "Chase Coleman", "Tristan How", "Cavaliers")
 
 ### Reading in Website
 
@@ -122,29 +127,31 @@ second_half<-fox%>%
   html_nodes(".final+ .final")%>%
   html_text()
 
-fh_plays<-data.frame(first_half)
-head(fh_plays,10)
-fh_plays = toString(fh_plays)
-sh_plays<-data.frame(second_half)
-head(sh_plays,10)
-sh_plays = toString(sh_plays)
+fh_array = unlist(strsplit(first_half,split = '\n'))
+sh_array = unlist(strsplit(second_half,split = '\n'))
+fh_array = sapply(fh_array,str_trim,side="both")
+sh_array = sapply(sh_array,str_trim,side="both")
+fh_array = fh_array[fh_array != ""]
+sh_array = sh_array[sh_array != ""]
+fh_array = fh_array[-grep("UVA",fh_array)]
+sh_array = sh_array[-grep("UVA",sh_array)]
+if (length(grep("OVERTIME",sh_array))!=0){
+  sh_array = sh_array[-grep("OVERTIME",sh_array)]
+}
 
-fh_array = strsplit(fh_plays,split = '\n   ')
-sh_array = strsplit(sh_plays,split = '\n   ')
 
-fh_table = as.data.frame(matrix(unlist(fh_array),ncol=2,byrow=T))
-sh_table = as.data.frame(matrix(unlist(sh_array),ncol=2,byrow=T))
+fh_table = as.data.frame(matrix(c(fh_array,""),ncol=2,byrow=T))
+sh_table = as.data.frame(matrix(c(sh_array,""),ncol=2,byrow=T))
 
 game = rbind(fh_table,sh_table)
 game = na.omit(game)
 
 ### Cleaning Dataset
-colnames(game) = c("Time1", "Description")
-game$Description = substr(game$Description, 4, 125)
+colnames(game) = c("Description","Time")
 
 starters = paste("Cavaliers lineup change (", starting_lineups[g], sep = '')
-game = add_row(game, Time1 = "20:00", Description = paste(starters, ")", sep = ''),.before = 1)
-game = add_column(game, Time = str_remove_all(game$Time1, " "), .before = "Time1")
+game = add_row(game, Time = "20:00", Description = paste(starters, ")", sep = ''),.before = 1)
+game = game[,c(2,1)]
 
 ## Creating an Event Column
 game$Event = ""
@@ -200,15 +207,9 @@ game[grepl("shooting foul", game$Description, fixed = TRUE),]$Token = "shooting 
 game[grepl("personal foul", game$Description, fixed = TRUE),]$Token = "personal foul"
 
 # split on the token, take the first element (player doing action)
-game$words = strsplit(game$Description, game$Token)
-game$Player = sapply(game$words,"[[",1) 
-game$Player = substr(game$Player, 0, nchar(game$Player)-1)
-
-
-UVA_roster = c("Kihei Clark", "Reece Beekman", "Armaan Franklin", "Jayden Gardner", 
-               "Ben Vander Plas", "Kadin Shedrick", "Francisco Caffaro", "Ryan Dunn",
-               "Isaac McKneely", "Taine Murray", "Chase Coleman", "Tristan How", "Cavaliers")
-
+game$words = c(strsplit(game$Description, game$Token))
+game$Player = lapply(game$words,function(x){ifelse(length(x)>1,x[[1]],x)})
+game$Player = str_trim(game$Player, "both")
 
 game$UVA_score = 0
 game$Opp_score = 0
@@ -253,17 +254,12 @@ for( i in 2:nrow(game)) {
 game$Time_in_sec = 0 
 
 for( i in 1:nrow(game)) {
-  extra = c('1STHALF','2NDHALF',paste(abbrevs[g],as.character(game$Opp_score[i-1]), sep = ''), paste('UVA',as.character(game$UVA_score[i-1]), sep = ''))
-  for (e in extra) {
-    game$Time[i] = gsub(e,'',game$Time[i])
-  }
   min_sec = as.character(game$Time[i])
   if (str_length(min_sec) == 4) {
     min_sec = paste('0',min_sec, sep = '')
   }
   game$Time_in_sec[i] = as.numeric(substr(min_sec, 1, 2))*60 + as.numeric(substr(min_sec, 4, 5))
 }
-game = game %>% select(-Time1)
 game = na.omit(game)
 
 game$Opps = opps[g]
@@ -276,14 +272,74 @@ games = games[-1,]
 ### end of playbyplay data for all games
 
 
+#Possession Tracking
+change_poss = c('Turnover','Def Rebound')
+made_shot = c('Made Two','Made Three')
+poss_vec = c()
+poss = ""
+for (i in 1:nrow(games)){
+  if (grepl("vs.",games$Description[i])){
+    if (unlist(strsplit(unlist(strsplit(games$Description[i],"[(]"))[2]," gains poss"))[1] %in% UVA_roster){
+      poss = "Cavs"
+    }
+    else{poss = "Opp"}
+  }
+  else if(games$Event[i] %in% change_poss){
+    if(poss == "Cavs"){poss = "Opp"}
+    else{poss = "Cavs"}
+  }
+  else if(games$Event[i] %in% made_shot){
+    if(i<nrow(games)){
+      if(games$Token[i+1] == "shooting foul"){
+        if((games$Player[i] %in% UVA_roster) == (games$Player[i+1] %in% UVA_roster)){
+          if(poss == "Cavs"){poss = "Opp"}
+          else{poss = "Cavs"}
+        }
+      }
+      else{
+        if(poss == "Cavs"){poss = "Opp"}
+        else{poss = "Cavs"}
+      }
+    }
+  }
+  else if(grepl("inbound",games$Description[i])){
+    if (unlist(strsplit(games$Description[i],"inbound "))[2] == "Cavaliers"){poss = "Cavs"}
+    else{poss = "Opp"}
+  }
+  else if(games$Event[i] == "Made FT"){
+    fts = as.integer(unlist(strsplit(unlist(strsplit(games$Description[i],"free throw "))[2]," of ")))
+    if(fts[1] == fts[2]){
+      if(poss == "Cavs"){poss = "Opp"}
+      else{poss = "Cavs"}
+    }
+  }
+  poss_vec = c(poss_vec,poss)
+} 
+games[,"Possession"] = poss_vec
+games[1,"Possession"] = "Cavs"
 
+num_poss = c()
+game_poss = 1
+for (i in 1:(nrow(games)-1)){
+  num_poss =c(num_poss,game_poss)
+  if (games$Opps[i]==games$Opps[i+1]){
+    if (games$Possession[i]!=games$Possession[i+1]){game_poss = game_poss + 1}
+  }
+  else{
+    game_poss = 0
+  }
+}
+num_poss =c(num_poss,game_poss)
+games[,"Possession Number"] = num_poss
 
+games = games%>%select(-words)
+#write.csv(games, "games.csv", row.names=FALSE)
 
 
 
 ### Stats for each Lineup while they are on the court together
 
-Lineup_stats = tibble(On_court_time = 0, Pts= 0, Pts_against = 0, Tnovers = 0, FG_made = 0, FG_att = 0, Three_made =0, Three_att = 0,Rebounds = 0,Defensive_plays = 0)
+Lineup_stats = tibble(On_court_time = 0,Possessions = 0, Pts= 0, Pts_against = 0, Tnovers = 0, FG_made = 0, FG_att = 0, Three_made =0, Three_att = 0,Rebounds = 0,Defensive_plays = 0)
 starting = lapply(strsplit("Reece Beekman,Kadin Shedrick,Kihei Clark,Armaan Franklin,Jayden Gardner", split = ","),sort)
 Lineup_stats = add_column(Lineup_stats,Lineup = starting,.before = "On_court_time")
 
@@ -294,6 +350,7 @@ for (i in 2:nrow(games)) {
     Lineup_stats$On_court_time[i_lineup] = Lineup_stats$On_court_time[i_lineup] + (games$Time_in_sec[i-1] - games$Time_in_sec[i])
     Lineup_stats$Pts[i_lineup] = Lineup_stats$Pts[i_lineup] + (games$UVA_score[i] - games$UVA_score[i-1])
     Lineup_stats$Pts_against[i_lineup] = Lineup_stats$Pts_against[i_lineup] + (games$Opp_score[i] - games$Opp_score[i-1])
+    Lineup_stats$Possessions[i_lineup] = Lineup_stats$Possessions[i_lineup] + (games$`Possession Number`[i] - games$`Possession Number`[i-1])
   } 
   if (games$Event[i] == "Cav Sub"){
     Players = lapply(strsplit(gsub("\\)","",gsub("Cavaliers lineup change \\(", "", games$Description[i])), split = ", "),sort)
@@ -307,7 +364,7 @@ for (i in 2:nrow(games)) {
     }
     if (i_lineup == 0){
       Lineup_stats <- Lineup_stats %>% 
-        add_row(Lineup = Players,On_court_time = 0,Pts= 0,Pts_against = 0,Tnovers = 0,FG_made = 0,FG_att = 0,Three_made =0,Three_att = 0,Rebounds = 0,Defensive_plays = 0)
+        add_row(Lineup = Players,On_court_time = 0,Possessions = 0,Pts= 0,Pts_against = 0,Tnovers = 0,FG_made = 0,FG_att = 0,Three_made =0,Three_att = 0,Rebounds = 0,Defensive_plays = 0)
       i_lineup = nrow(Lineup_stats)
     }
   } else if (games$Player[i] %in% UVA_roster) {
@@ -338,12 +395,12 @@ for (i in 2:nrow(games)) {
 
 # Next, Create Table for individual players using the Lineup_stats table
 
-Player_stats = tibble(Player = "", On_court_time = 0, Pts= 0, Pts_against = 0, Tnovers = 0, FG_made = 0, FG_att = 0, Three_made =0, Three_att = 0,Rebounds = 0,Defensive_plays = 0)
+Player_stats = tibble(Player = "", On_court_time = 0, Possessions = 0, Pts= 0, Pts_against = 0, Tnovers = 0, FG_made = 0, FG_att = 0, Three_made =0, Three_att = 0,Rebounds = 0,Defensive_plays = 0)
 for (i in 1:length(UVA_roster)) {
   lineups_withp = grepl(UVA_roster[i],Lineup_stats$Lineup)
   Player_stats <- Player_stats %>%
     add_row(Player = UVA_roster[i],
-          On_court_time = sum(Lineup_stats$On_court_time[lineups_withp]),
+          On_court_time = sum(Lineup_stats$On_court_time[lineups_withp]),Possessions = sum(Lineup_stats$Possessions[lineups_withp]),
           Pts= sum(Lineup_stats$Pts[lineups_withp]),Pts_against = sum(Lineup_stats$Pts_against[lineups_withp]),
           Tnovers = sum(Lineup_stats$Tnovers[lineups_withp]),
           FG_made = sum(Lineup_stats$FG_made[lineups_withp]), FG_att = sum(Lineup_stats$FG_att[lineups_withp]),
@@ -351,7 +408,7 @@ for (i in 1:length(UVA_roster)) {
           Rebounds = sum(Lineup_stats$Rebounds[lineups_withp]), Defensive_plays = sum(Lineup_stats$Defensive_plays[lineups_withp]))
   Player_stats <- Player_stats %>%
     add_row(Player = paste("Without",UVA_roster[i], sep = " "),
-            On_court_time = sum(Lineup_stats$On_court_time[!lineups_withp]),
+            On_court_time = sum(Lineup_stats$On_court_time[!lineups_withp]),Possessions = sum(Lineup_stats$Possessions[!lineups_withp]),
             Pts= sum(Lineup_stats$Pts[!lineups_withp]),Pts_against = sum(Lineup_stats$Pts_against[!lineups_withp]),
             Tnovers = sum(Lineup_stats$Tnovers[!lineups_withp]),
             FG_made = sum(Lineup_stats$FG_made[!lineups_withp]), FG_att = sum(Lineup_stats$FG_att[!lineups_withp]),
