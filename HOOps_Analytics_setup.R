@@ -125,5 +125,13 @@ for (i_lineup in 1:length(UVA_roster[-length(UVA_roster)])) {
 
 Box_Score = Box_Score[-1,]
 
-# Things not put into box score: offensive fouls + steals
+# Things not put into box score: offensive fouls + steals + assists
 
+All_Stats = merge(Player_stats, Box_Score, by = "Player", all.x = TRUE)
+
+Beek_spotlight = All_Stats %>%
+  filter(Player == "Reece Beekman" | Player == "Without Reece Beekman") %>%
+  mutate(Pt_diff_perposs = (Pts.x-Pts_against)/(Possessions), .before = Pt_diff_permin)%>%
+  mutate(efficiency = (Pts.x + Rebounds.x + Defensive_plays - (FG_att.x - FG_made.x) - Tnovers.x) / (On_court_time/60), .before = Pt_diff_perposs)
+
+write.csv(Beek_spotlight, "Beek_spotlight.csv", row.names=FALSE)
