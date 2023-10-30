@@ -128,11 +128,13 @@ Box_Score = Box_Score[-1,]
 # Things not put into box score: offensive fouls + steals + assists
 # Extra stats to add = Adjusted Plus/minus + PER + VOR + VA + EWA
 
-All_Stats = merge(Player_stats, Box_Score, by = "Player", all.x = TRUE)
-
-Beek_spotlight = All_Stats %>%
-  filter(Player == "Reece Beekman" | Player == "Without Reece Beekman") %>%
+All_Stats = merge(Player_stats, Box_Score, by = "Player", all.x = TRUE) %>%
   mutate(Pt_diff_perposs = (Pts.x-Pts_against)/(Possessions), .before = Pt_diff_permin)%>%
   mutate(poss_permin = Possessions/(On_court_time/60), .before = Pt_diff_perposs)%>%
-  mutate(efficiency = (Pts.x + Rebounds.x + Defensive_plays - (FG_att.x - FG_made.x) - Tnovers.x) / (On_court_time/60), .before = Pt_diff_perposs)
+  mutate(efficiency = (Pts.x + Rebounds.x + Defensive_plays - (FG_att.x - FG_made.x) - Tnovers.x) / (On_court_time/60), .before = Pt_diff_perposs)%>%
+  mutate(def_eff = Defensive_plays/Possessions, .after = Pt_diff_permin)
+
+  
+Beek_spotlight = All_Stats %>%
+  filter(Player == "Reece Beekman" | Player == "Without Reece Beekman") 
 write.csv(Beek_spotlight, "Beek_spotlight.csv", row.names=FALSE)
