@@ -7,6 +7,11 @@ library("stringr")
 
 ### Reading in Website
 
+# UVA_roster = c("Blake Buchanan","Dante Harris","Reece Beekman","Andrew Rohde",
+#                "Desmond Roberts","Taine Murray","Isaac Mckneely","Elijah Gertrude",
+#                "Ryan Dunn","Anthony Robinson","Jordan Minor","Tristan How",
+#                "Christian Bliss","Jake Groves","Leon Bond III","Cavaliers")
+
 UVA_roster = c("Kihei Clark", "Reece Beekman", "Armaan Franklin", "Jayden Gardner", 
                "Ben Vander Plas", "Kadin Shedrick", "Francisco Caffaro", "Ryan Dunn",
                "Isaac McKneely", "Taine Murray", "Chase Coleman", "Tristan How", "Cavaliers")
@@ -145,10 +150,14 @@ game_pbp = function(website,starting_lineup,abbrev,opp){
     game$Opp_score[i] = game$Opp_score[i-1] + oppScoreDif
   }
   
-  ### Cleaning for Time and usable Time in seconds
+  ### Cleaning for Time and Possessions
   
   game$Time_in_sec = 0 
   
+  change_poss = c('Turnover','Def Rebound')
+  made_shot = c('Made Two','Made Three')
+  poss_vec = c()
+  poss = ""
   for( i in 1:nrow(game)) {
     extra = c('1STHALF','2NDHALF',paste(abbrev,as.character(game$Opp_score[i-1]), sep = ''), paste('UVA',as.character(game$UVA_score[i-1]), sep = ''))
     for (e in extra) {
@@ -159,19 +168,69 @@ game_pbp = function(website,starting_lineup,abbrev,opp){
       min_sec = paste('0',min_sec, sep = '')
     }
     game$Time_in_sec[i] = as.numeric(substr(min_sec, 1, 2))*60 + as.numeric(substr(min_sec, 4, 5))
+    
+    #Possesion Tracking
+    if (grepl("vs.",game$Description[i])){
+      if (unlist(strsplit(unlist(strsplit(game$Description[i],"[(]"))[2]," gains poss"))[1] %in% UVA_roster){
+        poss = "Cavs"
+      }
+      else{poss = "Opp"}
+    }
+    else if(game$Event[i] %in% change_poss){
+      if(poss == "Cavs"){poss = "Opp"}
+      else{poss = "Cavs"}
+    }
+    else if(game$Event[i] %in% made_shot){
+      if(i<nrow(game)){
+        if(game$Token[i+1] == "shooting foul"){
+          if((game$Player[i] %in% UVA_roster) == (game$Player[i+1] %in% UVA_roster)){
+            if(poss == "Cavs"){poss = "Opp"}
+            else{poss = "Cavs"}
+          }
+        }
+        else{
+          if(poss == "Cavs"){poss = "Opp"}
+          else{poss = "Cavs"}
+        }
+      }
+    }
+    else if(grepl("inbound",game$Description[i])){
+      if (unlist(strsplit(game$Description[i],"inbound "))[2] == "Cavaliers"){poss = "Cavs"}
+      else{poss = "Opp"}
+    }
+    else if(game$Event[i] == "Made FT"){
+      fts = as.integer(unlist(strsplit(unlist(strsplit(game$Description[i],"free throw "))[2]," of ")))
+      if(fts[1] == fts[2]){
+        if(poss == "Cavs"){poss = "Opp"}
+        else{poss = "Cavs"}
+      }
+    }
+    poss_vec = c(poss_vec,poss)
   }
-  game = na.omit(game)
+  game[,"Possession"] = poss_vec
+  game[1,"Possession"] = "Cavs"
+  num_poss = c()
+  game_poss = 1
   game$Opps = opp
+  for (i in 1:(nrow(game)-1)){
+    num_poss =c(num_poss,game_poss)
+    if (game$Opps[i]==game$Opps[i+1]){
+      if (game$Possession[i]!=game$Possession[i+1]){game_poss = game_poss + 1}
+    }
+    else{
+      game_poss = 0
+    }
+  }
+  num_poss = c(num_poss,game_poss)
+  game[,"Possession Number"] = num_poss
   
+  game = na.omit(game)
   game
 }
 
 game1 = game_pbp(website1,starting_lineup1,abbrev1,opp1)
 
-### end of playbyplay data for all games
-
-
-
+## end of playbyplay data for all games
 
 
 
@@ -184,15 +243,15 @@ Lineup_stats = add_column(Lineup_stats,Lineup = starting,.before = "On_court_tim
 
 Lineup_time = 0
 i_lineup = 1
-for (i in 2:nrow(games)) {
-  if (games$Time_in_sec[i-1]>=games$Time_in_sec[i]){
-    Lineup_stats$On_court_time[i_lineup] = Lineup_stats$On_court_time[i_lineup] + (games$Time_in_sec[i-1] - games$Time_in_sec[i])
-    Lineup_stats$Pts[i_lineup] = Lineup_stats$Pts[i_lineup] + (games$UVA_score[i] - games$UVA_score[i-1])
-    Lineup_stats$Pts_against[i_lineup] = Lineup_stats$Pts_against[i_lineup] + (games$Opp_score[i] - games$Opp_score[i-1])
-    Lineup_stats$Possessions[i_lineup] = Lineup_stats$Possessions[i_lineup] + (games$`Possession Number`[i] - games$`Possession Number`[i-1])
+for (i in 2:nrow(game1)) {
+  if (game1$Time_in_sec[i-1]>=game1$Time_in_sec[i]){
+    Lineup_stats$On_court_time[i_lineup] = Lineup_stats$On_court_time[i_lineup] + (game1$Time_in_sec[i-1] - game1$Time_in_sec[i])
+    Lineup_stats$Pts[i_lineup] = Lineup_stats$Pts[i_lineup] + (game1$UVA_score[i] - game1$UVA_score[i-1])
+    Lineup_stats$Pts_against[i_lineup] = Lineup_stats$Pts_against[i_lineup] + (game1$Opp_score[i] - game1$Opp_score[i-1])
+    Lineup_stats$Possessions[i_lineup] = Lineup_stats$Possessions[i_lineup] + (game1$`Possession Number`[i] - game1$`Possession Number`[i-1])
   } 
-  if (games$Event[i] == "Cav Sub"){
-    Players = lapply(strsplit(gsub("\\)","",gsub("Cavaliers lineup change \\(", "", games$Description[i])), split = ", "),sort)
+  if (game1$Event[i] == "Cav Sub"){
+    Players = lapply(strsplit(gsub("\\)","",gsub("Cavaliers lineup change \\(", "", game1$Description[i])), split = ", "),sort)
     i_lineup = 0
     for (s in 1:nrow(Lineup_stats)){
       if(length(Lineup_stats$Lineup[s]) == length(Players)){
@@ -206,28 +265,28 @@ for (i in 2:nrow(games)) {
         add_row(Lineup = Players,On_court_time = 0,Possessions = 0,Pts= 0,Pts_against = 0,Tnovers = 0,FG_made = 0,FG_att = 0,Three_made =0,Three_att = 0,Rebounds = 0,Defensive_plays = 0)
       i_lineup = nrow(Lineup_stats)
     }
-  } else if (games$Player[i] %in% UVA_roster) {
-    if (games$Event[i] == "Block"){
+  } else if (game1$Player[i] %in% UVA_roster) {
+    if (game1$Event[i] == "Block"){
       Lineup_stats$Defensive_plays[i_lineup] = Lineup_stats$Defensive_plays[i_lineup] + 1
-    } else if(games$Event[i] == "Off Rebound" || games$Event[i] == "Def Rebound"){
+    } else if(game1$Event[i] == "Off Rebound" || game1$Event[i] == "Def Rebound"){
       Lineup_stats$Rebounds[i_lineup] = Lineup_stats$Rebounds[i_lineup] + 1
-    } else if(games$Event[i] == "Made Two"){
+    } else if(game1$Event[i] == "Made Two"){
       Lineup_stats$FG_made[i_lineup] = Lineup_stats$FG_made[i_lineup] + 1
       Lineup_stats$FG_att[i_lineup] = Lineup_stats$FG_att[i_lineup] + 1
-    } else if(games$Event[i] == "Made Three"){
+    } else if(game1$Event[i] == "Made Three"){
       Lineup_stats$FG_made[i_lineup] = Lineup_stats$FG_made[i_lineup] + 1
       Lineup_stats$FG_att[i_lineup] = Lineup_stats$FG_att[i_lineup] + 1
       Lineup_stats$Three_made[i_lineup] = Lineup_stats$Three_made[i_lineup] + 1
       Lineup_stats$Three_att[i_lineup] = Lineup_stats$Three_att[i_lineup] + 1
-    } else if(games$Event[i] == "Missed Two"){
+    } else if(game1$Event[i] == "Missed Two"){
       Lineup_stats$FG_att[i_lineup] = Lineup_stats$FG_att[i_lineup] + 1
-    } else if(games$Event[i] == "Missed Three"){
+    } else if(game1$Event[i] == "Missed Three"){
       Lineup_stats$FG_att[i_lineup] = Lineup_stats$FG_att[i_lineup] + 1
       Lineup_stats$Three_att[i_lineup] = Lineup_stats$Three_att[i_lineup] + 1
-    } else if(games$Event[i] == "Turnover"){
+    } else if(game1$Event[i] == "Turnover"){
       Lineup_stats$Tnovers[i_lineup] = Lineup_stats$Tnovers[i_lineup] + 1
     } 
-  } else if (games$Event[i] == "Turnover") {
+  } else if (game1$Event[i] == "Turnover") {
     Lineup_stats$Defensive_plays[i_lineup] = Lineup_stats$Defensive_plays[i_lineup] + 1
   }
 }
@@ -258,3 +317,70 @@ Player_stats = Player_stats[-1,]
 
 Player_stats = add_column(Player_stats, Pt_diff_permin = (Player_stats$Pts-Player_stats$Pts_against)/(Player_stats$On_court_time/60), .before = "Pts")
 Lineup_stats = add_column(Lineup_stats, Pt_diff_permin = (Lineup_stats$Pts-Lineup_stats$Pts_against)/(Lineup_stats$On_court_time/60), .before = "Pts")
+
+
+# Individual Box Scores
+#games = read.csv("/Users/mehulpol/SASL/games.csv")
+
+Box_Score = data.frame(Player = "", Pts= 0, Tnovers = 0, 
+                       FT_made = 0, FT_att = 0, FG_made = 0, FG_att = 0, 
+                       Three_made = 0, Three_att = 0, Rebounds = 0, 
+                       Steals = 0, Blocks = 0, fouls = 0)
+for (i_lineup in 1:length(UVA_roster[-length(UVA_roster)])) {
+  Box_Score = Box_Score %>%
+    add_row(Player = UVA_roster[i_lineup], Pts= 0, Tnovers = 0, 
+            FT_made = 0, FT_att = 0, FG_made = 0, FG_att = 0, 
+            Three_made =0, Three_att = 0, Rebounds = 0, 
+            Steals = 0, Blocks = 0, fouls = 0)
+  p_plays = subset(game1,game1$Player == UVA_roster[i_lineup])
+  if (nrow(p_plays)>0){
+    for (i in 1:nrow(p_plays)){
+    if (p_plays$Event[i] == "Block"){
+      Box_Score$Blocks[i_lineup + 1] = Box_Score$Blocks[i_lineup + 1] + 1
+    } else if(p_plays$Event[i] == "Off Rebound" || p_plays$Event[i] == "Def Rebound"){
+      Box_Score$Rebounds[i_lineup + 1] = Box_Score$Rebounds[i_lineup + 1] + 1
+    } else if(p_plays$Event[i] == "Made FT"){
+      Box_Score$FT_made[i_lineup + 1] = Box_Score$FT_made[i_lineup + 1] + 1
+      Box_Score$FT_att[i_lineup + 1] = Box_Score$FT_att[i_lineup + 1] + 1
+      Box_Score$Pts[i_lineup + 1] = Box_Score$Pts[i_lineup + 1] + 1
+    } else if(p_plays$Event[i] == "Made Two"){
+      Box_Score$FG_made[i_lineup + 1] = Box_Score$FG_made[i_lineup + 1] + 1
+      Box_Score$FG_att[i_lineup + 1] = Box_Score$FG_att[i_lineup + 1] + 1
+      Box_Score$Pts[i_lineup + 1] = Box_Score$Pts[i_lineup + 1] + 2
+    } else if(p_plays$Event[i] == "Made Three"){
+      Box_Score$FG_made[i_lineup + 1] = Box_Score$FG_made[i_lineup + 1] + 1
+      Box_Score$FG_att[i_lineup + 1] = Box_Score$FG_att[i_lineup + 1] + 1
+      Box_Score$Three_made[i_lineup + 1] = Box_Score$Three_made[i_lineup + 1] + 1
+      Box_Score$Three_att[i_lineup + 1] = Box_Score$Three_att[i_lineup + 1] + 1
+      Box_Score$Pts[i_lineup + 1] = Box_Score$Pts[i_lineup + 1] + 3
+    } else if(p_plays$Event[i] == "Missed FT"){
+      Box_Score$FT_att[i_lineup + 1] = Box_Score$FT_att[i_lineup + 1] + 1
+    } else if(p_plays$Event[i] == "Missed Two"){
+      Box_Score$FG_att[i_lineup + 1] = Box_Score$FG_att[i_lineup + 1] + 1
+    } else if(p_plays$Event[i] == "Missed Three"){
+      Box_Score$FG_att[i_lineup + 1] = Box_Score$FG_att[i_lineup + 1] + 1
+      Box_Score$Three_att[i_lineup + 1] = Box_Score$Three_att[i_lineup + 1] + 1
+    } else if(p_plays$Event[i] == "Turnover"){
+      Box_Score$Tnovers[i_lineup + 1] = Box_Score$Tnovers[i_lineup + 1] + 1
+    } else if(p_plays$Event[i] == "Foul"){
+      Box_Score$fouls[i_lineup + 1] = Box_Score$fouls[i_lineup + 1] + 1
+    } 
+  }
+  }
+}
+
+Box_Score = Box_Score[-1,]
+
+# Things not put into box score: offensive fouls + steals + assists
+# Extra stats to add = Adjusted Plus/minus + PER + VOR + VA + EWA
+
+All_Stats = merge(Player_stats, Box_Score, by = "Player", all.x = TRUE) %>%
+  mutate(Pt_diff_perposs = (Pts.x-Pts_against)/(Possessions), .before = Pt_diff_permin)%>%
+  mutate(poss_permin = Possessions/(On_court_time/60), .before = Pt_diff_perposs)%>%
+  mutate(efficiency = (Pts.x + Rebounds.x + Defensive_plays - (FG_att.x - FG_made.x) - Tnovers.x) / (On_court_time/60), .before = Pt_diff_perposs)%>%
+  mutate(def_eff = Defensive_plays/Possessions, .after = Pt_diff_permin)
+
+## Visualizations
+
+
+
