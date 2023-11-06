@@ -102,7 +102,7 @@ Lineup_stats = Lineup_stats %>%
   mutate(efficiency = (Pts+ Rebounds + Defensive_plays - (FG_att - FG_made) - Tnovers) / (On_court_time/60), .before = "Pt_diff_permin")
 
 
-# Subset for Games and Players for adjusted plus/minus
+# Subset for Games and Players for plus/minus over expected
 
 for (game in unique(games$opp)){
   

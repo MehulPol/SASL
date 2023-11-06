@@ -322,23 +322,25 @@ Lineup_stats = add_column(Lineup_stats, Pt_diff_permin = (Lineup_stats$Pts-Lineu
 # Individual Box Scores
 #games = read.csv("/Users/mehulpol/SASL/games.csv")
 
-Box_Score = data.frame(Player = "", Pts= 0, Tnovers = 0, 
+Box_Score = data.frame(Player = "", Pts= 0, Assists = 0, Tnovers = 0, 
                        FT_made = 0, FT_att = 0, FG_made = 0, FG_att = 0, 
-                       Three_made = 0, Three_att = 0, Rebounds = 0, 
+                       Three_made = 0, Three_att = 0, Off_Rebounds = 0, Def_Rebounds = 0,
                        Steals = 0, Blocks = 0, fouls = 0)
 for (i_lineup in 1:length(UVA_roster[-length(UVA_roster)])) {
   Box_Score = Box_Score %>%
-    add_row(Player = UVA_roster[i_lineup], Pts= 0, Tnovers = 0, 
+    add_row(Player = UVA_roster[i_lineup], Pts= 0, Assists = 0,Tnovers = 0, 
             FT_made = 0, FT_att = 0, FG_made = 0, FG_att = 0, 
-            Three_made =0, Three_att = 0, Rebounds = 0, 
+            Three_made =0, Three_att = 0, Off_Rebounds = 0, Def_Rebounds = 0,
             Steals = 0, Blocks = 0, fouls = 0)
   p_plays = subset(game1,game1$Player == UVA_roster[i_lineup])
   if (nrow(p_plays)>0){
     for (i in 1:nrow(p_plays)){
     if (p_plays$Event[i] == "Block"){
       Box_Score$Blocks[i_lineup + 1] = Box_Score$Blocks[i_lineup + 1] + 1
-    } else if(p_plays$Event[i] == "Off Rebound" || p_plays$Event[i] == "Def Rebound"){
-      Box_Score$Rebounds[i_lineup + 1] = Box_Score$Rebounds[i_lineup + 1] + 1
+    } else if(p_plays$Event[i] == "Off Rebound"){
+      Box_Score$Off_Rebounds[i_lineup + 1] = Box_Score$Off_Rebounds[i_lineup + 1] + 1
+    } else if(p_plays$Event[i] == "Def Rebound"){
+      Box_Score$Def_Rebounds[i_lineup + 1] = Box_Score$Def_Rebounds[i_lineup + 1] + 1
     } else if(p_plays$Event[i] == "Made FT"){
       Box_Score$FT_made[i_lineup + 1] = Box_Score$FT_made[i_lineup + 1] + 1
       Box_Score$FT_att[i_lineup + 1] = Box_Score$FT_att[i_lineup + 1] + 1
@@ -367,18 +369,28 @@ for (i_lineup in 1:length(UVA_roster[-length(UVA_roster)])) {
     } 
   }
   }
+  assist_line = paste(UVA_roster[i_lineup],'assists', sep = ' ')
+  Box_Score$Assists[i_lineup + 1] = nrow(game1[grepl(assist_line,game1$Description),])
+  steal_line = paste(UVA_roster[i_lineup],'steals', sep = ' ')
+  Box_Score$Steals[i_lineup + 1] = nrow(game1[grepl(steal_line,game1$Description),])
 }
 
 Box_Score = Box_Score[-1,]
+Box_Score = Box_Score%>%
+  mutate(PER = FG_made*85.910 + Steals*53.897 + Three_made*51.757 +
+           FT_made*46.845 + Blocks*39.190 + Def_Rebounds*14.707 + Off_Rebounds*39.190 +
+           Assists*34.677 - fouls*17.174 - (FT_att-FT_made)*20.091 - 
+           (FG_att-FG_made)*39.190 - Tnovers*53.897,.before = Pts)
 
-# Things not put into box score: offensive fouls + steals + assists
+# Things not put into box score: offensive fouls + steals
 # Extra stats to add = Adjusted Plus/minus + PER + VOR + VA + EWA
 
 All_Stats = merge(Player_stats, Box_Score, by = "Player", all.x = TRUE) %>%
   mutate(Pt_diff_perposs = (Pts.x-Pts_against)/(Possessions), .before = Pt_diff_permin)%>%
   mutate(poss_permin = Possessions/(On_court_time/60), .before = Pt_diff_perposs)%>%
-  mutate(efficiency = (Pts.x + Rebounds.x + Defensive_plays - (FG_att.x - FG_made.x) - Tnovers.x) / (On_court_time/60), .before = Pt_diff_perposs)%>%
-  mutate(def_eff = Defensive_plays/Possessions, .after = Pt_diff_permin)
+  mutate(efficiency = (Pts.x + Def_Rebounds + Off_Rebounds + Defensive_plays - (FG_att.x - FG_made.x) - Tnovers.x) / (On_court_time/60), .before = Pt_diff_perposs)%>%
+  mutate(def_eff = 2*Defensive_plays/Possessions, .after = Pt_diff_permin)%>%
+  mutate(PER = PER/(On_court_time/60))
 
 ## Visualizations
 
