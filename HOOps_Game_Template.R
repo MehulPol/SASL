@@ -7,18 +7,18 @@ library("stringr")
 
 ### Reading in Website
 
-# UVA_roster = c("Blake Buchanan","Dante Harris","Reece Beekman","Andrew Rohde",
-#                "Desmond Roberts","Taine Murray","Isaac Mckneely","Elijah Gertrude",
-#                "Ryan Dunn","Anthony Robinson","Jordan Minor","Tristan How",
-#                "Christian Bliss","Jake Groves","Leon Bond III","Cavaliers")
+UVA_roster = c("Blake Buchanan","Dante Harris","Reece Beekman","Andrew Rohde",
+                "Desmond Roberts","Taine Murray","Isaac McKneely","Elijah Gertrude",
+                "Ryan Dunn","Anthony Robinson","Jordan Minor","Tristan How",
+                "Christian Bliss","Jake Groves","Leon Bond III","Cavaliers")
 
-UVA_roster = c("Kihei Clark", "Reece Beekman", "Armaan Franklin", "Jayden Gardner", 
-               "Ben Vander Plas", "Kadin Shedrick", "Francisco Caffaro", "Ryan Dunn",
-               "Isaac McKneely", "Taine Murray", "Chase Coleman", "Tristan How", "Cavaliers")
-website1 = "https://www.foxsports.com/college-basketball/north-carolina-central-eagles-vs-virginia-cavaliers-nov-07-2022-game-boxscore-239938?tab=playbyplay"
-starting_lineup1 = "Armaan Franklin,Kihei Clark,Kadin Shedrick,Reece Beekman,Jayden Gardner"
-abbrev1 = "NCCU"
-opp1 = "vsNCCU"
+#UVA_roster = c("Kihei Clark", "Reece Beekman", "Armaan Franklin", "Jayden Gardner", 
+#               "Ben Vander Plas", "Kadin Shedrick", "Francisco Caffaro", "Ryan Dunn",
+#               "Isaac McKneely", "Taine Murray", "Chase Coleman", "Tristan How", "Cavaliers")
+website1 = "https://www.foxsports.com/college-basketball/tarleton-state-texans-vs-virginia-cavaliers-nov-06-2023-game-boxscore-246170?tab=playbyplay"
+starting_lineup1 = "Isaac McKneely,Reece Beekman,Andrew Rohde,Ryan Dunn,Jake Groves"
+abbrev1 = "TARL"
+opp1 = "vsTARL"
 game = tibble(Time = "", Description = "", Event = "", Token = "", words = strsplit("place holder", split = ' '), Player = "", 
                UVA_score = 0, Opp_score = 0, Time_in_sec = 0, Opps = "")
 
@@ -232,13 +232,28 @@ game1 = game_pbp(website1,starting_lineup1,abbrev1,opp1)
 
 ## end of playbyplay data for all games
 
+## ACC playbyplay for their lineup/substitution data
+acc_web = "https://theacc.com/boxscore.aspx?id=JcLFfL9RUu0H5ystoOMbjQ7A58QMysWHEEqi7hufVoQXO5nVxbctjHh%2F6ifARsoKUNz2Cn1GpJx0eQgL%2FI8uNugW6%2F65ooJ9xE6%2BliOEFRnJFwDEdzr8vBabydal0a6c60z9tWgcelK7Jv6MXCjTl9z03q2EIo%2BDNR5oy7y3S5HtrMfcu2cHWLJAWCcHhdmA&path=mbball#play-by-play"
+acc = read_html(acc_web)
+all_plays<-acc%>%
+  html_nodes(".text-right , th , .text-bold.hide-on-medium-down~ .hide-on-medium-down+ .hide-on-medium-down")%>%
+  html_text()
+
+all_plays = all_plays[-c(1:91)]
+all_plays = all_plays[all_plays != ""]
+all_plays = all_plays[-c(932:973)]
+all_plays = all_plays[-c(403:411)]
+
+all_plays = as.data.frame(matrix(all_plays,ncol=2,byrow=T))
+
+
 
 
 
 ### Stats for each Lineup while they are on the court together
 
 Lineup_stats = tibble(On_court_time = 0,Possessions = 0, Pts= 0, Pts_against = 0, Tnovers = 0, FG_made = 0, FG_att = 0, Three_made =0, Three_att = 0,Rebounds = 0,Defensive_plays = 0)
-starting = lapply(strsplit("Reece Beekman,Kadin Shedrick,Kihei Clark,Armaan Franklin,Jayden Gardner", split = ","),sort)
+starting = lapply(strsplit(starting_lineup1, split = ","),sort)
 Lineup_stats = add_column(Lineup_stats,Lineup = starting,.before = "On_court_time")
 
 Lineup_time = 0
@@ -382,7 +397,7 @@ Box_Score = Box_Score%>%
            Assists*34.677 - fouls*17.174 - (FT_att-FT_made)*20.091 - 
            (FG_att-FG_made)*39.190 - Tnovers*53.897,.before = Pts)
 
-# Things not put into box score: offensive fouls + steals
+# Things not put into box score: offensive fouls
 # Extra stats to add = Adjusted Plus/minus + PER + VOR + VA + EWA
 
 All_Stats = merge(Player_stats, Box_Score, by = "Player", all.x = TRUE) %>%
