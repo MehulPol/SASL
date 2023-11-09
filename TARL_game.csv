@@ -27,7 +27,7 @@
 1,"15:40","TV timeout",940,""," ","TV",16,8,"Cavs","vsTARL",15
 1,"15:40","Lue Williams makes regular free throw 1 of 2",940,"Made FT","makes","Lue Williams",16,9,"Cavs","vsTARL",15
 1,"15:40","Lue Williams misses regular free throw 2 of 2",940,"Missed FT","misses","Lue Williams",16,9,"Cavs","vsTARL",15
-1,"15:40","Cavaliers lineup change (Jordan Minor,Taine Murray,Dante Harris,Blake Buchanan,Leon Bond III)",940,"Cav Sub"," ","Cavaliers",16,9,"Cavs","vsTARL",15
+1,"15:40","Cavaliers lineup change (Isaac McKneely,Reece Beekman,Andrew Rohde,Blake Buchanan,Leon Bond III)",940,"Cav Sub"," ","Cavaliers",16,9,"Cavs","vsTARL",15
 1,"15:36","Blake Buchanan defensive rebound",936,"Def Rebound","defensive rebound","Blake Buchanan",16,9,"Opp","vsTARL",16
 1,"15:34","Blake Buchanan misses two point jump shot",934,"Missed Two","misses","Blake Buchanan",16,9,"Opp","vsTARL",16
 1,"15:34","Leon Bond III offensive rebound",934,"Off Rebound","offensive rebound","Leon Bond III",16,9,"Opp","vsTARL",16
@@ -39,7 +39,7 @@
 1,"14:18","Isaac McKneely defensive rebound",858,"Def Rebound","defensive rebound","Isaac McKneely",16,9,"Opp","vsTARL",18
 1,"14:14","Jakorie Smith shooting foul (Leon Bond III draws the foul)",854,"Foul","shooting foul","Jakorie Smith",16,9,"Opp","vsTARL",18
 1,"14:14","Leon Bond III makes regular free throw 1 of 2",854,"Made FT","makes","Leon Bond III",17,9,"Opp","vsTARL",18
-1,"14:14","Cavaliers lineup change (Jordan Minor,Jake Groves,Ryan Dunn,Taine Murray,Dante Harris)",854,"Cav Sub"," ","Cavaliers",17,9,"Opp","vsTARL",18
+1,"14:14","Cavaliers lineup change (Isaac McKneely,Andrew Rohde,Blake Buchanan,Leon Bond III,Dante Harris)",854,"Cav Sub"," ","Cavaliers",17,9,"Opp","vsTARL",18
 1,"13:50","Leon Bond III makes regular free throw 2 of 2",830,"Made FT","makes","Leon Bond III",18,9,"Cavs","vsTARL",19
 1,"13:48","Lue Williams misses two point jump shot",828,"Missed Two","misses","Lue Williams",18,9,"Cavs","vsTARL",19
 1,"13:36","Dante Harris defensive rebound",816,"Def Rebound","defensive rebound","Dante Harris",18,9,"Opp","vsTARL",20
@@ -50,7 +50,7 @@
 1,"12:06","Bubu Benjamin makes two point jump shot (Kiandre Gaddy assists)",726,"Made Two","makes","Bubu Benjamin",20,11,"Opp","vsTARL",24
 1,"12:06","Kiandre Gaddy shooting foul (Blake Buchanan draws the foul)",726,"Foul","shooting foul","Kiandre Gaddy",20,11,"Opp","vsTARL",24
 1,"12:06","Blake Buchanan misses regular free throw 1 of 2",726,"Missed FT","misses","Blake Buchanan",20,11,"Opp","vsTARL",24
-1,"12:05","Cavaliers lineup change (Jordan Minor,Jake Groves,Ryan Dunn,Reece Beekman,Taine Murray)",725,"Cav Sub"," ","Cavaliers",20,11,"Opp","vsTARL",24
+1,"12:05","Cavaliers lineup change (Blake Buchanan,Leon Bond III,Dante Harris,Reece Beekman,Taine Murray)",725,"Cav Sub"," ","Cavaliers",20,11,"Opp","vsTARL",24
 1,"11:51","Blake Buchanan makes regular free throw 2 of 2",711,"Made FT","makes","Blake Buchanan",21,11,"Cavs","vsTARL",25
 1,"11:49","Kiandre Gaddy misses two point layup",709,"Missed Two","misses","Kiandre Gaddy",21,11,"Cavs","vsTARL",25
 1,"11:37","Leon Bond III defensive rebound",697,"Def Rebound","defensive rebound","Leon Bond III",21,11,"Opp","vsTARL",26
@@ -62,17 +62,17 @@
 1,"10:48","Leon Bond III misses two point layup",648,"Missed Two","misses","Leon Bond III",23,11,"Opp","vsTARL",28
 1,"10:33","Leon Bond III offensive rebound",633,"Off Rebound","offensive rebound","Leon Bond III",23,11,"Opp","vsTARL",28
 1,"10:15","Leon Bond III makes two point tip layup",615,"Made Two","makes","Leon Bond III",25,11,"Cavs","vsTARL",29
-1,"10:15","Cavaliers lineup change (Isaac McKneely,Jordan Minor,Andrew Rohde,Jake Groves,Isaac McKneely,Ryan Dunn)",615,"Cav Sub"," ","Cavaliers",25,11,"Cavs","vsTARL",29
+1,"10:15","Cavaliers lineup change (Blake Buchanan,Dante Harris,Reece Beekman,Taine Murray,Ryan Dunn)",615,"Cav Sub"," ","Cavaliers",25,11,"Cavs","vsTARL",29
 1,"10:10","Blake Buchanan personal foul (Texans draws the foul)",610,"Foul","personal foul","Blake Buchanan",25,11,"Cavs","vsTARL",29
 1,"9:55","Dante Harris personal foul (Emmanuel Innocenti draws the foul)",595,"Foul","personal foul","Dante Harris",25,11,"Cavs","vsTARL",29
 1,"9:53","Kiandre Gaddy misses two point jump shot",593,"Missed Two","misses","Kiandre Gaddy",25,11,"Cavs","vsTARL",29
 1,"9:52","Ryan Dunn defensive rebound",592,"Def Rebound","defensive rebound","Ryan Dunn",25,11,"Opp","vsTARL",30
 1,"9:24","Jakorie Smith personal foul",564,"Foul","personal foul","Jakorie Smith",25,11,"Opp","vsTARL",30
-1,"08:54","Cavaliers lineup change (Isaac McKneely,Jordan Minor,Leon Bond III,Andrew Rohde,Jake Groves,Isaac McKneely)",534,"Cav Sub"," ","Cavaliers",25,11,"Opp","vsTARL",30
+1,"08:54","Cavaliers lineup change (Blake Buchanan,Dante Harris,Reece Beekman,Ryan Dunn,Isaac McKneely)",534,"Cav Sub"," ","Cavaliers",25,11,"Opp","vsTARL",30
 1,"8:53","Taine Murray turnover (lost ball) (Emmanuel Innocenti steals)",533,"Turnover","turnover","Taine Murray",25,11,"Cavs","vsTARL",31
 1,"8:36","Texans turnover (shot clock violation)",516,"Turnover","turnover","Texans",25,11,"Opp","vsTARL",32
 1,"8:34","Bubu Benjamin blocks Blake Buchanan's two point layup",514,"Block","block","Bubu Benjamin",25,11,"Opp","vsTARL",32
-1,"08:20","Cavaliers lineup change (Isaac McKneely,Jordan Minor,Leon Bond III,Andrew Rohde,Jake Groves)",500,"Cav Sub"," ","Cavaliers",25,11,"Opp","vsTARL",32
+1,"08:20","Cavaliers lineup change (Reece Beekman,Ryan Dunn,Isaac McKneely,Andrew Rohde,Jake Groves)",500,"Cav Sub"," ","Cavaliers",25,11,"Opp","vsTARL",32
 1,"8:19","Emmanuel Innocenti defensive rebound",499,"Def Rebound","defensive rebound","Emmanuel Innocenti",25,11,"Cavs","vsTARL",33
 1,"8:18","Jalen Thomas turnover (lost ball) (Reece Beekman steals)",498,"Turnover","turnover","Jalen Thomas",25,11,"Opp","vsTARL",34
 1,"8:10","Jalen Thomas personal foul",490,"Foul","personal foul","Jalen Thomas",25,11,"Opp","vsTARL",34
@@ -80,7 +80,7 @@
 1,"7:44","Emmanuel Innocenti defensive rebound",464,"Def Rebound","defensive rebound","Emmanuel Innocenti",25,11,"Cavs","vsTARL",35
 1,"7:42","Lue Williams misses two point jump shot",462,"Missed Two","misses","Lue Williams",25,11,"Cavs","vsTARL",35
 1,"7:40","Texans offensive rebound",460,"Off Rebound","offensive rebound","Texans",25,11,"Cavs","vsTARL",35
-1,"07:40","Cavaliers lineup change (Isaac McKneely,Jordan Minor,Leon Bond III,Blake Buchanan,Dante Harris)",460,"Cav Sub"," ","Cavaliers",25,11,"Cavs","vsTARL",35
+1,"07:40","Cavaliers lineup change (Ryan Dunn,Isaac McKneely,Andrew Rohde,Jake Groves,Dante Harris)",460,"Cav Sub"," ","Cavaliers",25,11,"Cavs","vsTARL",35
 1,"7:39","TV timeout",459,""," ","TV",25,11,"Cavs","vsTARL",35
 1,"7:18","Adam Moussa turnover (bad pass) (Dante Harris steals)",438,"Turnover","turnover","Adam Moussa",25,11,"Opp","vsTARL",36
 1,"7:16","Andrew Rohde misses three point jump shot",436,"Missed Three","misses","Andrew Rohde",25,11,"Opp","vsTARL",36
@@ -88,12 +88,12 @@
 1,"6:59","Lue Williams misses three point jump shot",419,"Missed Three","misses","Lue Williams",25,11,"Cavs","vsTARL",37
 1,"6:34","Isaac McKneely defensive rebound",394,"Def Rebound","defensive rebound","Isaac McKneely",25,11,"Opp","vsTARL",38
 1,"6:07","Dante Harris makes two point layup",367,"Made Two","makes","Dante Harris",27,11,"Cavs","vsTARL",39
-1,"06:07","Cavaliers lineup change (Isaac McKneely,Reece Beekman,Jordan Minor,Leon Bond III,Reece Beekman,Blake Buchanan)",367,"Cav Sub"," ","Cavaliers",27,11,"Cavs","vsTARL",39
+1,"06:07","Cavaliers lineup change (Isaac McKneely,Andrew Rohde,Jake Groves,Dante Harris,Blake Buchanan)",367,"Cav Sub"," ","Cavaliers",27,11,"Cavs","vsTARL",39
 1,"6:05","Ryan Dunn personal foul",365,"Foul","personal foul","Ryan Dunn",27,11,"Cavs","vsTARL",39
 1,"5:42","Emmanuel Innocenti makes three point jump shot (Bubu Benjamin assists)",342,"Made Three","makes","Emmanuel Innocenti",27,14,"Opp","vsTARL",40
 1,"5:42","Adam Moussa personal foul (Isaac McKneely draws the foul)",342,"Foul","personal foul","Adam Moussa",27,14,"Opp","vsTARL",40
 1,"5:42","Isaac McKneely makes regular free throw 1 of 2",342,"Made FT","makes","Isaac McKneely",28,14,"Opp","vsTARL",40
-1,"05:39","Cavaliers lineup change (Isaac McKneely,Reece Beekman,Ryan Dunn,Jordan Minor,Leon Bond III,Reece Beekman)",339,"Cav Sub"," ","Cavaliers",28,14,"Opp","vsTARL",40
+1,"05:39","Cavaliers lineup change (Isaac McKneely,Andrew Rohde,Jake Groves,Blake Buchanan,Reece Beekman)",339,"Cav Sub"," ","Cavaliers",28,14,"Opp","vsTARL",40
 1,"5:25","Isaac McKneely makes regular free throw 2 of 2",325,"Made FT","makes","Isaac McKneely",29,14,"Cavs","vsTARL",41
 1,"5:25","Jacob Groves shooting foul (Lue Williams draws the foul)",325,"Foul","shooting foul","Jacob Groves",29,14,"Cavs","vsTARL",41
 1,"5:25","Lue Williams misses regular free throw 1 of 2",325,"Missed FT","misses","Lue Williams",29,14,"Cavs","vsTARL",41
@@ -105,7 +105,7 @@
 1,"3:59","Isaac McKneely makes three point jump shot (Reece Beekman assists)",239,"Made Three","makes","Isaac McKneely",32,15,"Cavs","vsTARL",45
 1,"3:57","Izzy Miles misses two point jump shot",237,"Missed Two","misses","Izzy Miles",32,15,"Cavs","vsTARL",45
 1,"3:56","Cavaliers defensive rebound",236,"Def Rebound","defensive rebound","Cavaliers",32,15,"Opp","vsTARL",46
-1,"03:56","Cavaliers lineup change (Isaac McKneely,Reece Beekman,Ryan Dunn,Dante Harris,Jordan Minor,Leon Bond III)",236,"Cav Sub"," ","Cavaliers",32,15,"Opp","vsTARL",46
+1,"03:56","Cavaliers lineup change (Isaac McKneely,Andrew Rohde,Reece Beekman,Jordan Minor,Leon Bond III)",236,"Cav Sub"," ","Cavaliers",32,15,"Opp","vsTARL",46
 1,"3:43","TV timeout",223,""," ","TV",32,15,"Opp","vsTARL",46
 1,"3:27","Isaac McKneely turnover (bad pass) (Jakorie Smith steals)",207,"Turnover","turnover","Isaac McKneely",32,15,"Cavs","vsTARL",47
 1,"3:08","Jakorie Smith makes two point layup (Emmanuel Innocenti assists)",188,"Made Two","makes","Jakorie Smith",32,17,"Opp","vsTARL",48
@@ -113,7 +113,7 @@
 1,"3:07","Lue Williams shooting foul (Reece Beekman draws the foul)",187,"Foul","shooting foul","Lue Williams",34,17,"Opp","vsTARL",48
 1,"2:55","Reece Beekman makes regular free throw 1 of 1",175,"Made FT","makes","Reece Beekman",35,17,"Cavs","vsTARL",49
 1,"2:53","Emmanuel Innocenti misses two point jump shot",173,"Missed Two","misses","Emmanuel Innocenti",35,17,"Cavs","vsTARL",49
-1,"02:39","Cavaliers lineup change (Isaac McKneely,Reece Beekman,Ryan Dunn,Jake Groves,Dante Harris)",159,"Cav Sub"," ","Cavaliers",35,17,"Cavs","vsTARL",49
+1,"02:39","Cavaliers lineup change (Isaac McKneely,Reece Beekman,Jordan Minor,Leon Bond III,Dante Harris)",159,"Cav Sub"," ","Cavaliers",35,17,"Cavs","vsTARL",49
 1,"2:37","Isaac McKneely defensive rebound",157,"Def Rebound","defensive rebound","Isaac McKneely",35,17,"Opp","vsTARL",50
 1,"2:37","Lue Williams shooting foul (Leon Bond III draws the foul)",157,"Foul","shooting foul","Lue Williams",35,17,"Opp","vsTARL",50
 1,"2:37","Leon Bond III makes regular free throw 1 of 2",157,"Made FT","makes","Leon Bond III",36,17,"Opp","vsTARL",50
@@ -138,7 +138,7 @@
 1,"0:23","Bubu Benjamin misses two point jump shot",23,"Missed Two","misses","Bubu Benjamin",41,19,"Cavs","vsTARL",57
 1,"0:02","Leon Bond III defensive rebound",2,"Def Rebound","defensive rebound","Leon Bond III",41,19,"Opp","vsTARL",58
 2,"20:00","2ND HALF",1200,""," ","2ND",41,19,"Opp","vsTARL",58
-2,"20:00","Cavaliers lineup change (Taine Murray,Tristan How,Taine Murray,Blake Buchanan,Andrew Rohde,Ryan Dunn,Jake Groves)",1200,"Cav Sub"," ","Cavaliers",41,19,"Opp","vsTARL",58
+2,"20:00","Cavaliers lineup change (Isaac McKneely,Reece Beekman,Andrew Rohde,Ryan Dunn,Jake Groves)",1200,"Cav Sub"," ","Cavaliers",41,19,"Opp","vsTARL",58
 2,"19:42","Open inbound Texans",1182,""," ","Open",41,19,"Opp","vsTARL",58
 2,"19:40","Lue Williams misses two point layup",1180,"Missed Two","misses","Lue Williams",41,19,"Opp","vsTARL",58
 2,"19:31","Kiandre Gaddy offensive rebound",1171,"Off Rebound","offensive rebound","Kiandre Gaddy",41,19,"Opp","vsTARL",58
@@ -157,7 +157,7 @@
 2,"17:43","Ryan Dunn offensive rebound",1063,"Off Rebound","offensive rebound","Ryan Dunn",44,21,"Cavs","vsTARL",63
 2,"17:21","Jacob Groves makes three point jump shot (Isaac McKneely assists)",1041,"Made Three","makes","Jacob Groves",44,24,"Opp","vsTARL",64
 2,"17:19","Bubu Benjamin makes three point jump shot (Jakorie Smith assists)",1039,"Made Three","makes","Bubu Benjamin",44,27,"Cavs","vsTARL",65
-2,"17:18","Cavaliers lineup change (Jordan Minor,Taine Murray,Tristan How,Taine Murray,Jordan Minor,Leon Bond III,Dante Harris,Blake Buchanan)",1038,"Cav Sub"," ","Cavaliers",44,27,"Cavs","vsTARL",65
+2,"17:18","Cavaliers lineup change (Isaac McKneely,Reece Beekman,Andrew Rohde,Ryan Dunn,Blake Buchanan)",1038,"Cav Sub"," ","Cavaliers",44,27,"Cavs","vsTARL",65
 2,"17:10","Jacob Groves personal foul (Kiandre Gaddy draws the foul)",1030,"Foul","personal foul","Jacob Groves",44,27,"Cavs","vsTARL",65
 2,"17:04","Izzy Miles turnover (bad pass)",1024,"Turnover","turnover","Izzy Miles",44,27,"Opp","vsTARL",66
 2,"16:59","Bubu Benjamin personal foul",1019,"Foul","personal foul","Bubu Benjamin",44,27,"Opp","vsTARL",66
@@ -185,7 +185,7 @@
 2,"14:23","Ryan Dunn defensive rebound",863,"Def Rebound","defensive rebound","Ryan Dunn",47,30,"Opp","vsTARL",76
 2,"14:23","Emmanuel Innocenti shooting foul (Reece Beekman draws the foul)",863,"Foul","shooting foul","Emmanuel Innocenti",47,30,"Opp","vsTARL",76
 2,"14:23","Reece Beekman makes regular free throw 1 of 2",863,"Made FT","makes","Reece Beekman",48,30,"Opp","vsTARL",76
-2,"14:21","Cavaliers lineup change (Jordan Minor,Taine Murray,Tristan How,Taine Murray,Jordan Minor,Jake Groves,Leon Bond III,Dante Harris)",861,"Cav Sub"," ","Cavaliers",48,30,"Opp","vsTARL",76
+2,"14:21","Cavaliers lineup change (Isaac McKneely,Reece Beekman,Ryan Dunn,Blake Buchanan,Dante Harris)",861,"Cav Sub"," ","Cavaliers",48,30,"Opp","vsTARL",76
 2,"14:05","Reece Beekman makes regular free throw 2 of 2",845,"Made FT","makes","Reece Beekman",49,30,"Cavs","vsTARL",77
 2,"13:57","Emmanuel Innocenti turnover (bad pass)",837,"Turnover","turnover","Emmanuel Innocenti",49,30,"Opp","vsTARL",78
 2,"13:51","Jakorie Smith personal foul",831,"Foul","personal foul","Jakorie Smith",49,30,"Opp","vsTARL",78
@@ -194,9 +194,9 @@
 2,"13:51","Blake Buchanan misses regular free throw 2 of 2",831,"Missed FT","misses","Blake Buchanan",49,30,"Opp","vsTARL",78
 2,"13:40","Emmanuel Innocenti defensive rebound",820,"Def Rebound","defensive rebound","Emmanuel Innocenti",49,30,"Cavs","vsTARL",79
 2,"13:22","Lue Williams makes two point layup (Bubu Benjamin assists)",802,"Made Two","makes","Lue Williams",49,32,"Opp","vsTARL",80
-2,"13:15","Cavaliers lineup change (Jordan Minor,Taine Murray,Tristan How,Taine Murray,Jordan Minor,Jake Groves,Andrew Rohde,Leon Bond III)",795,"Cav Sub"," ","Cavaliers",49,32,"Opp","vsTARL",80
+2,"13:15","Cavaliers lineup change (Isaac McKneely,Reece Beekman,Ryan Dunn,Dante Harris,Leon Bond III)",795,"Cav Sub"," ","Cavaliers",49,32,"Opp","vsTARL",80
 2,"13:14","Ryan Dunn makes two point layup",794,"Made Two","makes","Ryan Dunn",51,32,"Cavs","vsTARL",81
-2,"13:03","Cavaliers lineup change (Jordan Minor,Taine Murray,Blake Buchanan,Tristan How,Blake Buchanan,Taine Murray,Jordan Minor,Jake Groves,Andrew Rohde)",783,"Cav Sub"," ","Cavaliers",51,32,"Cavs","vsTARL",81
+2,"13:03","Cavaliers lineup change (Isaac McKneely,Ryan Dunn,Dante Harris,Leon Bond III,Andrew Rohde)",783,"Cav Sub"," ","Cavaliers",51,32,"Cavs","vsTARL",81
 2,"13:02","Reece Beekman personal foul (Devon Barnes draws the foul)",782,"Foul","personal foul","Reece Beekman",51,32,"Cavs","vsTARL",81
 2,"13:02","Bubu Benjamin makes two point layup",782,"Made Two","makes","Bubu Benjamin",51,34,"Cavs","vsTARL",81
 2,"13:02","Reece Beekman shooting foul (Bubu Benjamin draws the foul)",782,"Foul","shooting foul","Reece Beekman",51,34,"Cavs","vsTARL",81
@@ -216,7 +216,7 @@
 2,"11:02","Devon Barnes makes two point layup",662,"Made Two","makes","Devon Barnes",51,39,"Cavs","vsTARL",89
 2,"11:02","Isaac McKneely shooting foul (Devon Barnes draws the foul)",662,"Foul","shooting foul","Isaac McKneely",51,39,"Cavs","vsTARL",89
 2,"11:02","TV timeout",662,""," ","TV",51,39,"Cavs","vsTARL",89
-2,"11:02","Cavaliers lineup change (Jordan Minor,Taine Murray,Blake Buchanan,Tristan How,Blake Buchanan,Taine Murray,Jordan Minor,Reece Beekman,Jake Groves)",662,"Cav Sub"," ","Cavaliers",51,39,"Cavs","vsTARL",89
+2,"11:02","Cavaliers lineup change (Dante Harris,Leon Bond III,Andrew Rohde,Reece Beekman,Jake Groves)",662,"Cav Sub"," ","Cavaliers",51,39,"Cavs","vsTARL",89
 2,"10:46","Devon Barnes makes regular free throw 1 of 1",646,"Made FT","makes","Devon Barnes",51,40,"Opp","vsTARL",90
 2,"10:14","Jacob Groves makes three point jump shot (Dante Harris assists)",614,"Made Three","makes","Jacob Groves",51,43,"Cavs","vsTARL",91
 2,"9:46","Devon Barnes makes three point bank jump shot",586,"Made Three","makes","Devon Barnes",51,46,"Opp","vsTARL",92
@@ -243,7 +243,7 @@
 2,"7:46","TV timeout",466,""," ","TV",57,49,"Cavs","vsTARL",101
 2,"7:46","Jakorie Smith makes regular free throw 1 of 2",466,"Made FT","makes","Jakorie Smith",57,50,"Cavs","vsTARL",101
 2,"7:46","Jakorie Smith misses regular free throw 2 of 2",466,"Missed FT","misses","Jakorie Smith",57,50,"Cavs","vsTARL",101
-2,"07:46","Cavaliers lineup change (Jordan Minor,Taine Murray,Blake Buchanan,Tristan How,Blake Buchanan,Ryan Dunn,Isaac McKneely,Taine Murray,Jordan Minor)",466,"Cav Sub"," ","Cavaliers",57,50,"Cavs","vsTARL",101
+2,"07:46","Cavaliers lineup change (Leon Bond III,Andrew Rohde,Reece Beekman,Taine Murray,Jordan Minor)",466,"Cav Sub"," ","Cavaliers",57,50,"Cavs","vsTARL",101
 2,"7:30","Leon Bond III defensive rebound",450,"Def Rebound","defensive rebound","Leon Bond III",57,50,"Opp","vsTARL",102
 2,"7:28","Reece Beekman misses three point jump shot",448,"Missed Three","misses","Reece Beekman",57,50,"Opp","vsTARL",102
 2,"7:20","Jakorie Smith defensive rebound",440,"Def Rebound","defensive rebound","Jakorie Smith",57,50,"Cavs","vsTARL",103
@@ -255,7 +255,7 @@
 2,"6:34","Izzy Miles misses three point jump shot",394,"Missed Three","misses","Izzy Miles",59,50,"Cavs","vsTARL",105
 2,"6:24","Jordan Minor defensive rebound",384,"Def Rebound","defensive rebound","Jordan Minor",59,50,"Opp","vsTARL",106
 2,"6:22","Bubu Benjamin blocks Andrew Rohde's two point layup",382,"Block","block","Bubu Benjamin",59,50,"Opp","vsTARL",106
-2,"06:22","Cavaliers lineup change (Jordan Minor,Taine Murray,Dante Harris,Blake Buchanan,Tristan How,Blake Buchanan,Ryan Dunn,Dante Harris,Isaac McKneely)",382,"Cav Sub"," ","Cavaliers",59,50,"Opp","vsTARL",106
+2,"06:22","Cavaliers lineup change (Leon Bond III,Taine Murray,Jordan Minor,Dante Harris,Isaac McKneely)",382,"Cav Sub"," ","Cavaliers",59,50,"Opp","vsTARL",106
 2,"6:10","Jordan Minor offensive rebound",370,"Off Rebound","offensive rebound","Jordan Minor",59,50,"Opp","vsTARL",106
 2,"6:05","Isaac McKneely turnover (bad pass) (Lue Williams steals)",365,"Turnover","turnover","Isaac McKneely",59,50,"Cavs","vsTARL",107
 2,"6:05","Emmanuel Innocenti turnover (lost ball) (Leon Bond III steals)",365,"Turnover","turnover","Emmanuel Innocenti",59,50,"Opp","vsTARL",108
@@ -263,7 +263,7 @@
 2,"6:05","Leon Bond III misses regular free throw 1 of 2",365,"Missed FT","misses","Leon Bond III",59,50,"Opp","vsTARL",108
 2,"6:05","Leon Bond III misses regular free throw 2 of 2",365,"Missed FT","misses","Leon Bond III",59,50,"Opp","vsTARL",108
 2,"5:54","Emmanuel Innocenti defensive rebound",354,"Def Rebound","defensive rebound","Emmanuel Innocenti",59,50,"Cavs","vsTARL",109
-2,"05:54","Cavaliers lineup change (Jordan Minor,Taine Murray,Dante Harris,Blake Buchanan,Tristan How,Blake Buchanan,Ryan Dunn)",354,"Cav Sub"," ","Cavaliers",59,50,"Cavs","vsTARL",109
+2,"05:54","Cavaliers lineup change (Taine Murray,Jordan Minor,Dante Harris,Isaac McKneely,Ryan Dunn)",354,"Cav Sub"," ","Cavaliers",59,50,"Cavs","vsTARL",109
 2,"5:37","Bubu Benjamin turnover (traveling)",337,"Turnover","turnover","Bubu Benjamin",59,50,"Opp","vsTARL",110
 2,"5:37","Jordan Minor offensive foul",337,""," ","Jordan",59,50,"Opp","vsTARL",110
 2,"5:21","Jordan Minor turnover (offensive foul)",321,"Turnover","turnover","Jordan Minor",59,50,"Cavs","vsTARL",111
@@ -285,7 +285,7 @@
 2,"4:15","Lue Williams misses two point jump shot",255,"Missed Two","misses","Lue Williams",60,54,"Cavs","vsTARL",115
 2,"4:02","Isaac McKneely defensive rebound",242,"Def Rebound","defensive rebound","Isaac McKneely",60,54,"Opp","vsTARL",116
 2,"3:37","Taine Murray makes two point jump shot (Isaac McKneely assists)",217,"Made Two","makes","Taine Murray",62,54,"Cavs","vsTARL",117
-2,"03:22","Cavaliers lineup change (Jordan Minor,Taine Murray,Dante Harris,Blake Buchanan,Leon Bond III,Tristan How,Blake Buchanan)",202,"Cav Sub"," ","Cavaliers",62,54,"Cavs","vsTARL",117
+2,"03:22","Cavaliers lineup change (Taine Murray,Jordan Minor,Dante Harris,Ryan Dunn,Blake Buchanan)",202,"Cav Sub"," ","Cavaliers",62,54,"Cavs","vsTARL",117
 2,"3:21","Izzy Miles makes two point jump shot",201,"Made Two","makes","Izzy Miles",62,56,"Opp","vsTARL",118
 2,"3:20","Bubu Benjamin personal foul (Ryan Dunn draws the foul)",200,"Foul","personal foul","Bubu Benjamin",62,56,"Opp","vsTARL",118
 2,"3:20","TV timeout",200,""," ","TV",62,56,"Opp","vsTARL",118
@@ -305,7 +305,7 @@
 2,"2:16","Blake Buchanan defensive rebound",136,"Def Rebound","defensive rebound","Blake Buchanan",64,58,"Opp","vsTARL",122
 2,"2:16","Nasan Ayala personal foul (Ryan Dunn draws the foul)",136,"Foul","personal foul","Nasan Ayala",64,58,"Opp","vsTARL",122
 2,"2:16","Ryan Dunn makes regular free throw 1 of 2",136,"Made FT","makes","Ryan Dunn",65,58,"Opp","vsTARL",122
-2,"02:16","Cavaliers lineup change (Jordan Minor,Taine Murray,Dante Harris,Blake Buchanan,Leon Bond III,Tristan How)",136,"Cav Sub"," ","Cavaliers",65,58,"Opp","vsTARL",122
+2,"02:16","Cavaliers lineup change (Taine Murray,Jordan Minor,Dante Harris,Blake Buchanan,Tristan How)",136,"Cav Sub"," ","Cavaliers",65,58,"Opp","vsTARL",122
 2,"2:03","Ryan Dunn makes regular free throw 2 of 2",123,"Made FT","makes","Ryan Dunn",66,58,"Cavs","vsTARL",123
 2,"1:57","Taine Murray personal foul (Izzy Miles draws the foul)",117,"Foul","personal foul","Taine Murray",66,58,"Cavs","vsTARL",123
 2,"1:49","Izzy Miles makes regular free throw 1 of 2",109,"Made FT","makes","Izzy Miles",66,59,"Cavs","vsTARL",123
