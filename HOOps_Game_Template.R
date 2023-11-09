@@ -75,7 +75,6 @@ acc_subs = acc_subs %>%
   mutate(Player = mapvalues(Player, from = names(name_mapping), to = name_mapping))
 
 
-acc_subs <- acc_subs[order(acc_subs$Half, acc_subs$V1, acc_subs$Action),]
 
 starting_lineup <- c("Isaac McKneely", "Reece Beekman", "Andrew Rohde", "Ryan Dunn", "Jake Groves")
 lineup_changes <- data.frame(Half = 1, Time = "20:00", Lineup = I(list(starting_lineup)), stringsAsFactors = FALSE)
