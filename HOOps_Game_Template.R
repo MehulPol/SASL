@@ -1,9 +1,9 @@
+library("plyr")
 library("rvest")
 library("ggplot2")
 library("tidyverse")
 library("useful")
 library("stringr")
-library("plyr")
 
 
 ### Reading in Website
@@ -17,12 +17,105 @@ UVA_roster = c("Blake Buchanan","Dante Harris","Reece Beekman","Andrew Rohde",
 #UVA_roster = c("Kihei Clark", "Reece Beekman", "Armaan Franklin", "Jayden Gardner", 
 #               "Ben Vander Plas", "Kadin Shedrick", "Francisco Caffaro", "Ryan Dunn",
 #               "Isaac McKneely", "Taine Murray", "Chase Coleman", "Tristan How", "Cavaliers")
+
+## ACC playbyplay for their lineup/substitution data
+acc_web = "https://theacc.com/boxscore.aspx?id=JcLFfL9RUu0H5ystoOMbjQ7A58QMysWHEEqi7hufVoQXO5nVxbctjHh%2F6ifARsoKUNz2Cn1GpJx0eQgL%2FI8uNugW6%2F65ooJ9xE6%2BliOEFRnJFwDEdzr8vBabydal0a6c60z9tWgcelK7Jv6MXCjTl9z03q2EIo%2BDNR5oy7y3S5HtrMfcu2cHWLJAWCcHhdmA&path=mbball#play-by-play"
+acc = read_html(acc_web)
+all_plays<-acc%>%
+  html_nodes(".text-right , th , .text-bold.hide-on-medium-down~ .hide-on-medium-down+ .hide-on-medium-down")%>%
+  html_text()
+
+
+all_plays = all_plays[-c(1:91)]
+all_plays = all_plays[all_plays != ""]
+all_plays = all_plays[-c(932:973)]
+all_plays = all_plays[-c(403:411)]
+
+all_plays = as.data.frame(matrix(all_plays,ncol=2,byrow=T))
+
+
+acc_subs <-acc%>%
+  html_nodes("th , .text-bold.hide-on-medium-down~ .hide-on-medium-down+ .hide-on-medium-down")%>%
+  html_text()
+acc_subs = acc_subs[-c(1:83)]
+acc_subs = acc_subs[-c(932:973,403:411)]
+acc_subs = as.data.frame(matrix(acc_subs,ncol=2,byrow=T))
+acc_subs$Half = 1
+
+## Make times consistent
+for(i in 2:nrow(acc_subs)) {
+  if(acc_subs$V1[i] == "--"){
+    acc_subs$V1[i] = acc_subs$V1[i-1]
+  }
+}
+
+for(i in 2:nrow(acc_subs)) {
+  if(acc_subs$V1[i] > acc_subs$V1[i-1]) {
+    acc_subs$Half[i] <- 2
+  }
+}
+
+# Make it so everything after is 2nd half
+acc_subs$Half <- cummax(acc_subs$Half)
+
+acc_subs = subset(acc_subs, grepl("SUB", V2))
+acc_subs <- acc_subs %>%
+  separate(V2, into = c("Action", "Player"), sep = " by ")
+
+# Based on ACC naming convention
+name_mapping <- setNames(
+  UVA_roster,
+  c("BUCHANAN,BLAKE", "HARRIS,DANTE", "BEEKMAN,REECE", "ROHDE,ANDREW",
+    "ROBERTS,DESMOND", "MURRAY,TAINE", "MCKNEELY,ISAAC", "GERTRUDE,ELIJAH",
+    "DUNN,RYAN", "ROBINSON,ANTHONY", "MINOR,JORDAN", "HOW,TRISTAN",
+    "BLISS,CHRISTIAN", "GROVES,JACOB", "BOND III,LEON", "CAVALIERS")
+)
+
+acc_subs = acc_subs %>%
+  mutate(Player = mapvalues(Player, from = names(name_mapping), to = name_mapping))
+
+
+acc_subs <- acc_subs[order(acc_subs$Half, acc_subs$V1, acc_subs$Action),]
+
+starting_lineup <- c("Isaac McKneely", "Reece Beekman", "Andrew Rohde", "Ryan Dunn", "Jake Groves")
+lineup_changes <- data.frame(Half = 1, Time = "20:00", Lineup = I(list(starting_lineup)), stringsAsFactors = FALSE)
+
+unique_times <- unique(paste(acc_subs$Half, acc_subs$V1))
+lineup <- starting_lineup
+for(time in unique_times) {
+  half <- as.numeric(strsplit(time, " ")[[1]][1])
+  timestamp <- strsplit(time, " ")[[1]][2]
+  
+  current_subs <- acc_subs[acc_subs$Half == half & acc_subs$V1 == timestamp,]
+  
+  for(player_out in current_subs$Player[current_subs$Action == "SUB OUT"]) {
+    lineup <- lineup[lineup != player_out]
+  }
+  
+  for(player_in in current_subs$Player[current_subs$Action == "SUB IN"]) {
+    lineup <- c(lineup, player_in)
+  }
+  
+  lineup_changes <- rbind(lineup_changes, data.frame(Half = half,Time = timestamp, Lineup = I(list(lineup))))
+}
+
+# Turn to string so it's more readable
+lineup_changes$Lineup <- sapply(lineup_changes$Lineup, function(l) paste(paste("Cavaliers lineup change (",paste(l, collapse = ","),sep=""),")",sep="")  )
+colnames(lineup_changes)[colnames(lineup_changes) == 'Lineup'] <- 'Description'
+
+
+
+
+
+
+## Fox Sports Scraping and Cleaning
 website1 = "https://www.foxsports.com/college-basketball/tarleton-state-texans-vs-virginia-cavaliers-nov-06-2023-game-boxscore-246170?tab=playbyplay"
 starting_lineup1 = "Isaac McKneely,Reece Beekman,Andrew Rohde,Ryan Dunn,Jake Groves"
 abbrev1 = "TARL"
 opp1 = "vsTARL"
-game = tibble(Time = "", Description = "", Event = "", Token = "", words = strsplit("place holder", split = ' '), Player = "", 
-               UVA_score = 0, Opp_score = 0, Time_in_sec = 0, Opps = "")
+
+game = tibble(Half = 1, Time = "", Description = "", Event = "", Token = "", words = strsplit("place holder", split = ' '), Player = "", 
+               UVA_score = 0, Opp_score = 0, Time_in_sec = 0, Opps = "",`Possession Number` = 0)
 
 game_pbp = function(website,starting_lineup,abbrev,opp){
   
@@ -51,10 +144,26 @@ game_pbp = function(website,starting_lineup,abbrev,opp){
   
   ### Cleaning Dataset
   colnames(game) = c("Description","Time")
+  game = game%>%mutate(Half=1)%>% relocate(Half,.before = Time)
+  game$Half[which(game$Time == '0:00')[1]:nrow(game)] = 2
   
-  starters = paste("Cavaliers lineup change (", starting_lineup, sep = '')
-  game = add_row(game, Time = "20:00", Description = paste(starters, ")", sep = ''),.before = 1)
-  game = game[,c(2,1)]
+  game = full_join(game,lineup_changes,by=c('Half','Time','Description'))
+  
+  game$Time_in_sec = 0 
+  for(i in 1:nrow(game)){
+    min_sec = as.character(game$Time[i])
+    if (str_length(min_sec) == 4) {
+      min_sec = paste('0',min_sec, sep = '')
+    }
+    game$Time_in_sec[i] = as.numeric(substr(min_sec, 1, 2))*60 + as.numeric(substr(min_sec, 4, 5))
+  }
+  
+  game = game[order(game$Time_in_sec, decreasing = TRUE),]
+  game = game[order(game$Half, decreasing = FALSE),]
+  
+  #starters = paste("Cavaliers lineup change (", starting_lineup, sep = '')
+  #game = add_row(game, Half = 1,Time = "20:00", Description = paste(starters, ")", sep = ''),.before = 1)
+  game = game[,c(2,3,1,4)]
   
   ## Creating an Event Column
   game$Event = ""
@@ -152,25 +261,13 @@ game_pbp = function(website,starting_lineup,abbrev,opp){
     game$Opp_score[i] = game$Opp_score[i-1] + oppScoreDif
   }
   
-  ### Cleaning for Time and Possessions
-  
-  game$Time_in_sec = 0 
+  ### Cleaning for Possessions
   
   change_poss = c('Turnover','Def Rebound')
   made_shot = c('Made Two','Made Three')
   poss_vec = c()
   poss = ""
   for( i in 1:nrow(game)) {
-    extra = c('1STHALF','2NDHALF',paste(abbrev,as.character(game$Opp_score[i-1]), sep = ''), paste('UVA',as.character(game$UVA_score[i-1]), sep = ''))
-    for (e in extra) {
-      game$Time[i] = gsub(e,'',game$Time[i])
-    }
-    min_sec = as.character(game$Time[i])
-    if (str_length(min_sec) == 4) {
-      min_sec = paste('0',min_sec, sep = '')
-    }
-    game$Time_in_sec[i] = as.numeric(substr(min_sec, 1, 2))*60 + as.numeric(substr(min_sec, 4, 5))
-    
     #Possesion Tracking
     if (grepl("vs.",game$Description[i])){
       if (unlist(strsplit(unlist(strsplit(game$Description[i],"[(]"))[2]," gains poss"))[1] %in% UVA_roster){
@@ -231,92 +328,15 @@ game_pbp = function(website,starting_lineup,abbrev,opp){
 }
 
 game1 = game_pbp(website1,starting_lineup1,abbrev1,opp1)
-
 ## end of playbyplay data for all games
 
-## ACC playbyplay for their lineup/substitution data
-acc_web = "https://theacc.com/boxscore.aspx?id=JcLFfL9RUu0H5ystoOMbjQ7A58QMysWHEEqi7hufVoQXO5nVxbctjHh%2F6ifARsoKUNz2Cn1GpJx0eQgL%2FI8uNugW6%2F65ooJ9xE6%2BliOEFRnJFwDEdzr8vBabydal0a6c60z9tWgcelK7Jv6MXCjTl9z03q2EIo%2BDNR5oy7y3S5HtrMfcu2cHWLJAWCcHhdmA&path=mbball#play-by-play"
-acc = read_html(acc_web)
-all_plays<-acc%>%
-  html_nodes(".text-right , th , .text-bold.hide-on-medium-down~ .hide-on-medium-down+ .hide-on-medium-down")%>%
-  html_text()
+#game1 = game1%>%select(-words)
+#write.csv(game1, "TARL_game.csv", row.names=FALSE)
 
 
-all_plays = all_plays[-c(1:91)]
-all_plays = all_plays[all_plays != ""]
-all_plays = all_plays[-c(932:973)]
-all_plays = all_plays[-c(403:411)]
-
-all_plays = as.data.frame(matrix(all_plays,ncol=2,byrow=T))
 
 
-acc_subs <-acc%>%
-  html_nodes("th , .text-bold.hide-on-medium-down~ .hide-on-medium-down+ .hide-on-medium-down")%>%
-  html_text()
-acc_subs = acc_subs[-c(1:83)]
-acc_subs = acc_subs[-c(932:973,403:411)]
-acc_subs = as.data.frame(matrix(acc_subs,ncol=2,byrow=T))
-acc_subs$Half = 1
 
-## Make times consistent
-for(i in 2:nrow(acc_subs)) {
-  if(acc_subs$V1[i] == "--"){
-    acc_subs$V1[i] = acc_subs$V1[i-1]
-  }
-}
-
-for(i in 2:nrow(acc_subs)) {
-  if(acc_subs$V1[i] > acc_subs$V1[i-1]) {
-    acc_subs$Half[i] <- 2
-  }
-}
-
-# Make it so everything after is 2nd half
-acc_subs$Half <- cummax(acc_subs$Half)
-
-acc_subs = subset(acc_subs, grepl("SUB", V2))
-acc_subs <- acc_subs %>%
-  separate(V2, into = c("Action", "Player"), sep = " by ")
-
-# Based on ACC naming convention
-name_mapping <- setNames(
-  UVA_roster,
-  c("BUCHANAN,BLAKE", "HARRIS,DANTE", "BEEKMAN,REECE", "ROHDE,ANDREW",
-    "ROBERTS,DESMOND", "MURRAY,TAINE", "MCKNEELY,ISAAC", "GERTRUDE,ELIJAH",
-    "DUNN,RYAN", "ROBINSON,ANTHONY", "MINOR,JORDAN", "HOW,TRISTAN",
-    "BLISS,CHRISTIAN", "GROVES,JACOB", "BOND III,LEON", "CAVALIERS")
-)
-
-acc_subs = acc_subs %>%
-  mutate(Player = mapvalues(Player, from = names(name_mapping), to = name_mapping))
-
-
-acc_subs <- acc_subs[order(acc_subs$Half, acc_subs$V1, acc_subs$Action),]
-
-starting_lineup <- c("Isaac McKneely", "Reece Beekman", "Andrew Rohde", "Ryan Dunn", "Jake Groves")
-lineup_changes <- data.frame(Time = "1 20:00", Lineup = I(list(starting_lineup)), stringsAsFactors = FALSE)
-
-unique_times <- unique(paste(acc_subs$Half, acc_subs$V1))
-lineup <- starting_lineup
-for(time in unique_times) {
-  half <- as.numeric(strsplit(time, " ")[[1]][1])
-  timestamp <- strsplit(time, " ")[[1]][2]
-  
-  current_subs <- acc_subs[acc_subs$Half == half & acc_subs$V1 == timestamp,]
-  
-  for(player_out in current_subs$Player[current_subs$Action == "SUB OUT"]) {
-    lineup <- lineup[lineup != player_out]
-  }
-  
-  for(player_in in current_subs$Player[current_subs$Action == "SUB IN"]) {
-    lineup <- c(lineup, player_in)
-  }
-  
-  lineup_changes <- rbind(lineup_changes, data.frame(Time = time, Lineup = I(list(lineup))))
-}
-
-# Turn to string so it's more readable
-lineup_changes$Lineup <- sapply(lineup_changes$Lineup, function(l) paste(l, collapse = ", "))
 
 ### Stats for each Lineup while they are on the court together
 
@@ -474,6 +494,8 @@ All_Stats = merge(Player_stats, Box_Score, by = "Player", all.x = TRUE) %>%
   mutate(efficiency = (Pts.x + Def_Rebounds + Off_Rebounds + Defensive_plays - (FG_att.x - FG_made.x) - Tnovers.x) / (On_court_time/60), .before = Pt_diff_perposs)%>%
   mutate(def_eff = 2*Defensive_plays/Possessions, .after = Pt_diff_permin)%>%
   mutate(PER = PER/(On_court_time/60))
+
+#write.csv(All_Stats, "TARL_stats.csv", row.names=FALSE)
 
 ## Visualizations
 
