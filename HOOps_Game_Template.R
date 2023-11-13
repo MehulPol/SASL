@@ -11,7 +11,7 @@ library("stringr")
 UVA_roster = c("Blake Buchanan","Dante Harris","Reece Beekman","Andrew Rohde",
                 "Desmond Roberts","Taine Murray","Isaac McKneely","Elijah Gertrude",
                 "Ryan Dunn","Anthony Robinson","Jordan Minor","Tristan How",
-                "Christian Bliss","Jake Groves","Leon Bond III","Cavaliers")
+                "Christian Bliss","Jacob Groves","Leon Bond III","Cavaliers")
 
 
 #UVA_roster = c("Kihei Clark", "Reece Beekman", "Armaan Franklin", "Jayden Gardner", 
