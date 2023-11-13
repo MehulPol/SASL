@@ -1,0 +1,334 @@
+"Half","Time","Description","Time_in_sec","Event","Token","Player","UVA_score","Opp_score","Possession","Opps","Possession Number"
+1,"20:00","1ST HALF",1200,""," ","1ST",0,0,"Cavs","vsFLA",1
+1,"20:00","Cavaliers lineup change (Isaac McKneely,Reece Beekman,Andrew Rohde,Ryan Dunn,Jake Groves)",1200,"Cav Sub"," ","Cavaliers",0,0,"","vsFLA",2
+1,"19:46","(Gators gains possession)",1186,""," ","(Gators",0,0,"","vsFLA",2
+1,"19:44","Tyrese Samuel misses two point layup",1184,"Missed Two","misses","Tyrese Samuel",0,0,"","vsFLA",2
+1,"19:41","Micah Handlogten offensive rebound",1181,"Off Rebound","offensive rebound","Micah Handlogten",0,0,"","vsFLA",2
+1,"19:17","Micah Handlogten makes two point putback layup",1157,"Made Two","makes","Micah Handlogten",0,2,"Cavs","vsFLA",3
+1,"19:15","Ryan Dunn misses three point jump shot",1155,"Missed Three","misses","Ryan Dunn",0,2,"Cavs","vsFLA",3
+1,"19:09","Riley Kugel defensive rebound",1149,"Def Rebound","defensive rebound","Riley Kugel",0,2,"Opp","vsFLA",4
+1,"18:51","Riley Kugel turnover (bad pass) (Ryan Dunn steals)",1131,"Turnover","turnover","Riley Kugel",0,2,"Cavs","vsFLA",5
+1,"18:50","Reece Beekman misses two point layup",1130,"Missed Two","misses","Reece Beekman",0,2,"Cavs","vsFLA",5
+1,"18:50","Jump ball.  (Reece Beekman gains possession)",1130,"Jump Ball"," ","Jump",0,2,"Cavs","vsFLA",5
+1,"18:46","Reece Beekman offensive rebound",1126,"Off Rebound","offensive rebound","Reece Beekman",0,2,"Cavs","vsFLA",5
+1,"18:40","Ryan Dunn turnover (bad pass) (Will Richard steals)",1120,"Turnover","turnover","Ryan Dunn",0,2,"Opp","vsFLA",6
+1,"18:39","Walter Clayton Jr. misses three point jump shot",1119,"Missed Three","misses","Walter Clayton Jr.",0,2,"Opp","vsFLA",6
+1,"18:31","Gators offensive rebound",1111,"Off Rebound","offensive rebound","Gators",0,2,"Opp","vsFLA",6
+1,"18:12","Walter Clayton Jr. makes two point jump shot",1092,"Made Two","makes","Walter Clayton Jr.",0,4,"Cavs","vsFLA",7
+1,"18:12","Tyrese Samuel personal foul (Isaac McKneely draws the foul)",1092,"Foul","personal foul","Tyrese Samuel",0,4,"Cavs","vsFLA",7
+1,"18:12","Isaac McKneely misses regular free throw 1 of 2",1092,"Missed FT","misses","Isaac McKneely",0,4,"Cavs","vsFLA",7
+1,"17:55","Isaac McKneely makes regular free throw 2 of 2",1075,"Made FT","makes","Isaac McKneely",1,4,"Opp","vsFLA",8
+1,"17:40","Micah Handlogten makes two point dunk (Tyrese Samuel assists)",1060,"Made Two","makes","Micah Handlogten",1,6,"Cavs","vsFLA",9
+1,"17:20","Isaac McKneely makes three point jump shot (Jacob Groves assists)",1040,"Made Three","makes","Isaac McKneely",4,6,"Opp","vsFLA",10
+1,"17:11","Riley Kugel turnover (bad pass) (Andrew Rohde steals)",1031,"Turnover","turnover","Riley Kugel",4,6,"Cavs","vsFLA",11
+1,"17:09","Walter Clayton Jr. blocks Reece Beekman's two point layup",1029,"Block","block","Walter Clayton Jr.",4,6,"Cavs","vsFLA",11
+1,"17:03","Micah Handlogten defensive rebound",1023,"Def Rebound","defensive rebound","Micah Handlogten",4,6,"Opp","vsFLA",12
+1,"16:57","Riley Kugel makes two point layup",1017,"Made Two","makes","Riley Kugel",4,8,"Cavs","vsFLA",13
+1,"16:55","Ryan Dunn misses two point fadeaway jump shot",1015,"Missed Two","misses","Ryan Dunn",4,8,"Cavs","vsFLA",13
+1,"16:25","Tyrese Samuel defensive rebound",985,"Def Rebound","defensive rebound","Tyrese Samuel",4,8,"Opp","vsFLA",14
+1,"16:09","Tyrese Samuel makes two point layup (Micah Handlogten assists)",969,"Made Two","makes","Tyrese Samuel",4,10,"Cavs","vsFLA",15
+1,"16:00","Andrew Rohde turnover (bad pass) (Tyrese Samuel steals)",960,"Turnover","turnover","Andrew Rohde",4,10,"Opp","vsFLA",16
+1,"15:58","Tyrese Samuel misses three point jump shot",958,"Missed Three","misses","Tyrese Samuel",4,10,"Opp","vsFLA",16
+1,"15:45","Isaac McKneely defensive rebound",945,"Def Rebound","defensive rebound","Isaac McKneely",4,10,"Cavs","vsFLA",17
+1,"15:43","Reece Beekman misses two point pullup jump shot",943,"Missed Two","misses","Reece Beekman",4,10,"Cavs","vsFLA",17
+1,"15:33","Walter Clayton Jr. defensive rebound",933,"Def Rebound","defensive rebound","Walter Clayton Jr.",4,10,"Opp","vsFLA",18
+1,"15:12","Tyrese Samuel makes two point layup (Walter Clayton Jr. assists)",912,"Made Two","makes","Tyrese Samuel",4,12,"Cavs","vsFLA",19
+1,"14:59","Reece Beekman makes three point jump shot (Ryan Dunn assists)",899,"Made Three","makes","Reece Beekman",7,12,"Opp","vsFLA",20
+1,"14:57","Micah Handlogten makes two point alley-oop layup (Walter Clayton Jr. assists)",897,"Made Two","makes","Micah Handlogten",7,14,"Cavs","vsFLA",21
+1,"14:56","Cavaliers lineup change (Isaac McKneely,Dante Harris,Andrew Rohde,Ryan Dunn,Blake Buchanan)",896,"Cav Sub"," ","Cavaliers",7,14,"Cavs","vsFLA",21
+1,"14:40","TV timeout",880,""," ","TV",7,14,"Cavs","vsFLA",21
+1,"14:38","Isaac McKneely misses two point floating jump shot",878,"Missed Two","misses","Isaac McKneely",7,14,"Cavs","vsFLA",21
+1,"14:30","Blake Buchanan offensive rebound",870,"Off Rebound","offensive rebound","Blake Buchanan",7,14,"Cavs","vsFLA",21
+1,"14:16","Ryan Dunn makes two point layup (Blake Buchanan assists)",856,"Made Two","makes","Ryan Dunn",9,14,"Opp","vsFLA",22
+1,"14:14","Walter Clayton Jr. misses two point pullup jump shot",854,"Missed Two","misses","Walter Clayton Jr.",9,14,"Opp","vsFLA",22
+1,"13:50","Ryan Dunn defensive rebound",830,"Def Rebound","defensive rebound","Ryan Dunn",9,14,"Cavs","vsFLA",23
+1,"13:44","Andrew Rohde makes three point jump shot (Reece Beekman assists)",824,"Made Three","makes","Andrew Rohde",12,14,"Opp","vsFLA",24
+1,"13:19","Walter Clayton Jr. turnover (bad pass) (Andrew Rohde steals)",799,"Turnover","turnover","Walter Clayton Jr.",12,14,"Cavs","vsFLA",25
+1,"13:08","Isaac McKneely turnover (bad pass) (Riley Kugel steals)",788,"Turnover","turnover","Isaac McKneely",12,14,"Opp","vsFLA",26
+1,"13:06","Riley Kugel misses two point layup",786,"Missed Two","misses","Riley Kugel",12,14,"Opp","vsFLA",26
+1,"12:57","Ryan Dunn defensive rebound",777,"Def Rebound","defensive rebound","Ryan Dunn",12,14,"Cavs","vsFLA",27
+1,"12:26","Blake Buchanan makes two point fadeaway jump shot (Ryan Dunn assists)",746,"Made Two","makes","Blake Buchanan",14,14,"Opp","vsFLA",28
+1,"12:24","Alex Condon misses two point layup",744,"Missed Two","misses","Alex Condon",14,14,"Opp","vsFLA",28
+1,"12:14","Isaac McKneely defensive rebound",734,"Def Rebound","defensive rebound","Isaac McKneely",14,14,"Cavs","vsFLA",29
+1,"11:53","Blake Buchanan makes two point dunk (Dante Harris assists)",713,"Made Two","makes","Blake Buchanan",16,14,"Opp","vsFLA",30
+1,"11:52","Riley Kugel misses three point jump shot",712,"Missed Three","misses","Riley Kugel",16,14,"Opp","vsFLA",30
+1,"11:52","Jump ball. Alex Condon vs. Blake Buchanan (Alex Condon gains possession)",712,"Jump Ball"," ","Jump",16,14,"Opp","vsFLA",30
+1,"11:52","Alex Condon offensive rebound",712,"Off Rebound","offensive rebound","Alex Condon",16,14,"Opp","vsFLA",30
+1,"11:52","Cavaliers lineup change (Isaac McKneely,Dante Harris,Reece Beekman,Leon Bond III,Blake Buchanan)",712,"Cav Sub"," ","Cavaliers",16,14,"Opp","vsFLA",30
+1,"11:38","TV timeout",698,""," ","TV",16,14,"Opp","vsFLA",30
+1,"11:17","Tyrese Samuel turnover (bad pass) (Dante Harris steals)",677,"Turnover","turnover","Tyrese Samuel",16,14,"Cavs","vsFLA",31
+1,"11:15","Blake Buchanan misses two point jump shot",675,"Missed Two","misses","Blake Buchanan",16,14,"Cavs","vsFLA",31
+1,"11:07","Leon Bond III offensive rebound",667,"Off Rebound","offensive rebound","Leon Bond III",16,14,"Cavs","vsFLA",31
+1,"10:48","Leon Bond III makes two point tip layup",648,"Made Two","makes","Leon Bond III",18,14,"Opp","vsFLA",32
+1,"10:46","Denzel Aberdeen misses three point jump shot",646,"Missed Three","misses","Denzel Aberdeen",18,14,"Opp","vsFLA",32
+1,"10:38","Isaac McKneely defensive rebound",638,"Def Rebound","defensive rebound","Isaac McKneely",18,14,"Cavs","vsFLA",33
+1,"10:36","Micah Handlogten blocks Leon Bond III's two point layup",636,"Block","block","Micah Handlogten",18,14,"Cavs","vsFLA",33
+1,"10:29","Tyrese Samuel defensive rebound",629,"Def Rebound","defensive rebound","Tyrese Samuel",18,14,"Opp","vsFLA",34
+1,"10:27","Tyrese Samuel misses three point jump shot",627,"Missed Three","misses","Tyrese Samuel",18,14,"Opp","vsFLA",34
+1,"10:19","Riley Kugel offensive rebound",619,"Off Rebound","offensive rebound","Riley Kugel",18,14,"Opp","vsFLA",34
+1,"10:17","Riley Kugel misses two point layup",617,"Missed Two","misses","Riley Kugel",18,14,"Opp","vsFLA",34
+1,"10:17","Tyrese Samuel offensive rebound",617,"Off Rebound","offensive rebound","Tyrese Samuel",18,14,"Opp","vsFLA",34
+1,"10:14","Leon Bond III personal foul",614,"Foul","personal foul","Leon Bond III",18,14,"Opp","vsFLA",34
+1,"9:42","Julian Rishwain makes three point jump shot (Walter Clayton Jr. assists)",582,"Made Three","makes","Julian Rishwain",18,17,"Cavs","vsFLA",35
+1,"9:42","Micah Handlogten blocks Blake Buchanan's two point layup",582,"Block","block","Micah Handlogten",18,17,"Cavs","vsFLA",35
+1,"9:42","Cavaliers offensive rebound",582,"Off Rebound","offensive rebound","Cavaliers",18,17,"Cavs","vsFLA",35
+1,"9:42","Cavaliers lineup change (Andrew Rohde,Dante Harris,Reece Beekman,Leon Bond III,Blake Buchanan)",582,"Cav Sub"," ","Cavaliers",18,17,"Cavs","vsFLA",35
+1,"9:26","Cavaliers turnover (shot clock violation)",566,"Turnover","turnover","Cavaliers",18,17,"Opp","vsFLA",36
+1,"9:24","Micah Handlogten misses two point layup",564,"Missed Two","misses","Micah Handlogten",18,17,"Opp","vsFLA",36
+1,"9:15","Micah Handlogten offensive rebound",555,"Off Rebound","offensive rebound","Micah Handlogten",18,17,"Opp","vsFLA",36
+1,"9:13","Micah Handlogten misses two point layup",553,"Missed Two","misses","Micah Handlogten",18,17,"Opp","vsFLA",36
+1,"9:11","Micah Handlogten offensive rebound",551,"Off Rebound","offensive rebound","Micah Handlogten",18,17,"Opp","vsFLA",36
+1,"9:09","Riley Kugel misses three point jump shot",549,"Missed Three","misses","Riley Kugel",18,17,"Opp","vsFLA",36
+1,"9:05","Gators offensive rebound",545,"Off Rebound","offensive rebound","Gators",18,17,"Opp","vsFLA",36
+1,"8:50","Micah Handlogten makes two point dunk (Julian Rishwain assists)",530,"Made Two","makes","Micah Handlogten",18,19,"Cavs","vsFLA",37
+1,"8:34","Reece Beekman makes two point stepback jump shot",514,"Made Two","makes","Reece Beekman",20,19,"Opp","vsFLA",38
+1,"8:14","Walter Clayton Jr. turnover (bad pass)",494,"Turnover","turnover","Walter Clayton Jr.",20,19,"Cavs","vsFLA",39
+1,"8:12","Leon Bond III misses two point jump shot",492,"Missed Two","misses","Leon Bond III",20,19,"Cavs","vsFLA",39
+1,"8:04","Blake Buchanan offensive rebound",484,"Off Rebound","offensive rebound","Blake Buchanan",20,19,"Cavs","vsFLA",39
+1,"8:02","Blake Buchanan misses two point layup",482,"Missed Two","misses","Blake Buchanan",20,19,"Cavs","vsFLA",39
+1,"7:57","Micah Handlogten defensive rebound",477,"Def Rebound","defensive rebound","Micah Handlogten",20,19,"Opp","vsFLA",40
+1,"7:50","Tyrese Samuel makes two point dunk (Riley Kugel assists)",470,"Made Two","makes","Tyrese Samuel",20,21,"Cavs","vsFLA",41
+1,"7:50","Julian Rishwain personal foul (Andrew Rohde draws the foul)",470,"Foul","personal foul","Julian Rishwain",20,21,"Cavs","vsFLA",41
+1,"7:50","Cavaliers lineup change (Andrew Rohde,Ryan Dunn,Reece Beekman,Isaac McKeenly,Jacob Groves)",470,"Cav Sub"," ","Cavaliers",20,21,"Cavs","vsFLA",41
+1,"7:36","TV timeout",456,""," ","TV",20,21,"Cavs","vsFLA",41
+1,"7:21","Andrew Rohde makes two point pullup jump shot (Jacob Groves assists)",441,"Made Two","makes","Andrew Rohde",22,21,"Opp","vsFLA",42
+1,"7:19","Riley Kugel misses two point layup",439,"Missed Two","misses","Riley Kugel",22,21,"Opp","vsFLA",42
+1,"6:59","Ryan Dunn defensive rebound",419,"Def Rebound","defensive rebound","Ryan Dunn",22,21,"Cavs","vsFLA",43
+1,"6:57","Jacob Groves misses three point jump shot",417,"Missed Three","misses","Jacob Groves",22,21,"Cavs","vsFLA",43
+1,"6:41","Tyrese Samuel defensive rebound",401,"Def Rebound","defensive rebound","Tyrese Samuel",22,21,"Opp","vsFLA",44
+1,"6:39","Alex Condon misses three point jump shot",399,"Missed Three","misses","Alex Condon",22,21,"Opp","vsFLA",44
+1,"6:18","Andrew Rohde defensive rebound",378,"Def Rebound","defensive rebound","Andrew Rohde",22,21,"Cavs","vsFLA",45
+1,"6:04","Jacob Groves makes two point reverse layup",364,"Made Two","makes","Jacob Groves",22,23,"Opp","vsFLA",46
+1,"5:52","Will Richard makes three point jump shot (Alex Condon assists)",352,"Made Three","makes","Will Richard",22,26,"Cavs","vsFLA",47
+1,"5:36","Reece Beekman makes two point layup",336,"Made Two","makes","Reece Beekman",24,26,"Opp","vsFLA",48
+1,"5:19","Walter Clayton Jr. makes three point jump shot (Will Richard assists)",319,"Made Three","makes","Walter Clayton Jr.",24,29,"Cavs","vsFLA",49
+1,"5:17","Andrew Rohde misses three point jump shot",317,"Missed Three","misses","Andrew Rohde",24,29,"Cavs","vsFLA",49
+1,"5:11","Andrew Rohde offensive rebound",311,"Off Rebound","offensive rebound","Andrew Rohde",24,29,"Cavs","vsFLA",49
+1,"4:59","Reece Beekman makes three point jump shot (Andrew Rohde assists)",299,"Made Three","makes","Reece Beekman",27,29,"Opp","vsFLA",50
+1,"4:39","Tyrese Samuel turnover (bad pass) (Reece Beekman steals)",279,"Turnover","turnover","Tyrese Samuel",27,29,"Cavs","vsFLA",51
+1,"4:37","Tyrese Samuel blocks Jacob Groves's two point layup",277,"Block","block","Tyrese Samuel",27,29,"Cavs","vsFLA",51
+1,"4:17","Walter Clayton Jr. defensive rebound",257,"Def Rebound","defensive rebound","Walter Clayton Jr.",27,29,"Opp","vsFLA",52
+1,"4:15","Walter Clayton Jr. misses three point jump shot",255,"Missed Three","misses","Walter Clayton Jr.",27,29,"Opp","vsFLA",52
+1,"4:03","Ryan Dunn defensive rebound",243,"Def Rebound","defensive rebound","Ryan Dunn",27,29,"Cavs","vsFLA",53
+1,"4:01","Reece Beekman misses three point jump shot",241,"Missed Three","misses","Reece Beekman",27,29,"Cavs","vsFLA",53
+1,"3:54","Tyrese Samuel defensive rebound",234,"Def Rebound","defensive rebound","Tyrese Samuel",27,29,"Opp","vsFLA",54
+1,"3:54","Ryan Dunn shooting foul (Walter Clayton Jr. draws the foul)",234,"Foul","shooting foul","Ryan Dunn",27,29,"Opp","vsFLA",54
+1,"3:54","TV timeout",234,""," ","TV",27,29,"Opp","vsFLA",54
+1,"3:54","Walter Clayton Jr. makes regular free throw 1 of 2",234,"Made FT","makes","Walter Clayton Jr.",27,30,"Opp","vsFLA",54
+1,"3:54","Cavaliers lineup change (Andrew Rohde,Ryan Dunn,Blake Buchanan,Isaac McKeenly,Dante Harris)",234,"Cav Sub"," ","Cavaliers",27,30,"Opp","vsFLA",54
+1,"3:35","Walter Clayton Jr. makes regular free throw 2 of 2",215,"Made FT","makes","Walter Clayton Jr.",27,31,"Cavs","vsFLA",55
+1,"3:19","Dante Harris makes two point pullup jump shot",199,"Made Two","makes","Dante Harris",29,31,"Opp","vsFLA",56
+1,"2:59","Will Richard makes three point jump shot (Denzel Aberdeen assists)",179,"Made Three","makes","Will Richard",29,34,"Cavs","vsFLA",57
+1,"2:59","Denzel Aberdeen personal foul (Ryan Dunn draws the foul)",179,"Foul","personal foul","Denzel Aberdeen",29,34,"Cavs","vsFLA",57
+1,"2:56","Thomas Haugh personal foul",176,"Foul","personal foul","Thomas Haugh",29,34,"Cavs","vsFLA",57
+1,"2:31","Andrew Rohde makes two point fadeaway jump shot (Dante Harris assists)",151,"Made Two","makes","Andrew Rohde",31,34,"Opp","vsFLA",58
+1,"2:29","Walter Clayton Jr. misses three point jump shot",149,"Missed Three","misses","Walter Clayton Jr.",31,34,"Opp","vsFLA",58
+1,"2:28","Cavaliers defensive rebound",148,"Def Rebound","defensive rebound","Cavaliers",31,34,"Cavs","vsFLA",59
+1,"2:08","Thomas Haugh personal foul",128,"Foul","personal foul","Thomas Haugh",31,34,"Cavs","vsFLA",59
+1,"1:52","Dante Harris makes two point pullup jump shot",112,"Made Two","makes","Dante Harris",33,34,"Opp","vsFLA",60
+1,"1:50","Riley Kugel misses two point layup",110,"Missed Two","misses","Riley Kugel",33,34,"Opp","vsFLA",60
+1,"1:38","Cavaliers defensive rebound",98,"Def Rebound","defensive rebound","Cavaliers",33,34,"Cavs","vsFLA",61
+1,"1:36","Andrew Rohde misses two point floating jump shot",96,"Missed Two","misses","Andrew Rohde",33,34,"Cavs","vsFLA",61
+1,"1:29","Jump ball.  (Blake Buchanan gains possession)",89,"Jump Ball"," ","Jump",33,34,"Cavs","vsFLA",61
+1,"1:11","Blake Buchanan offensive rebound",71,"Off Rebound","offensive rebound","Blake Buchanan",33,34,"Cavs","vsFLA",61
+1,"1:09","Isaac McKneely misses two point layup",69,"Missed Two","misses","Isaac McKneely",33,34,"Cavs","vsFLA",61
+1,"0:59","Tyrese Samuel defensive rebound",59,"Def Rebound","defensive rebound","Tyrese Samuel",33,34,"Opp","vsFLA",62
+1,"0:52","Will Richard turnover (bad pass) (Ryan Dunn steals)",52,"Turnover","turnover","Will Richard",33,34,"Cavs","vsFLA",63
+1,"0:47","Ryan Dunn makes two point dunk",47,"Made Two","makes","Ryan Dunn",35,34,"Opp","vsFLA",64
+1,"0:44","Will Richard makes three point jump shot (Tyrese Samuel assists)",44,"Made Three","makes","Will Richard",35,37,"Cavs","vsFLA",65
+1,"0:23","Gators 30 second timeout",23,"Timeout","second timeout","Gators 30",35,37,"Cavs","vsFLA",65
+1,"0:03","Dante Harris makes two point layup",3,"Made Two","makes","Dante Harris",37,37,"Opp","vsFLA",66
+2,"20:00","2ND HALF",1200,""," ","2ND",37,37,"Opp","vsFLA",66
+2,"20:00","Cavaliers lineup change (Andrew Rohde,Ryan Dunn,Blake Buchanan,Isaac McKeenly,Reece Beekman)",1200,"Cav Sub"," ","Cavaliers",37,37,"Opp","vsFLA",66
+2,"19:46","Open inbound Gators",1186,""," ","Open",37,37,"Opp","vsFLA",66
+2,"19:37","Walter Clayton Jr. turnover (bad pass) (Ryan Dunn steals)",1177,"Turnover","turnover","Walter Clayton Jr.",37,37,"Cavs","vsFLA",67
+2,"19:37","Reece Beekman misses two point layup",1177,"Missed Two","misses","Reece Beekman",37,37,"Cavs","vsFLA",67
+2,"19:37","Blake Buchanan offensive rebound",1177,"Off Rebound","offensive rebound","Blake Buchanan",37,37,"Cavs","vsFLA",67
+2,"19:37","Micah Handlogten shooting foul (Blake Buchanan draws the foul)",1177,"Foul","shooting foul","Micah Handlogten",37,37,"Cavs","vsFLA",67
+2,"19:37","Blake Buchanan misses regular free throw 1 of 2",1177,"Missed FT","misses","Blake Buchanan",37,37,"Cavs","vsFLA",67
+2,"19:10","Blake Buchanan makes regular free throw 2 of 2",1150,"Made FT","makes","Blake Buchanan",38,37,"Opp","vsFLA",68
+2,"19:08","Will Richard misses two point layup",1148,"Missed Two","misses","Will Richard",38,37,"Opp","vsFLA",68
+2,"19:01","Tyrese Samuel offensive rebound",1141,"Off Rebound","offensive rebound","Tyrese Samuel",38,37,"Opp","vsFLA",68
+2,"18:59","Riley Kugel misses three point jump shot",1139,"Missed Three","misses","Riley Kugel",38,37,"Opp","vsFLA",68
+2,"18:55","Micah Handlogten offensive rebound",1135,"Off Rebound","offensive rebound","Micah Handlogten",38,37,"Opp","vsFLA",68
+2,"18:43","Micah Handlogten makes two point tip layup",1123,"Made Two","makes","Micah Handlogten",38,39,"Cavs","vsFLA",69
+2,"18:41","Reece Beekman misses three point jump shot",1121,"Missed Three","misses","Reece Beekman",38,39,"Cavs","vsFLA",69
+2,"18:26","Riley Kugel defensive rebound",1106,"Def Rebound","defensive rebound","Riley Kugel",38,39,"Opp","vsFLA",70
+2,"18:24","Will Richard misses three point jump shot",1104,"Missed Three","misses","Will Richard",38,39,"Opp","vsFLA",70
+2,"18:14","Reece Beekman defensive rebound",1094,"Def Rebound","defensive rebound","Reece Beekman",38,39,"Cavs","vsFLA",71
+2,"18:07","Blake Buchanan makes two point dunk (Reece Beekman assists)",1087,"Made Two","makes","Blake Buchanan",40,39,"Opp","vsFLA",72
+2,"17:52","Tyrese Samuel turnover (lost ball) (Ryan Dunn steals)",1072,"Turnover","turnover","Tyrese Samuel",40,39,"Cavs","vsFLA",73
+2,"17:26","Blake Buchanan makes two point jump shot (Reece Beekman assists)",1046,"Made Two","makes","Blake Buchanan",42,39,"Opp","vsFLA",74
+2,"17:16","Riley Kugel turnover (bad pass) (Ryan Dunn steals)",1036,"Turnover","turnover","Riley Kugel",42,39,"Cavs","vsFLA",75
+2,"17:14","Ryan Dunn misses three point jump shot",1034,"Missed Three","misses","Ryan Dunn",42,39,"Cavs","vsFLA",75
+2,"16:58","Micah Handlogten defensive rebound",1018,"Def Rebound","defensive rebound","Micah Handlogten",42,39,"Opp","vsFLA",76
+2,"16:39","Tyrese Samuel makes two point layup (Micah Handlogten assists)",999,"Made Two","makes","Tyrese Samuel",42,41,"Cavs","vsFLA",77
+2,"16:37","Isaac McKneely misses two point jump shot",997,"Missed Two","misses","Isaac McKneely",42,41,"Cavs","vsFLA",77
+2,"16:28","Micah Handlogten defensive rebound",988,"Def Rebound","defensive rebound","Micah Handlogten",42,41,"Opp","vsFLA",78
+2,"16:27","Walter Clayton Jr. misses two point layup",987,"Missed Two","misses","Walter Clayton Jr.",42,41,"Opp","vsFLA",78
+2,"16:27","Cavaliers lineup change (Andrew Rohde,Jacob Groves,Blake Buchanan,Isaac McKeenly,Reece Beekman)",987,"Cav Sub"," ","Cavaliers",42,41,"Opp","vsFLA",78
+2,"16:15","Gators offensive rebound",975,"Off Rebound","offensive rebound","Gators",42,41,"Opp","vsFLA",78
+2,"16:13","Will Richard misses three point jump shot",973,"Missed Three","misses","Will Richard",42,41,"Opp","vsFLA",78
+2,"15:56","Blake Buchanan defensive rebound",956,"Def Rebound","defensive rebound","Blake Buchanan",42,41,"Cavs","vsFLA",79
+2,"15:37","Jacob Groves makes three point jump shot (Isaac McKneely assists)",937,"Made Three","makes","Jacob Groves",42,44,"Opp","vsFLA",80
+2,"15:07","Tyrese Samuel makes two point finger roll layup",907,"Made Two","makes","Tyrese Samuel",42,46,"Cavs","vsFLA",81
+2,"14:55","Jacob Groves makes three point jump shot (Andrew Rohde assists)",895,"Made Three","makes","Jacob Groves",42,49,"Opp","vsFLA",82
+2,"14:53","Julian Rishwain misses three point jump shot",893,"Missed Three","misses","Julian Rishwain",42,49,"Opp","vsFLA",82
+2,"14:43","Isaac McKneely defensive rebound",883,"Def Rebound","defensive rebound","Isaac McKneely",42,49,"Cavs","vsFLA",83
+2,"14:43","Micah Handlogten shooting foul (Jacob Groves draws the foul)",883,"Foul","shooting foul","Micah Handlogten",42,49,"Cavs","vsFLA",83
+2,"14:43","TV timeout",883,""," ","TV",42,49,"Cavs","vsFLA",83
+2,"14:43","Jacob Groves makes regular free throw 1 of 2",883,"Made FT","makes","Jacob Groves",42,50,"Cavs","vsFLA",83
+2,"14:42","Cavaliers lineup change (Andrew Rohde,Jacob Groves,Dante Harris,Ryan Dunn,Reece Beekman)",882,"Cav Sub"," ","Cavaliers",42,50,"Cavs","vsFLA",83
+2,"14:31","Jacob Groves makes regular free throw 2 of 2",871,"Made FT","makes","Jacob Groves",42,51,"Opp","vsFLA",84
+2,"14:07","Micah Handlogten turnover (bad pass) (Ryan Dunn steals)",847,"Turnover","turnover","Micah Handlogten",42,51,"Cavs","vsFLA",85
+2,"14:05","Dante Harris misses three point jump shot",845,"Missed Three","misses","Dante Harris",42,51,"Cavs","vsFLA",85
+2,"13:48","Julian Rishwain defensive rebound",828,"Def Rebound","defensive rebound","Julian Rishwain",42,51,"Opp","vsFLA",86
+2,"13:48","Jacob Groves shooting foul (Will Richard draws the foul)",828,"Foul","shooting foul","Jacob Groves",42,51,"Opp","vsFLA",86
+2,"13:48","Will Richard makes regular free throw 1 of 2",828,"Made FT","makes","Will Richard",42,52,"Opp","vsFLA",86
+2,"13:30","Will Richard makes regular free throw 2 of 2",810,"Made FT","makes","Will Richard",42,53,"Cavs","vsFLA",87
+2,"13:10","Jacob Groves makes two point turnaround hook shot",790,"Made Two","makes","Jacob Groves",42,55,"Opp","vsFLA",88
+2,"13:02","Jacob Groves personal foul (Tyrese Samuel draws the foul)",782,"Foul","personal foul","Jacob Groves",42,55,"Opp","vsFLA",88
+2,"12:41","Dante Harris personal foul (Denzel Aberdeen draws the foul)",761,"Foul","personal foul","Dante Harris",42,55,"Opp","vsFLA",88
+2,"12:12","Riley Kugel makes three point pullup jump shot",732,"Made Three","makes","Riley Kugel",42,58,"Cavs","vsFLA",89
+2,"12:10","Dante Harris misses two point jump shot",730,"Missed Two","misses","Dante Harris",42,58,"Cavs","vsFLA",89
+2,"12:02","Thomas Haugh defensive rebound",722,"Def Rebound","defensive rebound","Thomas Haugh",42,58,"Opp","vsFLA",90
+2,"11:58","Riley Kugel turnover (lost ball) (Jacob Groves steals)",718,"Turnover","turnover","Riley Kugel",42,58,"Cavs","vsFLA",91
+2,"11:58","Jacob Groves misses two point dunk",718,"Missed Two","misses","Jacob Groves",42,58,"Cavs","vsFLA",91
+2,"11:58","Denzel Aberdeen defensive rebound",718,"Def Rebound","defensive rebound","Denzel Aberdeen",42,58,"Opp","vsFLA",92
+2,"11:58","Jacob Groves personal foul (Denzel Aberdeen draws the foul)",718,"Foul","personal foul","Jacob Groves",42,58,"Opp","vsFLA",92
+2,"11:58","Cavaliers lineup change (Blake Buchanan,Isaac McKeenly,Dante Harris,Ryan Dunn,Reece Beekman)",718,"Cav Sub"," ","Cavaliers",42,58,"Opp","vsFLA",92
+2,"11:45","TV timeout",705,""," ","TV",42,58,"Opp","vsFLA",92
+2,"11:08","Riley Kugel makes two point dunk (Thomas Haugh assists)",668,"Made Two","makes","Riley Kugel",42,60,"Cavs","vsFLA",93
+2,"11:06","Isaac McKneely misses two point pullup jump shot",666,"Missed Two","misses","Isaac McKneely",42,60,"Cavs","vsFLA",93
+2,"10:44","Thomas Haugh defensive rebound",644,"Def Rebound","defensive rebound","Thomas Haugh",42,60,"Opp","vsFLA",94
+2,"10:43","Tyrese Samuel misses two point hook shot",643,"Missed Two","misses","Tyrese Samuel",42,60,"Opp","vsFLA",94
+2,"10:43","Thomas Haugh offensive rebound",643,"Off Rebound","offensive rebound","Thomas Haugh",42,60,"Opp","vsFLA",94
+2,"10:34","Blake Buchanan personal foul (Thomas Haugh draws the foul)",634,"Foul","personal foul","Blake Buchanan",42,60,"Opp","vsFLA",94
+2,"10:33","Reece Beekman blocks Will Richard's two point layup",633,"Block","block","Reece Beekman",42,60,"Opp","vsFLA",94
+2,"10:33","Thomas Haugh offensive rebound",633,"Off Rebound","offensive rebound","Thomas Haugh",42,60,"Opp","vsFLA",94
+2,"10:31","Thomas Haugh misses two point layup",631,"Missed Two","misses","Thomas Haugh",42,60,"Opp","vsFLA",94
+2,"10:31","Reece Beekman defensive rebound",631,"Def Rebound","defensive rebound","Reece Beekman",42,60,"Cavs","vsFLA",95
+2,"10:18","Tyrese Samuel personal foul (Reece Beekman draws the foul)",618,"Foul","personal foul","Tyrese Samuel",42,60,"Cavs","vsFLA",95
+2,"10:16","Ryan Dunn misses three point jump shot",616,"Missed Three","misses","Ryan Dunn",42,60,"Cavs","vsFLA",95
+2,"10:03","Tyrese Samuel defensive rebound",603,"Def Rebound","defensive rebound","Tyrese Samuel",42,60,"Opp","vsFLA",96
+2,"10:01","Riley Kugel misses three point jump shot",601,"Missed Three","misses","Riley Kugel",42,60,"Opp","vsFLA",96
+2,"9:54","Ryan Dunn defensive rebound",594,"Def Rebound","defensive rebound","Ryan Dunn",42,60,"Cavs","vsFLA",97
+2,"9:54","Cavaliers lineup change (Blake Buchanan,Isaac McKeenly,Dante Harris,Ryan Dunn,Andrew Rohde)",594,"Cav Sub"," ","Cavaliers",42,60,"Cavs","vsFLA",97
+2,"9:49","Tyrese Samuel personal foul",589,"Foul","personal foul","Tyrese Samuel",42,60,"Cavs","vsFLA",97
+2,"9:49","Alex Condon shooting foul (Blake Buchanan draws the foul)",589,"Foul","shooting foul","Alex Condon",42,60,"Cavs","vsFLA",97
+2,"9:49","Blake Buchanan misses regular free throw 1 of 2",589,"Missed FT","misses","Blake Buchanan",42,60,"Cavs","vsFLA",97
+2,"9:49","Blake Buchanan misses regular free throw 2 of 2",589,"Missed FT","misses","Blake Buchanan",42,60,"Cavs","vsFLA",97
+2,"9:35","Micah Handlogten defensive rebound",575,"Def Rebound","defensive rebound","Micah Handlogten",42,60,"Opp","vsFLA",98
+2,"9:33","Riley Kugel misses two point layup",573,"Missed Two","misses","Riley Kugel",42,60,"Opp","vsFLA",98
+2,"9:31","Alex Condon offensive rebound",571,"Off Rebound","offensive rebound","Alex Condon",42,60,"Opp","vsFLA",98
+2,"9:29","Walter Clayton Jr. misses three point jump shot",569,"Missed Three","misses","Walter Clayton Jr.",42,60,"Opp","vsFLA",98
+2,"9:17","Cavaliers defensive rebound",557,"Def Rebound","defensive rebound","Cavaliers",42,60,"Cavs","vsFLA",99
+2,"9:15","Isaac McKneely misses two point pullup jump shot",555,"Missed Two","misses","Isaac McKneely",42,60,"Cavs","vsFLA",99
+2,"9:05","Micah Handlogten defensive rebound",545,"Def Rebound","defensive rebound","Micah Handlogten",42,60,"Opp","vsFLA",100
+2,"9:05","Cavaliers lineup change (Blake Buchanan,Isaac McKeenly,Reece Beekman,Jacob Groves,Andrew Rohde)",545,"Cav Sub"," ","Cavaliers",42,60,"Opp","vsFLA",100
+2,"8:50","Andrew Rohde personal foul (Riley Kugel draws the foul)",530,"Foul","personal foul","Andrew Rohde",42,60,"Opp","vsFLA",100
+2,"8:31","Will Richard makes three point jump shot (Walter Clayton Jr. assists)",511,"Made Three","makes","Will Richard",42,63,"Cavs","vsFLA",101
+2,"8:25","Will Richard personal foul (Andrew Rohde draws the foul)",505,"Foul","personal foul","Will Richard",42,63,"Cavs","vsFLA",101
+2,"8:20","Blake Buchanan turnover (bad pass) (Micah Handlogten steals)",500,"Turnover","turnover","Blake Buchanan",42,63,"Opp","vsFLA",102
+2,"8:20","Riley Kugel makes two point layup",500,"Made Two","makes","Riley Kugel",42,65,"Opp","vsFLA",102
+2,"8:20","Blake Buchanan shooting foul (Riley Kugel draws the foul)",500,"Foul","shooting foul","Blake Buchanan",42,65,"Opp","vsFLA",102
+2,"8:20","Riley Kugel misses regular free throw 1 of 1",500,"Missed FT","misses","Riley Kugel",42,65,"Opp","vsFLA",102
+2,"8:15","Micah Handlogten offensive rebound",495,"Off Rebound","offensive rebound","Micah Handlogten",42,65,"Opp","vsFLA",102
+2,"8:00","Micah Handlogten makes two point putback layup",480,"Made Two","makes","Micah Handlogten",42,67,"Cavs","vsFLA",103
+2,"7:59","Reece Beekman misses two point layup",479,"Missed Two","misses","Reece Beekman",42,67,"Cavs","vsFLA",103
+2,"7:59","Blake Buchanan offensive rebound",479,"Off Rebound","offensive rebound","Blake Buchanan",42,67,"Cavs","vsFLA",103
+2,"7:59","Micah Handlogten shooting foul (Blake Buchanan draws the foul)",479,"Foul","shooting foul","Micah Handlogten",42,67,"Cavs","vsFLA",103
+2,"7:59","TV timeout",479,""," ","TV",42,67,"Cavs","vsFLA",103
+2,"7:59","Blake Buchanan misses regular free throw 1 of 2",479,"Missed FT","misses","Blake Buchanan",42,67,"Cavs","vsFLA",103
+2,"7:47","Blake Buchanan makes regular free throw 2 of 2",467,"Made FT","makes","Blake Buchanan",43,67,"Opp","vsFLA",104
+2,"7:45","Walter Clayton Jr. misses three point jump shot",465,"Missed Three","misses","Walter Clayton Jr.",43,67,"Opp","vsFLA",104
+2,"7:39","Will Richard offensive rebound",459,"Off Rebound","offensive rebound","Will Richard",43,67,"Opp","vsFLA",104
+2,"7:39","Jacob Groves personal foul (Will Richard draws the foul)",459,"Foul","personal foul","Jacob Groves",43,67,"Opp","vsFLA",104
+2,"7:39","Will Richard makes regular free throw 1 of 2",459,"Made FT","makes","Will Richard",43,68,"Opp","vsFLA",104
+2,"7:39","Cavaliers lineup change (Blake Buchanan,Isaac McKeenly,Reece Beekman,Ryan Dunn,Andrew Rohde)",459,"Cav Sub"," ","Cavaliers",43,68,"Opp","vsFLA",104
+2,"7:18","Will Richard makes regular free throw 2 of 2",438,"Made FT","makes","Will Richard",43,69,"Cavs","vsFLA",105
+2,"7:18","Alex Condon shooting foul (Blake Buchanan draws the foul)",438,"Foul","shooting foul","Alex Condon",43,69,"Cavs","vsFLA",105
+2,"7:18","Blake Buchanan makes regular free throw 1 of 2",438,"Made FT","makes","Blake Buchanan",44,69,"Cavs","vsFLA",105
+2,"6:58","Blake Buchanan makes regular free throw 2 of 2",418,"Made FT","makes","Blake Buchanan",45,69,"Opp","vsFLA",106
+2,"6:56","Riley Kugel misses two point layup",416,"Missed Two","misses","Riley Kugel",45,69,"Opp","vsFLA",106
+2,"6:55","Alex Condon offensive rebound",415,"Off Rebound","offensive rebound","Alex Condon",45,69,"Opp","vsFLA",106
+2,"6:54","Alex Condon misses two point layup",414,"Missed Two","misses","Alex Condon",45,69,"Opp","vsFLA",106
+2,"6:53","Jump ball.  (Isaac McKneely gains possession)",413,"Jump Ball"," ","Jump",45,69,"Opp","vsFLA",106
+2,"6:37","Isaac McKneely defensive rebound",397,"Def Rebound","defensive rebound","Isaac McKneely",45,69,"Cavs","vsFLA",107
+2,"6:22","Isaac McKneely makes three point jump shot (Reece Beekman assists)",382,"Made Three","makes","Isaac McKneely",48,69,"Opp","vsFLA",108
+2,"6:16","Alex Condon turnover (bad pass) (Reece Beekman steals)",376,"Turnover","turnover","Alex Condon",48,69,"Cavs","vsFLA",109
+2,"6:16","Micah Handlogten shooting foul (Blake Buchanan draws the foul)",376,"Foul","shooting foul","Micah Handlogten",48,69,"Cavs","vsFLA",109
+2,"6:16","Blake Buchanan makes regular free throw 1 of 2",376,"Made FT","makes","Blake Buchanan",49,69,"Cavs","vsFLA",109
+2,"5:56","Blake Buchanan makes regular free throw 2 of 2",356,"Made FT","makes","Blake Buchanan",50,69,"Opp","vsFLA",110
+2,"5:54","Walter Clayton Jr. misses two point layup",354,"Missed Two","misses","Walter Clayton Jr.",50,69,"Opp","vsFLA",110
+2,"5:35","Blake Buchanan defensive rebound",335,"Def Rebound","defensive rebound","Blake Buchanan",50,69,"Cavs","vsFLA",111
+2,"5:33","Andrew Rohde misses three point jump shot",333,"Missed Three","misses","Andrew Rohde",50,69,"Cavs","vsFLA",111
+2,"5:25","Walter Clayton Jr. defensive rebound",325,"Def Rebound","defensive rebound","Walter Clayton Jr.",50,69,"Opp","vsFLA",112
+2,"5:23","Riley Kugel misses three point stepback jump shot",323,"Missed Three","misses","Riley Kugel",50,69,"Opp","vsFLA",112
+2,"5:18","Gators offensive rebound",318,"Off Rebound","offensive rebound","Gators",50,69,"Opp","vsFLA",112
+2,"5:17","Will Richard misses two point layup",317,"Missed Two","misses","Will Richard",50,69,"Opp","vsFLA",112
+2,"5:16","Micah Handlogten offensive rebound",316,"Off Rebound","offensive rebound","Micah Handlogten",50,69,"Opp","vsFLA",112
+2,"5:15","Micah Handlogten misses two point layup",315,"Missed Two","misses","Micah Handlogten",50,69,"Opp","vsFLA",112
+2,"5:15","Micah Handlogten offensive rebound",315,"Off Rebound","offensive rebound","Micah Handlogten",50,69,"Opp","vsFLA",112
+2,"5:15","Micah Handlogten makes two point layup",315,"Made Two","makes","Micah Handlogten",50,71,"Cavs","vsFLA",113
+2,"5:15","Gators 30 second timeout",315,"Timeout","second timeout","Gators 30",50,71,"Cavs","vsFLA",113
+2,"5:14","Cavaliers lineup change (Jacob Groves,Isaac McKeenly,Reece Beekman,Ryan Dunn,Andrew Rohde)",314,"Cav Sub"," ","Cavaliers",50,71,"Cavs","vsFLA",113
+2,"4:47","TV timeout",287,""," ","TV",50,71,"Cavs","vsFLA",113
+2,"4:45","Isaac McKneely misses three point jump shot",285,"Missed Three","misses","Isaac McKneely",50,71,"Cavs","vsFLA",113
+2,"4:14","Tyrese Samuel defensive rebound",254,"Def Rebound","defensive rebound","Tyrese Samuel",50,71,"Opp","vsFLA",114
+2,"4:12","Will Richard misses three point jump shot",252,"Missed Three","misses","Will Richard",50,71,"Opp","vsFLA",114
+2,"3:51","Ryan Dunn defensive rebound",231,"Def Rebound","defensive rebound","Ryan Dunn",50,71,"Cavs","vsFLA",115
+2,"3:51","Walter Clayton Jr. shooting foul (Reece Beekman draws the foul)",231,"Foul","shooting foul","Walter Clayton Jr.",50,71,"Cavs","vsFLA",115
+2,"3:51","TV timeout",231,""," ","TV",50,71,"Cavs","vsFLA",115
+2,"3:51","Reece Beekman misses regular free throw 1 of 2",231,"Missed FT","misses","Reece Beekman",50,71,"Cavs","vsFLA",115
+2,"3:50","Cavaliers lineup change (Blake Buchanan,Isaac McKeenly,Reece Beekman,Ryan Dunn,Andrew Rohde)",230,"Cav Sub"," ","Cavaliers",50,71,"Cavs","vsFLA",115
+2,"3:49","Reece Beekman misses regular free throw 2 of 2",229,"Missed FT","misses","Reece Beekman",50,71,"Cavs","vsFLA",115
+2,"3:41","Tyrese Samuel defensive rebound",221,"Def Rebound","defensive rebound","Tyrese Samuel",50,71,"Opp","vsFLA",116
+2,"3:41","Isaac McKneely personal foul (Riley Kugel draws the foul)",221,"Foul","personal foul","Isaac McKneely",50,71,"Opp","vsFLA",116
+2,"3:41","Riley Kugel makes regular free throw 1 of 2",221,"Made FT","makes","Riley Kugel",50,72,"Opp","vsFLA",116
+2,"3:41","Riley Kugel misses regular free throw 2 of 2",221,"Missed FT","misses","Riley Kugel",50,72,"Opp","vsFLA",116
+2,"3:29","Micah Handlogten offensive rebound",209,"Off Rebound","offensive rebound","Micah Handlogten",50,72,"Opp","vsFLA",116
+2,"3:13","Riley Kugel makes two point layup (Tyrese Samuel assists)",193,"Made Two","makes","Riley Kugel",50,74,"Cavs","vsFLA",117
+2,"2:59","Isaac McKneely makes two point jump shot (Reece Beekman assists)",179,"Made Two","makes","Isaac McKneely",52,74,"Opp","vsFLA",118
+2,"2:57","Isaac McKneely blocks Riley Kugel's two point layup",177,"Block","block","Isaac McKneely",52,74,"Opp","vsFLA",118
+2,"2:44","Isaac McKneely defensive rebound",164,"Def Rebound","defensive rebound","Isaac McKneely",52,74,"Cavs","vsFLA",119
+2,"2:44","Micah Handlogten personal foul (Blake Buchanan draws the foul)",164,"Foul","personal foul","Micah Handlogten",52,74,"Cavs","vsFLA",119
+2,"2:44","Blake Buchanan makes regular free throw 1 of 2",164,"Made FT","makes","Blake Buchanan",53,74,"Cavs","vsFLA",119
+2,"2:44","Blake Buchanan misses regular free throw 2 of 2",164,"Missed FT","misses","Blake Buchanan",53,74,"Cavs","vsFLA",119
+2,"2:35","Riley Kugel defensive rebound",155,"Def Rebound","defensive rebound","Riley Kugel",53,74,"Opp","vsFLA",120
+2,"2:35","Reece Beekman personal foul (Walter Clayton Jr. draws the foul)",155,"Foul","personal foul","Reece Beekman",53,74,"Opp","vsFLA",120
+2,"2:35","Walter Clayton Jr. makes regular free throw 1 of 2",155,"Made FT","makes","Walter Clayton Jr.",53,75,"Opp","vsFLA",120
+2,"2:35","Walter Clayton Jr. makes regular free throw 2 of 2",155,"Made FT","makes","Walter Clayton Jr.",53,76,"Cavs","vsFLA",121
+2,"2:17","Gators 30 second timeout",137,"Timeout","second timeout","Gators 30",53,76,"Cavs","vsFLA",121
+2,"2:15","Isaac McKneely misses three point jump shot",135,"Missed Three","misses","Isaac McKneely",53,76,"Cavs","vsFLA",121
+2,"2:13","Walter Clayton Jr. defensive rebound",133,"Def Rebound","defensive rebound","Walter Clayton Jr.",53,76,"Opp","vsFLA",122
+2,"2:13","Isaac McKneely personal foul",133,"Foul","personal foul","Isaac McKneely",53,76,"Opp","vsFLA",122
+2,"2:13","Thomas Haugh makes regular free throw 1 of 2",133,"Made FT","makes","Thomas Haugh",53,77,"Opp","vsFLA",122
+2,"2:11","Thomas Haugh misses regular free throw 2 of 2",131,"Missed FT","misses","Thomas Haugh",53,77,"Opp","vsFLA",122
+2,"1:58","Ryan Dunn defensive rebound",118,"Def Rebound","defensive rebound","Ryan Dunn",53,77,"Cavs","vsFLA",123
+2,"1:48","Reece Beekman makes two point layup",108,"Made Two","makes","Reece Beekman",55,77,"Opp","vsFLA",124
+2,"1:32","Riley Kugel makes two point layup (Walter Clayton Jr. assists)",92,"Made Two","makes","Riley Kugel",55,79,"Cavs","vsFLA",125
+2,"1:30","Reece Beekman misses two point layup",90,"Missed Two","misses","Reece Beekman",55,79,"Cavs","vsFLA",125
+2,"1:27","Ryan Dunn offensive rebound",87,"Off Rebound","offensive rebound","Ryan Dunn",55,79,"Cavs","vsFLA",125
+2,"1:18","Ryan Dunn makes two point layup",78,"Made Two","makes","Ryan Dunn",57,79,"Opp","vsFLA",126
+2,"1:02","Walter Clayton Jr. makes two point layup",62,"Made Two","makes","Walter Clayton Jr.",57,81,"Cavs","vsFLA",127
+2,"1:02","Will Richard personal foul (Blake Buchanan draws the foul)",62,"Foul","personal foul","Will Richard",57,81,"Cavs","vsFLA",127
+2,"1:02","Blake Buchanan makes regular free throw 1 of 2",62,"Made FT","makes","Blake Buchanan",58,81,"Cavs","vsFLA",127
+2,"1:02","Cavaliers lineup change (Blake Buchanan,Isaac McKeenly,Reece Beekman,Ryan Dunn,Dante Harris)",62,"Cav Sub"," ","Cavaliers",58,81,"Cavs","vsFLA",127
+2,"0:54","Cavaliers lineup change (Blake Buchanan,Isaac McKeenly,Reece Beekman,Ryan Dunn,Andrew Rohde)",54,"Cav Sub"," ","Cavaliers",58,81,"Cavs","vsFLA",127
+2,"0:51","Blake Buchanan makes regular free throw 2 of 2",51,"Made FT","makes","Blake Buchanan",59,81,"Opp","vsFLA",128
+2,"0:51","Ryan Dunn personal foul (Walter Clayton Jr. draws the foul)",51,"Foul","personal foul","Ryan Dunn",59,81,"Opp","vsFLA",128
+2,"0:51","Walter Clayton Jr. misses regular free throw 1 of 2",51,"Missed FT","misses","Walter Clayton Jr.",59,81,"Opp","vsFLA",128
+2,"0:28","Walter Clayton Jr. makes regular free throw 2 of 2",28,"Made FT","makes","Walter Clayton Jr.",59,82,"Cavs","vsFLA",129
+2,"0:12","Reece Beekman turnover (traveling)",12,"Turnover","turnover","Reece Beekman",59,82,"Opp","vsFLA",130
+2,"0:11","Walter Clayton Jr. turnover (bad pass) (Reece Beekman steals)",11,"Turnover","turnover","Walter Clayton Jr.",59,82,"Cavs","vsFLA",131
+2,"0:11","Thomas Haugh personal foul (Blake Buchanan draws the foul)",11,"Foul","personal foul","Thomas Haugh",59,82,"Cavs","vsFLA",131
+2,"0:11","Blake Buchanan makes regular free throw 1 of 2",11,"Made FT","makes","Blake Buchanan",60,82,"Cavs","vsFLA",131
+2,"0:11","Gators 30 second timeout",11,"Timeout","second timeout","Gators 30",60,82,"Cavs","vsFLA",131
+2,"0:11","Blake Buchanan misses regular free throw 2 of 2",11,"Missed FT","misses","Blake Buchanan",60,82,"Cavs","vsFLA",131
+2,"0:10","Tyrese Samuel defensive rebound",10,"Def Rebound","defensive rebound","Tyrese Samuel",60,82,"Opp","vsFLA",132
+2,"0:02","Walter Clayton Jr. turnover (lost ball) (Reece Beekman steals)",2,"Turnover","turnover","Walter Clayton Jr.",60,82,"Cavs","vsFLA",133
+2,"0:02","Thomas Haugh personal foul (Reece Beekman draws the foul)",2,"Foul","personal foul","Thomas Haugh",60,82,"Cavs","vsFLA",133
+2,"0:02","Reece Beekman misses regular free throw 1 of 2",2,"Missed FT","misses","Reece Beekman",60,82,"Cavs","vsFLA",133
+2,"0:00","Tyrese Samuel turnover (lost ball) (Dante Harris steals)",0,"Turnover","turnover","Tyrese Samuel",60,82,"Opp","vsFLA",134
+2,"0:00","Reece Beekman makes regular free throw 2 of 2",0,"Made FT","makes","Reece Beekman",61,82,"Cavs","vsFLA",135
