@@ -1,0 +1,284 @@
+"Half","Time","Description","Time_in_sec","Event","Token","Player","UVA_score","Opp_score","Possession","Opps","Possession Number"
+1,"20:00","1ST HALF",1200,""," ","1ST",0,0,"Cavs","vsNCAT",1
+1,"20:00","Cavaliers lineup change (Isaac McKneely,Reece Beekman,Andrew Rohde,Ryan Dunn,Blake Buchanan)",1200,"Cav Sub"," ","Cavaliers",0,0,"","vsNCAT",2
+1,"19:45","Nikolaos Chitikoudis vs. Blake Buchanan (Cavaliers gains possession)",1185,""," ","Nikolaos",0,0,"Cavs","vsNCAT",3
+1,"19:22","Ryan Dunn makes two point layup (Andrew Rohde assists)",1162,"Made Two","makes","Ryan Dunn",2,0,"Opp","vsNCAT",4
+1,"18:59","Nikolaos Chitikoudis makes two point hook shot",1139,"Made Two","makes","Nikolaos Chitikoudis",2,2,"Cavs","vsNCAT",5
+1,"18:35","Andrew Rohde makes two point layup",1115,"Made Two","makes","Andrew Rohde",4,2,"Opp","vsNCAT",6
+1,"18:33","Jeremy Robinson misses three point jump shot",1113,"Missed Three","misses","Jeremy Robinson",4,2,"Opp","vsNCAT",6
+1,"18:22","Ryan Dunn defensive rebound",1102,"Def Rebound","defensive rebound","Ryan Dunn",4,2,"Cavs","vsNCAT",7
+1,"18:20","Reece Beekman misses two point jump shot",1100,"Missed Two","misses","Reece Beekman",4,2,"Cavs","vsNCAT",7
+1,"17:56","Evan Joyner defensive rebound",1076,"Def Rebound","defensive rebound","Evan Joyner",4,2,"Opp","vsNCAT",8
+1,"17:54","Ryan Dunn blocks Jeremy Robinson's two point layup",1074,"Block","block","Ryan Dunn",4,2,"Opp","vsNCAT",8
+1,"17:41","Blake Buchanan defensive rebound",1061,"Def Rebound","defensive rebound","Blake Buchanan",4,2,"Cavs","vsNCAT",9
+1,"17:39","Isaac McKneely misses two point jump shot",1059,"Missed Two","misses","Isaac McKneely",4,2,"Cavs","vsNCAT",9
+1,"17:32","Nikolaos Chitikoudis defensive rebound",1052,"Def Rebound","defensive rebound","Nikolaos Chitikoudis",4,2,"Opp","vsNCAT",10
+1,"17:30","Camian Shell misses three point jump shot",1050,"Missed Three","misses","Camian Shell",4,2,"Opp","vsNCAT",10
+1,"17:09","Ryan Dunn defensive rebound",1029,"Def Rebound","defensive rebound","Ryan Dunn",4,2,"Cavs","vsNCAT",11
+1,"17:05","Landon Glasper shooting foul (Ryan Dunn draws the foul)",1025,"Foul","shooting foul","Landon Glasper",4,2,"Cavs","vsNCAT",11
+1,"17:05","Ryan Dunn makes regular free throw 1 of 2",1025,"Made FT","makes","Ryan Dunn",5,2,"Cavs","vsNCAT",11
+1,"16:42","Ryan Dunn makes regular free throw 1 of 1",1002,"Made FT","makes","Ryan Dunn",6,2,"Opp","vsNCAT",12
+1,"16:40","Landon Glasper misses two point layup",1000,"Missed Two","misses","Landon Glasper",6,2,"Opp","vsNCAT",12
+1,"16:33","Andrew Rohde defensive rebound",993,"Def Rebound","defensive rebound","Andrew Rohde",6,2,"Cavs","vsNCAT",13
+1,"16:31","Blake Buchanan misses two point jump shot",991,"Missed Two","misses","Blake Buchanan",6,2,"Cavs","vsNCAT",13
+1,"16:16","Jeremy Robinson defensive rebound",976,"Def Rebound","defensive rebound","Jeremy Robinson",6,2,"Opp","vsNCAT",14
+1,"16:14","Nikolaos Chitikoudis misses two point layup",974,"Missed Two","misses","Nikolaos Chitikoudis",6,2,"Opp","vsNCAT",14
+1,"15:58","Ryan Dunn defensive rebound",958,"Def Rebound","defensive rebound","Ryan Dunn",6,2,"Cavs","vsNCAT",15
+1,"15:42","Blake Buchanan makes two point dunk (Reece Beekman assists)",942,"Made Two","makes","Blake Buchanan",8,2,"Opp","vsNCAT",16
+1,"15:21","Nikolaos Chitikoudis makes two point jump shot (Camian Shell assists)",921,"Made Two","makes","Nikolaos Chitikoudis",8,4,"Cavs","vsNCAT",17
+1,"15:21","Camian Shell personal foul (Blake Buchanan draws the foul)",921,"Foul","personal foul","Camian Shell",8,4,"Cavs","vsNCAT",17
+1,"15:09","TV timeout",909,""," ","TV",8,4,"Cavs","vsNCAT",17
+1,"14:44","Isaac McKneely makes two point jump shot (Reece Beekman assists)",884,"Made Two","makes","Isaac McKneely",10,4,"Opp","vsNCAT",18
+1,"14:44","Blake Buchanan shooting foul (Nikolaos Chitikoudis draws the foul)",884,"Foul","shooting foul","Blake Buchanan",10,4,"Opp","vsNCAT",18
+1,"14:44","Nikolaos Chitikoudis misses regular free throw 1 of 2",884,"Missed FT","misses","Nikolaos Chitikoudis",10,4,"Opp","vsNCAT",18
+1,"14:44","Nikolaos Chitikoudis misses regular free throw 2 of 2",884,"Missed FT","misses","Nikolaos Chitikoudis",10,4,"Opp","vsNCAT",18
+1,"14:44","Cavaliers lineup change (Isaac McKneely,Dante Harris,Andrew Rohde,Ryan Dunn,Jacob Groves)",884,"Cav Sub"," ","Cavaliers",10,4,"Opp","vsNCAT",18
+1,"14:21","Jacob Groves defensive rebound",861,"Def Rebound","defensive rebound","Jacob Groves",10,4,"Cavs","vsNCAT",19
+1,"14:17","Andrew Rohde turnover (lost ball) (Nikolaos Chitikoudis steals)",857,"Turnover","turnover","Andrew Rohde",10,4,"Opp","vsNCAT",20
+1,"13:57","Jacob Groves personal foul (Aggies draws the foul)",837,"Foul","personal foul","Jacob Groves",10,4,"Opp","vsNCAT",20
+1,"13:32","Kyle Duke makes two point layup (Evan Joyner assists)",812,"Made Two","makes","Kyle Duke",10,6,"Cavs","vsNCAT",21
+1,"13:30","Dante Harris misses two point layup",810,"Missed Two","misses","Dante Harris",10,6,"Cavs","vsNCAT",21
+1,"13:24","Ryan Dunn offensive rebound",804,"Off Rebound","offensive rebound","Ryan Dunn",10,6,"Cavs","vsNCAT",21
+1,"13:24","Ryan Dunn misses two point layup",804,"Missed Two","misses","Ryan Dunn",10,6,"Cavs","vsNCAT",21
+1,"13:24","Ryan Dunn offensive rebound",804,"Off Rebound","offensive rebound","Ryan Dunn",10,6,"Cavs","vsNCAT",21
+1,"13:12","Ryan Dunn makes two point layup",792,"Made Two","makes","Ryan Dunn",12,6,"Opp","vsNCAT",22
+1,"13:10","Evan Joyner misses three point jump shot",790,"Missed Three","misses","Evan Joyner",12,6,"Opp","vsNCAT",22
+1,"12:50","Dante Harris defensive rebound",770,"Def Rebound","defensive rebound","Dante Harris",12,6,"Cavs","vsNCAT",23
+1,"12:31","Isaac McKneely makes three point jump shot (Dante Harris assists)",751,"Made Three","makes","Isaac McKneely",15,6,"Opp","vsNCAT",24
+1,"12:29","Isaac McKneely blocks Landon Glasper's two point layup",749,"Block","block","Isaac McKneely",15,6,"Opp","vsNCAT",24
+1,"12:17","Ryan Dunn defensive rebound",737,"Def Rebound","defensive rebound","Ryan Dunn",15,6,"Cavs","vsNCAT",25
+1,"12:14","Jacob Groves makes three point jump shot (Dante Harris assists)",734,"Made Three","makes","Jacob Groves",18,6,"Opp","vsNCAT",26
+1,"12:14","Cavaliers lineup change (Reece Beekman,Dante Harris,Taine Murray,Leon Bond III,Jacob Groves)",734,"Cav Sub"," ","Cavaliers",18,6,"Opp","vsNCAT",26
+1,"11:54","Aggies 60 second timeout",714,"Timeout","second timeout","Aggies 60",18,6,"Opp","vsNCAT",26
+1,"11:33","Kyle Duke makes two point jump shot",693,"Made Two","makes","Kyle Duke",18,8,"Cavs","vsNCAT",27
+1,"11:02","Leon Bond III makes two point jump shot (Jacob Groves assists)",662,"Made Two","makes","Leon Bond III",20,8,"Opp","vsNCAT",28
+1,"11:00","Taine Murray blocks Kyle Duke's three point jump shot",660,"Block","block","Taine Murray",20,8,"Opp","vsNCAT",28
+1,"10:45","Kyle Duke offensive rebound",645,"Off Rebound","offensive rebound","Kyle Duke",20,8,"Opp","vsNCAT",28
+1,"10:43","Kyle Duke misses three point jump shot",643,"Missed Three","misses","Kyle Duke",20,8,"Opp","vsNCAT",28
+1,"10:40","Leon Bond III defensive rebound",640,"Def Rebound","defensive rebound","Leon Bond III",20,8,"Cavs","vsNCAT",29
+1,"10:38","Leon Bond III misses two point jump shot",638,"Missed Two","misses","Leon Bond III",20,8,"Cavs","vsNCAT",29
+1,"10:29","Jeremy Robinson defensive rebound",629,"Def Rebound","defensive rebound","Jeremy Robinson",20,8,"Opp","vsNCAT",30
+1,"10:27","Jalal McKie misses three point jump shot",627,"Missed Three","misses","Jalal McKie",20,8,"Opp","vsNCAT",30
+1,"10:19","Jacob Groves defensive rebound",619,"Def Rebound","defensive rebound","Jacob Groves",20,8,"Cavs","vsNCAT",31
+1,"9:55","Reece Beekman makes three point jump shot",595,"Made Three","makes","Reece Beekman",23,8,"Opp","vsNCAT",32
+1,"9:53","Jeremy Robinson misses two point jump shot",593,"Missed Two","misses","Jeremy Robinson",23,8,"Opp","vsNCAT",32
+1,"9:44","Jacob Groves defensive rebound",584,"Def Rebound","defensive rebound","Jacob Groves",23,8,"Cavs","vsNCAT",33
+1,"9:14","Taine Murray makes three point jump shot (Reece Beekman assists)",554,"Made Three","makes","Taine Murray",26,8,"Opp","vsNCAT",34
+1,"9:12","Jeremy Robinson misses three point jump shot",552,"Missed Three","misses","Jeremy Robinson",26,8,"Opp","vsNCAT",34
+1,"8:57","Reece Beekman defensive rebound",537,"Def Rebound","defensive rebound","Reece Beekman",26,8,"Cavs","vsNCAT",35
+1,"8:31","Leon Bond III makes two point jump shot",511,"Made Two","makes","Leon Bond III",28,8,"Opp","vsNCAT",36
+1,"8:31","Dante Harris shooting foul (Camian Shell draws the foul)",511,"Foul","shooting foul","Dante Harris",28,8,"Opp","vsNCAT",36
+1,"8:31","Camian Shell makes regular free throw 1 of 2",511,"Made FT","makes","Camian Shell",28,9,"Opp","vsNCAT",36
+1,"8:31","Cavaliers lineup change (Reece Beekman,Dante Harris,Taine Murray,Leon Bond III,Jordan Minor)",511,"Cav Sub"," ","Cavaliers",28,9,"Opp","vsNCAT",36
+1,"8:11","Camian Shell makes regular free throw 2 of 2",491,"Made FT","makes","Camian Shell",28,10,"Cavs","vsNCAT",37
+1,"8:09","Reece Beekman misses three point jump shot",489,"Missed Three","misses","Reece Beekman",28,10,"Cavs","vsNCAT",37
+1,"7:49","Aggies defensive rebound",469,"Def Rebound","defensive rebound","Aggies",28,10,"Opp","vsNCAT",38
+1,"7:47","Kyle Duke misses three point jump shot",467,"Missed Three","misses","Kyle Duke",28,10,"Opp","vsNCAT",38
+1,"7:33","Reece Beekman defensive rebound",453,"Def Rebound","defensive rebound","Reece Beekman",28,10,"Cavs","vsNCAT",39
+1,"7:33","Cavaliers lineup change (Reece Beekman,Isaac McKneely,Taine Murray,Ryan Dunn,Jordan Minor)",453,"Cav Sub"," ","Cavaliers",28,10,"Cavs","vsNCAT",39
+1,"7:21","TV timeout",441,""," ","TV",28,10,"Cavs","vsNCAT",39
+1,"7:19","Taine Murray misses three point jump shot",439,"Missed Three","misses","Taine Murray",28,10,"Cavs","vsNCAT",39
+1,"7:13","Ryan Dunn offensive rebound",433,"Off Rebound","offensive rebound","Ryan Dunn",28,10,"Cavs","vsNCAT",39
+1,"6:52","Jordan Minor turnover (traveling)",412,"Turnover","turnover","Jordan Minor",28,10,"Opp","vsNCAT",40
+1,"6:50","Landon Glasper misses three point jump shot",410,"Missed Three","misses","Landon Glasper",28,10,"Opp","vsNCAT",40
+1,"6:40","Ryan Dunn defensive rebound",400,"Def Rebound","defensive rebound","Ryan Dunn",28,10,"Cavs","vsNCAT",41
+1,"6:25","Jordan Minor makes two point dunk (Reece Beekman assists)",385,"Made Two","makes","Jordan Minor",30,10,"Opp","vsNCAT",42
+1,"6:25","Kyle Duke offensive foul (Isaac McKneely draws the foul)",385,""," ","Kyle",30,10,"Opp","vsNCAT",42
+1,"6:25","Cavaliers lineup change (Reece Beekman,Isaac McKneely,Andrew Rohde,Ryan Dunn,Jordan Minor)",385,"Cav Sub"," ","Cavaliers",30,10,"Opp","vsNCAT",42
+1,"6:10","Kyle Duke turnover (offensive foul)",370,"Turnover","turnover","Kyle Duke",30,10,"Cavs","vsNCAT",43
+1,"6:08","Andrew Rohde misses two point jump shot",368,"Missed Two","misses","Andrew Rohde",30,10,"Cavs","vsNCAT",43
+1,"5:58","Aggies defensive rebound",358,"Def Rebound","defensive rebound","Aggies",30,10,"Opp","vsNCAT",44
+1,"5:36","Evan Joyner makes two point jump shot",336,"Made Two","makes","Evan Joyner",30,12,"Cavs","vsNCAT",45
+1,"5:27","Reece Beekman makes two point layup (Andrew Rohde assists)",327,"Made Two","makes","Reece Beekman",32,12,"Opp","vsNCAT",46
+1,"5:25","Landon Glasper misses three point jump shot",325,"Missed Three","misses","Landon Glasper",32,12,"Opp","vsNCAT",46
+1,"5:20","Jordan Minor defensive rebound",320,"Def Rebound","defensive rebound","Jordan Minor",32,12,"Cavs","vsNCAT",47
+1,"5:20","Evan Joyner shooting foul (Ryan Dunn draws the foul)",320,"Foul","shooting foul","Evan Joyner",32,12,"Cavs","vsNCAT",47
+1,"5:20","Ryan Dunn makes regular free throw 1 of 2",320,"Made FT","makes","Ryan Dunn",33,12,"Cavs","vsNCAT",47
+1,"5:20","Ryan Dunn misses regular free throw 2 of 2",320,"Missed FT","misses","Ryan Dunn",33,12,"Cavs","vsNCAT",47
+1,"5:19","Cavaliers lineup change (Dante Harris,Isaac McKneely,Andrew Rohde,Ryan Dunn,Blake Buchanan)",319,"Cav Sub"," ","Cavaliers",33,12,"Cavs","vsNCAT",47
+1,"4:57","Aggies defensive rebound",297,"Def Rebound","defensive rebound","Aggies",33,12,"Opp","vsNCAT",48
+1,"4:55","Landon Glasper misses two point jump shot",295,"Missed Two","misses","Landon Glasper",33,12,"Opp","vsNCAT",48
+1,"4:33","Dante Harris defensive rebound",273,"Def Rebound","defensive rebound","Dante Harris",33,12,"Cavs","vsNCAT",49
+1,"4:16","Isaac McKneely makes three point jump shot (Ryan Dunn assists)",256,"Made Three","makes","Isaac McKneely",36,12,"Opp","vsNCAT",50
+1,"4:14","Uchenna Kellman-Nicholes misses three point jump shot",254,"Missed Three","misses","Uchenna Kellman-Nicholes",36,12,"Opp","vsNCAT",50
+1,"3:59","Isaac McKneely defensive rebound",239,"Def Rebound","defensive rebound","Isaac McKneely",36,12,"Cavs","vsNCAT",51
+1,"3:59","Evan Joyner shooting foul (Ryan Dunn draws the foul)",239,"Foul","shooting foul","Evan Joyner",36,12,"Cavs","vsNCAT",51
+1,"3:59","TV timeout",239,""," ","TV",36,12,"Cavs","vsNCAT",51
+1,"3:59","Ryan Dunn makes regular free throw 1 of 2",239,"Made FT","makes","Ryan Dunn",37,12,"Cavs","vsNCAT",51
+1,"3:59","Cavaliers lineup change (Dante Harris,Isaac McKneely,Andrew Rohde,Leon Bond III,Blake Buchanan)",239,"Cav Sub"," ","Cavaliers",37,12,"Cavs","vsNCAT",51
+1,"3:46","Ryan Dunn makes regular free throw 2 of 2",226,"Made FT","makes","Ryan Dunn",38,12,"Opp","vsNCAT",52
+1,"3:23","Landon Glasper makes three point jump shot (Camian Shell assists)",203,"Made Three","makes","Landon Glasper",38,15,"Cavs","vsNCAT",53
+1,"3:05","Cavaliers lineup change (Dante Harris,Isaac McKneely,Jacob Groves,Leon Bond III,Blake Buchanan)",185,"Cav Sub"," ","Cavaliers",38,15,"Cavs","vsNCAT",53
+1,"3:04","Leon Bond III makes two point hook shot (Blake Buchanan assists)",184,"Made Two","makes","Leon Bond III",40,15,"Opp","vsNCAT",54
+1,"3:04","Isaac McKneely shooting foul (Landon Glasper draws the foul)",184,"Foul","shooting foul","Isaac McKneely",40,15,"Opp","vsNCAT",54
+1,"3:04","Landon Glasper makes regular free throw 1 of 3",184,"Made FT","makes","Landon Glasper",40,16,"Opp","vsNCAT",54
+1,"3:04","Landon Glasper makes regular free throw 2 of 3",184,"Made FT","makes","Landon Glasper",40,17,"Opp","vsNCAT",54
+1,"2:45","Landon Glasper makes regular free throw 3 of 3",165,"Made FT","makes","Landon Glasper",40,18,"Cavs","vsNCAT",55
+1,"2:28","Jacob Groves makes three point jump shot (Isaac McKneely assists)",148,"Made Three","makes","Jacob Groves",43,18,"Opp","vsNCAT",56
+1,"2:26","Landon Glasper misses three point jump shot",146,"Missed Three","misses","Landon Glasper",43,18,"Opp","vsNCAT",56
+1,"2:17","Blake Buchanan defensive rebound",137,"Def Rebound","defensive rebound","Blake Buchanan",43,18,"Cavs","vsNCAT",57
+1,"2:15","Dante Harris misses two point jump shot",135,"Missed Two","misses","Dante Harris",43,18,"Cavs","vsNCAT",57
+1,"2:00","Jeremy Robinson defensive rebound",120,"Def Rebound","defensive rebound","Jeremy Robinson",43,18,"Opp","vsNCAT",58
+1,"2:00","Kyle Duke offensive foul (Cavaliers draws the foul)",120,""," ","Kyle",43,18,"Opp","vsNCAT",58
+1,"1:46","Kyle Duke turnover (offensive foul)",106,"Turnover","turnover","Kyle Duke",43,18,"Cavs","vsNCAT",59
+1,"1:35","Leon Bond III makes two point dunk (Blake Buchanan assists)",95,"Made Two","makes","Leon Bond III",45,18,"Opp","vsNCAT",60
+1,"1:35","Cavaliers lineup change (Dante Harris,Isaac McKneely,Jacob Groves,Leon Bond III,Jordan Minor)",95,"Cav Sub"," ","Cavaliers",45,18,"Opp","vsNCAT",60
+1,"1:30","Blake Buchanan personal foul (Aggies draws the foul)",90,"Foul","personal foul","Blake Buchanan",45,18,"Opp","vsNCAT",60
+1,"1:30","Jordan Minor shooting foul (Camian Shell draws the foul)",90,"Foul","shooting foul","Jordan Minor",45,18,"Opp","vsNCAT",60
+1,"1:30","Camian Shell misses regular free throw 1 of 2",90,"Missed FT","misses","Camian Shell",45,18,"Opp","vsNCAT",60
+1,"1:15","Camian Shell makes regular free throw 2 of 2",75,"Made FT","makes","Camian Shell",45,19,"Cavs","vsNCAT",61
+1,"0:51","Cavaliers lineup change (Dante Harris,Taine Murray,Jacob Groves,Leon Bond III,Jordan Minor)",51,"Cav Sub"," ","Cavaliers",45,19,"Cavs","vsNCAT",61
+1,"0:42","Leon Bond III makes two point jump shot",42,"Made Two","makes","Leon Bond III",47,19,"Opp","vsNCAT",62
+1,"0:40","Dante Harris blocks Camian Shell's three point jump shot",40,"Block","block","Dante Harris",47,19,"Opp","vsNCAT",62
+1,"0:31","Landon Glasper offensive rebound",31,"Off Rebound","offensive rebound","Landon Glasper",47,19,"Opp","vsNCAT",62
+1,"0:29","Landon Glasper misses three point jump shot",29,"Missed Three","misses","Landon Glasper",47,19,"Opp","vsNCAT",62
+1,"0:25","Jacob Groves defensive rebound",25,"Def Rebound","defensive rebound","Jacob Groves",47,19,"Cavs","vsNCAT",63
+1,"0:25","Landon Glasper shooting foul (Dante Harris draws the foul)",25,"Foul","shooting foul","Landon Glasper",47,19,"Cavs","vsNCAT",63
+1,"0:25","Dante Harris makes regular free throw 1 of 2",25,"Made FT","makes","Dante Harris",48,19,"Cavs","vsNCAT",63
+1,"0:04","Dante Harris makes regular free throw 2 of 2",4,"Made FT","makes","Dante Harris",49,19,"Opp","vsNCAT",64
+1,"0:04","Jacob Groves blocks Landon Glasper's two point layup",4,"Block","block","Jacob Groves",49,19,"Opp","vsNCAT",64
+2,"20:00","2ND HALF",1200,""," ","2ND",49,19,"Opp","vsNCAT",64
+2,"20:00","Cavaliers lineup change (Dante Harris,Reece Beekman,Ryan Dunn,Andrew Rohde,Blake Buchanan)",1200,"Cav Sub"," ","Cavaliers",49,19,"Opp","vsNCAT",64
+2,"19:42","Open inbound Aggies",1182,""," ","Open",49,19,"Opp","vsNCAT",64
+2,"19:24","Nikolaos Chitikoudis turnover (bad pass) (Ryan Dunn steals)",1164,"Turnover","turnover","Nikolaos Chitikoudis",49,19,"Cavs","vsNCAT",65
+2,"19:22","Reece Beekman misses two point jump shot",1162,"Missed Two","misses","Reece Beekman",49,19,"Cavs","vsNCAT",65
+2,"19:17","Ryan Dunn offensive rebound",1157,"Off Rebound","offensive rebound","Ryan Dunn",49,19,"Cavs","vsNCAT",65
+2,"19:05","Jump ball. Ryan Dunn vs. Kyle Duke (Cavaliers gains possession)",1145,"Jump Ball"," ","Jump",49,19,"Cavs","vsNCAT",65
+2,"18:49","Blake Buchanan makes two point jump shot (Andrew Rohde assists)",1129,"Made Two","makes","Blake Buchanan",51,19,"Opp","vsNCAT",66
+2,"18:20","Evan Joyner makes three point jump shot (Camian Shell assists)",1100,"Made Three","makes","Evan Joyner",51,22,"Cavs","vsNCAT",67
+2,"18:08","Blake Buchanan makes two point layup (Reece Beekman assists)",1088,"Made Two","makes","Blake Buchanan",53,22,"Opp","vsNCAT",68
+2,"18:06","Dante Harris blocks Camian Shell's two point layup",1086,"Block","block","Dante Harris",53,22,"Opp","vsNCAT",68
+2,"18:00","Andrew Rohde defensive rebound",1080,"Def Rebound","defensive rebound","Andrew Rohde",53,22,"Cavs","vsNCAT",69
+2,"17:57","Ryan Dunn makes two point dunk (Andrew Rohde assists)",1077,"Made Two","makes","Ryan Dunn",55,22,"Opp","vsNCAT",70
+2,"17:57","Landon Glasper makes three point jump shot (Camian Shell assists)",1077,"Made Three","makes","Landon Glasper",55,25,"Cavs","vsNCAT",71
+2,"17:57","Aggies 30 second timeout",1077,"Timeout","second timeout","Aggies 30",55,25,"Cavs","vsNCAT",71
+2,"17:33","TV timeout",1053,""," ","TV",55,25,"Cavs","vsNCAT",71
+2,"17:31","Blake Buchanan misses two point jump shot",1051,"Missed Two","misses","Blake Buchanan",55,25,"Cavs","vsNCAT",71
+2,"17:22","Evan Joyner defensive rebound",1042,"Def Rebound","defensive rebound","Evan Joyner",55,25,"Opp","vsNCAT",72
+2,"17:14","Camian Shell turnover (bad pass) (Reece Beekman steals)",1034,"Turnover","turnover","Camian Shell",55,25,"Cavs","vsNCAT",73
+2,"17:12","Nikolaos Chitikoudis blocks Reece Beekman's two point layup",1032,"Block","block","Nikolaos Chitikoudis",55,25,"Cavs","vsNCAT",73
+2,"17:09","Nikolaos Chitikoudis defensive rebound",1029,"Def Rebound","defensive rebound","Nikolaos Chitikoudis",55,25,"Opp","vsNCAT",74
+2,"17:00","Evan Joyner turnover (lost ball) (Ryan Dunn steals)",1020,"Turnover","turnover","Evan Joyner",55,25,"Cavs","vsNCAT",75
+2,"16:58","Andrew Rohde misses three point jump shot",1018,"Missed Three","misses","Andrew Rohde",55,25,"Cavs","vsNCAT",75
+2,"16:53","Camian Shell defensive rebound",1013,"Def Rebound","defensive rebound","Camian Shell",55,25,"Opp","vsNCAT",76
+2,"16:35","Landon Glasper makes three point jump shot (Camian Shell assists)",995,"Made Three","makes","Landon Glasper",55,28,"Cavs","vsNCAT",77
+2,"16:33","Reece Beekman misses three point jump shot",993,"Missed Three","misses","Reece Beekman",55,28,"Cavs","vsNCAT",77
+2,"16:23","Blake Buchanan offensive rebound",983,"Off Rebound","offensive rebound","Blake Buchanan",55,28,"Cavs","vsNCAT",77
+2,"15:57","Ryan Dunn makes two point dunk (Reece Beekman assists)",957,"Made Two","makes","Ryan Dunn",57,28,"Opp","vsNCAT",78
+2,"15:56","Blake Buchanan blocks Evan Joyner's two point layup",956,"Block","block","Blake Buchanan",57,28,"Opp","vsNCAT",78
+2,"15:56","Aggies offensive rebound",956,"Off Rebound","offensive rebound","Aggies",57,28,"Opp","vsNCAT",78
+2,"15:55","Cavaliers lineup change (Dante Harris,Reece Beekman,Leon Bond III,Taine Murray,Blake Buchanan)",955,"Cav Sub"," ","Cavaliers",57,28,"Opp","vsNCAT",78
+2,"15:53","TV timeout",953,""," ","TV",57,28,"Opp","vsNCAT",78
+2,"15:47","Nikolaos Chitikoudis turnover (bad pass) (Dante Harris steals)",947,"Turnover","turnover","Nikolaos Chitikoudis",57,28,"Cavs","vsNCAT",79
+2,"15:45","Taine Murray misses two point jump shot",945,"Missed Two","misses","Taine Murray",57,28,"Cavs","vsNCAT",79
+2,"15:33","Camian Shell defensive rebound",933,"Def Rebound","defensive rebound","Camian Shell",57,28,"Opp","vsNCAT",80
+2,"15:30","Camian Shell turnover (bad pass) (Blake Buchanan steals)",930,"Turnover","turnover","Camian Shell",57,28,"Cavs","vsNCAT",81
+2,"15:30","Cavaliers lineup change (Dante Harris,Andrew Rohde,Leon Bond III,Taine Murray,Blake Buchanan)",930,"Cav Sub"," ","Cavaliers",57,28,"Cavs","vsNCAT",81
+2,"15:22","Nikolaos Chitikoudis personal foul (Cavaliers draws the foul)",922,"Foul","personal foul","Nikolaos Chitikoudis",57,28,"Cavs","vsNCAT",81
+2,"15:20","Blake Buchanan misses two point jump shot",920,"Missed Two","misses","Blake Buchanan",57,28,"Cavs","vsNCAT",81
+2,"15:17","Leon Bond III offensive rebound",917,"Off Rebound","offensive rebound","Leon Bond III",57,28,"Cavs","vsNCAT",81
+2,"14:56","Leon Bond III turnover (bad pass) (Landon Glasper steals)",896,"Turnover","turnover","Leon Bond III",57,28,"Opp","vsNCAT",82
+2,"14:22","Jeremy Robinson makes two point layup (Nikolaos Chitikoudis assists)",862,"Made Two","makes","Jeremy Robinson",57,30,"Cavs","vsNCAT",83
+2,"14:20","Nikolaos Chitikoudis blocks Andrew Rohde's three point jump shot",860,"Block","block","Nikolaos Chitikoudis",57,30,"Cavs","vsNCAT",83
+2,"14:10","Jeremy Robinson defensive rebound",850,"Def Rebound","defensive rebound","Jeremy Robinson",57,30,"Opp","vsNCAT",84
+2,"13:53","Cavaliers lineup change (Reece Beekman,Andrew Rohde,Leon Bond III,Taine Murray,Jacob Groves)",833,"Cav Sub"," ","Cavaliers",57,30,"Opp","vsNCAT",84
+2,"13:39","Landon Glasper makes three point jump shot (Kyle Duke assists)",819,"Made Three","makes","Landon Glasper",57,33,"Cavs","vsNCAT",85
+2,"13:25","Leon Bond III makes two point layup (Reece Beekman assists)",805,"Made Two","makes","Leon Bond III",59,33,"Opp","vsNCAT",86
+2,"13:23","Nikolaos Chitikoudis misses two point jump shot",803,"Missed Two","misses","Nikolaos Chitikoudis",59,33,"Opp","vsNCAT",86
+2,"13:14","Reece Beekman defensive rebound",794,"Def Rebound","defensive rebound","Reece Beekman",59,33,"Cavs","vsNCAT",87
+2,"13:12","Reece Beekman misses two point layup",792,"Missed Two","misses","Reece Beekman",59,33,"Cavs","vsNCAT",87
+2,"13:06","Leon Bond III offensive rebound",786,"Off Rebound","offensive rebound","Leon Bond III",59,33,"Cavs","vsNCAT",87
+2,"12:59","Leon Bond III makes two point dunk",779,"Made Two","makes","Leon Bond III",61,33,"Opp","vsNCAT",88
+2,"12:57","Landon Glasper misses three point jump shot",777,"Missed Three","misses","Landon Glasper",61,33,"Opp","vsNCAT",88
+2,"12:44","Andrew Rohde defensive rebound",764,"Def Rebound","defensive rebound","Andrew Rohde",61,33,"Cavs","vsNCAT",89
+2,"12:31","Andrew Rohde makes two point jump shot",751,"Made Two","makes","Andrew Rohde",63,33,"Opp","vsNCAT",90
+2,"12:01","Kyle Duke makes two point jump shot",721,"Made Two","makes","Kyle Duke",63,35,"Cavs","vsNCAT",91
+2,"11:59","Jacob Groves misses two point jump shot",719,"Missed Two","misses","Jacob Groves",63,35,"Cavs","vsNCAT",91
+2,"11:47","Nikolaos Chitikoudis defensive rebound",707,"Def Rebound","defensive rebound","Nikolaos Chitikoudis",63,35,"Opp","vsNCAT",92
+2,"11:47","Nikolaos Chitikoudis makes two point layup (Landon Glasper assists)",707,"Made Two","makes","Nikolaos Chitikoudis",63,37,"Opp","vsNCAT",92
+2,"11:47","Taine Murray shooting foul (Nikolaos Chitikoudis draws the foul)",707,"Foul","shooting foul","Taine Murray",63,37,"Opp","vsNCAT",92
+2,"11:47","TV timeout",707,""," ","TV",63,37,"Opp","vsNCAT",92
+2,"11:47","Cavaliers lineup change (Reece Beekman,Andrew Rohde,Ryan Dunn,Taine Murray,Jacob Groves)",707,"Cav Sub"," ","Cavaliers",63,37,"Opp","vsNCAT",92
+2,"11:23","Nikolaos Chitikoudis makes regular free throw 1 of 1",683,"Made FT","makes","Nikolaos Chitikoudis",63,38,"Cavs","vsNCAT",93
+2,"11:21","Andrew Rohde misses three point jump shot",681,"Missed Three","misses","Andrew Rohde",63,38,"Cavs","vsNCAT",93
+2,"11:19","Jacob Groves offensive rebound",679,"Off Rebound","offensive rebound","Jacob Groves",63,38,"Cavs","vsNCAT",93
+2,"11:19","Jeremy Robinson shooting foul (Jacob Groves draws the foul)",679,"Foul","shooting foul","Jeremy Robinson",63,38,"Cavs","vsNCAT",93
+2,"11:16","Jacob Groves makes regular free throw 1 of 2",676,"Made FT","makes","Jacob Groves",64,38,"Cavs","vsNCAT",93
+2,"11:16","Jacob Groves misses regular free throw 2 of 2",676,"Missed FT","misses","Jacob Groves",64,38,"Cavs","vsNCAT",93
+2,"10:58","Evan Joyner defensive rebound",658,"Def Rebound","defensive rebound","Evan Joyner",64,38,"Opp","vsNCAT",94
+2,"10:56","Kyle Duke misses three point jump shot",656,"Missed Three","misses","Kyle Duke",64,38,"Opp","vsNCAT",94
+2,"10:27","Ryan Dunn defensive rebound",627,"Def Rebound","defensive rebound","Ryan Dunn",64,38,"Cavs","vsNCAT",95
+2,"10:08","Jacob Groves makes two point layup",608,"Made Two","makes","Jacob Groves",66,38,"Opp","vsNCAT",96
+2,"10:06","Evan Joyner misses three point jump shot",606,"Missed Three","misses","Evan Joyner",66,38,"Opp","vsNCAT",96
+2,"9:55","Reece Beekman defensive rebound",595,"Def Rebound","defensive rebound","Reece Beekman",66,38,"Cavs","vsNCAT",97
+2,"9:53","Reece Beekman misses two point layup",593,"Missed Two","misses","Reece Beekman",66,38,"Cavs","vsNCAT",97
+2,"9:43","Jeremy Robinson defensive rebound",583,"Def Rebound","defensive rebound","Jeremy Robinson",66,38,"Opp","vsNCAT",98
+2,"9:42","Cavaliers lineup change (Dante Harris,Andrew Rohde,Ryan Dunn,Taine Murray,Jacob Groves)",582,"Cav Sub"," ","Cavaliers",66,38,"Opp","vsNCAT",98
+2,"9:31","Ryan Dunn personal foul (Aggies draws the foul)",571,"Foul","personal foul","Ryan Dunn",66,38,"Opp","vsNCAT",98
+2,"9:29","Jalal McKie misses three point jump shot",569,"Missed Three","misses","Jalal McKie",66,38,"Opp","vsNCAT",98
+2,"9:10","Dante Harris defensive rebound",550,"Def Rebound","defensive rebound","Dante Harris",66,38,"Cavs","vsNCAT",99
+2,"8:36","Andrew Rohde makes two point jump shot (Jacob Groves assists)",516,"Made Two","makes","Andrew Rohde",68,38,"Opp","vsNCAT",100
+2,"8:34","Ryan Dunn blocks Kyle Duke's two point layup",514,"Block","block","Ryan Dunn",68,38,"Opp","vsNCAT",100
+2,"8:13","Jacob Groves defensive rebound",493,"Def Rebound","defensive rebound","Jacob Groves",68,38,"Cavs","vsNCAT",101
+2,"7:47","Taine Murray makes two point layup (Andrew Rohde assists)",467,"Made Two","makes","Taine Murray",70,38,"Opp","vsNCAT",102
+2,"7:45","Ryan Dunn blocks Jalal McKie's two point jump shot",465,"Block","block","Ryan Dunn",70,38,"Opp","vsNCAT",102
+2,"7:28","Ryan Dunn defensive rebound",448,"Def Rebound","defensive rebound","Ryan Dunn",70,38,"Cavs","vsNCAT",103
+2,"7:28","Andrew Rohde turnover (traveling)",448,"Turnover","turnover","Andrew Rohde",70,38,"Opp","vsNCAT",104
+2,"7:28","Cavaliers lineup change (Dante Harris,Jordan Minor,Ryan Dunn,Taine Murray,Jacob Groves)",448,"Cav Sub"," ","Cavaliers",70,38,"Opp","vsNCAT",104
+2,"6:59","TV timeout",419,""," ","TV",70,38,"Opp","vsNCAT",104
+2,"6:57","Jalal McKie misses three point jump shot",417,"Missed Three","misses","Jalal McKie",70,38,"Opp","vsNCAT",104
+2,"6:31","Dante Harris defensive rebound",391,"Def Rebound","defensive rebound","Dante Harris",70,38,"Cavs","vsNCAT",105
+2,"6:25","Jalal McKie personal foul (Jacob Groves draws the foul)",385,"Foul","personal foul","Jalal McKie",70,38,"Cavs","vsNCAT",105
+2,"6:07","Jacob Groves turnover (bad pass)",367,"Turnover","turnover","Jacob Groves",70,38,"Opp","vsNCAT",106
+2,"5:59","Cavaliers lineup change (Dante Harris,Jordan Minor,Leon Bond III,Taine Murray,Jacob Groves)",359,"Cav Sub"," ","Cavaliers",70,38,"Opp","vsNCAT",106
+2,"5:58","Landon Glasper turnover (bad pass) (Jacob Groves steals)",358,"Turnover","turnover","Landon Glasper",70,38,"Cavs","vsNCAT",107
+2,"5:58","Nikolaos Chitikoudis shooting foul (Dante Harris draws the foul)",358,"Foul","shooting foul","Nikolaos Chitikoudis",70,38,"Cavs","vsNCAT",107
+2,"5:58","Dante Harris misses regular free throw 1 of 2",358,"Missed FT","misses","Dante Harris",70,38,"Cavs","vsNCAT",107
+2,"5:58","Dante Harris misses regular free throw 2 of 2",358,"Missed FT","misses","Dante Harris",70,38,"Cavs","vsNCAT",107
+2,"5:43","Jacob Groves offensive rebound",343,"Off Rebound","offensive rebound","Jacob Groves",70,38,"Cavs","vsNCAT",107
+2,"5:23","Jordan Minor makes two point layup (Dante Harris assists)",323,"Made Two","makes","Jordan Minor",72,38,"Opp","vsNCAT",108
+2,"5:21","Kyle Duke misses three point jump shot",321,"Missed Three","misses","Kyle Duke",72,38,"Opp","vsNCAT",108
+2,"5:09","Dante Harris defensive rebound",309,"Def Rebound","defensive rebound","Dante Harris",72,38,"Cavs","vsNCAT",109
+2,"5:00","Dante Harris turnover (Kyle Duke steals)",300,"Turnover","turnover","Dante Harris",72,38,"Opp","vsNCAT",110
+2,"4:59","Kyle Duke turnover (lost ball) (Dante Harris steals)",299,"Turnover","turnover","Kyle Duke",72,38,"Cavs","vsNCAT",111
+2,"4:49","Dante Harris turnover (lost ball) (Nikolaos Chitikoudis steals)",289,"Turnover","turnover","Dante Harris",72,38,"Opp","vsNCAT",112
+2,"4:30","Jalal McKie makes three point jump shot (Uchenna Kellman-Nicholes assists)",270,"Made Three","makes","Jalal McKie",72,41,"Cavs","vsNCAT",113
+2,"4:28","Jacob Groves misses two point jump shot",268,"Missed Two","misses","Jacob Groves",72,41,"Cavs","vsNCAT",113
+2,"4:27","Jordan Minor offensive rebound",267,"Off Rebound","offensive rebound","Jordan Minor",72,41,"Cavs","vsNCAT",113
+2,"4:27","Nikolaos Chitikoudis shooting foul (Jordan Minor draws the foul)",267,"Foul","shooting foul","Nikolaos Chitikoudis",72,41,"Cavs","vsNCAT",113
+2,"4:27","Jordan Minor makes regular free throw 1 of 2",267,"Made FT","makes","Jordan Minor",73,41,"Cavs","vsNCAT",113
+2,"4:15","Jordan Minor makes regular free throw 2 of 2",255,"Made FT","makes","Jordan Minor",74,41,"Opp","vsNCAT",114
+2,"3:56","Landon Glasper makes three point jump shot",236,"Made Three","makes","Landon Glasper",74,44,"Cavs","vsNCAT",115
+2,"3:54","Leon Bond III misses two point jump shot",234,"Missed Two","misses","Leon Bond III",74,44,"Cavs","vsNCAT",115
+2,"3:45","Jacob Groves offensive rebound",225,"Off Rebound","offensive rebound","Jacob Groves",74,44,"Cavs","vsNCAT",115
+2,"3:40","Jacob Groves makes two point layup",220,"Made Two","makes","Jacob Groves",76,44,"Opp","vsNCAT",116
+2,"3:38","Jeremy Robinson misses three point jump shot",218,"Missed Three","misses","Jeremy Robinson",76,44,"Opp","vsNCAT",116
+2,"3:10","Jacob Groves defensive rebound",190,"Def Rebound","defensive rebound","Jacob Groves",76,44,"Cavs","vsNCAT",117
+2,"3:10","Dante Harris offensive foul (Jalal McKie draws the foul)",190,""," ","Dante",76,44,"Cavs","vsNCAT",117
+2,"3:10","Dante Harris turnover (offensive foul)",190,"Turnover","turnover","Dante Harris",76,44,"Opp","vsNCAT",118
+2,"3:10","Cavaliers lineup change (Bryce Walker,Jordan Minor,Leon Bond III,Taine Murray,Jacob Groves)",190,"Cav Sub"," ","Cavaliers",76,44,"Opp","vsNCAT",118
+2,"2:55","TV timeout",175,""," ","TV",76,44,"Opp","vsNCAT",118
+2,"2:53","Landon Glasper misses three point jump shot",173,"Missed Three","misses","Landon Glasper",76,44,"Opp","vsNCAT",118
+2,"2:47","Evan Joyner offensive rebound",167,"Off Rebound","offensive rebound","Evan Joyner",76,44,"Opp","vsNCAT",118
+2,"2:25","Cavaliers lineup change (Bryce Walker,Jordan Minor,Leon Bond III,Taine Murray,Tristan How)",145,"Cav Sub"," ","Cavaliers",76,44,"Opp","vsNCAT",118
+2,"2:24","Landon Glasper turnover (bad pass)",144,"Turnover","turnover","Landon Glasper",76,44,"Cavs","vsNCAT",119
+2,"2:24","Evan Joyner shooting foul (Taine Murray draws the foul)",144,"Foul","shooting foul","Evan Joyner",76,44,"Cavs","vsNCAT",119
+2,"2:24","Taine Murray makes regular free throw 1 of 2",144,"Made FT","makes","Taine Murray",77,44,"Cavs","vsNCAT",119
+2,"2:16","Taine Murray makes regular free throw 2 of 2",136,"Made FT","makes","Taine Murray",78,44,"Opp","vsNCAT",120
+2,"1:56","Uchenna Kellman-Nicholes makes three point jump shot (Camian Shell assists)",116,"Made Three","makes","Uchenna Kellman-Nicholes",78,47,"Cavs","vsNCAT",121
+2,"1:54","Jordan Minor misses two point hook shot",114,"Missed Two","misses","Jordan Minor",78,47,"Cavs","vsNCAT",121
+2,"1:47","Nikolaos Chitikoudis defensive rebound",107,"Def Rebound","defensive rebound","Nikolaos Chitikoudis",78,47,"Opp","vsNCAT",122
+2,"1:45","Uchenna Kellman-Nicholes misses three point jump shot",105,"Missed Three","misses","Uchenna Kellman-Nicholes",78,47,"Opp","vsNCAT",122
+2,"1:35","Evan Joyner offensive rebound",95,"Off Rebound","offensive rebound","Evan Joyner",78,47,"Opp","vsNCAT",122
+2,"1:24","Evan Joyner makes two point layup",84,"Made Two","makes","Evan Joyner",78,49,"Cavs","vsNCAT",123
+2,"1:09","Leon Bond III makes two point jump shot (Taine Murray assists)",69,"Made Two","makes","Leon Bond III",80,49,"Opp","vsNCAT",124
+2,"0:46","Tristan How personal foul (Evan Joyner draws the foul)",46,"Foul","personal foul","Tristan How",80,49,"Opp","vsNCAT",124
+2,"0:25","Aggies turnover (shot clock violation)",25,"Turnover","turnover","Aggies",80,49,"Cavs","vsNCAT",125
+2,"0:23","Bryce Walker misses three point jump shot",23,"Missed Three","misses","Bryce Walker",80,49,"Cavs","vsNCAT",125
+2,"0:14","Aggies defensive rebound",14,"Def Rebound","defensive rebound","Aggies",80,49,"Opp","vsNCAT",126
+2,"0:14","Jordan Minor shooting foul (Kyle Duke draws the foul)",14,"Foul","shooting foul","Jordan Minor",80,49,"Opp","vsNCAT",126
+2,"0:14","Kyle Duke makes regular free throw 1 of 2",14,"Made FT","makes","Kyle Duke",80,50,"Opp","vsNCAT",126
+2,"0:00","Aggies offensive rebound",0,"Off Rebound","offensive rebound","Aggies",80,50,"Opp","vsNCAT",126
+2,"0:00","Leon Bond III blocks Landon Glasper's two point jump shot",0,"Block","block","Leon Bond III",80,50,"Opp","vsNCAT",126
+2,"0:00","Cavaliers defensive rebound",0,"Def Rebound","defensive rebound","Cavaliers",80,50,"Cavs","vsNCAT",127
+2,"0:00","Kyle Duke makes regular free throw 2 of 2",0,"Made FT","makes","Kyle Duke",80,51,"Opp","vsNCAT",128
