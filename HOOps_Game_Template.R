@@ -18,118 +18,118 @@ UVA_roster = c("Blake Buchanan","Dante Harris","Reece Beekman","Andrew Rohde",
 #               "Ben Vander Plas", "Kadin Shedrick", "Francisco Caffaro", "Ryan Dunn",
 #               "Isaac McKneely", "Taine Murray", "Chase Coleman", "Tristan How", "Cavaliers")
 
-## ACC playbyplay for their lineup/substitution data
-# acc_web = "https://theacc.com/boxscore.aspx?id=JcLFfL9RUu0H5ystoOMbjQ7A58QMysWHEEqi7hufVoQXO5nVxbctjHh%2F6ifARsoKUNz2Cn1GpJx0eQgL%2FI8uNugW6%2F65ooJ9xE6%2BliOEFRnJFwDEdzr8vBabydal0a6c60z9tWgcelK7Jv6MXCjTl9z03q2EIo%2BDNR5oy7y3S5HtrMfcu2cHWLJAWCcHhdmA&path=mbball#play-by-play"
-# acc = read_html(acc_web)
-# all_plays<-acc%>%
-#   html_nodes(".text-right , th , .text-bold.hide-on-medium-down~ .hide-on-medium-down+ .hide-on-medium-down")%>%
-#   html_text()
-# 
-# 
-# all_plays = all_plays[-c(1:91)]
-# all_plays = all_plays[all_plays != ""]
-# all_plays = all_plays[-c(932:973)]
-# all_plays = all_plays[-c(403:411)]
-# 
-# all_plays = as.data.frame(matrix(all_plays,ncol=2,byrow=T))
-# 
+# ACC playbyplay for their lineup/substitution data
+acc_web = "https://theacc.com/boxscore.aspx?id=JcLFfL9RUu0H5ystoOMbjQ7A58QMysWHEEqi7hufVoQXO5nVxbctjHh%2F6ifARsoKUNz2Cn1GpJx0eQgL%2FI8uNugW6%2F65ooJ9xE6%2BliOEFRnJFwDEdzr8vBabydal0a6c%2FfJQROX%2BPC8WpklHbwVMoM%2FD9S6dIYosu6nSxEimSD6X%2BRBu%2FokVAmbam%2BXCIyUz&path=mbball#play-by-play"
+acc = read_html(acc_web)
+all_plays<-acc%>%
+  html_nodes(".text-right , th , .text-bold.hide-on-medium-down~ .hide-on-medium-down+ .hide-on-medium-down")%>%
+  html_text()
 
-# acc_subs <-acc%>%
-#   html_nodes("th , .text-bold.hide-on-medium-down~ .hide-on-medium-down+ .hide-on-medium-down")%>%
-#   html_text()
-# acc_subs = acc_subs[-c(1:83)]
-# acc_subs = acc_subs[-c(932:973,403:411)]
-# acc_subs = as.data.frame(matrix(acc_subs,ncol=2,byrow=T))
-# acc_subs$Half = 1
 
-## Make times consistent
-# for(i in 2:nrow(acc_subs)) {
-#   if(acc_subs$V1[i] == "--"){
-#     acc_subs$V1[i] = acc_subs$V1[i-1]
-#   }
-# }
-# 
-# for(i in 2:nrow(acc_subs)) {
-#   if(acc_subs$V1[i] > acc_subs$V1[i-1]) {
-#     acc_subs$Half[i] <- 2
-#   }
-# }
+all_plays = all_plays[-c(1:92)]
+all_plays = all_plays[all_plays != ""]
+all_plays = all_plays[-c(860:901)]
+all_plays = all_plays[-c(405:413)]
 
-# Make it so everything after is 2nd half
-# acc_subs$Half <- cummax(acc_subs$Half)
-# 
-# acc_subs = subset(acc_subs, grepl("SUB", V2))
-# acc_subs <- acc_subs %>%
-#   separate(V2, into = c("Action", "Player"), sep = " by ")
-# 
-# # Based on ACC naming convention
-# name_mapping <- setNames(
-#   UVA_roster,
-#   c("BUCHANAN,BLAKE", "HARRIS,DANTE", "BEEKMAN,REECE", "ROHDE,ANDREW",
-#     "ROBERTS,DESMOND", "MURRAY,TAINE", "MCKNEELY,ISAAC", "GERTRUDE,ELIJAH",
-#     "DUNN,RYAN", "ROBINSON,ANTHONY", "MINOR,JORDAN", "HOW,TRISTAN",
-#     "BLISS,CHRISTIAN", "GROVES,JACOB", "BOND III,LEON", "CAVALIERS")
-# )
-# 
-# acc_subs = acc_subs %>%
-#   mutate(Player = mapvalues(Player, from = names(name_mapping), to = name_mapping))
+all_plays = as.data.frame(matrix(all_plays,ncol=2,byrow=T))
 
-starting_lineup <- c("Isaac McKneely", "Reece Beekman", "Andrew Rohde", "Ryan Dunn", "Blake Buchanan")
+
+acc_subs <-acc%>%
+  html_nodes("th , .text-bold.hide-on-medium-down~ .hide-on-medium-down+ .hide-on-medium-down")%>%
+  html_text()
+acc_subs = acc_subs[-c(1:83)]
+acc_subs = acc_subs[-c(932:973,403:411)]
+acc_subs = as.data.frame(matrix(acc_subs,ncol=2,byrow=T))
+acc_subs$Half = 1
+
+# Make times consistent
+for(i in 2:nrow(acc_subs)) {
+  if(acc_subs$V1[i] == "--"){
+    acc_subs$V1[i] = acc_subs$V1[i-1]
+  }
+}
+
+for(i in 2:nrow(acc_subs)) {
+  if(acc_subs$V1[i] > acc_subs$V1[i-1]) {
+    acc_subs$Half[i] <- 2
+  }
+}
+
+## Make it so everything after is 2nd half
+acc_subs$Half <- cummax(acc_subs$Half)
+
+acc_subs = subset(acc_subs, grepl("SUB", V2))
+acc_subs <- acc_subs %>%
+  separate(V2, into = c("Action", "Player"), sep = " by ")
+
+# Based on ACC naming convention
+name_mapping <- setNames(
+  UVA_roster,
+  c("BUCHANAN,BLAKE", "HARRIS,DANTE", "BEEKMAN,REECE", "ROHDE,ANDREW",
+    "ROBERTS,DESMOND", "MURRAY,TAINE", "MCKNEELY,ISAAC", "GERTRUDE,ELIJAH",
+    "DUNN,RYAN", "ROBINSON,ANTHONY", "MINOR,JORDAN", "HOW,TRISTAN", "WALKER,BRYCE",
+    "BLISS,CHRISTIAN", "GROVES,JACOB", "BOND III,LEON", "CAVALIERS")
+)
+
+acc_subs = acc_subs %>%
+  mutate(Player = mapvalues(Player, from = names(name_mapping), to = name_mapping))
+
+starting_lineup <- c("Dante Harris", "Reece Beekman", "Andrew Rohde", "Ryan Dunn", "Blake Buchanan")
 lineup_changes <- data.frame(Half = 1, Time = "20:00", Lineup = I(list(starting_lineup)), stringsAsFactors = FALSE)
 
-lineup_changes = add_row(lineup_changes,Half = 1,Time = '14:44',Lineup = I(list(c("Isaac McKneely", "Dante Harris", "Andrew Rohde", "Ryan Dunn", "Jacob Groves"))))
-lineup_changes = add_row(lineup_changes,Half = 1,Time = '12:14',Lineup = I(list(c("Reece Beekman", "Dante Harris", "Taine Murray", "Leon Bond III", "Jacob Groves"))))
-lineup_changes = add_row(lineup_changes,Half = 1,Time = '8:31',Lineup = I(list(c("Reece Beekman", "Dante Harris", "Taine Murray", "Leon Bond III", "Jordan Minor"))))
-lineup_changes = add_row(lineup_changes,Half = 1,Time = '7:33',Lineup = I(list(c("Reece Beekman", "Isaac McKneely", "Taine Murray", "Ryan Dunn", "Jordan Minor"))))
-lineup_changes = add_row(lineup_changes,Half = 1,Time = '6:25',Lineup = I(list(c("Reece Beekman", "Isaac McKneely", "Andrew Rohde", "Ryan Dunn", "Jordan Minor"))))
-lineup_changes = add_row(lineup_changes,Half = 1,Time = '5:19',Lineup = I(list(c("Dante Harris", "Isaac McKneely", "Andrew Rohde", "Ryan Dunn", "Blake Buchanan"))))
-lineup_changes = add_row(lineup_changes,Half = 1,Time = '3:59',Lineup = I(list(c("Dante Harris", "Isaac McKneely", "Andrew Rohde", "Leon Bond III", "Blake Buchanan"))))
-lineup_changes = add_row(lineup_changes,Half = 1,Time = '3:05',Lineup = I(list(c("Dante Harris", "Isaac McKneely", "Jacob Groves", "Leon Bond III", "Blake Buchanan"))))
-lineup_changes = add_row(lineup_changes,Half = 1,Time = '1:35',Lineup = I(list(c("Dante Harris", "Isaac McKneely", "Jacob Groves", "Leon Bond III", "Jordan Minor"))))
-lineup_changes = add_row(lineup_changes,Half = 1,Time = '0:51',Lineup = I(list(c("Dante Harris", "Taine Murray", "Jacob Groves", "Leon Bond III", "Jordan Minor"))))
-lineup_changes = add_row(lineup_changes,Half = 2,Time = '20:00',Lineup = I(list(c("Dante Harris", "Reece Beekman", "Ryan Dunn", "Andrew Rohde", "Blake Buchanan"))))
-lineup_changes = add_row(lineup_changes,Half = 2,Time = '15:55',Lineup = I(list(c("Dante Harris", "Reece Beekman", "Leon Bond III", "Taine Murray", "Blake Buchanan"))))
-lineup_changes = add_row(lineup_changes,Half = 2,Time = '15:30',Lineup = I(list(c("Dante Harris", "Andrew Rohde", "Leon Bond III", "Taine Murray", "Blake Buchanan"))))
-lineup_changes = add_row(lineup_changes,Half = 2,Time = '13:53',Lineup = I(list(c("Reece Beekman", "Andrew Rohde", "Leon Bond III", "Taine Murray", "Jacob Groves"))))
-lineup_changes = add_row(lineup_changes,Half = 2,Time = '11:47',Lineup = I(list(c("Reece Beekman", "Andrew Rohde", "Ryan Dunn", "Taine Murray", "Jacob Groves"))))
-lineup_changes = add_row(lineup_changes,Half = 2,Time = '9:42',Lineup = I(list(c("Dante Harris", "Andrew Rohde", "Ryan Dunn", "Taine Murray", "Jacob Groves"))))
-lineup_changes = add_row(lineup_changes,Half = 2,Time = '7:28',Lineup = I(list(c("Dante Harris", "Jordan Minor", "Ryan Dunn", "Taine Murray", "Jacob Groves"))))
-lineup_changes = add_row(lineup_changes,Half = 2,Time = '5:59',Lineup = I(list(c("Dante Harris", "Jordan Minor", "Leon Bond III", "Taine Murray", "Jacob Groves"))))
-lineup_changes = add_row(lineup_changes,Half = 2,Time = '3:10',Lineup = I(list(c("Bryce Walker", "Jordan Minor", "Leon Bond III", "Taine Murray", "Jacob Groves"))))
-lineup_changes = add_row(lineup_changes,Half = 2,Time = '2:25',Lineup = I(list(c("Bryce Walker", "Jordan Minor", "Leon Bond III", "Taine Murray", "Tristan How"))))
+# lineup_changes = add_row(lineup_changes,Half = 1,Time = '14:44',Lineup = I(list(c("Isaac McKneely", "Dante Harris", "Andrew Rohde", "Ryan Dunn", "Jacob Groves"))))
+# lineup_changes = add_row(lineup_changes,Half = 1,Time = '12:14',Lineup = I(list(c("Reece Beekman", "Dante Harris", "Taine Murray", "Leon Bond III", "Jacob Groves"))))
+# lineup_changes = add_row(lineup_changes,Half = 1,Time = '8:31',Lineup = I(list(c("Reece Beekman", "Dante Harris", "Taine Murray", "Leon Bond III", "Jordan Minor"))))
+# lineup_changes = add_row(lineup_changes,Half = 1,Time = '7:33',Lineup = I(list(c("Reece Beekman", "Isaac McKneely", "Taine Murray", "Ryan Dunn", "Jordan Minor"))))
+# lineup_changes = add_row(lineup_changes,Half = 1,Time = '6:25',Lineup = I(list(c("Reece Beekman", "Isaac McKneely", "Andrew Rohde", "Ryan Dunn", "Jordan Minor"))))
+# lineup_changes = add_row(lineup_changes,Half = 1,Time = '5:19',Lineup = I(list(c("Dante Harris", "Isaac McKneely", "Andrew Rohde", "Ryan Dunn", "Blake Buchanan"))))
+# lineup_changes = add_row(lineup_changes,Half = 1,Time = '3:59',Lineup = I(list(c("Dante Harris", "Isaac McKneely", "Andrew Rohde", "Leon Bond III", "Blake Buchanan"))))
+# lineup_changes = add_row(lineup_changes,Half = 1,Time = '3:05',Lineup = I(list(c("Dante Harris", "Isaac McKneely", "Jacob Groves", "Leon Bond III", "Blake Buchanan"))))
+# lineup_changes = add_row(lineup_changes,Half = 1,Time = '1:35',Lineup = I(list(c("Dante Harris", "Isaac McKneely", "Jacob Groves", "Leon Bond III", "Jordan Minor"))))
+# lineup_changes = add_row(lineup_changes,Half = 1,Time = '0:51',Lineup = I(list(c("Dante Harris", "Taine Murray", "Jacob Groves", "Leon Bond III", "Jordan Minor"))))
+# lineup_changes = add_row(lineup_changes,Half = 2,Time = '20:00',Lineup = I(list(c("Dante Harris", "Reece Beekman", "Ryan Dunn", "Andrew Rohde", "Blake Buchanan"))))
+# lineup_changes = add_row(lineup_changes,Half = 2,Time = '15:55',Lineup = I(list(c("Dante Harris", "Reece Beekman", "Leon Bond III", "Taine Murray", "Blake Buchanan"))))
+# lineup_changes = add_row(lineup_changes,Half = 2,Time = '15:30',Lineup = I(list(c("Dante Harris", "Andrew Rohde", "Leon Bond III", "Taine Murray", "Blake Buchanan"))))
+# lineup_changes = add_row(lineup_changes,Half = 2,Time = '13:53',Lineup = I(list(c("Reece Beekman", "Andrew Rohde", "Leon Bond III", "Taine Murray", "Jacob Groves"))))
+# lineup_changes = add_row(lineup_changes,Half = 2,Time = '11:47',Lineup = I(list(c("Reece Beekman", "Andrew Rohde", "Ryan Dunn", "Taine Murray", "Jacob Groves"))))
+# lineup_changes = add_row(lineup_changes,Half = 2,Time = '9:42',Lineup = I(list(c("Dante Harris", "Andrew Rohde", "Ryan Dunn", "Taine Murray", "Jacob Groves"))))
+# lineup_changes = add_row(lineup_changes,Half = 2,Time = '7:28',Lineup = I(list(c("Dante Harris", "Jordan Minor", "Ryan Dunn", "Taine Murray", "Jacob Groves"))))
+# lineup_changes = add_row(lineup_changes,Half = 2,Time = '5:59',Lineup = I(list(c("Dante Harris", "Jordan Minor", "Leon Bond III", "Taine Murray", "Jacob Groves"))))
+# lineup_changes = add_row(lineup_changes,Half = 2,Time = '3:10',Lineup = I(list(c("Bryce Walker", "Jordan Minor", "Leon Bond III", "Taine Murray", "Jacob Groves"))))
+# lineup_changes = add_row(lineup_changes,Half = 2,Time = '2:25',Lineup = I(list(c("Bryce Walker", "Jordan Minor", "Leon Bond III", "Taine Murray", "Tristan How"))))
 
 
-# unique_times <- unique(paste(acc_subs$Half, acc_subs$V1))
-# lineup <- starting_lineup
-# for(time in unique_times) {
-#   half <- as.numeric(strsplit(time, " ")[[1]][1])
-#   timestamp <- strsplit(time, " ")[[1]][2]
-#   
-#   current_subs <- acc_subs[acc_subs$Half == half & acc_subs$V1 == timestamp,]
-#   
-#   for(player_out in current_subs$Player[current_subs$Action == "SUB OUT"]) {
-#     lineup <- lineup[lineup != player_out]
-#   }
-#   
-#   for(player_in in current_subs$Player[current_subs$Action == "SUB IN"]) {
-#     lineup <- c(lineup, player_in)
-#   }
-#   
-#   lineup_changes <- rbind(lineup_changes, data.frame(Half = half,Time = timestamp, Lineup = I(list(lineup))))
-# }
-# 
+unique_times <- unique(paste(acc_subs$Half, acc_subs$V1))
+lineup <- starting_lineup
+for(time in unique_times) {
+  half <- as.numeric(strsplit(time, " ")[[1]][1])
+  timestamp <- strsplit(time, " ")[[1]][2]
+
+  current_subs <- acc_subs[acc_subs$Half == half & acc_subs$V1 == timestamp,]
+
+  for(player_out in current_subs$Player[current_subs$Action == "SUB OUT"]) {
+    lineup <- lineup[lineup != player_out]
+  }
+
+  for(player_in in current_subs$Player[current_subs$Action == "SUB IN"]) {
+    lineup <- c(lineup, player_in)
+  }
+
+  lineup_changes <- rbind(lineup_changes, data.frame(Half = half,Time = timestamp, Lineup = I(list(lineup))))
+}
+
 # Turn to string so it's more readable
- lineup_changes$Lineup <- sapply(lineup_changes$Lineup, function(l) paste(paste("Cavaliers lineup change (",paste(l, collapse = ","),sep=""),")",sep="")  )
+lineup_changes$Lineup <- sapply(lineup_changes$Lineup, function(l) paste(paste("Cavaliers lineup change (",paste(l, collapse = ","),sep=""),")",sep="")  )
 colnames(lineup_changes)[colnames(lineup_changes) == 'Lineup'] <- 'Description'
 
 
 
 
 ## Fox Sports Scraping and Cleaning
-website1 = "https://www.foxsports.com/college-basketball/north-carolina-at-aggies-vs-virginia-cavaliers-nov-14-2023-game-boxscore-246171?tab=playbyplay"
-starting_lineup1 = "Isaac McKneely,Reece Beekman,Andrew Rohde,Ryan Dunn,Blake Buchanan"
-abbrev1 = "NCAT"
-opp1 = "vsNCAT"
+website1 = "https://www.foxsports.com/college-basketball/texas-southern-tigers-vs-virginia-cavaliers-nov-16-2023-game-boxscore-246172?tab=playbyplay"
+starting_lineup1 = "Dante Harris,Reece Beekman,Andrew Rohde,Ryan Dunn,Blake Buchanan"
+abbrev1 = "TXSO"
+opp1 = "vsTXSO"
 
 game = tibble(Half = 1, Time = "", Description = "", Event = "", Token = "", words = strsplit("place holder", split = ' '), Player = "", 
                UVA_score = 0, Opp_score = 0, Time_in_sec = 0, Opps = "",`Possession Number` = 0)
@@ -347,8 +347,8 @@ game_pbp = function(website,starting_lineup,abbrev,opp){
 game1 = game_pbp(website1,starting_lineup1,abbrev1,opp1)
 ## end of playbyplay data for all games
 
-#game1 = game1%>%select(-words)
-#write.csv(game1, "NCAT_game.csv", row.names=FALSE)
+# game1 = game1%>%select(-words)
+# write.csv(game1, "TXSO_game.csv", row.names=FALSE)
 
 
 
@@ -512,7 +512,7 @@ All_Stats = merge(Player_stats, Box_Score, by = "Player", all.x = TRUE) %>%
   mutate(def_eff = 2*Defensive_plays/Possessions, .after = Pt_diff_permin)%>%
   mutate(PER = PER/(On_court_time/60))
 
-#write.csv(All_Stats, "NCAT_stats.csv", row.names=FALSE)
+# write.csv(All_Stats, "TXSO_stats.csv", row.names=FALSE)
 
 ## Visualizations
 

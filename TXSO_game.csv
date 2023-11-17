@@ -1,0 +1,302 @@
+"Half","Time","Description","Time_in_sec","Event","Token","Player","UVA_score","Opp_score","Possession","Opps","Possession Number"
+1,"20:00","1ST HALF",1200,""," ","1ST",0,0,"Cavs","vsTXSO",1
+1,"20:00","Cavaliers lineup change (Dante Harris,Reece Beekman,Andrew Rohde,Ryan Dunn,Blake Buchanan)",1200,"Cav Sub"," ","Cavaliers",0,0,"","vsTXSO",2
+1,"19:41","Kenny Hunter vs. Blake Buchanan (Cavaliers gains possession)",1181,""," ","Kenny",0,0,"Cavs","vsTXSO",3
+1,"19:39","Ryan Dunn misses three point jump shot",1179,"Missed Three","misses","Ryan Dunn",0,0,"Cavs","vsTXSO",3
+1,"19:10","PJ Henry defensive rebound",1150,"Def Rebound","defensive rebound","PJ Henry",0,0,"Opp","vsTXSO",4
+1,"18:50","Jahmar Young Jr. makes two point driving dunk",1130,"Made Two","makes","Jahmar Young Jr.",0,2,"Cavs","vsTXSO",5
+1,"18:28","Andrew Rohde makes three point jump shot (Dante Harris assists)",1108,"Made Three","makes","Andrew Rohde",3,2,"Opp","vsTXSO",6
+1,"18:26","PJ Henry misses two point jump shot",1106,"Missed Two","misses","PJ Henry",3,2,"Opp","vsTXSO",6
+1,"18:10","PJ Henry offensive rebound",1090,"Off Rebound","offensive rebound","PJ Henry",3,2,"Opp","vsTXSO",6
+1,"18:08","Kenny Hunter misses two point jump shot",1088,"Missed Two","misses","Kenny Hunter",3,2,"Opp","vsTXSO",6
+1,"17:51","Dante Harris defensive rebound",1071,"Def Rebound","defensive rebound","Dante Harris",3,2,"Cavs","vsTXSO",7
+1,"17:51","Kenny Hunter shooting foul (Ryan Dunn draws the foul)",1071,"Foul","shooting foul","Kenny Hunter",3,2,"Cavs","vsTXSO",7
+1,"17:51","Ryan Dunn makes regular free throw 1 of 2",1071,"Made FT","makes","Ryan Dunn",4,2,"Cavs","vsTXSO",7
+1,"17:23","Ryan Dunn makes regular free throw 2 of 2",1043,"Made FT","makes","Ryan Dunn",5,2,"Opp","vsTXSO",8
+1,"17:05","Kenny Hunter makes two point turnaround jump shot (Jonathan Cisse assists)",1025,"Made Two","makes","Kenny Hunter",5,4,"Cavs","vsTXSO",9
+1,"17:03","Blake Buchanan misses two point jump shot",1023,"Missed Two","misses","Blake Buchanan",5,4,"Cavs","vsTXSO",9
+1,"16:53","Deon Stroud defensive rebound",1013,"Def Rebound","defensive rebound","Deon Stroud",5,4,"Opp","vsTXSO",10
+1,"16:38","Deon Stroud turnover (bad pass) (Ryan Dunn steals)",998,"Turnover","turnover","Deon Stroud",5,4,"Cavs","vsTXSO",11
+1,"16:35","Reece Beekman misses three point jump shot",995,"Missed Three","misses","Reece Beekman",5,4,"Cavs","vsTXSO",11
+1,"16:10","Tigers defensive rebound",970,"Def Rebound","defensive rebound","Tigers",5,4,"Opp","vsTXSO",12
+1,"16:08","PJ Henry misses three point jump shot",968,"Missed Three","misses","PJ Henry",5,4,"Opp","vsTXSO",12
+1,"16:01","Jahmar Young Jr. offensive rebound",961,"Off Rebound","offensive rebound","Jahmar Young Jr.",5,4,"Opp","vsTXSO",12
+1,"15:43","Jahmar Young Jr. turnover (bad pass)",943,"Turnover","turnover","Jahmar Young Jr.",5,4,"Cavs","vsTXSO",13
+1,"15:41","Reece Beekman misses three point jump shot",941,"Missed Three","misses","Reece Beekman",5,4,"Cavs","vsTXSO",13
+1,"15:15","Deon Stroud defensive rebound",915,"Def Rebound","defensive rebound","Deon Stroud",5,4,"Opp","vsTXSO",14
+1,"15:13","Blake Buchanan blocks Jahmar Young Jr.'s two point hook shot",913,"Block","block","Blake Buchanan",5,4,"Opp","vsTXSO",14
+1,"15:12","Jahmar Young Jr. offensive rebound",912,"Off Rebound","offensive rebound","Jahmar Young Jr.",5,4,"Opp","vsTXSO",14
+1,"15:10","Jahmar Young Jr. misses two point layup",910,"Missed Two","misses","Jahmar Young Jr.",5,4,"Opp","vsTXSO",14
+1,"15:01","Dante Harris defensive rebound",901,"Def Rebound","defensive rebound","Dante Harris",5,4,"Cavs","vsTXSO",15
+1,"15:01","Cavaliers lineup change (Dante Harris,Reece Beekman,Andrew Rohde,Ryan Dunn,Jacob Groves)",901,"Cav Sub"," ","Cavaliers",5,4,"Cavs","vsTXSO",15
+1,"14:57","TV timeout",897,""," ","TV",5,4,"Cavs","vsTXSO",15
+1,"14:55","Andrew Rohde misses two point jump shot",895,"Missed Two","misses","Andrew Rohde",5,4,"Cavs","vsTXSO",15
+1,"14:45","Ryan Dunn offensive rebound",885,"Off Rebound","offensive rebound","Ryan Dunn",5,4,"Cavs","vsTXSO",15
+1,"14:15","Jacob Groves makes two point driving layup",855,"Made Two","makes","Jacob Groves",7,4,"Opp","vsTXSO",16
+1,"13:47","Jonathan Cisse makes three point pullup jump shot (PJ Henry assists)",827,"Made Three","makes","Jonathan Cisse",7,7,"Cavs","vsTXSO",17
+1,"13:45","Jacob Groves misses three point jump shot",825,"Missed Three","misses","Jacob Groves",7,7,"Cavs","vsTXSO",17
+1,"13:20","Deon Stroud defensive rebound",800,"Def Rebound","defensive rebound","Deon Stroud",7,7,"Opp","vsTXSO",18
+1,"13:15","Jonathan Cisse turnover (bad pass) (Ryan Dunn steals)",795,"Turnover","turnover","Jonathan Cisse",7,7,"Cavs","vsTXSO",19
+1,"13:13","Dante Harris misses two point layup",793,"Missed Two","misses","Dante Harris",7,7,"Cavs","vsTXSO",19
+1,"13:13","Cavaliers lineup change (Reece Beekman,Andrew Rohde,Ryan Dunn,Jacob Groves,Taine Murray,MORTLE,ZYTARIOUS,FAROOQ,KEHLIN)",793,"Cav Sub"," ","Cavaliers",7,7,"Cavs","vsTXSO",19
+1,"12:47","Tigers defensive rebound",767,"Def Rebound","defensive rebound","Tigers",7,7,"Opp","vsTXSO",20
+1,"12:31","Jahmar Young Jr. turnover (double dribble)",751,"Turnover","turnover","Jahmar Young Jr.",7,7,"Cavs","vsTXSO",21
+1,"12:01","Reece Beekman makes two point driving layup",721,"Made Two","makes","Reece Beekman",9,7,"Opp","vsTXSO",22
+1,"11:59","Zytarious Mortle misses three point jump shot",719,"Missed Three","misses","Zytarious Mortle",9,7,"Opp","vsTXSO",22
+1,"11:49","Jahmar Young Jr. offensive rebound",709,"Off Rebound","offensive rebound","Jahmar Young Jr.",9,7,"Opp","vsTXSO",22
+1,"11:49","Jahmar Young Jr. turnover (bad pass)",709,"Turnover","turnover","Jahmar Young Jr.",9,7,"Cavs","vsTXSO",23
+1,"11:49","Cavaliers lineup change (Reece Beekman,Andrew Rohde,Jacob Groves,Taine Murray,MORTLE,ZYTARIOUS,FAROOQ,KEHLIN,Leon Bond III)",709,"Cav Sub"," ","Cavaliers",9,7,"Cavs","vsTXSO",23
+1,"11:24","TV timeout",684,""," ","TV",9,7,"Cavs","vsTXSO",23
+1,"11:11","Cavaliers lineup change (Reece Beekman,Andrew Rohde,Jacob Groves,Taine Murray,MORTLE,ZYTARIOUS,FAROOQ,KEHLIN,Leon Bond III,O'NEAL,SHAQIR)",671,"Cav Sub"," ","Cavaliers",9,7,"Cavs","vsTXSO",23
+1,"11:10","Leon Bond III makes two point driving layup (Reece Beekman assists)",670,"Made Two","makes","Leon Bond III",11,7,"Opp","vsTXSO",24
+1,"10:50","Jacob Groves personal foul (Deon Stroud draws the foul)",650,"Foul","personal foul","Jacob Groves",11,7,"Opp","vsTXSO",24
+1,"10:48","Kehlin Farooq misses three point jump shot",648,"Missed Three","misses","Kehlin Farooq",11,7,"Opp","vsTXSO",24
+1,"10:23","Taine Murray defensive rebound",623,"Def Rebound","defensive rebound","Taine Murray",11,7,"Cavs","vsTXSO",25
+1,"10:21","Jacob Groves misses three point jump shot",621,"Missed Three","misses","Jacob Groves",11,7,"Cavs","vsTXSO",25
+1,"10:13","Zytarious Mortle defensive rebound",613,"Def Rebound","defensive rebound","Zytarious Mortle",11,7,"Opp","vsTXSO",26
+1,"10:10","Zytarious Mortle turnover (bad pass) (Reece Beekman steals)",610,"Turnover","turnover","Zytarious Mortle",11,7,"Cavs","vsTXSO",27
+1,"10:10","Cavaliers lineup change (Reece Beekman,Jacob Groves,Taine Murray,MORTLE,ZYTARIOUS,FAROOQ,KEHLIN,Leon Bond III,O'NEAL,SHAQIR,Ryan Dunn,WYSINGER,JAYLEN)",610,"Cav Sub"," ","Cavaliers",11,7,"Cavs","vsTXSO",27
+1,"10:00","Kehlin Farooq personal foul (Reece Beekman draws the foul)",600,"Foul","personal foul","Kehlin Farooq",11,7,"Cavs","vsTXSO",27
+1,"9:35","Reece Beekman makes two point pullup jump shot (Ryan Dunn assists)",575,"Made Two","makes","Reece Beekman",13,7,"Opp","vsTXSO",28
+1,"9:33","Zytarious Mortle misses two point jump shot",573,"Missed Two","misses","Zytarious Mortle",13,7,"Opp","vsTXSO",28
+1,"9:29","Reece Beekman defensive rebound",569,"Def Rebound","defensive rebound","Reece Beekman",13,7,"Cavs","vsTXSO",29
+1,"9:29","Zytarious Mortle shooting foul (Ryan Dunn draws the foul)",569,"Foul","shooting foul","Zytarious Mortle",13,7,"Cavs","vsTXSO",29
+1,"9:29","Ryan Dunn makes regular free throw 1 of 2",569,"Made FT","makes","Ryan Dunn",14,7,"Cavs","vsTXSO",29
+1,"09:28","Cavaliers lineup change (Jacob Groves,Taine Murray,FAROOQ,KEHLIN,Leon Bond III,O'NEAL,SHAQIR,Ryan Dunn,WYSINGER,JAYLEN,Dante Harris,GRANGER,KOLBY,HUNTER,KENNY)",568,"Cav Sub"," ","Cavaliers",14,7,"Cavs","vsTXSO",29
+1,"9:16","Ryan Dunn makes regular free throw 2 of 2",556,"Made FT","makes","Ryan Dunn",15,7,"Opp","vsTXSO",30
+1,"9:12","Jaylen Wysinger turnover (bad pass) (Dante Harris steals)",552,"Turnover","turnover","Jaylen Wysinger",15,7,"Cavs","vsTXSO",31
+1,"9:12","Ryan Dunn makes two point driving dunk",552,"Made Two","makes","Ryan Dunn",17,7,"Cavs","vsTXSO",31
+1,"9:12","Jaylen Wysinger shooting foul (Ryan Dunn draws the foul)",552,"Foul","shooting foul","Jaylen Wysinger",17,7,"Cavs","vsTXSO",31
+1,"9:12","Ryan Dunn misses regular free throw 1 of 1",552,"Missed FT","misses","Ryan Dunn",17,7,"Cavs","vsTXSO",31
+1,"8:50","Kehlin Farooq defensive rebound",530,"Def Rebound","defensive rebound","Kehlin Farooq",17,7,"Opp","vsTXSO",32
+1,"08:48","Cavaliers lineup change (FAROOQ,KEHLIN,Leon Bond III,O'NEAL,SHAQIR,Ryan Dunn,WYSINGER,JAYLEN,Dante Harris,GRANGER,KOLBY,HUNTER,KENNY,Blake Buchanan,Andrew Rohde)",528,"Cav Sub"," ","Cavaliers",17,7,"Opp","vsTXSO",32
+1,"8:37","Leon Bond III personal foul (Kehlin Farooq draws the foul)",517,"Foul","personal foul","Leon Bond III",17,7,"Opp","vsTXSO",32
+1,"8:18","Kehlin Farooq makes three point jump shot (Kolby Granger assists)",498,"Made Three","makes","Kehlin Farooq",17,10,"Cavs","vsTXSO",33
+1,"8:16","Dante Harris misses two point jump shot",496,"Missed Two","misses","Dante Harris",17,10,"Cavs","vsTXSO",33
+1,"8:09","Kenny Hunter defensive rebound",489,"Def Rebound","defensive rebound","Kenny Hunter",17,10,"Opp","vsTXSO",34
+1,"8:07","Ryan Dunn blocks Jaylen Wysinger's two point jump shot",487,"Block","block","Ryan Dunn",17,10,"Opp","vsTXSO",34
+1,"8:01","Tigers offensive rebound",481,"Off Rebound","offensive rebound","Tigers",17,10,"Opp","vsTXSO",34
+1,"7:59","Kenny Hunter misses two point jump shot",479,"Missed Two","misses","Kenny Hunter",17,10,"Opp","vsTXSO",34
+1,"7:48","Blake Buchanan defensive rebound",468,"Def Rebound","defensive rebound","Blake Buchanan",17,10,"Cavs","vsTXSO",35
+1,"7:21","Ryan Dunn makes three point jump shot (Leon Bond III assists)",441,"Made Three","makes","Ryan Dunn",20,10,"Opp","vsTXSO",36
+1,"7:19","Shaqir O'Neal misses three point jump shot",439,"Missed Three","misses","Shaqir O'Neal",20,10,"Opp","vsTXSO",36
+1,"7:12","Dante Harris defensive rebound",432,"Def Rebound","defensive rebound","Dante Harris",20,10,"Cavs","vsTXSO",37
+1,"7:12","Dante Harris offensive foul (Kolby Granger draws the foul)",432,""," ","Dante",20,10,"Cavs","vsTXSO",37
+1,"7:12","Dante Harris turnover (offensive foul)",432,"Turnover","turnover","Dante Harris",20,10,"Opp","vsTXSO",38
+1,"07:12","Cavaliers lineup change (FAROOQ,KEHLIN,O'NEAL,SHAQIR,Ryan Dunn,WYSINGER,JAYLEN,GRANGER,KOLBY,HUNTER,KENNY,Blake Buchanan,Andrew Rohde,Reece Beekman,Jacob Groves)",432,"Cav Sub"," ","Cavaliers",20,10,"Opp","vsTXSO",38
+1,"7:01","TV timeout",421,""," ","TV",20,10,"Opp","vsTXSO",38
+1,"7:01","Blake Buchanan shooting foul (Shaqir O'Neal draws the foul)",421,"Foul","shooting foul","Blake Buchanan",20,10,"Opp","vsTXSO",38
+1,"7:01","Shaqir O'Neal misses regular free throw 1 of 2",421,"Missed FT","misses","Shaqir O'Neal",20,10,"Opp","vsTXSO",38
+1,"6:49","Shaqir O'Neal makes regular free throw 2 of 2",409,"Made FT","makes","Shaqir O'Neal",20,11,"Cavs","vsTXSO",39
+1,"6:47","Reece Beekman misses two point layup",407,"Missed Two","misses","Reece Beekman",20,11,"Cavs","vsTXSO",39
+1,"6:29","Kenny Hunter defensive rebound",389,"Def Rebound","defensive rebound","Kenny Hunter",20,11,"Opp","vsTXSO",40
+1,"6:28","Reece Beekman blocks Kehlin Farooq's three point jump shot",388,"Block","block","Reece Beekman",20,11,"Opp","vsTXSO",40
+1,"6:26","Tigers offensive rebound",386,"Off Rebound","offensive rebound","Tigers",20,11,"Opp","vsTXSO",40
+1,"6:10","Jaylen Wysinger turnover (lost ball) (Reece Beekman steals)",370,"Turnover","turnover","Jaylen Wysinger",20,11,"Cavs","vsTXSO",41
+1,"06:02","Cavaliers lineup change (FAROOQ,KEHLIN,O'NEAL,SHAQIR,Ryan Dunn,HUNTER,KENNY,Blake Buchanan,Andrew Rohde,Reece Beekman,Jacob Groves,HENRY,PJ,CISSE,JONATHAN)",362,"Cav Sub"," ","Cavaliers",20,11,"Cavs","vsTXSO",41
+1,"5:59","Reece Beekman turnover (lost ball) (Kenny Hunter steals)",359,"Turnover","turnover","Reece Beekman",20,11,"Opp","vsTXSO",42
+1,"5:39","Reece Beekman personal foul (Kolby Granger draws the foul)",339,"Foul","personal foul","Reece Beekman",20,11,"Opp","vsTXSO",42
+1,"5:17","Kehlin Farooq turnover (lost ball) (Reece Beekman steals)",317,"Turnover","turnover","Kehlin Farooq",20,11,"Cavs","vsTXSO",43
+1,"5:15","Reece Beekman misses three point jump shot",315,"Missed Three","misses","Reece Beekman",20,11,"Cavs","vsTXSO",43
+1,"5:14","Blake Buchanan offensive rebound",314,"Off Rebound","offensive rebound","Blake Buchanan",20,11,"Cavs","vsTXSO",43
+1,"4:58","Blake Buchanan turnover (traveling)",298,"Turnover","turnover","Blake Buchanan",20,11,"Opp","vsTXSO",44
+1,"4:56","Ryan Dunn blocks Jonathan Cisse's two point jump shot",296,"Block","block","Ryan Dunn",20,11,"Opp","vsTXSO",44
+1,"4:44","Ryan Dunn defensive rebound",284,"Def Rebound","defensive rebound","Ryan Dunn",20,11,"Cavs","vsTXSO",45
+1,"4:44","Kehlin Farooq shooting foul (Andrew Rohde draws the foul)",284,"Foul","shooting foul","Kehlin Farooq",20,11,"Cavs","vsTXSO",45
+1,"4:44","Andrew Rohde makes regular free throw 1 of 2",284,"Made FT","makes","Andrew Rohde",21,11,"Cavs","vsTXSO",45
+1,"4:44","Andrew Rohde misses regular free throw 2 of 2",284,"Missed FT","misses","Andrew Rohde",21,11,"Cavs","vsTXSO",45
+1,"04:43","Cavaliers lineup change (FAROOQ,KEHLIN,O'NEAL,SHAQIR,Blake Buchanan,Andrew Rohde,Reece Beekman,Jacob Groves,HENRY,PJ,CISSE,JONATHAN,Dante Harris,YOUNG JR.,JAHMAR)",283,"Cav Sub"," ","Cavaliers",21,11,"Cavs","vsTXSO",45
+1,"4:22","Kehlin Farooq defensive rebound",262,"Def Rebound","defensive rebound","Kehlin Farooq",21,11,"Opp","vsTXSO",46
+1,"04:21","Cavaliers lineup change (FAROOQ,KEHLIN,Blake Buchanan,Andrew Rohde,Reece Beekman,HENRY,PJ,CISSE,JONATHAN,Dante Harris,YOUNG JR.,JAHMAR,Leon Bond III,HUNTER,KENNY)",261,"Cav Sub"," ","Cavaliers",21,11,"Opp","vsTXSO",46
+1,"4:13","Jacob Groves personal foul (Kehlin Farooq draws the foul)",253,"Foul","personal foul","Jacob Groves",21,11,"Opp","vsTXSO",46
+1,"4:11","Reece Beekman blocks PJ Henry's two point jump shot",251,"Block","block","Reece Beekman",21,11,"Opp","vsTXSO",46
+1,"3:56","Blake Buchanan defensive rebound",236,"Def Rebound","defensive rebound","Blake Buchanan",21,11,"Cavs","vsTXSO",47
+1,"3:25","Reece Beekman turnover (bad pass) (Kehlin Farooq steals)",205,"Turnover","turnover","Reece Beekman",21,11,"Opp","vsTXSO",48
+1,"3:23","Jonathan Cisse misses three point jump shot",203,"Missed Three","misses","Jonathan Cisse",21,11,"Opp","vsTXSO",48
+1,"3:01","Kehlin Farooq offensive rebound",181,"Off Rebound","offensive rebound","Kehlin Farooq",21,11,"Opp","vsTXSO",48
+1,"2:59","PJ Henry misses two point jump shot",179,"Missed Two","misses","PJ Henry",21,11,"Opp","vsTXSO",48
+1,"2:48","Reece Beekman defensive rebound",168,"Def Rebound","defensive rebound","Reece Beekman",21,11,"Cavs","vsTXSO",49
+1,"2:30","Dante Harris makes three point jump shot (Reece Beekman assists)",150,"Made Three","makes","Dante Harris",24,11,"Opp","vsTXSO",50
+1,"2:25","PJ Henry turnover (bad pass) (Leon Bond III steals)",145,"Turnover","turnover","PJ Henry",24,11,"Cavs","vsTXSO",51
+1,"2:25","Dante Harris turnover (traveling)",145,"Turnover","turnover","Dante Harris",24,11,"Opp","vsTXSO",52
+1,"02:24","Cavaliers lineup change (FAROOQ,KEHLIN,Blake Buchanan,Reece Beekman,HENRY,PJ,CISSE,JONATHAN,Dante Harris,YOUNG JR.,JAHMAR,Leon Bond III,Ryan Dunn,STROUD,DEON)",144,"Cav Sub"," ","Cavaliers",24,11,"Opp","vsTXSO",52
+1,"2:02","TV timeout",122,""," ","TV",24,11,"Opp","vsTXSO",52
+1,"2:00","Reece Beekman blocks Jonathan Cisse's two point jump shot",120,"Block","block","Reece Beekman",24,11,"Opp","vsTXSO",52
+1,"1:34","Ryan Dunn defensive rebound",94,"Def Rebound","defensive rebound","Ryan Dunn",24,11,"Cavs","vsTXSO",53
+1,"01:34","Cavaliers lineup change (FAROOQ,KEHLIN,Reece Beekman,HENRY,PJ,Dante Harris,YOUNG JR.,JAHMAR,Leon Bond III,Ryan Dunn,STROUD,DEON,Jordan Minor,WYSINGER,JAYLEN)",94,"Cav Sub"," ","Cavaliers",24,11,"Cavs","vsTXSO",53
+1,"1:18","Jonathan Cisse personal foul (Dante Harris draws the foul)",78,"Foul","personal foul","Jonathan Cisse",24,11,"Cavs","vsTXSO",53
+1,"1:16","Ryan Dunn misses three point jump shot",76,"Missed Three","misses","Ryan Dunn",24,11,"Cavs","vsTXSO",53
+1,"1:05","Jaylen Wysinger defensive rebound",65,"Def Rebound","defensive rebound","Jaylen Wysinger",24,11,"Opp","vsTXSO",54
+1,"1:03","PJ Henry misses three point jump shot",63,"Missed Three","misses","PJ Henry",24,11,"Opp","vsTXSO",54
+1,"0:50","Jahmar Young Jr. offensive rebound",50,"Off Rebound","offensive rebound","Jahmar Young Jr.",24,11,"Opp","vsTXSO",54
+1,"0:48","Jahmar Young Jr. misses two point layup",48,"Missed Two","misses","Jahmar Young Jr.",24,11,"Opp","vsTXSO",54
+1,"0:47","Jahmar Young Jr. offensive rebound",47,"Off Rebound","offensive rebound","Jahmar Young Jr.",24,11,"Opp","vsTXSO",54
+1,"0:47","Jahmar Young Jr. makes two point layup",47,"Made Two","makes","Jahmar Young Jr.",24,13,"Opp","vsTXSO",54
+1,"0:47","Jordan Minor shooting foul (Jahmar Young Jr. draws the foul)",47,"Foul","shooting foul","Jordan Minor",24,13,"Opp","vsTXSO",54
+1,"0:33","Jahmar Young Jr. makes regular free throw 1 of 1",33,"Made FT","makes","Jahmar Young Jr.",24,14,"Cavs","vsTXSO",55
+1,"0:03","Reece Beekman makes two point driving layup",3,"Made Two","makes","Reece Beekman",26,14,"Opp","vsTXSO",56
+1,"0:03","Deon Stroud turnover (traveling)",3,"Turnover","turnover","Deon Stroud",26,14,"Cavs","vsTXSO",57
+1,"00:03","Cavaliers lineup change (FAROOQ,KEHLIN,Reece Beekman,Dante Harris,YOUNG JR.,JAHMAR,Ryan Dunn,STROUD,DEON,Jordan Minor,WYSINGER,JAYLEN,Jacob Groves,MORTLE,ZYTARIOUS)",3,"Cav Sub"," ","Cavaliers",26,14,"Cavs","vsTXSO",57
+1,"0:01","Cavaliers 30 second timeout",1,"Timeout","second timeout","Cavaliers 30",26,14,"Cavs","vsTXSO",57
+2,"20:00","2ND HALF",1200,""," ","2ND",26,14,"Cavs","vsTXSO",57
+2,"20:00","Cavaliers lineup change (FAROOQ,KEHLIN,Reece Beekman,Dante Harris,YOUNG JR.,JAHMAR,Ryan Dunn,STROUD,DEON,WYSINGER,JAYLEN,Blake Buchanan,Andrew Rohde,HENRY,PJ)",1200,"Cav Sub"," ","Cavaliers",26,14,"Cavs","vsTXSO",57
+2,"19:38","Open inbound Tigers",1178,""," ","Open",26,14,"Opp","vsTXSO",58
+2,"19:35","Ryan Dunn blocks Jahmar Young Jr.'s two point layup",1175,"Block","block","Ryan Dunn",26,14,"Opp","vsTXSO",58
+2,"19:31","Tigers offensive rebound",1171,"Off Rebound","offensive rebound","Tigers",26,14,"Opp","vsTXSO",58
+2,"19:29","Blake Buchanan blocks Jaylen Wysinger's two point layup",1169,"Block","block","Blake Buchanan",26,14,"Opp","vsTXSO",58
+2,"19:13","Dante Harris defensive rebound",1153,"Def Rebound","defensive rebound","Dante Harris",26,14,"Cavs","vsTXSO",59
+2,"19:13","Jahmar Young Jr. shooting foul (Blake Buchanan draws the foul)",1153,"Foul","shooting foul","Jahmar Young Jr.",26,14,"Cavs","vsTXSO",59
+2,"19:13","Blake Buchanan misses regular free throw 1 of 2",1153,"Missed FT","misses","Blake Buchanan",26,14,"Cavs","vsTXSO",59
+2,"18:53","Blake Buchanan makes regular free throw 2 of 2",1133,"Made FT","makes","Blake Buchanan",27,14,"Opp","vsTXSO",60
+2,"18:51","Deon Stroud misses two point jump shot",1131,"Missed Two","misses","Deon Stroud",27,14,"Opp","vsTXSO",60
+2,"18:50","Andrew Rohde defensive rebound",1130,"Def Rebound","defensive rebound","Andrew Rohde",27,14,"Cavs","vsTXSO",61
+2,"18:48","Andrew Rohde turnover (Deon Stroud steals)",1128,"Turnover","turnover","Andrew Rohde",27,14,"Opp","vsTXSO",62
+2,"18:45","Ryan Dunn personal foul (Deon Stroud draws the foul)",1125,"Foul","personal foul","Ryan Dunn",27,14,"Opp","vsTXSO",62
+2,"18:45","PJ Henry offensive foul",1125,""," ","PJ",27,14,"Opp","vsTXSO",62
+2,"18:28","PJ Henry turnover (offensive foul)",1108,"Turnover","turnover","PJ Henry",27,14,"Cavs","vsTXSO",63
+2,"18:15","Reece Beekman makes two point fadeaway jump shot (Andrew Rohde assists)",1095,"Made Two","makes","Reece Beekman",29,14,"Opp","vsTXSO",64
+2,"18:12","Jaylen Wysinger turnover (bad pass) (Ryan Dunn steals)",1092,"Turnover","turnover","Jaylen Wysinger",29,14,"Cavs","vsTXSO",65
+2,"18:12","Kehlin Farooq shooting foul (Ryan Dunn draws the foul)",1092,"Foul","shooting foul","Kehlin Farooq",29,14,"Cavs","vsTXSO",65
+2,"18:12","Ryan Dunn makes regular free throw 1 of 2",1092,"Made FT","makes","Ryan Dunn",30,14,"Cavs","vsTXSO",65
+2,"17:52","Ryan Dunn makes regular free throw 2 of 2",1072,"Made FT","makes","Ryan Dunn",31,14,"Opp","vsTXSO",66
+2,"17:40","PJ Henry makes two point pullup jump shot",1060,"Made Two","makes","PJ Henry",31,16,"Cavs","vsTXSO",67
+2,"17:36","Andrew Rohde turnover (lost ball) (Deon Stroud steals)",1056,"Turnover","turnover","Andrew Rohde",31,16,"Opp","vsTXSO",68
+2,"17:36","Reece Beekman shooting foul (Deon Stroud draws the foul)",1056,"Foul","shooting foul","Reece Beekman",31,16,"Opp","vsTXSO",68
+2,"17:36","Deon Stroud makes regular free throw 1 of 2",1056,"Made FT","makes","Deon Stroud",31,17,"Opp","vsTXSO",68
+2,"17:26","Deon Stroud makes regular free throw 2 of 2",1046,"Made FT","makes","Deon Stroud",31,18,"Cavs","vsTXSO",69
+2,"17:21","Andrew Rohde turnover (lost ball) (Deon Stroud steals)",1041,"Turnover","turnover","Andrew Rohde",31,18,"Opp","vsTXSO",70
+2,"17:02","Deon Stroud makes two point driving dunk",1022,"Made Two","makes","Deon Stroud",31,20,"Cavs","vsTXSO",71
+2,"16:48","Dante Harris makes three point jump shot (Reece Beekman assists)",1008,"Made Three","makes","Dante Harris",34,20,"Opp","vsTXSO",72
+2,"16:27","PJ Henry makes three point jump shot (Jaylen Wysinger assists)",987,"Made Three","makes","PJ Henry",34,23,"Cavs","vsTXSO",73
+2,"16:27","Kehlin Farooq shooting foul (Blake Buchanan draws the foul)",987,"Foul","shooting foul","Kehlin Farooq",34,23,"Cavs","vsTXSO",73
+2,"16:27","Blake Buchanan makes regular free throw 1 of 2",987,"Made FT","makes","Blake Buchanan",35,23,"Cavs","vsTXSO",73
+2,"16:27","Blake Buchanan misses regular free throw 2 of 2",987,"Missed FT","misses","Blake Buchanan",35,23,"Cavs","vsTXSO",73
+2,"16:27","Cavaliers lineup change (Reece Beekman,Dante Harris,YOUNG JR.,JAHMAR,Ryan Dunn,STROUD,DEON,WYSINGER,JAYLEN,Blake Buchanan,HENRY,PJ,Taine Murray,CRAIG,CHRIS)",987,"Cav Sub"," ","Cavaliers",35,23,"Cavs","vsTXSO",73
+2,"16:17","Chris Craig defensive rebound",977,"Def Rebound","defensive rebound","Chris Craig",35,23,"Opp","vsTXSO",74
+2,"16:15","Jaylen Wysinger misses three point jump shot",975,"Missed Three","misses","Jaylen Wysinger",35,23,"Opp","vsTXSO",74
+2,"16:00","Taine Murray defensive rebound",960,"Def Rebound","defensive rebound","Taine Murray",35,23,"Cavs","vsTXSO",75
+2,"15:58","Dante Harris misses two point layup",958,"Missed Two","misses","Dante Harris",35,23,"Cavs","vsTXSO",75
+2,"15:57","Ryan Dunn offensive rebound",957,"Off Rebound","offensive rebound","Ryan Dunn",35,23,"Cavs","vsTXSO",75
+2,"15:57","Blake Buchanan makes two point dunk (Ryan Dunn assists)",957,"Made Two","makes","Blake Buchanan",37,23,"Cavs","vsTXSO",75
+2,"15:57","Jahmar Young Jr. shooting foul (Blake Buchanan draws the foul)",957,"Foul","shooting foul","Jahmar Young Jr.",37,23,"Cavs","vsTXSO",75
+2,"15:57","TV timeout",957,""," ","TV",37,23,"Cavs","vsTXSO",75
+2,"15:35","Blake Buchanan makes regular free throw 1 of 1",935,"Made FT","makes","Blake Buchanan",38,23,"Opp","vsTXSO",76
+2,"15:33","Chris Craig misses two point layup",933,"Missed Two","misses","Chris Craig",38,23,"Opp","vsTXSO",76
+2,"15:25","Tigers offensive rebound",925,"Off Rebound","offensive rebound","Tigers",38,23,"Opp","vsTXSO",76
+2,"15:06","Jaylen Wysinger turnover (bad pass) (Blake Buchanan steals)",906,"Turnover","turnover","Jaylen Wysinger",38,23,"Cavs","vsTXSO",77
+2,"14:43","Taine Murray turnover (lost ball) (PJ Henry steals)",883,"Turnover","turnover","Taine Murray",38,23,"Opp","vsTXSO",78
+2,"14:24","PJ Henry makes two point pullup jump shot",864,"Made Two","makes","PJ Henry",38,25,"Cavs","vsTXSO",79
+2,"14:21","Reece Beekman turnover (lost ball) (Deon Stroud steals)",861,"Turnover","turnover","Reece Beekman",38,25,"Opp","vsTXSO",80
+2,"14:21","Blake Buchanan blocks Deon Stroud's two point layup",861,"Block","block","Blake Buchanan",38,25,"Opp","vsTXSO",80
+2,"14:17","Cavaliers lineup change (Reece Beekman,YOUNG JR.,JAHMAR,Ryan Dunn,STROUD,DEON,WYSINGER,JAYLEN,HENRY,PJ,Taine Murray,CRAIG,CHRIS,Andrew Rohde,Jacob Groves)",857,"Cav Sub"," ","Cavaliers",38,25,"Opp","vsTXSO",80
+2,"14:13","Tigers offensive rebound",853,"Off Rebound","offensive rebound","Tigers",38,25,"Opp","vsTXSO",80
+2,"14:11","Ryan Dunn blocks PJ Henry's two point layup",851,"Block","block","Ryan Dunn",38,25,"Opp","vsTXSO",80
+2,"13:55","Andrew Rohde defensive rebound",835,"Def Rebound","defensive rebound","Andrew Rohde",38,25,"Cavs","vsTXSO",81
+2,"13:53","Reece Beekman misses three point jump shot",833,"Missed Three","misses","Reece Beekman",38,25,"Cavs","vsTXSO",81
+2,"13:33","Jaylen Wysinger defensive rebound",813,"Def Rebound","defensive rebound","Jaylen Wysinger",38,25,"Opp","vsTXSO",82
+2,"13:33","Cavaliers lineup change (Ryan Dunn,STROUD,DEON,WYSINGER,JAYLEN,HENRY,PJ,Taine Murray,CRAIG,CHRIS,Andrew Rohde,Jacob Groves,Dante Harris,HUNTER,KENNY)",813,"Cav Sub"," ","Cavaliers",38,25,"Opp","vsTXSO",82
+2,"13:26","Reece Beekman personal foul (Deon Stroud draws the foul)",806,"Foul","personal foul","Reece Beekman",38,25,"Opp","vsTXSO",82
+2,"13:24","Jaylen Wysinger misses three point jump shot",804,"Missed Three","misses","Jaylen Wysinger",38,25,"Opp","vsTXSO",82
+2,"13:20","Kenny Hunter offensive rebound",800,"Off Rebound","offensive rebound","Kenny Hunter",38,25,"Opp","vsTXSO",82
+2,"13:16","Deon Stroud misses three point jump shot",796,"Missed Three","misses","Deon Stroud",38,25,"Opp","vsTXSO",82
+2,"13:16","Andrew Rohde defensive rebound",796,"Def Rebound","defensive rebound","Andrew Rohde",38,25,"Cavs","vsTXSO",83
+2,"13:16","Cavaliers lineup change (STROUD,DEON,WYSINGER,JAYLEN,HENRY,PJ,Taine Murray,CRAIG,CHRIS,Andrew Rohde,Jacob Groves,Dante Harris,HUNTER,KENNY,Leon Bond III)",796,"Cav Sub"," ","Cavaliers",38,25,"Cavs","vsTXSO",83
+2,"12:59","Kenny Hunter personal foul (Andrew Rohde draws the foul)",779,"Foul","personal foul","Kenny Hunter",38,25,"Cavs","vsTXSO",83
+2,"12:46","Jacob Groves makes two point layup (Dante Harris assists)",766,"Made Two","makes","Jacob Groves",40,25,"Opp","vsTXSO",84
+2,"12:44","PJ Henry misses two point jump shot",764,"Missed Two","misses","PJ Henry",40,25,"Opp","vsTXSO",84
+2,"12:35","Taine Murray defensive rebound",755,"Def Rebound","defensive rebound","Taine Murray",40,25,"Cavs","vsTXSO",85
+2,"12:33","Taine Murray misses three point jump shot",753,"Missed Three","misses","Taine Murray",40,25,"Cavs","vsTXSO",85
+2,"12:20","Cavaliers lineup change (WYSINGER,JAYLEN,HENRY,PJ,Taine Murray,CRAIG,CHRIS,Andrew Rohde,Jacob Groves,Dante Harris,HUNTER,KENNY,Leon Bond III,O'NEAL,SHAQIR)",740,"Cav Sub"," ","Cavaliers",40,25,"Cavs","vsTXSO",85
+2,"12:19","Jaylen Wysinger defensive rebound",739,"Def Rebound","defensive rebound","Jaylen Wysinger",40,25,"Opp","vsTXSO",86
+2,"11:56","Deon Stroud turnover (traveling)",716,"Turnover","turnover","Deon Stroud",40,25,"Cavs","vsTXSO",87
+2,"11:54","Jacob Groves misses three point jump shot",714,"Missed Three","misses","Jacob Groves",40,25,"Cavs","vsTXSO",87
+2,"11:32","Shaqir O'Neal defensive rebound",692,"Def Rebound","defensive rebound","Shaqir O'Neal",40,25,"Opp","vsTXSO",88
+2,"11:27","PJ Henry turnover (bad pass) (Andrew Rohde steals)",687,"Turnover","turnover","PJ Henry",40,25,"Cavs","vsTXSO",89
+2,"11:26","Cavaliers lineup change (WYSINGER,JAYLEN,Taine Murray,CRAIG,CHRIS,Andrew Rohde,Jacob Groves,Dante Harris,HUNTER,KENNY,Leon Bond III,O'NEAL,SHAQIR,GRANGER,KOLBY)",686,"Cav Sub"," ","Cavaliers",40,25,"Cavs","vsTXSO",89
+2,"11:25","Leon Bond III makes two point dunk (Andrew Rohde assists)",685,"Made Two","makes","Leon Bond III",42,25,"Opp","vsTXSO",90
+2,"11:25","Tigers 30 second timeout",685,"Timeout","second timeout","Tigers 30",42,25,"Opp","vsTXSO",90
+2,"11:04","TV timeout",664,""," ","TV",42,25,"Opp","vsTXSO",90
+2,"11:01","Kolby Granger misses three point jump shot",661,"Missed Three","misses","Kolby Granger",42,25,"Opp","vsTXSO",90
+2,"10:35","Cavaliers defensive rebound",635,"Def Rebound","defensive rebound","Cavaliers",42,25,"Cavs","vsTXSO",91
+2,"10:33","Shaqir O'Neal blocks Andrew Rohde's two point jump shot",633,"Block","block","Shaqir O'Neal",42,25,"Cavs","vsTXSO",91
+2,"10:21","Kenny Hunter defensive rebound",621,"Def Rebound","defensive rebound","Kenny Hunter",42,25,"Opp","vsTXSO",92
+2,"10:17","Jaylen Wysinger turnover (bad pass) (Leon Bond III steals)",617,"Turnover","turnover","Jaylen Wysinger",42,25,"Cavs","vsTXSO",93
+2,"10:15","Leon Bond III misses two point layup",615,"Missed Two","misses","Leon Bond III",42,25,"Cavs","vsTXSO",93
+2,"10:03","Cavaliers lineup change (Taine Murray,CRAIG,CHRIS,Andrew Rohde,Jacob Groves,HUNTER,KENNY,Leon Bond III,O'NEAL,SHAQIR,GRANGER,KOLBY,Reece Beekman,CISSE,JONATHAN)",603,"Cav Sub"," ","Cavaliers",42,25,"Cavs","vsTXSO",93
+2,"10:02","Chris Craig defensive rebound",602,"Def Rebound","defensive rebound","Chris Craig",42,25,"Opp","vsTXSO",94
+2,"10:02","Chris Craig offensive foul (Dante Harris draws the foul)",602,""," ","Chris",42,25,"Opp","vsTXSO",94
+2,"9:42","Chris Craig turnover (offensive foul)",582,"Turnover","turnover","Chris Craig",42,25,"Cavs","vsTXSO",95
+2,"9:13","Andrew Rohde makes two point layup",553,"Made Two","makes","Andrew Rohde",44,25,"Opp","vsTXSO",96
+2,"9:11","Kenny Hunter misses two point layup",551,"Missed Two","misses","Kenny Hunter",44,25,"Opp","vsTXSO",96
+2,"8:53","Jacob Groves defensive rebound",533,"Def Rebound","defensive rebound","Jacob Groves",44,25,"Cavs","vsTXSO",97
+2,"8:53","Chris Craig shooting foul (Taine Murray draws the foul)",533,"Foul","shooting foul","Chris Craig",44,25,"Cavs","vsTXSO",97
+2,"8:53","Taine Murray misses regular free throw 1 of 2",533,"Missed FT","misses","Taine Murray",44,25,"Cavs","vsTXSO",97
+2,"08:53","Cavaliers lineup change (Taine Murray,CRAIG,CHRIS,Andrew Rohde,Jacob Groves,O'NEAL,SHAQIR,GRANGER,KOLBY,Reece Beekman,CISSE,JONATHAN,Ryan Dunn,YOUNG JR.,JAHMAR)",533,"Cav Sub"," ","Cavaliers",44,25,"Cavs","vsTXSO",97
+2,"8:30","Taine Murray makes regular free throw 2 of 2",510,"Made FT","makes","Taine Murray",45,25,"Opp","vsTXSO",98
+2,"8:28","Kolby Granger misses three point jump shot",508,"Missed Three","misses","Kolby Granger",45,25,"Opp","vsTXSO",98
+2,"8:17","Reece Beekman defensive rebound",497,"Def Rebound","defensive rebound","Reece Beekman",45,25,"Cavs","vsTXSO",99
+2,"8:17","Jahmar Young Jr. shooting foul (Ryan Dunn draws the foul)",497,"Foul","shooting foul","Jahmar Young Jr.",45,25,"Cavs","vsTXSO",99
+2,"8:17","Ryan Dunn makes regular free throw 1 of 2",497,"Made FT","makes","Ryan Dunn",46,25,"Cavs","vsTXSO",99
+2,"8:04","Ryan Dunn makes regular free throw 2 of 2",484,"Made FT","makes","Ryan Dunn",47,25,"Opp","vsTXSO",100
+2,"8:02","Kolby Granger misses two point jump shot",482,"Missed Two","misses","Kolby Granger",47,25,"Opp","vsTXSO",100
+2,"7:39","Ryan Dunn defensive rebound",459,"Def Rebound","defensive rebound","Ryan Dunn",47,25,"Cavs","vsTXSO",101
+2,"7:37","Reece Beekman misses two point jump shot",457,"Missed Two","misses","Reece Beekman",47,25,"Cavs","vsTXSO",101
+2,"7:37","Jacob Groves offensive rebound",457,"Off Rebound","offensive rebound","Jacob Groves",47,25,"Cavs","vsTXSO",101
+2,"7:37","Jacob Groves makes two point layup",457,"Made Two","makes","Jacob Groves",49,25,"Cavs","vsTXSO",101
+2,"7:37","Jahmar Young Jr. shooting foul (Jacob Groves draws the foul)",457,"Foul","shooting foul","Jahmar Young Jr.",49,25,"Cavs","vsTXSO",101
+2,"7:37","TV timeout",457,""," ","TV",49,25,"Cavs","vsTXSO",101
+2,"7:22","Jacob Groves makes regular free throw 1 of 1",442,"Made FT","makes","Jacob Groves",50,25,"Opp","vsTXSO",102
+2,"7:10","Kolby Granger turnover (lost ball) (Reece Beekman steals)",430,"Turnover","turnover","Kolby Granger",50,25,"Cavs","vsTXSO",103
+2,"6:53","Ryan Dunn makes two point cutting layup (Reece Beekman assists)",413,"Made Two","makes","Ryan Dunn",52,25,"Opp","vsTXSO",104
+2,"6:52","Ryan Dunn personal foul (Jahmar Young Jr. draws the foul)",412,"Foul","personal foul","Ryan Dunn",52,25,"Opp","vsTXSO",104
+2,"06:52","Cavaliers lineup change (Taine Murray,CRAIG,CHRIS,Andrew Rohde,O'NEAL,SHAQIR,GRANGER,KOLBY,CISSE,JONATHAN,YOUNG JR.,JAHMAR,Blake Buchanan,Dante Harris,Leon Bond III)",412,"Cav Sub"," ","Cavaliers",52,25,"Opp","vsTXSO",104
+2,"6:40","Leon Bond III personal foul (Chris Craig draws the foul)",400,"Foul","personal foul","Leon Bond III",52,25,"Opp","vsTXSO",104
+2,"6:07","Jahmar Young Jr. makes two point dunk (Chris Craig assists)",367,"Made Two","makes","Jahmar Young Jr.",52,27,"Cavs","vsTXSO",105
+2,"6:05","Andrew Rohde misses two point jump shot",365,"Missed Two","misses","Andrew Rohde",52,27,"Cavs","vsTXSO",105
+2,"5:54","Blake Buchanan offensive rebound",354,"Off Rebound","offensive rebound","Blake Buchanan",52,27,"Cavs","vsTXSO",105
+2,"5:30","Leon Bond III makes two point stepback jump shot (Andrew Rohde assists)",330,"Made Two","makes","Leon Bond III",54,27,"Opp","vsTXSO",106
+2,"5:30","Blake Buchanan shooting foul (Jahmar Young Jr. draws the foul)",330,"Foul","shooting foul","Blake Buchanan",54,27,"Opp","vsTXSO",106
+2,"5:30","Jahmar Young Jr. misses regular free throw 1 of 2",330,"Missed FT","misses","Jahmar Young Jr.",54,27,"Opp","vsTXSO",106
+2,"5:30","Jahmar Young Jr. misses regular free throw 2 of 2",330,"Missed FT","misses","Jahmar Young Jr.",54,27,"Opp","vsTXSO",106
+2,"05:30","Cavaliers lineup change (Taine Murray,CRAIG,CHRIS,O'NEAL,SHAQIR,GRANGER,KOLBY,CISSE,JONATHAN,YOUNG JR.,JAHMAR,Blake Buchanan,Dante Harris,Leon Bond III,Jordan Minor)",330,"Cav Sub"," ","Cavaliers",54,27,"Opp","vsTXSO",106
+2,"5:08","Leon Bond III defensive rebound",308,"Def Rebound","defensive rebound","Leon Bond III",54,27,"Cavs","vsTXSO",107
+2,"5:06","Leon Bond III misses two point jump shot",306,"Missed Two","misses","Leon Bond III",54,27,"Cavs","vsTXSO",107
+2,"4:47","Kolby Granger defensive rebound",287,"Def Rebound","defensive rebound","Kolby Granger",54,27,"Opp","vsTXSO",108
+2,"4:44","Kolby Granger misses three point jump shot",284,"Missed Three","misses","Kolby Granger",54,27,"Opp","vsTXSO",108
+2,"4:25","Cavaliers defensive rebound",265,"Def Rebound","defensive rebound","Cavaliers",54,27,"Cavs","vsTXSO",109
+2,"4:06","Taine Murray turnover (bad pass) (Kolby Granger steals)",246,"Turnover","turnover","Taine Murray",54,27,"Opp","vsTXSO",110
+2,"4:06","Dante Harris personal foul (Jonathan Cisse draws the foul)",246,"Foul","personal foul","Dante Harris",54,27,"Opp","vsTXSO",110
+2,"4:06","Jonathan Cisse makes regular free throw 1 of 2",246,"Made FT","makes","Jonathan Cisse",54,28,"Opp","vsTXSO",110
+2,"4:06","Jonathan Cisse misses regular free throw 2 of 2",246,"Missed FT","misses","Jonathan Cisse",54,28,"Opp","vsTXSO",110
+2,"04:06","Cavaliers lineup change (Taine Murray,CRAIG,CHRIS,O'NEAL,SHAQIR,CISSE,JONATHAN,YOUNG JR.,JAHMAR,Blake Buchanan,Dante Harris,Leon Bond III,Jordan Minor,MORTLE,ZYTARIOUS)",246,"Cav Sub"," ","Cavaliers",54,28,"Opp","vsTXSO",110
+2,"3:42","Leon Bond III defensive rebound",222,"Def Rebound","defensive rebound","Leon Bond III",54,28,"Cavs","vsTXSO",111
+2,"3:18","Jordan Minor makes two point turnaround fadeaway jump shot",198,"Made Two","makes","Jordan Minor",56,28,"Opp","vsTXSO",112
+2,"2:52","Jahmar Young Jr. turnover (bad pass) (Leon Bond III steals)",172,"Turnover","turnover","Jahmar Young Jr.",56,28,"Cavs","vsTXSO",113
+2,"2:48","Dante Harris misses two point jump shot",168,"Missed Two","misses","Dante Harris",56,28,"Cavs","vsTXSO",113
+2,"2:48","Cavaliers offensive rebound",168,"Off Rebound","offensive rebound","Cavaliers",56,28,"Cavs","vsTXSO",113
+2,"02:48","Cavaliers lineup change (Taine Murray,CRAIG,CHRIS,O'NEAL,SHAQIR,CISSE,JONATHAN,YOUNG JR.,JAHMAR,Leon Bond III,Jordan Minor,MORTLE,ZYTARIOUS,Tristan How,Bryce Walker)",168,"Cav Sub"," ","Cavaliers",56,28,"Cavs","vsTXSO",113
+2,"2:32","TV timeout",152,""," ","TV",56,28,"Cavs","vsTXSO",113
+2,"2:30","Shaqir O'Neal blocks Jordan Minor's two point layup",150,"Block","block","Shaqir O'Neal",56,28,"Cavs","vsTXSO",113
+2,"2:25","Jordan Minor offensive rebound",145,"Off Rebound","offensive rebound","Jordan Minor",56,28,"Cavs","vsTXSO",113
+2,"2:08","Taine Murray makes three point jump shot (Jordan Minor assists)",128,"Made Three","makes","Taine Murray",59,28,"Opp","vsTXSO",114
+2,"1:49","Jonathan Cisse makes two point turnaround fadeaway jump shot",109,"Made Two","makes","Jonathan Cisse",59,30,"Cavs","vsTXSO",115
+2,"1:49","Chris Craig shooting foul (Bryce Walker draws the foul)",109,"Foul","shooting foul","Chris Craig",59,30,"Cavs","vsTXSO",115
+2,"1:49","Bryce Walker makes regular free throw 1 of 2",109,"Made FT","makes","Bryce Walker",60,30,"Cavs","vsTXSO",115
+2,"1:49","Bryce Walker misses regular free throw 2 of 2",109,"Missed FT","misses","Bryce Walker",60,30,"Cavs","vsTXSO",115
+2,"01:49","Cavaliers lineup change (Taine Murray,CRAIG,CHRIS,O'NEAL,SHAQIR,CISSE,JONATHAN,Leon Bond III,Jordan Minor,MORTLE,ZYTARIOUS,Tristan How,Bryce Walker,HUNTER,KENNY)",109,"Cav Sub"," ","Cavaliers",60,30,"Cavs","vsTXSO",115
+2,"1:47","Jordan Minor offensive rebound",107,"Off Rebound","offensive rebound","Jordan Minor",60,30,"Cavs","vsTXSO",115
+2,"1:45","Kenny Hunter blocks Jordan Minor's two point layup",105,"Block","block","Kenny Hunter",60,30,"Cavs","vsTXSO",115
+2,"1:39","Jonathan Cisse defensive rebound",99,"Def Rebound","defensive rebound","Jonathan Cisse",60,30,"Opp","vsTXSO",116
+2,"1:23","Zytarious Mortle makes two point jump shot",83,"Made Two","makes","Zytarious Mortle",60,32,"Cavs","vsTXSO",117
+2,"1:21","Leon Bond III misses two point jump shot",81,"Missed Two","misses","Leon Bond III",60,32,"Cavs","vsTXSO",117
+2,"1:10","Jordan Minor offensive rebound",70,"Off Rebound","offensive rebound","Jordan Minor",60,32,"Cavs","vsTXSO",117
+2,"1:08","Tristan How misses three point jump shot",68,"Missed Three","misses","Tristan How",60,32,"Cavs","vsTXSO",117
+2,"0:52","Leon Bond III offensive rebound",52,"Off Rebound","offensive rebound","Leon Bond III",60,32,"Cavs","vsTXSO",117
+2,"0:30","Leon Bond III makes two point floating jump shot",30,"Made Two","makes","Leon Bond III",62,32,"Opp","vsTXSO",118
+2,"0:30","Taine Murray personal foul (Zytarious Mortle draws the foul)",30,"Foul","personal foul","Taine Murray",62,32,"Opp","vsTXSO",118
+2,"0:30","TV timeout",30,""," ","TV",62,32,"Opp","vsTXSO",118
+2,"0:30","Zytarious Mortle makes regular free throw 1 of 2",30,"Made FT","makes","Zytarious Mortle",62,33,"Opp","vsTXSO",118
+2,"0:30","Zytarious Mortle misses regular free throw 2 of 2",30,"Missed FT","misses","Zytarious Mortle",62,33,"Opp","vsTXSO",118
+2,"0:00","Reece Beekman misses two point jump shot",0,"Missed Two","misses","Reece Beekman",62,33,"Opp","vsTXSO",118
+2,"0:00","Tigers defensive rebound",0,"Def Rebound","defensive rebound","Tigers",62,33,"Cavs","vsTXSO",119
+2,"0:00","Bryce Walker defensive rebound",0,"Def Rebound","defensive rebound","Bryce Walker",62,33,"Opp","vsTXSO",120

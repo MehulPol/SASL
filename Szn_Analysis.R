@@ -4,10 +4,12 @@ library(tidyverse)
 TARL_stats = read.csv("/Users/mehulpol/SASL/TARL_stats.csv")
 FLA_stats = read.csv("/Users/mehulpol/SASL/FLA_stats.csv")
 NCAT_stats = read.csv("/Users/mehulpol/SASL/NCAT_stats.csv")
+TXSO_stats = read.csv("/Users/mehulpol/SASL/TXSO_stats.csv")
 
 szn_stats = TARL_stats %>% 
   full_join(FLA_stats)%>%
   full_join(NCAT_stats)%>%
+  full_join(TXSO_stats)%>%
   group_by(Player)%>%
   summarise_all(sum)
 #Only weird thing is the Jacob Groves is also called Jake Groves in some places
