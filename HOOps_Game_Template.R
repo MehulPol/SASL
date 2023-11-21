@@ -37,8 +37,8 @@ all_plays = as.data.frame(matrix(all_plays,ncol=2,byrow=T))
 acc_subs <-acc%>%
   html_nodes("th , .text-bold.hide-on-medium-down~ .hide-on-medium-down+ .hide-on-medium-down")%>%
   html_text()
-acc_subs = acc_subs[-c(1:83)]
-acc_subs = acc_subs[-c(932:973,403:411)]
+acc_subs = acc_subs[-c(1:84)]
+acc_subs = acc_subs[-c(860:901,405:413)]
 acc_subs = as.data.frame(matrix(acc_subs,ncol=2,byrow=T))
 acc_subs$Half = 1
 
@@ -73,6 +73,7 @@ name_mapping <- setNames(
 
 acc_subs = acc_subs %>%
   mutate(Player = mapvalues(Player, from = names(name_mapping), to = name_mapping))
+
 
 starting_lineup <- c("Dante Harris", "Reece Beekman", "Andrew Rohde", "Ryan Dunn", "Blake Buchanan")
 lineup_changes <- data.frame(Half = 1, Time = "20:00", Lineup = I(list(starting_lineup)), stringsAsFactors = FALSE)
@@ -513,6 +514,7 @@ All_Stats = merge(Player_stats, Box_Score, by = "Player", all.x = TRUE) %>%
   mutate(PER = PER/(On_court_time/60))
 
 # write.csv(All_Stats, "TXSO_stats.csv", row.names=FALSE)
+# write.csv(Lineup_stats, "TXSO_lineup_stats.csv", row.names=FALSE)
 
 ## Visualizations
 
