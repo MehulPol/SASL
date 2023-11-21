@@ -47,10 +47,13 @@ TARL_game = read.csv("/Users/mehulpol/SASL/TARL_game.csv")
 FLA_game = read.csv("/Users/mehulpol/SASL/FLA_game.csv")
 NCAT_game = read.csv("/Users/mehulpol/SASL/NCAT_game.csv")
 TXSO_game = read.csv("/Users/mehulpol/SASL/TXSO_game.csv")
+WIS_game = read.csv("/Users/mehulpol/SASL/WIS_game.csv")
 
 game1 = TARL_game %>% 
   full_join(FLA_game)%>%
-  full_join(NCAT_game)
+  full_join(NCAT_game)%>%
+  full_join(TXSO_game)%>%
+  full_join(WIS_game)
 Lineup_stats = tibble(On_court_time = 0,Possessions = 0, Pts= 0, Pts_against = 0, Tnovers = 0, FG_made = 0, FG_att = 0, Three_made =0, Three_att = 0,Rebounds = 0,Defensive_plays = 0)
 starting = lapply(strsplit(starting_lineup1, split = ","),sort)
 Lineup_stats = add_column(Lineup_stats,Lineup = starting,.before = "On_court_time")
@@ -104,7 +107,23 @@ for (i in 2:nrow(game1)) {
     Lineup_stats$Defensive_plays[i_lineup] = Lineup_stats$Defensive_plays[i_lineup] + 1
   }
 }
-
+# Combine alike lineups
+for (i in 1:nrow(Lineup_stats)){
+  if (length(Lineup_stats$Lineup[i])==1){
+    lu = strsplit(Lineup_stats$Lineup[i][[1]], ",")
+  } else {lu = Lineup_stats$Lineup[i]}
+  lu = lapply(lu,sort)
+  Lineup_stats$Lineup[i] = paste(unlist(lu),collapse=",")
+}
+Lineup_stats$Lineup = as.character(Lineup_stats$Lineup)
+for (i in 1:nrow(Lineup_stats)){
+  Lineup_stats$Lineup[i] = gsub("Keenly","Kneely",Lineup_stats$Lineup[i])
+  Lineup_stats$Lineup[i] = gsub("Jake","Jacob",Lineup_stats$Lineup[i])
+}
+Lineup_stats = Lineup_stats%>%
+  group_by(Lineup)%>%
+  summarise_all(sum)
+  
 Lineup_stats = Lineup_stats%>%
   mutate(Pt_diff_perposs = (Pts-Pts_against)/(Possessions),.before = Pts)%>%
   mutate(Pt_diff_permin = (Pts-Pts_against)/(On_court_time),.before = Pts)%>%
@@ -112,7 +131,6 @@ Lineup_stats = Lineup_stats%>%
   mutate(efficiency = (Pts + Rebounds + Defensive_plays - (FG_att - FG_made) - Tnovers) / (On_court_time/60),.before = Pts)%>%
   mutate(def_eff = 2*Defensive_plays/Possessions,.before = Pts)
 
-# Lineup_stats$Lineup = as.character(Lineup_stats$Lineup)
 # write.csv(Lineup_stats, "First_4Lineup_stats.csv", row.names=FALSE)
 # Lineup_Stats = read.csv("/Users/mehulpol/SASL/First_4Lineup_stats.csv")
 # combine with new if new

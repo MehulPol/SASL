@@ -1,0 +1,286 @@
+"Half","Time","Description","Time_in_sec","Event","Token","Player","UVA_score","Opp_score","Possession","Opps","Possession Number"
+1,"20:00","1ST HALF",1200,""," ","1ST",0,0,"Cavs","vsWIS",1
+1,"20:00","Cavaliers lineup change (Isaac McKneely,Reece Beekman,Andrew Rohde,Ryan Dunn,Blake Buchanan)",1200,"Cav Sub"," ","Cavaliers",0,0,"","vsWIS",2
+1,"19:41","Chucky Hepburn vs. Ryan Dunn (Badgers gains possession)",1181,""," ","Chucky",0,0,"Opp","vsWIS",3
+1,"19:20","Steven Crowl makes two point dunk (Tyler Wahl assists)",1160,"Made Two","makes","Steven Crowl",0,2,"Cavs","vsWIS",4
+1,"18:48","Ryan Dunn makes two point layup (Reece Beekman assists)",1128,"Made Two","makes","Ryan Dunn",2,2,"Opp","vsWIS",5
+1,"18:25","Max Klesmit makes two point jump shot",1105,"Made Two","makes","Max Klesmit",2,4,"Cavs","vsWIS",6
+1,"18:23","Andrew Rohde misses two point jump shot",1103,"Missed Two","misses","Andrew Rohde",2,4,"Cavs","vsWIS",6
+1,"18:02","AJ Storr defensive rebound",1082,"Def Rebound","defensive rebound","AJ Storr",2,4,"Opp","vsWIS",7
+1,"18:00","Chucky Hepburn misses three point jump shot",1080,"Missed Three","misses","Chucky Hepburn",2,4,"Opp","vsWIS",7
+1,"17:38","Cavaliers defensive rebound",1058,"Def Rebound","defensive rebound","Cavaliers",2,4,"Cavs","vsWIS",8
+1,"17:32","Isaac McKneely turnover (bad pass) (AJ Storr steals)",1052,"Turnover","turnover","Isaac McKneely",2,4,"Opp","vsWIS",9
+1,"17:30","AJ Storr misses two point hook shot",1050,"Missed Two","misses","AJ Storr",2,4,"Opp","vsWIS",9
+1,"17:14","Steven Crowl offensive rebound",1034,"Off Rebound","offensive rebound","Steven Crowl",2,4,"Opp","vsWIS",9
+1,"17:12","Blake Buchanan blocks Steven Crowl's two point layup",1032,"Block","block","Blake Buchanan",2,4,"Opp","vsWIS",9
+1,"17:09","Steven Crowl offensive rebound",1029,"Off Rebound","offensive rebound","Steven Crowl",2,4,"Opp","vsWIS",9
+1,"17:03","Official timeout",1023,""," ","Official",2,4,"Opp","vsWIS",9
+1,"17:03","Ryan Dunn shooting foul (Tyler Wahl draws the foul)",1023,"Foul","shooting foul","Ryan Dunn",2,4,"Opp","vsWIS",9
+1,"17:03","Tyler Wahl makes regular free throw 1 of 2",1023,"Made FT","makes","Tyler Wahl",2,5,"Opp","vsWIS",9
+1,"17:03","Tyler Wahl misses regular free throw 2 of 2",1023,"Missed FT","misses","Tyler Wahl",2,5,"Opp","vsWIS",9
+1,"16:43","Reece Beekman defensive rebound",1003,"Def Rebound","defensive rebound","Reece Beekman",2,5,"Cavs","vsWIS",10
+1,"16:15","Isaac McKneely makes two point jump shot (Reece Beekman assists)",975,"Made Two","makes","Isaac McKneely",4,5,"Opp","vsWIS",11
+1,"16:00","Steven Crowl makes two point layup (AJ Storr assists)",960,"Made Two","makes","Steven Crowl",4,7,"Cavs","vsWIS",12
+1,"15:58","Ryan Dunn misses three point jump shot",958,"Missed Three","misses","Ryan Dunn",4,7,"Cavs","vsWIS",12
+1,"15:51","Max Klesmit defensive rebound",951,"Def Rebound","defensive rebound","Max Klesmit",4,7,"Opp","vsWIS",13
+1,"15:49","Ryan Dunn blocks Tyler Wahl's two point layup",949,"Block","block","Ryan Dunn",4,7,"Opp","vsWIS",13
+1,"15:42","Tyler Wahl offensive rebound",942,"Off Rebound","offensive rebound","Tyler Wahl",4,7,"Opp","vsWIS",13
+1,"15:40","Blake Buchanan blocks Tyler Wahl's two point layup",940,"Block","block","Blake Buchanan",4,7,"Opp","vsWIS",13
+1,"15:38","Reece Beekman defensive rebound",938,"Def Rebound","defensive rebound","Reece Beekman",4,7,"Cavs","vsWIS",14
+1,"15:36","Reece Beekman misses two point layup",936,"Missed Two","misses","Reece Beekman",4,7,"Cavs","vsWIS",14
+1,"15:18","Steven Crowl defensive rebound",918,"Def Rebound","defensive rebound","Steven Crowl",4,7,"Opp","vsWIS",15
+1,"15:16","Chucky Hepburn misses two point jump shot",916,"Missed Two","misses","Chucky Hepburn",4,7,"Opp","vsWIS",15
+1,"14:57","Blake Buchanan defensive rebound",897,"Def Rebound","defensive rebound","Blake Buchanan",4,7,"Cavs","vsWIS",16
+1,"14:55","Ryan Dunn misses three point jump shot",895,"Missed Three","misses","Ryan Dunn",4,7,"Cavs","vsWIS",16
+1,"14:33","Steven Crowl defensive rebound",873,"Def Rebound","defensive rebound","Steven Crowl",4,7,"Opp","vsWIS",17
+1,"14:08","Steven Crowl makes three point jump shot (Tyler Wahl assists)",848,"Made Three","makes","Steven Crowl",4,10,"Cavs","vsWIS",18
+1,"13:47","Reece Beekman makes three point jump shot (Andrew Rohde assists)",827,"Made Three","makes","Reece Beekman",7,10,"Opp","vsWIS",19
+1,"13:45","Ryan Dunn blocks Tyler Wahl's two point layup",825,"Block","block","Ryan Dunn",7,10,"Opp","vsWIS",19
+1,"13:38","Steven Crowl offensive rebound",818,"Off Rebound","offensive rebound","Steven Crowl",7,10,"Opp","vsWIS",19
+1,"13:36","Chucky Hepburn misses three point jump shot",816,"Missed Three","misses","Chucky Hepburn",7,10,"Opp","vsWIS",19
+1,"13:34","Tyler Wahl offensive rebound",814,"Off Rebound","offensive rebound","Tyler Wahl",7,10,"Opp","vsWIS",19
+1,"13:32","Tyler Wahl misses two point layup",812,"Missed Two","misses","Tyler Wahl",7,10,"Opp","vsWIS",19
+1,"13:11","Ryan Dunn defensive rebound",791,"Def Rebound","defensive rebound","Ryan Dunn",7,10,"Cavs","vsWIS",20
+1,"13:11","Blake Buchanan offensive foul",791,""," ","Blake",7,10,"Cavs","vsWIS",20
+1,"13:11","Blake Buchanan turnover (offensive foul)",791,"Turnover","turnover","Blake Buchanan",7,10,"Opp","vsWIS",21
+1,"13:11","TV timeout",791,""," ","TV",7,10,"Opp","vsWIS",21
+1,"13:11","Badgers lineup change (Nolan Winter, Kamari McGee, Carter Gilmore, John Blackwell, Max Klesmit)",791,"Opp Sub"," ","Badgers",7,10,"Opp","vsWIS",21
+1,"12:54","Cavaliers lineup change (Dante Harris, Jordan Minor, Jacob Groves, Reece Beekman, Isaac McKneely)",774,"Cav Sub"," ","Cavaliers",7,10,"Opp","vsWIS",21
+1,"12:51","Max Klesmit turnover (lost ball) (Reece Beekman steals)",771,"Turnover","turnover","Max Klesmit",7,10,"Cavs","vsWIS",22
+1,"12:34","Reece Beekman turnover (bad pass) (Nolan Winter steals)",754,"Turnover","turnover","Reece Beekman",7,10,"Opp","vsWIS",23
+1,"12:34","Jordan Minor shooting foul (John Blackwell draws the foul)",754,"Foul","shooting foul","Jordan Minor",7,10,"Opp","vsWIS",23
+1,"12:34","John Blackwell makes regular free throw 1 of 2",754,"Made FT","makes","John Blackwell",7,11,"Opp","vsWIS",23
+1,"12:05","John Blackwell makes regular free throw 2 of 2",725,"Made FT","makes","John Blackwell",7,12,"Cavs","vsWIS",24
+1,"12:03","Jacob Groves misses two point jump shot",723,"Missed Two","misses","Jacob Groves",7,12,"Cavs","vsWIS",24
+1,"11:46","John Blackwell defensive rebound",706,"Def Rebound","defensive rebound","John Blackwell",7,12,"Opp","vsWIS",25
+1,"11:44","Max Klesmit misses three point jump shot",704,"Missed Three","misses","Max Klesmit",7,12,"Opp","vsWIS",25
+1,"11:31","Dante Harris defensive rebound",691,"Def Rebound","defensive rebound","Dante Harris",7,12,"Cavs","vsWIS",26
+1,"11:31","John Blackwell personal foul",691,"Foul","personal foul","John Blackwell",7,12,"Cavs","vsWIS",26
+1,"11:31","TV timeout",691,""," ","TV",7,12,"Cavs","vsWIS",26
+1,"11:31","Cavaliers lineup change (Andrew Rohde, Leon Bond III, Dante Harris, Isaac McKneely, Jacob Groves)",691,"Cav Sub"," ","Cavaliers",7,12,"Cavs","vsWIS",26
+1,"11:11","Badgers lineup change (Kamari McGee, Carter Gilmore, John Blackwell, Nolan Winter, Steven Crowl)",671,"Opp Sub"," ","Badgers",7,12,"Cavs","vsWIS",26
+1,"11:09","Dante Harris misses two point jump shot",669,"Missed Two","misses","Dante Harris",7,12,"Cavs","vsWIS",26
+1,"10:42","John Blackwell defensive rebound",642,"Def Rebound","defensive rebound","John Blackwell",7,12,"Opp","vsWIS",27
+1,"10:40","Nolan Winter misses three point jump shot",640,"Missed Three","misses","Nolan Winter",7,12,"Opp","vsWIS",27
+1,"10:40","Badgers offensive rebound",640,"Off Rebound","offensive rebound","Badgers",7,12,"Opp","vsWIS",27
+1,"10:40","Badgers lineup change (Kamari McGee, Carter Gilmore, Steven Crowl, John Blackwell, Chucky Hepburn)",640,"Opp Sub"," ","Badgers",7,12,"Opp","vsWIS",27
+1,"10:23","Cavaliers lineup change (Dante Harris, Andrew Rohde, Jacob Groves, Leon Bond III, Reece Beekman)",623,"Cav Sub"," ","Cavaliers",7,12,"Opp","vsWIS",27
+1,"9:49","John Blackwell makes three point jump shot (Kamari McGee assists)",589,"Made Three","makes","John Blackwell",7,15,"Cavs","vsWIS",28
+1,"9:47","Jacob Groves misses three point jump shot",587,"Missed Three","misses","Jacob Groves",7,15,"Cavs","vsWIS",28
+1,"9:31","John Blackwell defensive rebound",571,"Def Rebound","defensive rebound","John Blackwell",7,15,"Opp","vsWIS",29
+1,"9:00","Kamari McGee makes three point jump shot (Steven Crowl assists)",540,"Made Three","makes","Kamari McGee",7,18,"Cavs","vsWIS",30
+1,"8:58","Reece Beekman misses two point jump shot",538,"Missed Two","misses","Reece Beekman",7,18,"Cavs","vsWIS",30
+1,"8:58","Reece Beekman offensive rebound",538,"Off Rebound","offensive rebound","Reece Beekman",7,18,"Cavs","vsWIS",30
+1,"8:58","Kamari McGee shooting foul (Reece Beekman draws the foul)",538,"Foul","shooting foul","Kamari McGee",7,18,"Cavs","vsWIS",30
+1,"8:58","Reece Beekman makes regular free throw 1 of 2",538,"Made FT","makes","Reece Beekman",8,18,"Cavs","vsWIS",30
+1,"8:58","Cavaliers lineup change (Reece Beekman, Andrew Rohde, Blake Buchanan, Ryan Dunn, Isaac McKneely)",538,"Cav Sub"," ","Cavaliers",8,18,"Cavs","vsWIS",30
+1,"8:58","Badgers lineup change (Connor Essegian, Tyler Wahl, Steven Crowl, Chucky Hepburn, John Blackwell)",538,"Opp Sub"," ","Badgers",8,18,"Cavs","vsWIS",30
+1,"8:40","Reece Beekman makes regular free throw 2 of 2",520,"Made FT","makes","Reece Beekman",9,18,"Opp","vsWIS",31
+1,"8:38","John Blackwell misses two point jump shot",518,"Missed Two","misses","John Blackwell",9,18,"Opp","vsWIS",31
+1,"8:31","Steven Crowl offensive rebound",511,"Off Rebound","offensive rebound","Steven Crowl",9,18,"Opp","vsWIS",31
+1,"8:29","Connor Essegian misses three point jump shot",509,"Missed Three","misses","Connor Essegian",9,18,"Opp","vsWIS",31
+1,"8:21","Ryan Dunn defensive rebound",501,"Def Rebound","defensive rebound","Ryan Dunn",9,18,"Cavs","vsWIS",32
+1,"8:05","Andrew Rohde makes three point jump shot (Reece Beekman assists)",485,"Made Three","makes","Andrew Rohde",12,18,"Opp","vsWIS",33
+1,"7:48","Connor Essegian makes two point layup (Chucky Hepburn assists)",468,"Made Two","makes","Connor Essegian",12,20,"Cavs","vsWIS",34
+1,"7:46","Reece Beekman misses three point jump shot",466,"Missed Three","misses","Reece Beekman",12,20,"Cavs","vsWIS",34
+1,"7:35","Connor Essegian defensive rebound",455,"Def Rebound","defensive rebound","Connor Essegian",12,20,"Opp","vsWIS",35
+1,"7:33","Ryan Dunn blocks Steven Crowl's two point layup",453,"Block","block","Ryan Dunn",12,20,"Opp","vsWIS",35
+1,"7:21","Ryan Dunn defensive rebound",441,"Def Rebound","defensive rebound","Ryan Dunn",12,20,"Cavs","vsWIS",36
+1,"7:20","Reece Beekman misses two point jump shot",440,"Missed Two","misses","Reece Beekman",12,20,"Cavs","vsWIS",36
+1,"7:20","Blake Buchanan offensive rebound",440,"Off Rebound","offensive rebound","Blake Buchanan",12,20,"Cavs","vsWIS",36
+1,"7:20","Tyler Wahl personal foul (Blake Buchanan draws the foul)",440,"Foul","personal foul","Tyler Wahl",12,20,"Cavs","vsWIS",36
+1,"7:20","TV timeout",440,""," ","TV",12,20,"Cavs","vsWIS",36
+1,"6:58","Badgers lineup change (Connor Essegian, Tyler Wahl, Steven Crowl, Chucky Hepburn, AJ Storr)",418,"Opp Sub"," ","Badgers",12,20,"Cavs","vsWIS",36
+1,"6:56","Ryan Dunn misses two point jump shot",416,"Missed Two","misses","Ryan Dunn",12,20,"Cavs","vsWIS",36
+1,"6:40","AJ Storr defensive rebound",400,"Def Rebound","defensive rebound","AJ Storr",12,20,"Opp","vsWIS",37
+1,"6:38","Chucky Hepburn misses two point jump shot",398,"Missed Two","misses","Chucky Hepburn",12,20,"Opp","vsWIS",37
+1,"6:25","Isaac McKneely defensive rebound",385,"Def Rebound","defensive rebound","Isaac McKneely",12,20,"Cavs","vsWIS",38
+1,"6:23","Isaac McKneely misses two point jump shot",383,"Missed Two","misses","Isaac McKneely",12,20,"Cavs","vsWIS",38
+1,"6:08","Tyler Wahl defensive rebound",368,"Def Rebound","defensive rebound","Tyler Wahl",12,20,"Opp","vsWIS",39
+1,"6:08","Jump ball. Steven Crowl vs. Ryan Dunn (Cavaliers gains possession)",368,"Jump Ball"," ","Jump",12,20,"Cavs","vsWIS",40
+1,"6:08","Steven Crowl turnover (lost ball) (Ryan Dunn steals)",368,"Turnover","turnover","Steven Crowl",12,20,"Opp","vsWIS",41
+1,"6:08","Cavaliers lineup change (Reece Beekman, Andrew Rohde, Isaac McKneely, Ryan Dunn, Jacob Groves)",368,"Cav Sub"," ","Cavaliers",12,20,"Opp","vsWIS",41
+1,"5:48","Badgers lineup change (AJ Storr, Tyler Wahl, Steven Crowl, Chucky Hepburn, Max Klesmit)",348,"Opp Sub"," ","Badgers",12,20,"Opp","vsWIS",41
+1,"5:48","Chucky Hepburn shooting foul (Jacob Groves draws the foul)",348,"Foul","shooting foul","Chucky Hepburn",12,20,"Opp","vsWIS",41
+1,"5:48","Jacob Groves makes regular free throw 1 of 2",348,"Made FT","makes","Jacob Groves",13,20,"Opp","vsWIS",41
+1,"5:24","Jacob Groves makes regular free throw 2 of 2",324,"Made FT","makes","Jacob Groves",14,20,"Cavs","vsWIS",42
+1,"5:22","Tyler Wahl misses two point hook shot",322,"Missed Two","misses","Tyler Wahl",14,20,"Cavs","vsWIS",42
+1,"5:06","Andrew Rohde defensive rebound",306,"Def Rebound","defensive rebound","Andrew Rohde",14,20,"Opp","vsWIS",43
+1,"5:04","Jacob Groves misses three point jump shot",304,"Missed Three","misses","Jacob Groves",14,20,"Opp","vsWIS",43
+1,"4:48","AJ Storr defensive rebound",288,"Def Rebound","defensive rebound","AJ Storr",14,20,"Cavs","vsWIS",44
+1,"4:46","Tyler Wahl misses two point layup",286,"Missed Two","misses","Tyler Wahl",14,20,"Cavs","vsWIS",44
+1,"4:40","Ryan Dunn defensive rebound",280,"Def Rebound","defensive rebound","Ryan Dunn",14,20,"Opp","vsWIS",45
+1,"4:38","Jacob Groves misses two point jump shot",278,"Missed Two","misses","Jacob Groves",14,20,"Opp","vsWIS",45
+1,"4:26","AJ Storr defensive rebound",266,"Def Rebound","defensive rebound","AJ Storr",14,20,"Cavs","vsWIS",46
+1,"4:24","AJ Storr misses two point jump shot",264,"Missed Two","misses","AJ Storr",14,20,"Cavs","vsWIS",46
+1,"4:24","AJ Storr offensive rebound",264,"Off Rebound","offensive rebound","AJ Storr",14,20,"Cavs","vsWIS",46
+1,"4:24","Andrew Rohde shooting foul (AJ Storr draws the foul)",264,"Foul","shooting foul","Andrew Rohde",14,20,"Cavs","vsWIS",46
+1,"4:24","AJ Storr makes regular free throw 1 of 2",264,"Made FT","makes","AJ Storr",14,21,"Cavs","vsWIS",46
+1,"4:24","Cavaliers lineup change (Dante Harris, Leon Bond III, Andrew Rohde, Isaac McKneely, Jacob Groves)",264,"Cav Sub"," ","Cavaliers",14,21,"Cavs","vsWIS",46
+1,"4:24","Badgers lineup change (Kamari McGee, Carter Gilmore, Nolan Winter, AJ Storr, Max Klesmit)",264,"Opp Sub"," ","Badgers",14,21,"Cavs","vsWIS",46
+1,"4:00","AJ Storr makes regular free throw 2 of 2",240,"Made FT","makes","AJ Storr",14,22,"Opp","vsWIS",47
+1,"3:58","Isaac McKneely misses two point jump shot",238,"Missed Two","misses","Isaac McKneely",14,22,"Opp","vsWIS",47
+1,"3:41","Carter Gilmore defensive rebound",221,"Def Rebound","defensive rebound","Carter Gilmore",14,22,"Cavs","vsWIS",48
+1,"3:39","Leon Bond III blocks AJ Storr's two point layup",219,"Block","block","Leon Bond III",14,22,"Cavs","vsWIS",48
+1,"3:37","AJ Storr offensive rebound",217,"Off Rebound","offensive rebound","AJ Storr",14,22,"Cavs","vsWIS",48
+1,"3:37","Badgers 30 second timeout",217,"Timeout","second timeout","Badgers 30",14,22,"Cavs","vsWIS",48
+1,"3:37","TV timeout",217,""," ","TV",14,22,"Cavs","vsWIS",48
+1,"3:37","Cavaliers lineup change (Dante Harris, Isaac McKneely, Jacob Groves, Leon Bond III, Reece Beekman)",217,"Cav Sub"," ","Cavaliers",14,22,"Cavs","vsWIS",48
+1,"3:28","Badgers lineup change (Kamari McGee, Max Klesmit, Carter Gilmore, Nolan Winter, John Blackwell)",208,"Opp Sub"," ","Badgers",14,22,"Cavs","vsWIS",48
+1,"3:26","John Blackwell misses two point jump shot",206,"Missed Two","misses","John Blackwell",14,22,"Cavs","vsWIS",48
+1,"3:12","Jacob Groves defensive rebound",192,"Def Rebound","defensive rebound","Jacob Groves",14,22,"Opp","vsWIS",49
+1,"2:50","Jacob Groves makes two point jump shot (Reece Beekman assists)",170,"Made Two","makes","Jacob Groves",16,22,"Cavs","vsWIS",50
+1,"2:20","Max Klesmit makes two point jump shot",140,"Made Two","makes","Max Klesmit",16,24,"Opp","vsWIS",51
+1,"1:53","Dante Harris turnover (bad pass)",113,"Turnover","turnover","Dante Harris",16,24,"Cavs","vsWIS",52
+1,"1:51","Kamari McGee misses two point jump shot",111,"Missed Two","misses","Kamari McGee",16,24,"Cavs","vsWIS",52
+1,"1:36","Jacob Groves defensive rebound",96,"Def Rebound","defensive rebound","Jacob Groves",16,24,"Opp","vsWIS",53
+1,"1:34","Leon Bond III misses two point jump shot",94,"Missed Two","misses","Leon Bond III",16,24,"Opp","vsWIS",53
+1,"1:34","Nolan Winter defensive rebound",94,"Def Rebound","defensive rebound","Nolan Winter",16,24,"Cavs","vsWIS",54
+1,"1:15","Badgers lineup change (John Blackwell, Max Klesmit, Tyler Wahl, Chucky Hepburn, Steven Crowl)",75,"Opp Sub"," ","Badgers",16,24,"Cavs","vsWIS",54
+1,"0:49","Steven Crowl makes two point hook shot",49,"Made Two","makes","Steven Crowl",16,26,"Opp","vsWIS",55
+1,"0:49","Max Klesmit shooting foul (Isaac McKneely draws the foul)",49,"Foul","shooting foul","Max Klesmit",16,26,"Opp","vsWIS",55
+1,"0:49","Isaac McKneely makes regular free throw 1 of 2",49,"Made FT","makes","Isaac McKneely",17,26,"Opp","vsWIS",55
+1,"0:49","Cavaliers lineup change (Dante Harris, Reece Beekman, Isaac McKneely, Jacob Groves, Ryan Dunn)",49,"Cav Sub"," ","Cavaliers",17,26,"Opp","vsWIS",55
+1,"0:36","Isaac McKneely makes regular free throw 2 of 2",36,"Made FT","makes","Isaac McKneely",18,26,"Cavs","vsWIS",56
+1,"0:34","Ryan Dunn blocks Chucky Hepburn's two point layup",34,"Block","block","Ryan Dunn",18,26,"Cavs","vsWIS",56
+1,"0:22","Badgers offensive rebound",22,"Off Rebound","offensive rebound","Badgers",18,26,"Cavs","vsWIS",56
+1,"0:04","Max Klesmit makes two point jump shot",4,"Made Two","makes","Max Klesmit",18,28,"Opp","vsWIS",57
+1,"0:04","Dante Harris offensive foul",4,""," ","Dante",18,28,"Opp","vsWIS",57
+2,"20:00","2ND HALF",1200,""," ","2ND",18,28,"Opp","vsWIS",57
+2,"20:00","Cavaliers lineup change (Andrew Rohde, Reece Beekman, Isaac McKneely, Ryan Dunn, Jacob Groves)",1200,"Cav Sub"," ","Cavaliers",18,28,"Opp","vsWIS",57
+2,"20:00","Badgers lineup change (Tyler Wahl, Max Klesmit, Steven Crowl, Chucky Hepburn, AJ Storr)",1200,"Opp Sub"," ","Badgers",18,28,"Opp","vsWIS",57
+2,"19:45","Open inbound Badgers",1185,""," ","Open",18,28,"Opp","vsWIS",57
+2,"19:20","Steven Crowl turnover (Isaac McKneely steals)",1160,"Turnover","turnover","Steven Crowl",18,28,"Cavs","vsWIS",58
+2,"19:04","Andrew Rohde makes two point jump shot",1144,"Made Two","makes","Andrew Rohde",20,28,"Opp","vsWIS",59
+2,"19:02","Tyler Wahl misses two point layup",1142,"Missed Two","misses","Tyler Wahl",20,28,"Opp","vsWIS",59
+2,"18:47","Ryan Dunn defensive rebound",1127,"Def Rebound","defensive rebound","Ryan Dunn",20,28,"Cavs","vsWIS",60
+2,"18:45","Isaac McKneely misses two point jump shot",1125,"Missed Two","misses","Isaac McKneely",20,28,"Cavs","vsWIS",60
+2,"18:21","Steven Crowl defensive rebound",1101,"Def Rebound","defensive rebound","Steven Crowl",20,28,"Opp","vsWIS",61
+2,"17:58","AJ Storr makes three point jump shot (Max Klesmit assists)",1078,"Made Three","makes","AJ Storr",20,31,"Cavs","vsWIS",62
+2,"17:42","Reece Beekman makes two point layup",1062,"Made Two","makes","Reece Beekman",22,31,"Opp","vsWIS",63
+2,"17:15","Steven Crowl makes two point layup (AJ Storr assists)",1035,"Made Two","makes","Steven Crowl",22,33,"Cavs","vsWIS",64
+2,"17:13","Andrew Rohde misses three point jump shot",1033,"Missed Three","misses","Andrew Rohde",22,33,"Cavs","vsWIS",64
+2,"17:03","Steven Crowl defensive rebound",1023,"Def Rebound","defensive rebound","Steven Crowl",22,33,"Opp","vsWIS",65
+2,"17:02","Tyler Wahl makes two point layup (Chucky Hepburn assists)",1022,"Made Two","makes","Tyler Wahl",22,35,"Cavs","vsWIS",66
+2,"17:02","Cavaliers 30 second timeout",1022,"Timeout","second timeout","Cavaliers 30",22,35,"Cavs","vsWIS",66
+2,"16:34","TV timeout",994,""," ","TV",22,35,"Cavs","vsWIS",66
+2,"16:18","Isaac McKneely makes three point jump shot (Reece Beekman assists)",978,"Made Three","makes","Isaac McKneely",25,35,"Opp","vsWIS",67
+2,"16:02","Steven Crowl turnover (traveling)",962,"Turnover","turnover","Steven Crowl",25,35,"Cavs","vsWIS",68
+2,"16:00","Jacob Groves misses two point jump shot",960,"Missed Two","misses","Jacob Groves",25,35,"Cavs","vsWIS",68
+2,"15:39","Steven Crowl defensive rebound",939,"Def Rebound","defensive rebound","Steven Crowl",25,35,"Opp","vsWIS",69
+2,"15:13","Tyler Wahl makes two point layup (Steven Crowl assists)",913,"Made Two","makes","Tyler Wahl",25,37,"Cavs","vsWIS",70
+2,"15:01","Reece Beekman makes three point jump shot (Andrew Rohde assists)",901,"Made Three","makes","Reece Beekman",28,37,"Opp","vsWIS",71
+2,"14:57","AJ Storr turnover (Reece Beekman steals)",897,"Turnover","turnover","AJ Storr",28,37,"Cavs","vsWIS",72
+2,"14:32","Reece Beekman makes two point dunk",872,"Made Two","makes","Reece Beekman",30,37,"Opp","vsWIS",73
+2,"14:17","Max Klesmit makes three point jump shot (Chucky Hepburn assists)",857,"Made Three","makes","Max Klesmit",30,40,"Cavs","vsWIS",74
+2,"14:15","Jacob Groves misses three point jump shot",855,"Missed Three","misses","Jacob Groves",30,40,"Cavs","vsWIS",74
+2,"14:01","Max Klesmit defensive rebound",841,"Def Rebound","defensive rebound","Max Klesmit",30,40,"Opp","vsWIS",75
+2,"13:50","AJ Storr turnover (Ryan Dunn steals)",830,"Turnover","turnover","AJ Storr",30,40,"Cavs","vsWIS",76
+2,"13:34","Ryan Dunn makes two point layup (Reece Beekman assists)",814,"Made Two","makes","Ryan Dunn",32,40,"Opp","vsWIS",77
+2,"13:34","Jacob Groves personal foul",814,"Foul","personal foul","Jacob Groves",32,40,"Opp","vsWIS",77
+2,"13:34","TV timeout",814,""," ","TV",32,40,"Opp","vsWIS",77
+2,"13:34","Cavaliers lineup change (Reece Beekman, Andrew Rohde, Isaac McKneely, Ryan Dunn, Blake Buchanan)",814,"Cav Sub"," ","Cavaliers",32,40,"Opp","vsWIS",77
+2,"13:13","Badgers lineup change (Carter Gilmore, John Blackwell, Max Klesmit, Nolan Winter, Chucky Hepburn)",793,"Opp Sub"," ","Badgers",32,40,"Opp","vsWIS",77
+2,"13:13","Ryan Dunn blocks John Blackwell's two point layup",793,"Block","block","Ryan Dunn",32,40,"Opp","vsWIS",77
+2,"13:13","John Blackwell offensive rebound",793,"Off Rebound","offensive rebound","John Blackwell",32,40,"Opp","vsWIS",77
+2,"13:13","Badgers turnover (shot clock violation)",793,"Turnover","turnover","Badgers",32,40,"Cavs","vsWIS",78
+2,"13:13","Cavaliers lineup change (Blake Buchanan, Reece Beekman, Dante Harris, Isaac McKneely, Ryan Dunn)",793,"Cav Sub"," ","Cavaliers",32,40,"Cavs","vsWIS",78
+2,"13:00","Badgers lineup change (Max Klesmit, Carter Gilmore, Kamari McGee, John Blackwell, Nolan Winter)",780,"Opp Sub"," ","Badgers",32,40,"Cavs","vsWIS",78
+2,"12:58","Dante Harris misses three point jump shot",778,"Missed Three","misses","Dante Harris",32,40,"Cavs","vsWIS",78
+2,"12:54","Blake Buchanan offensive rebound",774,"Off Rebound","offensive rebound","Blake Buchanan",32,40,"Cavs","vsWIS",78
+2,"12:54","Reece Beekman makes two point jump shot",774,"Made Two","makes","Reece Beekman",34,40,"Cavs","vsWIS",78
+2,"12:54","John Blackwell shooting foul (Reece Beekman draws the foul)",774,"Foul","shooting foul","John Blackwell",34,40,"Cavs","vsWIS",78
+2,"12:54","Badgers lineup change (Kamari McGee, Max Klesmit, Carter Gilmore, John Blackwell, Steven Crowl)",774,"Opp Sub"," ","Badgers",34,40,"Cavs","vsWIS",78
+2,"12:46","Reece Beekman makes regular free throw 1 of 1",766,"Made FT","makes","Reece Beekman",35,40,"Opp","vsWIS",79
+2,"12:27","Reece Beekman personal foul",747,"Foul","personal foul","Reece Beekman",35,40,"Opp","vsWIS",79
+2,"12:05","Steven Crowl makes two point hook shot",725,"Made Two","makes","Steven Crowl",35,42,"Cavs","vsWIS",80
+2,"12:03","Steven Crowl blocks Blake Buchanan's two point jump shot",723,"Block","block","Steven Crowl",35,42,"Cavs","vsWIS",80
+2,"11:45","Steven Crowl defensive rebound",705,"Def Rebound","defensive rebound","Steven Crowl",35,42,"Opp","vsWIS",81
+2,"11:43","Steven Crowl misses two point jump shot",703,"Missed Two","misses","Steven Crowl",35,42,"Opp","vsWIS",81
+2,"11:41","Carter Gilmore offensive rebound",701,"Off Rebound","offensive rebound","Carter Gilmore",35,42,"Opp","vsWIS",81
+2,"11:32","Carter Gilmore makes two point dunk",692,"Made Two","makes","Carter Gilmore",35,44,"Cavs","vsWIS",82
+2,"11:30","Blake Buchanan misses two point jump shot",690,"Missed Two","misses","Blake Buchanan",35,44,"Cavs","vsWIS",82
+2,"11:15","Carter Gilmore defensive rebound",675,"Def Rebound","defensive rebound","Carter Gilmore",35,44,"Opp","vsWIS",83
+2,"11:15","Ryan Dunn shooting foul (John Blackwell draws the foul)",675,"Foul","shooting foul","Ryan Dunn",35,44,"Opp","vsWIS",83
+2,"11:15","TV timeout",675,""," ","TV",35,44,"Opp","vsWIS",83
+2,"11:15","Badgers lineup change (Kamari McGee, Chucky Hepburn, Carter Gilmore, Steven Crowl, John Blackwell)",675,"Opp Sub"," ","Badgers",35,44,"Opp","vsWIS",83
+2,"11:15","Cavaliers lineup change (Blake Buchanan, Dante Harris, Reece Beekman, Andrew Rohde, Jacob Groves)",675,"Cav Sub"," ","Cavaliers",35,44,"Opp","vsWIS",83
+2,"11:15","John Blackwell makes regular free throw 1 of 2",675,"Made FT","makes","John Blackwell",35,45,"Opp","vsWIS",83
+2,"10:54","John Blackwell makes regular free throw 2 of 2",654,"Made FT","makes","John Blackwell",35,46,"Cavs","vsWIS",84
+2,"10:52","Andrew Rohde misses three point jump shot",652,"Missed Three","misses","Andrew Rohde",35,46,"Cavs","vsWIS",84
+2,"10:24","Badgers defensive rebound",624,"Def Rebound","defensive rebound","Badgers",35,46,"Opp","vsWIS",85
+2,"10:10","Chucky Hepburn makes three point jump shot",610,"Made Three","makes","Chucky Hepburn",35,49,"Cavs","vsWIS",86
+2,"9:58","Chucky Hepburn personal foul",598,"Foul","personal foul","Chucky Hepburn",35,49,"Cavs","vsWIS",86
+2,"9:35","Jacob Groves turnover",575,"Turnover","turnover","Jacob Groves",35,49,"Opp","vsWIS",87
+2,"9:33","Steven Crowl makes two point dunk (Chucky Hepburn assists)",573,"Made Two","makes","Steven Crowl",35,51,"Cavs","vsWIS",88
+2,"9:33","Cavaliers 30 second timeout",573,"Timeout","second timeout","Cavaliers 30",35,51,"Cavs","vsWIS",88
+2,"9:33","Cavaliers lineup change (Isaac McKneely, Ryan Dunn, Reece Beekman, Andrew Rohde, Jacob Groves)",573,"Cav Sub"," ","Cavaliers",35,51,"Cavs","vsWIS",88
+2,"9:18","Badgers lineup change (Max Klesmit, Carter Gilmore, Steven Crowl, Chucky Hepburn, John Blackwell)",558,"Opp Sub"," ","Badgers",35,51,"Cavs","vsWIS",88
+2,"8:52","Ryan Dunn makes two point layup (Reece Beekman assists)",532,"Made Two","makes","Ryan Dunn",37,51,"Opp","vsWIS",89
+2,"8:38","Carter Gilmore makes two point hook shot",518,"Made Two","makes","Carter Gilmore",37,53,"Cavs","vsWIS",90
+2,"8:36","Reece Beekman misses two point jump shot",516,"Missed Two","misses","Reece Beekman",37,53,"Cavs","vsWIS",90
+2,"8:16","Carter Gilmore defensive rebound",496,"Def Rebound","defensive rebound","Carter Gilmore",37,53,"Opp","vsWIS",91
+2,"8:16","Carter Gilmore turnover (bad pass)",496,"Turnover","turnover","Carter Gilmore",37,53,"Cavs","vsWIS",92
+2,"8:16","Badgers lineup change (Max Klesmit, Tyler Wahl, Nolan Winter, Chucky Hepburn, AJ Storr)",496,"Opp Sub"," ","Badgers",37,53,"Cavs","vsWIS",92
+2,"7:50","Cavaliers lineup change (Dante Harris, Andrew Rohde, Isaac McKneely, Ryan Dunn, Jacob Groves)",470,"Cav Sub"," ","Cavaliers",37,53,"Cavs","vsWIS",92
+2,"7:25","Isaac McKneely makes two point jump shot (Andrew Rohde assists)",445,"Made Two","makes","Isaac McKneely",39,53,"Opp","vsWIS",93
+2,"7:23","Tyler Wahl misses two point jump shot",443,"Missed Two","misses","Tyler Wahl",39,53,"Opp","vsWIS",93
+2,"7:23","Tyler Wahl offensive rebound",443,"Off Rebound","offensive rebound","Tyler Wahl",39,53,"Opp","vsWIS",93
+2,"7:18","Tyler Wahl makes two point layup",438,"Made Two","makes","Tyler Wahl",39,55,"Cavs","vsWIS",94
+2,"7:14","Ryan Dunn turnover (Chucky Hepburn steals)",434,"Turnover","turnover","Ryan Dunn",39,55,"Opp","vsWIS",95
+2,"7:14","Ryan Dunn personal foul",434,"Foul","personal foul","Ryan Dunn",39,55,"Opp","vsWIS",95
+2,"7:14","TV timeout",434,""," ","TV",39,55,"Opp","vsWIS",95
+2,"7:11","Cavaliers lineup change (Reece Beekman, Andrew Rohde, Isaac McKneely, Ryan Dunn, Leon Bond III)",431,"Cav Sub"," ","Cavaliers",39,55,"Opp","vsWIS",95
+2,"6:46","AJ Storr makes two point layup (Chucky Hepburn assists)",406,"Made Two","makes","AJ Storr",39,57,"Cavs","vsWIS",96
+2,"6:44","Isaac McKneely misses two point jump shot",404,"Missed Two","misses","Isaac McKneely",39,57,"Cavs","vsWIS",96
+2,"6:24","Nolan Winter defensive rebound",384,"Def Rebound","defensive rebound","Nolan Winter",39,57,"Opp","vsWIS",97
+2,"6:08","Nolan Winter makes three point jump shot (Chucky Hepburn assists)",368,"Made Three","makes","Nolan Winter",39,60,"Cavs","vsWIS",98
+2,"6:06","Reece Beekman misses two point jump shot",366,"Missed Two","misses","Reece Beekman",39,60,"Cavs","vsWIS",98
+2,"5:59","Tyler Wahl defensive rebound",359,"Def Rebound","defensive rebound","Tyler Wahl",39,60,"Opp","vsWIS",99
+2,"5:59","Isaac McKneely personal foul",359,"Foul","personal foul","Isaac McKneely",39,60,"Opp","vsWIS",99
+2,"5:56","Cavaliers lineup change (Reece Beekman, Taine Murray, Isaac McKneely, Ryan Dunn, Leon Bond III)",356,"Cav Sub"," ","Cavaliers",39,60,"Opp","vsWIS",99
+2,"5:54","AJ Storr misses three point jump shot",354,"Missed Three","misses","AJ Storr",39,60,"Opp","vsWIS",99
+2,"5:35","Tyler Wahl offensive rebound",335,"Off Rebound","offensive rebound","Tyler Wahl",39,60,"Opp","vsWIS",99
+2,"5:33","Chucky Hepburn misses three point jump shot",333,"Missed Three","misses","Chucky Hepburn",39,60,"Opp","vsWIS",99
+2,"5:26","Ryan Dunn defensive rebound",326,"Def Rebound","defensive rebound","Ryan Dunn",39,60,"Cavs","vsWIS",100
+2,"5:01","Reece Beekman makes two point layup",301,"Made Two","makes","Reece Beekman",41,60,"Opp","vsWIS",101
+2,"4:59","Max Klesmit misses two point layup",299,"Missed Two","misses","Max Klesmit",41,60,"Opp","vsWIS",101
+2,"4:58","Nolan Winter offensive rebound",298,"Off Rebound","offensive rebound","Nolan Winter",41,60,"Opp","vsWIS",101
+2,"4:56","Nolan Winter misses two point layup",296,"Missed Two","misses","Nolan Winter",41,60,"Opp","vsWIS",101
+2,"4:51","Reece Beekman defensive rebound",291,"Def Rebound","defensive rebound","Reece Beekman",41,60,"Cavs","vsWIS",102
+2,"4:49","Taine Murray misses three point jump shot",289,"Missed Three","misses","Taine Murray",41,60,"Cavs","vsWIS",102
+2,"4:19","Tyler Wahl defensive rebound",259,"Def Rebound","defensive rebound","Tyler Wahl",41,60,"Opp","vsWIS",103
+2,"4:03","Tyler Wahl makes two point layup",243,"Made Two","makes","Tyler Wahl",41,62,"Cavs","vsWIS",104
+2,"4:03","Badgers lineup change (Steven Crowl, Tyler Wahl, Max Klesmit, Kamari McGee, John Blackwell)",243,"Opp Sub"," ","Badgers",41,62,"Cavs","vsWIS",104
+2,"3:50","Cavaliers lineup change (Reece Beekman, Taine Murray, Dante Harris, Blake Buchanan, Leon Bond III)",230,"Cav Sub"," ","Cavaliers",41,62,"Cavs","vsWIS",104
+2,"3:21","Reece Beekman turnover (Tyler Wahl steals)",201,"Turnover","turnover","Reece Beekman",41,62,"Opp","vsWIS",105
+2,"3:15","John Blackwell makes three point jump shot (Kamari McGee assists)",195,"Made Three","makes","John Blackwell",41,65,"Cavs","vsWIS",106
+2,"3:15","Cavaliers 30 second timeout",195,"Timeout","second timeout","Cavaliers 30",41,65,"Cavs","vsWIS",106
+2,"3:15","TV timeout",195,""," ","TV",41,65,"Cavs","vsWIS",106
+2,"3:03","Cavaliers lineup change (Andrew Rohde, Dante Harris, Jordan Minor, Taine Murray, Leon Bond III)",183,"Cav Sub"," ","Cavaliers",41,65,"Cavs","vsWIS",106
+2,"3:01","Andrew Rohde misses two point jump shot",181,"Missed Two","misses","Andrew Rohde",41,65,"Cavs","vsWIS",106
+2,"2:33","Max Klesmit defensive rebound",153,"Def Rebound","defensive rebound","Max Klesmit",41,65,"Opp","vsWIS",107
+2,"2:31","John Blackwell misses three point jump shot",151,"Missed Three","misses","John Blackwell",41,65,"Opp","vsWIS",107
+2,"2:11","Tyler Wahl offensive rebound",131,"Off Rebound","offensive rebound","Tyler Wahl",41,65,"Opp","vsWIS",107
+2,"2:09","Max Klesmit misses three point jump shot",129,"Missed Three","misses","Max Klesmit",41,65,"Opp","vsWIS",107
+2,"2:09","Tyler Wahl offensive rebound",129,"Off Rebound","offensive rebound","Tyler Wahl",41,65,"Opp","vsWIS",107
+2,"2:09","Tyler Wahl misses two point layup",129,"Missed Two","misses","Tyler Wahl",41,65,"Opp","vsWIS",107
+2,"2:09","Tyler Wahl offensive rebound",129,"Off Rebound","offensive rebound","Tyler Wahl",41,65,"Opp","vsWIS",107
+2,"2:09","Badgers 30 second timeout",129,"Timeout","second timeout","Badgers 30",41,65,"Opp","vsWIS",107
+2,"1:51","Badgers lineup change (Kamari McGee, Connor Essegian, Carter Gilmore, Nolan Winter, John Blackwell)",111,"Opp Sub"," ","Badgers",41,65,"Opp","vsWIS",107
+2,"1:49","John Blackwell misses two point jump shot",109,"Missed Two","misses","John Blackwell",41,65,"Opp","vsWIS",107
+2,"1:32","Andrew Rohde defensive rebound",92,"Def Rebound","defensive rebound","Andrew Rohde",41,65,"Cavs","vsWIS",108
+2,"1:30","Taine Murray misses two point layup",90,"Missed Two","misses","Taine Murray",41,65,"Cavs","vsWIS",108
+2,"1:04","Connor Essegian defensive rebound",64,"Def Rebound","defensive rebound","Connor Essegian",41,65,"Opp","vsWIS",109
+2,"1:03","Connor Essegian misses three point jump shot",63,"Missed Three","misses","Connor Essegian",41,65,"Opp","vsWIS",109
+2,"1:03","Badgers offensive rebound",63,"Off Rebound","offensive rebound","Badgers",41,65,"Opp","vsWIS",109
+2,"0:42","Badgers lineup change (Connor Essegian, Kamari McGee, Isaac Lindsey, Chris Hodges, Markus Ilver)",42,"Opp Sub"," ","Badgers",41,65,"Opp","vsWIS",109
+2,"0:42","Kamari McGee misses two point jump shot",42,"Missed Two","misses","Kamari McGee",41,65,"Opp","vsWIS",109
+2,"0:42","Isaac Lindsey offensive rebound",42,"Off Rebound","offensive rebound","Isaac Lindsey",41,65,"Opp","vsWIS",109
+2,"0:42","Badgers turnover (shot clock violation)",42,"Turnover","turnover","Badgers",41,65,"Cavs","vsWIS",110
+2,"0:19","Badgers lineup change (Luke Haertle, Isaac Gard, Isaac Lindsey, Chris Hodges, Markus Ilver)",19,"Opp Sub"," ","Badgers",41,65,"Cavs","vsWIS",110
+2,"0:17","Dante Harris misses two point jump shot",17,"Missed Two","misses","Dante Harris",41,65,"Cavs","vsWIS",110
+2,"0:00","Dante Harris turnover (offensive foul)",0,"Turnover","turnover","Dante Harris",41,65,"Opp","vsWIS",111
+2,"0:00","Chucky Hepburn misses two point layup",0,"Missed Two","misses","Chucky Hepburn",41,65,"Opp","vsWIS",111
+2,"0:00","Cavaliers defensive rebound",0,"Def Rebound","defensive rebound","Cavaliers",41,65,"Cavs","vsWIS",112
+2,"0:00","Luke Haertle defensive rebound",0,"Def Rebound","defensive rebound","Luke Haertle",41,65,"Opp","vsWIS",113
