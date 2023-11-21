@@ -23,4 +23,20 @@ szn_stats = szn_stats%>%
   mutate(poss_permin = Possessions/(On_court_time/60))%>%
   mutate(efficiency = (Pts.x + Def_Rebounds + Off_Rebounds + Defensive_plays - (FG_att.x - FG_made.x) - Tnovers.x) / (On_court_time/60))%>%
   mutate(def_eff = 2*Defensive_plays/Possessions)
+szn_stats$Pt_dif <- szn_stats$Pts.x - szn_stats$Pts_against
 
+plusminus <- data.frame(Player = szn_stats$Player, Pt_dif = szn_stats$Pt_dif)
+
+without <- plusminus[grepl("Without", plusminus$Player), ]
+with <- plusminus[!grepl("Without", plusminus$Player), ]
+without$Player <- gsub("Without ", "", without$Player)
+
+with$adjusted_plusminus <- NA
+
+for (i in 1:nrow(with)) {
+  player_name <- with$Player[i]
+  without_row <- which(without$Player == player_name)
+  with$adjusted_plusminus[i] <- with$Pt_dif[i] - without$Pt_dif[without_row]
+}
+
+szn_stats <- merge(szn_stats, with[, c("Player", "adjusted_plusminus")], by = "Player", all.x = TRUE)
