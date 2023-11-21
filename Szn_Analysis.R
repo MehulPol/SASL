@@ -105,6 +105,13 @@ for (i in 2:nrow(game1)) {
   }
 }
 
+Lineup_stats = Lineup_stats%>%
+  mutate(Pt_diff_perposs = (Pts-Pts_against)/(Possessions),.before = Pts)%>%
+  mutate(Pt_diff_permin = (Pts-Pts_against)/(On_court_time),.before = Pts)%>%
+  mutate(poss_permin = Possessions/(On_court_time/60),.before = Pts)%>%
+  mutate(efficiency = (Pts + Rebounds + Defensive_plays - (FG_att - FG_made) - Tnovers) / (On_court_time/60),.before = Pts)%>%
+  mutate(def_eff = 2*Defensive_plays/Possessions,.before = Pts)
+
 # Lineup_stats$Lineup = as.character(Lineup_stats$Lineup)
 # write.csv(Lineup_stats, "First_4Lineup_stats.csv", row.names=FALSE)
 # Lineup_Stats = read.csv("/Users/mehulpol/SASL/First_4Lineup_stats.csv")
