@@ -1,14 +1,14 @@
 
 library(tidyverse)
+library(useful)
 
-TARL_stats = read.csv("/Users/mehulpol/SASL/TARL_stats.csv")
+UVA_roster = c("Blake Buchanan","Dante Harris","Reece Beekman","Andrew Rohde",
+               "Desmond Roberts","Taine Murray","Isaac McKneely","Elijah Gertrude",
+               "Ryan Dunn","Anthony Robinson","Jordan Minor","Tristan How", "Bryce Walker",
+               "Christian Bliss","Jacob Groves","Leon Bond III","Cavaliers")
+
 TARL_stats$Player[TARL_stats$Player == "Jake Groves"] = "Jacob Groves"
 TARL_stats$Player[TARL_stats$Player == "Without Jake Groves"] = "Without Jacob Groves"
-FLA_stats = read.csv("/Users/mehulpol/SASL/FLA_stats.csv")
-NCAT_stats = read.csv("/Users/mehulpol/SASL/NCAT_stats.csv")
-TXSO_stats = read.csv("/Users/mehulpol/SASL/TXSO_stats.csv")
-WIS_stats = read.csv("/Users/mehulpol/SASL/WIS_stats.csv")
-WVU_stats = read.csv("/Users/mehulpol/SASL/WVU_stats.csv")
 
 szn_stats = TARL_stats %>% 
   full_join(FLA_stats)%>%
@@ -49,12 +49,6 @@ for (i in 1:nrow(with)) {
 szn_stats <- merge(szn_stats, with[, c("Player", "adjusted_plusminus")], by = "Player", all.x = TRUE)
 
 ## Stats for each Lineup while they are on the court together
-TARL_game = read.csv("/Users/mehulpol/SASL/TARL_game.csv")
-FLA_game = read.csv("/Users/mehulpol/SASL/FLA_game.csv")
-NCAT_game = read.csv("/Users/mehulpol/SASL/NCAT_game.csv")
-TXSO_game = read.csv("/Users/mehulpol/SASL/TXSO_game.csv")
-WIS_game = read.csv("/Users/mehulpol/SASL/WIS_game.csv")
-WVU_game = read.csv("/Users/mehulpol/SASL/WVU_game.csv")
 
 game1 = TARL_game %>% 
   full_join(FLA_game)%>%
@@ -63,6 +57,7 @@ game1 = TARL_game %>%
   full_join(WIS_game)%>%
   full_join(WVU_game)
 Lineup_stats = tibble(On_court_time = 0,Possessions = 0, Pts= 0, Pts_against = 0, Tnovers = 0, FG_made = 0, FG_att = 0, Three_made =0, Three_att = 0,Rebounds = 0,Defensive_plays = 0)
+starting_lineup1 = "Isaac McKneely,Reece Beekman,Andrew Rohde,Ryan Dunn,Blake Buchanan"
 starting = lapply(strsplit(starting_lineup1, split = ","),sort)
 Lineup_stats = add_column(Lineup_stats,Lineup = starting,.before = "On_court_time")
 
@@ -131,13 +126,40 @@ for (i in 1:nrow(Lineup_stats)){
 Lineup_stats = Lineup_stats%>%
   group_by(Lineup)%>%
   summarise_all(sum)
-  
+ 
+
+# Template for sub-lineups
+
+Beek_lineups = Lineup_stats[grepl("Beekman", Lineup_stats$Lineup),]
+BeekXDunn = Beek_lineups[grepl("Dunn", Beek_lineups$Lineup), -1] %>%
+  summarize_all(sum)
+WithoutBeekXDunn = Lineup_stats[-grepl("Beekman", Lineup_stats$Lineup),]
+WithoutBeekXDunn = WithoutBeekXDunn[-grepl("Dunn", WithoutBeekXDunn$Lineup),-1] %>%
+  summarize_all(sum)
+
+BeekXDunn = mutate(BeekXDunn, Lineup = "With Beekman and Dunn", .before=On_court_time)
+WithoutBeekXDunn = mutate(WithoutBeekXDunn, Lineup = "Without Beekman and Dunn", .before=On_court_time)
+BeekXDunn = rbind(BeekXDunn, WithoutBeekXDunn)
+BeekXDunn = BeekXDunn %>%
+  mutate(Pt_diff_perposs = (Pts-Pts_against)/(Possessions),.before = Pts)%>%
+  mutate(Pt_diff_permin = (Pts-Pts_against)/(On_court_time),.before = Pts)%>%
+  mutate(poss_permin = Possessions/(On_court_time/60),.before = Pts)%>%
+  mutate(efficiency = (Pts + Rebounds + Defensive_plays - (FG_att - FG_made) - Tnovers) / (On_court_time/60),.before = Pts)%>%
+  mutate(def_eff = 2*Defensive_plays/Possessions,.before = Pts)
+
+
+
+
+
 Lineup_stats = Lineup_stats%>%
   mutate(Pt_diff_perposs = (Pts-Pts_against)/(Possessions),.before = Pts)%>%
   mutate(Pt_diff_permin = (Pts-Pts_against)/(On_court_time),.before = Pts)%>%
   mutate(poss_permin = Possessions/(On_court_time/60),.before = Pts)%>%
   mutate(efficiency = (Pts + Rebounds + Defensive_plays - (FG_att - FG_made) - Tnovers) / (On_court_time/60),.before = Pts)%>%
   mutate(def_eff = 2*Defensive_plays/Possessions,.before = Pts)
+
+
+
 
 # write.csv(Lineup_stats, "First_4Lineup_stats.csv", row.names=FALSE)
 # Lineup_Stats = read.csv("/Users/mehulpol/SASL/First_4Lineup_stats.csv")
