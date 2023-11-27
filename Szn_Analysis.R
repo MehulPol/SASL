@@ -5,11 +5,15 @@ TARL_stats = read.csv("/Users/mehulpol/SASL/TARL_stats.csv")
 FLA_stats = read.csv("/Users/mehulpol/SASL/FLA_stats.csv")
 NCAT_stats = read.csv("/Users/mehulpol/SASL/NCAT_stats.csv")
 TXSO_stats = read.csv("/Users/mehulpol/SASL/TXSO_stats.csv")
+WIS_stats = read.csv("/Users/mehulpol/SASL/WIS_stats.csv")
+WVU_stats = read.csv("/Users/mehulpol/SASL/WVU_stats.csv")
 
 szn_stats = TARL_stats %>% 
   full_join(FLA_stats)%>%
   full_join(NCAT_stats)%>%
   full_join(TXSO_stats)%>%
+  full_join(WIS_stats)%>%
+  full_join(WVU_stats)%>%
   group_by(Player)%>%
   summarise_all(sum)
 ### Only weird thing is the Jacob Groves is also called Jake Groves in some places
@@ -48,12 +52,14 @@ FLA_game = read.csv("/Users/mehulpol/SASL/FLA_game.csv")
 NCAT_game = read.csv("/Users/mehulpol/SASL/NCAT_game.csv")
 TXSO_game = read.csv("/Users/mehulpol/SASL/TXSO_game.csv")
 WIS_game = read.csv("/Users/mehulpol/SASL/WIS_game.csv")
+WVU_game = read.csv("/Users/mehulpol/SASL/WVU_game.csv")
 
 game1 = TARL_game %>% 
   full_join(FLA_game)%>%
   full_join(NCAT_game)%>%
   full_join(TXSO_game)%>%
-  full_join(WIS_game)
+  full_join(WIS_game)%>%
+  full_join(WVU_game)
 Lineup_stats = tibble(On_court_time = 0,Possessions = 0, Pts= 0, Pts_against = 0, Tnovers = 0, FG_made = 0, FG_att = 0, Three_made =0, Three_att = 0,Rebounds = 0,Defensive_plays = 0)
 starting = lapply(strsplit(starting_lineup1, split = ","),sort)
 Lineup_stats = add_column(Lineup_stats,Lineup = starting,.before = "On_court_time")
