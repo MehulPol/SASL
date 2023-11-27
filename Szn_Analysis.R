@@ -1,7 +1,7 @@
 
 library(tidyverse)
 
-TARL_stats = read.csv("/Users/mehulpol/SASL/TARL_stats.csv")
+TARL_stats$Player[TARL_stats$Player == "Jake Groves"] = "Jacob Groves"
 FLA_stats = read.csv("/Users/mehulpol/SASL/FLA_stats.csv")
 NCAT_stats = read.csv("/Users/mehulpol/SASL/NCAT_stats.csv")
 TXSO_stats = read.csv("/Users/mehulpol/SASL/TXSO_stats.csv")
