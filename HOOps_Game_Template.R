@@ -19,25 +19,13 @@ UVA_roster = c("Blake Buchanan","Dante Harris","Reece Beekman","Andrew Rohde",
 #               "Isaac McKneely", "Taine Murray", "Chase Coleman", "Tristan How", "Cavaliers")
 
 # ACC playbyplay for their lineup/substitution data
-# acc_web = "https://theacc.com/boxscore.aspx?id=JcLFfL9RUu0H5ystoOMbjQ7A58QMysWHEEqi7hufVoQXO5nVxbctjHh%2F6ifARsoKUNz2Cn1GpJx0eQgL%2FI8uNugW6%2F65ooJ9xE6%2BliOEFRnJFwDEdzr8vBabydal0a6c%2FfJQROX%2BPC8WpklHbwVMoM%2FD9S6dIYosu6nSxEimSD6X%2BRBu%2FokVAmbam%2BXCIyUz&path=mbball#play-by-play"
+# acc_web = "https://theacc.com/boxscore.aspx?id=JcLFfL9RUu0H5ystoOMbjQ7A58QMysWHEEqi7hufVoQXO5nVxbctjHh%2F6ifARsoKUNz2Cn1GpJx0eQgL%2FI8uNugW6%2F65ooJ9xE6%2BliOEFRnJFwDEdzr8vBabydal0a6ca%2BNpPxM0UNwQLo%2BidHfoBghLZvS8B84dsh8CAFj%2BBa8l1novyVUb%2BhcEXiQiQFcv&path=mbball#play-by-play"
 # acc = read_html(acc_web)
-# # all_plays<-acc%>%
-# #   html_nodes(".text-right , th , .text-bold.hide-on-medium-down~ .hide-on-medium-down+ .hide-on-medium-down")%>%
-# #   html_text()
-# # 
-# # all_plays = all_plays[-c(1:92)]
-# # all_plays = all_plays[all_plays != ""]
-# # all_plays = all_plays[-c(860:901)]
-# # all_plays = all_plays[-c(405:413)]
-# # 
-# # all_plays = as.data.frame(matrix(all_plays,ncol=2,byrow=T))
-# 
-# 
 # acc_subs <-acc%>%
 #   html_nodes("th , .text-bold.hide-on-medium-down~ .hide-on-medium-down+ .hide-on-medium-down")%>%
 #   html_text()
-# acc_subs = acc_subs[-c(1:84)]
-# acc_subs = acc_subs[-c(860:901,405:413)]
+# acc_subs = acc_subs[-c(1:79)]
+# acc_subs = acc_subs[-c(812:853,383:391)]
 # acc_subs = as.data.frame(matrix(acc_subs,ncol=2,byrow=T))
 # acc_subs$Half = 1
 # 
@@ -73,7 +61,7 @@ UVA_roster = c("Blake Buchanan","Dante Harris","Reece Beekman","Andrew Rohde",
 # acc_subs = acc_subs %>%
 #   mutate(Player = mapvalues(Player, from = names(name_mapping), to = name_mapping))
 # 
-
+# 
 starting_lineup <- c("Isaac McKneely", "Reece Beekman", "Andrew Rohde", "Ryan Dunn", "Blake Buchanan")
 lineup_changes <- data.frame(Half = 1, Time = "20:00", Lineup = I(list(starting_lineup)), stringsAsFactors = FALSE)
 
@@ -117,8 +105,8 @@ lineup_changes <- data.frame(Half = 1, Time = "20:00", Lineup = I(list(starting_
 # 
 #   lineup_changes <- rbind(lineup_changes, data.frame(Half = half,Time = timestamp, Lineup = I(list(lineup))))
 # }
-# 
-# # Turn to string so it's more readable
+
+# Turn to string so it's more readable
 lineup_changes$Lineup <- sapply(lineup_changes$Lineup, function(l) paste(paste("Cavaliers lineup change (",paste(l, collapse = ","),sep=""),")",sep="")  )
 colnames(lineup_changes)[colnames(lineup_changes) == 'Lineup'] <- 'Description'
 
@@ -126,17 +114,17 @@ colnames(lineup_changes)[colnames(lineup_changes) == 'Lineup'] <- 'Description'
 
 
 ## Fox Sports Scraping and Cleaning
-website1 = "https://www.foxsports.com/college-basketball/rocket-mortgage-by-quicken-loans-fort-myers-tip-off-wisconsin-badgers-vs-virginia-cavaliers-nov-20-2023-game-boxscore-250784?tab=playbyplay"
-starting_lineup1 = "Dante Harris,Reece Beekman,Andrew Rohde,Ryan Dunn,Blake Buchanan"
-abbrev1 = "WIS"
-opp1 = "vsWIS"
+website1 = "https://www.foxsports.com/college-basketball/rocket-mortgage-by-quicken-loans-fort-myers-tip-off-virginia-cavaliers-vs-west-virginia-mountaineers-nov-22-2023-game-boxscore-251291?tab=playbyplay"
+starting_lineup1 = "Isaac McKneely,Reece Beekman,Andrew Rohde,Ryan Dunn,Blake Buchanan"
+abbrev1 = "WVU"
+opp1 = "vsWVU"
 
 game = tibble(Half = 1, Time = "", Description = "", Event = "", Token = "", words = strsplit("place holder", split = ' '), Player = "", 
                UVA_score = 0, Opp_score = 0, Time_in_sec = 0, Opps = "",`Possession Number` = 0)
 
 game_pbp = function(website,starting_lineup,abbrev,opp){
   
-  fox = read_html(website)
+  fox = read_html(website1)
   first_half<-fox%>%
     html_nodes(".flex-col:nth-child(1)")%>%
     html_text()
@@ -347,7 +335,7 @@ game1 = game_pbp(website1,starting_lineup1,abbrev1,opp1)
 ## end of playbyplay data for all games
 
 # game1 = game1%>%select(-words)
-# write.csv(game1, "WIS_game.csv", row.names=FALSE)
+# write.csv(game1, "WVU_game.csv", row.names=FALSE)
 
 
 
@@ -511,7 +499,7 @@ All_Stats = merge(Player_stats, Box_Score, by = "Player", all.x = TRUE) %>%
   mutate(def_eff = 2*Defensive_plays/Possessions, .after = Pt_diff_permin)%>%
   mutate(PER = PER/(On_court_time/60))
 
-# write.csv(All_Stats, "WIS_stats.csv", row.names=FALSE)
+# write.csv(All_Stats, "WVU_stats.csv", row.names=FALSE)
 
 ## Visualizations
 

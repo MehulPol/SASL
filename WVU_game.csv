@@ -1,0 +1,314 @@
+"Half","Time","Description","Time_in_sec","Event","Token","Player","UVA_score","Opp_score","Possession","Opps","Possession Number"
+1,"20:00","1ST HALF",1200,""," ","1ST",0,0,"Cavs","vsWVU",1
+1,"20:00","Cavaliers lineup change (Isaac McKneely,Reece Beekman,Andrew Rohde,Ryan Dunn,Blake Buchanan)",1200,"Cav Sub"," ","Cavaliers",0,0,"","vsWVU",2
+1,"19:33","Blake Buchanan vs. Jesse Edwards (Cavaliers gains possession)",1173,""," ","Blake",0,0,"Cavs","vsWVU",3
+1,"19:31","Josiah Harris misses three point jump shot",1171,"Missed Three","misses","Josiah Harris",0,0,"Cavs","vsWVU",3
+1,"19:29","Jesse Edwards offensive rebound",1169,"Off Rebound","offensive rebound","Jesse Edwards",0,0,"Cavs","vsWVU",3
+1,"19:24","Blake Buchanan personal foul",1164,"Foul","personal foul","Blake Buchanan",0,0,"Cavs","vsWVU",3
+1,"19:22","Blake Buchanan blocks Jesse Edwards's two point layup",1162,"Block","block","Blake Buchanan",0,0,"Cavs","vsWVU",3
+1,"19:01","Isaac McKneely defensive rebound",1141,"Def Rebound","defensive rebound","Isaac McKneely",0,0,"Opp","vsWVU",4
+1,"18:59","Reece Beekman misses three point jump shot",1139,"Missed Three","misses","Reece Beekman",0,0,"Opp","vsWVU",4
+1,"18:37","Jesse Edwards defensive rebound",1117,"Def Rebound","defensive rebound","Jesse Edwards",0,0,"Cavs","vsWVU",5
+1,"18:29","Josiah Harris turnover (lost ball) (Reece Beekman steals)",1109,"Turnover","turnover","Josiah Harris",0,0,"Opp","vsWVU",6
+1,"18:27","Ryan Dunn misses three point jump shot",1107,"Missed Three","misses","Ryan Dunn",0,0,"Opp","vsWVU",6
+1,"18:07","Kobe Johnson defensive rebound",1087,"Def Rebound","defensive rebound","Kobe Johnson",0,0,"Cavs","vsWVU",7
+1,"18:05","Kobe Johnson misses two point layup",1085,"Missed Two","misses","Kobe Johnson",0,0,"Cavs","vsWVU",7
+1,"17:50","Isaac McKneely defensive rebound",1070,"Def Rebound","defensive rebound","Isaac McKneely",0,0,"Opp","vsWVU",8
+1,"17:48","Reece Beekman misses three point jump shot",1068,"Missed Three","misses","Reece Beekman",0,0,"Opp","vsWVU",8
+1,"17:39","Quinn Slazinski defensive rebound",1059,"Def Rebound","defensive rebound","Quinn Slazinski",0,0,"Cavs","vsWVU",9
+1,"17:24","Ofri Naveh turnover (bad pass)",1044,"Turnover","turnover","Ofri Naveh",0,0,"Opp","vsWVU",10
+1,"17:19","Reece Beekman turnover (lost ball) (Jesse Edwards steals)",1039,"Turnover","turnover","Reece Beekman",0,0,"Cavs","vsWVU",11
+1,"17:17","Blake Buchanan blocks Jesse Edwards's two point dunk",1037,"Block","block","Blake Buchanan",0,0,"Cavs","vsWVU",11
+1,"17:09","Kobe Johnson offensive rebound",1029,"Off Rebound","offensive rebound","Kobe Johnson",0,0,"Cavs","vsWVU",11
+1,"17:07","Quinn Slazinski misses two point jump shot",1027,"Missed Two","misses","Quinn Slazinski",0,0,"Cavs","vsWVU",11
+1,"16:45","Isaac McKneely defensive rebound",1005,"Def Rebound","defensive rebound","Isaac McKneely",0,0,"Opp","vsWVU",12
+1,"16:43","Isaac McKneely misses two point layup",1003,"Missed Two","misses","Isaac McKneely",0,0,"Opp","vsWVU",12
+1,"16:43","Mountaineers defensive rebound",1003,"Def Rebound","defensive rebound","Mountaineers",0,0,"Cavs","vsWVU",13
+1,"16:27","Cavaliers lineup change (Jordan Minor, Reece Beekman, Andrew Rohde, Isaac McKneely, Ryan Dunn)",987,"Cav Sub"," ","Cavaliers",0,0,"Cavs","vsWVU",13
+1,"16:23","Kobe Johnson turnover (bad pass) (Reece Beekman steals)",983,"Turnover","turnover","Kobe Johnson",0,0,"Opp","vsWVU",14
+1,"16:11","Jordan Minor makes two point layup (Reece Beekman assists)",971,"Made Two","makes","Jordan Minor",2,0,"Cavs","vsWVU",15
+1,"16:04","Kobe Johnson turnover (traveling)",964,"Turnover","turnover","Kobe Johnson",2,0,"Opp","vsWVU",16
+1,"15:49","Reece Beekman turnover (lost ball)",949,"Turnover","turnover","Reece Beekman",2,0,"Cavs","vsWVU",17
+1,"15:49","Jordan Minor personal foul",949,"Foul","personal foul","Jordan Minor",2,0,"Cavs","vsWVU",17
+1,"15:45","TV timeout",945,""," ","TV",2,0,"Cavs","vsWVU",17
+1,"15:21","Jesse Edwards makes two point dunk (Kobe Johnson assists)",921,"Made Two","makes","Jesse Edwards",2,2,"Opp","vsWVU",18
+1,"15:19","Ryan Dunn misses two point jump shot",919,"Missed Two","misses","Ryan Dunn",2,2,"Opp","vsWVU",18
+1,"15:19","Mountaineers defensive rebound",919,"Def Rebound","defensive rebound","Mountaineers",2,2,"Cavs","vsWVU",19
+1,"15:19","Cavaliers lineup change (Reece Beekman, Andrew Rohde, Isaac McKneely, Leon Bond III, Jordan Minor)",919,"Cav Sub"," ","Cavaliers",2,2,"Cavs","vsWVU",19
+1,"15:04","Jordan Minor personal foul",904,"Foul","personal foul","Jordan Minor",2,2,"Cavs","vsWVU",19
+1,"15:04","Cavaliers lineup change (Reece Beekman, Andrew Rohde, Isaac McKneely, Jacob Groves, Leon Bond III)",904,"Cav Sub"," ","Cavaliers",2,2,"Cavs","vsWVU",19
+1,"14:55","Mountaineers lineup change (Kobe Johnson, Jesse Edwards, Seth Wilson, Quinn Slazinski, Josiah Harris)",895,"Opp Sub"," ","Mountaineers",2,2,"Cavs","vsWVU",19
+1,"14:34","Quinn Slazinski makes two point layup",874,"Made Two","makes","Quinn Slazinski",2,4,"Opp","vsWVU",20
+1,"14:32","Leon Bond III misses two point layup",872,"Missed Two","misses","Leon Bond III",2,4,"Opp","vsWVU",20
+1,"14:29","Josiah Harris defensive rebound",869,"Def Rebound","defensive rebound","Josiah Harris",2,4,"Cavs","vsWVU",21
+1,"14:15","Seth Wilson turnover (bad pass)",855,"Turnover","turnover","Seth Wilson",2,4,"Opp","vsWVU",22
+1,"13:56","Leon Bond III makes two point layup (Reece Beekman assists)",836,"Made Two","makes","Leon Bond III",4,4,"Cavs","vsWVU",23
+1,"13:40","Quinn Slazinski makes three point jump shot (Kobe Johnson assists)",820,"Made Three","makes","Quinn Slazinski",4,7,"Opp","vsWVU",24
+1,"13:15","Reece Beekman makes three point jump shot",795,"Made Three","makes","Reece Beekman",7,7,"Cavs","vsWVU",25
+1,"13:15","Jacob Groves shooting foul (Jesse Edwards draws the foul)",795,"Foul","shooting foul","Jacob Groves",7,7,"Cavs","vsWVU",25
+1,"13:15","Jesse Edwards misses regular free throw 1 of 2",795,"Missed FT","misses","Jesse Edwards",7,7,"Cavs","vsWVU",25
+1,"13:15","Cavaliers lineup change (Reece Beekman, Dante Harris, Isaac McKneely, Jacob Groves, Leon Bond III)",795,"Cav Sub"," ","Cavaliers",7,7,"Cavs","vsWVU",25
+1,"13:00","Jesse Edwards makes regular free throw 2 of 2",780,"Made FT","makes","Jesse Edwards",7,8,"Opp","vsWVU",26
+1,"12:38","Leon Bond III makes two point jump shot (Reece Beekman assists)",758,"Made Two","makes","Leon Bond III",9,8,"Cavs","vsWVU",27
+1,"12:36","Quinn Slazinski misses three point jump shot",756,"Missed Three","misses","Quinn Slazinski",9,8,"Cavs","vsWVU",27
+1,"12:29","Leon Bond III defensive rebound",749,"Def Rebound","defensive rebound","Leon Bond III",9,8,"Opp","vsWVU",28
+1,"12:27","Reece Beekman misses two point layup",747,"Missed Two","misses","Reece Beekman",9,8,"Opp","vsWVU",28
+1,"12:17","Jesse Edwards defensive rebound",737,"Def Rebound","defensive rebound","Jesse Edwards",9,8,"Cavs","vsWVU",29
+1,"11:56","Jesse Edwards makes two point layup (Josiah Harris assists)",716,"Made Two","makes","Jesse Edwards",9,10,"Opp","vsWVU",30
+1,"11:56","Josiah Harris shooting foul (Isaac McKneely draws the foul)",716,"Foul","shooting foul","Josiah Harris",9,10,"Opp","vsWVU",30
+1,"11:56","TV timeout",716,""," ","TV",9,10,"Opp","vsWVU",30
+1,"11:56","Cavaliers lineup change (Dante Harris, Ryan Dunn, Isaac McKneely, Jacob Groves, Leon Bond III)",716,"Cav Sub"," ","Cavaliers",9,10,"Opp","vsWVU",30
+1,"11:56","Mountaineers lineup change (Kobe Johnson, Patrick Suemnick, Quinn Slazinski, Seth Wilson, Josiah Harris)",716,"Opp Sub"," ","Mountaineers",9,10,"Opp","vsWVU",30
+1,"11:56","Isaac McKneely makes regular free throw 1 of 2",716,"Made FT","makes","Isaac McKneely",10,10,"Opp","vsWVU",30
+1,"11:35","Isaac McKneely makes regular free throw 2 of 2",695,"Made FT","makes","Isaac McKneely",11,10,"Cavs","vsWVU",31
+1,"11:33","Josiah Harris misses three point jump shot",693,"Missed Three","misses","Josiah Harris",11,10,"Cavs","vsWVU",31
+1,"11:25","Mountaineers offensive rebound",685,"Off Rebound","offensive rebound","Mountaineers",11,10,"Cavs","vsWVU",31
+1,"11:23","Quinn Slazinski misses two point jump shot",683,"Missed Two","misses","Quinn Slazinski",11,10,"Cavs","vsWVU",31
+1,"10:56","Dante Harris defensive rebound",656,"Def Rebound","defensive rebound","Dante Harris",11,10,"Opp","vsWVU",32
+1,"10:24","Isaac McKneely makes three point jump shot (Leon Bond III assists)",624,"Made Three","makes","Isaac McKneely",14,10,"Cavs","vsWVU",33
+1,"10:22","Seth Wilson misses three point jump shot",622,"Missed Three","misses","Seth Wilson",14,10,"Cavs","vsWVU",33
+1,"10:03","Isaac McKneely defensive rebound",603,"Def Rebound","defensive rebound","Isaac McKneely",14,10,"Opp","vsWVU",34
+1,"10:01","Dante Harris misses three point jump shot",601,"Missed Three","misses","Dante Harris",14,10,"Opp","vsWVU",34
+1,"9:52","Patrick Suemnick defensive rebound",592,"Def Rebound","defensive rebound","Patrick Suemnick",14,10,"Cavs","vsWVU",35
+1,"9:52","Ryan Dunn shooting foul (Quinn Slazinski draws the foul)",592,"Foul","shooting foul","Ryan Dunn",14,10,"Cavs","vsWVU",35
+1,"9:52","Quinn Slazinski makes regular free throw 1 of 2",592,"Made FT","makes","Quinn Slazinski",14,11,"Cavs","vsWVU",35
+1,"9:52","Cavaliers lineup change (Dante Harris, Blake Buchanan, Ryan Dunn, Reece Beekman, Andrew Rohde)",592,"Cav Sub"," ","Cavaliers",14,11,"Cavs","vsWVU",35
+1,"9:52","Mountaineers lineup change (Kobe Johnson, Quinn Slazinski, Seth Wilson, Ofri Naveh, Patrick Suemnick)",592,"Opp Sub"," ","Mountaineers",14,11,"Cavs","vsWVU",35
+1,"9:52","Quinn Slazinski makes regular free throw 2 of 2",592,"Made FT","makes","Quinn Slazinski",14,12,"Opp","vsWVU",36
+1,"9:37","Mountaineers lineup change (Kobe Johnson, Ofri Naveh, Jesse Edwards, Seth Wilson, Patrick Suemnick)",577,"Opp Sub"," ","Mountaineers",14,12,"Opp","vsWVU",36
+1,"9:16","Reece Beekman turnover (bad pass)",556,"Turnover","turnover","Reece Beekman",14,12,"Cavs","vsWVU",37
+1,"9:14","Ofri Naveh misses two point jump shot",554,"Missed Two","misses","Ofri Naveh",14,12,"Cavs","vsWVU",37
+1,"9:11","Ryan Dunn defensive rebound",551,"Def Rebound","defensive rebound","Ryan Dunn",14,12,"Opp","vsWVU",38
+1,"9:05","Ryan Dunn turnover (Ofri Naveh steals)",545,"Turnover","turnover","Ryan Dunn",14,12,"Cavs","vsWVU",39
+1,"9:03","Ofri Naveh misses two point layup",543,"Missed Two","misses","Ofri Naveh",14,12,"Cavs","vsWVU",39
+1,"9:00","Reece Beekman defensive rebound",540,"Def Rebound","defensive rebound","Reece Beekman",14,12,"Opp","vsWVU",40
+1,"8:58","Blake Buchanan misses two point jump shot",538,"Missed Two","misses","Blake Buchanan",14,12,"Opp","vsWVU",40
+1,"8:29","Ofri Naveh defensive rebound",509,"Def Rebound","defensive rebound","Ofri Naveh",14,12,"Cavs","vsWVU",41
+1,"8:27","Seth Wilson misses three point jump shot",507,"Missed Three","misses","Seth Wilson",14,12,"Cavs","vsWVU",41
+1,"8:26","Ryan Dunn defensive rebound",506,"Def Rebound","defensive rebound","Ryan Dunn",14,12,"Opp","vsWVU",42
+1,"8:12","Patrick Suemnick personal foul (Ryan Dunn draws the foul)",492,"Foul","personal foul","Patrick Suemnick",14,12,"Opp","vsWVU",42
+1,"8:10","Jesse Edwards blocks Blake Buchanan's two point layup",490,"Block","block","Jesse Edwards",14,12,"Opp","vsWVU",42
+1,"7:50","Jesse Edwards defensive rebound",470,"Def Rebound","defensive rebound","Jesse Edwards",14,12,"Cavs","vsWVU",43
+1,"7:48","Ryan Dunn blocks Seth Wilson's two point jump shot",468,"Block","block","Ryan Dunn",14,12,"Cavs","vsWVU",43
+1,"7:46","Seth Wilson offensive rebound",466,"Off Rebound","offensive rebound","Seth Wilson",14,12,"Cavs","vsWVU",43
+1,"7:46","TV timeout",466,""," ","TV",14,12,"Cavs","vsWVU",43
+1,"7:46","Cavaliers lineup change (Blake Buchanan, Isaac McKneely, Reece Beekman, Andrew Rohde, Ryan Dunn)",466,"Cav Sub"," ","Cavaliers",14,12,"Cavs","vsWVU",43
+1,"7:40","Mountaineers lineup change (Josiah Harris, Jesse Edwards, Ofri Naveh, Seth Wilson, Patrick Suemnick)",460,"Opp Sub"," ","Mountaineers",14,12,"Cavs","vsWVU",43
+1,"7:38","Seth Wilson misses two point layup",458,"Missed Two","misses","Seth Wilson",14,12,"Cavs","vsWVU",43
+1,"7:23","Jesse Edwards offensive rebound",443,"Off Rebound","offensive rebound","Jesse Edwards",14,12,"Cavs","vsWVU",43
+1,"7:23","Jesse Edwards makes two point jump shot",443,"Made Two","makes","Jesse Edwards",14,14,"Cavs","vsWVU",43
+1,"7:23","Blake Buchanan shooting foul (Jesse Edwards draws the foul)",443,"Foul","shooting foul","Blake Buchanan",14,14,"Cavs","vsWVU",43
+1,"7:23","Cavaliers lineup change (Jacob Groves, Reece Beekman, Andrew Rohde, Isaac McKneely, Ryan Dunn)",443,"Cav Sub"," ","Cavaliers",14,14,"Cavs","vsWVU",43
+1,"7:08","Jesse Edwards makes regular free throw 1 of 1",428,"Made FT","makes","Jesse Edwards",14,15,"Opp","vsWVU",44
+1,"7:06","Andrew Rohde misses two point layup",426,"Missed Two","misses","Andrew Rohde",14,15,"Opp","vsWVU",44
+1,"7:02","Seth Wilson defensive rebound",422,"Def Rebound","defensive rebound","Seth Wilson",14,15,"Cavs","vsWVU",45
+1,"6:57","Seth Wilson turnover (lost ball) (Ryan Dunn steals)",417,"Turnover","turnover","Seth Wilson",14,15,"Opp","vsWVU",46
+1,"6:33","Ryan Dunn makes two point layup",393,"Made Two","makes","Ryan Dunn",16,15,"Cavs","vsWVU",47
+1,"6:31","Patrick Suemnick misses two point hook shot",391,"Missed Two","misses","Patrick Suemnick",16,15,"Cavs","vsWVU",47
+1,"6:27","Patrick Suemnick offensive rebound",387,"Off Rebound","offensive rebound","Patrick Suemnick",16,15,"Cavs","vsWVU",47
+1,"6:08","Patrick Suemnick makes two point jump shot",368,"Made Two","makes","Patrick Suemnick",16,17,"Opp","vsWVU",48
+1,"5:43","Jacob Groves makes two point jump shot",343,"Made Two","makes","Jacob Groves",18,17,"Cavs","vsWVU",49
+1,"5:29","Jesse Edwards turnover (bad pass) (Reece Beekman steals)",329,"Turnover","turnover","Jesse Edwards",18,17,"Opp","vsWVU",50
+1,"5:29","Patrick Suemnick shooting foul (Andrew Rohde draws the foul)",329,"Foul","shooting foul","Patrick Suemnick",18,17,"Opp","vsWVU",50
+1,"5:29","Andrew Rohde misses regular free throw 1 of 2",329,"Missed FT","misses","Andrew Rohde",18,17,"Opp","vsWVU",50
+1,"5:29","Cavaliers lineup change (Reece Beekman, Andrew Rohde, Isaac McKneely, Leon Bond III, Jacob Groves)",329,"Cav Sub"," ","Cavaliers",18,17,"Opp","vsWVU",50
+1,"5:29","Mountaineers lineup change (Jesse Edwards, Kobe Johnson, Seth Wilson, Josiah Harris, Quinn Slazinski)",329,"Opp Sub"," ","Mountaineers",18,17,"Opp","vsWVU",50
+1,"5:29","Andrew Rohde makes regular free throw 2 of 2",329,"Made FT","makes","Andrew Rohde",19,17,"Cavs","vsWVU",51
+1,"5:00","Cavaliers lineup change (Reece Beekman, Taine Murray, Isaac McKneely, Jacob Groves, Leon Bond III)",300,"Cav Sub"," ","Cavaliers",19,17,"Cavs","vsWVU",51
+1,"4:43","Jesse Edwards turnover (lost ball)",283,"Turnover","turnover","Jesse Edwards",19,17,"Opp","vsWVU",52
+1,"4:41","Leon Bond III misses three point jump shot",281,"Missed Three","misses","Leon Bond III",19,17,"Opp","vsWVU",52
+1,"4:22","Quinn Slazinski defensive rebound",262,"Def Rebound","defensive rebound","Quinn Slazinski",19,17,"Cavs","vsWVU",53
+1,"4:20","Josiah Harris misses three point jump shot",260,"Missed Three","misses","Josiah Harris",19,17,"Cavs","vsWVU",53
+1,"4:12","Jesse Edwards offensive rebound",252,"Off Rebound","offensive rebound","Jesse Edwards",19,17,"Cavs","vsWVU",53
+1,"4:10","Seth Wilson misses three point jump shot",250,"Missed Three","misses","Seth Wilson",19,17,"Cavs","vsWVU",53
+1,"3:42","Reece Beekman defensive rebound",222,"Def Rebound","defensive rebound","Reece Beekman",19,17,"Opp","vsWVU",54
+1,"3:40","Leon Bond III misses two point jump shot",220,"Missed Two","misses","Leon Bond III",19,17,"Opp","vsWVU",54
+1,"3:35","Jesse Edwards defensive rebound",215,"Def Rebound","defensive rebound","Jesse Edwards",19,17,"Cavs","vsWVU",55
+1,"3:15","Quinn Slazinski makes two point jump shot",195,"Made Two","makes","Quinn Slazinski",19,19,"Opp","vsWVU",56
+1,"2:59","Reece Beekman makes two point jump shot",179,"Made Two","makes","Reece Beekman",21,19,"Cavs","vsWVU",57
+1,"2:47","Jesse Edwards makes two point jump shot",167,"Made Two","makes","Jesse Edwards",21,21,"Opp","vsWVU",58
+1,"2:45","Jacob Groves misses three point jump shot",165,"Missed Three","misses","Jacob Groves",21,21,"Opp","vsWVU",58
+1,"2:34","Quinn Slazinski defensive rebound",154,"Def Rebound","defensive rebound","Quinn Slazinski",21,21,"Cavs","vsWVU",59
+1,"2:13","Quinn Slazinski makes two point jump shot",133,"Made Two","makes","Quinn Slazinski",21,23,"Opp","vsWVU",60
+1,"2:11","Jacob Groves misses two point layup",131,"Missed Two","misses","Jacob Groves",21,23,"Opp","vsWVU",60
+1,"2:11","Leon Bond III offensive rebound",131,"Off Rebound","offensive rebound","Leon Bond III",21,23,"Opp","vsWVU",60
+1,"2:11","Leon Bond III turnover (offensive goaltending)",131,"Turnover","turnover","Leon Bond III",21,23,"Cavs","vsWVU",61
+1,"2:11","TV timeout",131,""," ","TV",21,23,"Cavs","vsWVU",61
+1,"2:00","Cavaliers lineup change (Reece Beekman, Taine Murray, Isaac McKneely, Ryan Dunn, Leon Bond III)",120,"Cav Sub"," ","Cavaliers",21,23,"Cavs","vsWVU",61
+1,"1:37","Kobe Johnson turnover (bad pass) (Ryan Dunn steals)",97,"Turnover","turnover","Kobe Johnson",21,23,"Opp","vsWVU",62
+1,"1:16","Isaac McKneely makes three point jump shot (Leon Bond III assists)",76,"Made Three","makes","Isaac McKneely",24,23,"Cavs","vsWVU",63
+1,"1:14","Quinn Slazinski misses three point jump shot",74,"Missed Three","misses","Quinn Slazinski",24,23,"Cavs","vsWVU",63
+1,"1:10","Jesse Edwards offensive rebound",70,"Off Rebound","offensive rebound","Jesse Edwards",24,23,"Cavs","vsWVU",63
+1,"0:48","Jesse Edwards turnover (lost ball) (Isaac McKneely steals)",48,"Turnover","turnover","Jesse Edwards",24,23,"Opp","vsWVU",64
+1,"0:46","Isaac McKneely misses three point jump shot",46,"Missed Three","misses","Isaac McKneely",24,23,"Opp","vsWVU",64
+1,"0:41","Leon Bond III offensive rebound",41,"Off Rebound","offensive rebound","Leon Bond III",24,23,"Opp","vsWVU",64
+1,"0:35","Leon Bond III makes two point layup",35,"Made Two","makes","Leon Bond III",26,23,"Cavs","vsWVU",65
+1,"0:18","Mountaineers 30 second timeout",18,"Timeout","second timeout","Mountaineers 30",26,23,"Cavs","vsWVU",65
+1,"0:16","Quinn Slazinski misses two point jump shot",16,"Missed Two","misses","Quinn Slazinski",26,23,"Cavs","vsWVU",65
+1,"0:04","Leon Bond III defensive rebound",4,"Def Rebound","defensive rebound","Leon Bond III",26,23,"Opp","vsWVU",66
+1,"0:02","Ryan Dunn misses three point jump shot",2,"Missed Three","misses","Ryan Dunn",26,23,"Opp","vsWVU",66
+2,"20:00","2ND HALF",1200,""," ","2ND",26,23,"Opp","vsWVU",66
+2,"20:00","Cavaliers lineup change (Reece Beekman, Blake Buchanan, Isaac McKneely, Ryan Dunn, Andrew Rohde)",1200,"Cav Sub"," ","Cavaliers",26,23,"Opp","vsWVU",66
+2,"20:00","Mountaineers lineup change (Kobe Johnson, Jesse Edwards, Quinn Slazinski, Ofri Naveh, Josiah Harris)",1200,"Opp Sub"," ","Mountaineers",26,23,"Opp","vsWVU",66
+2,"19:44","Open inbound Cavaliers",1184,""," ","Open",26,23,"Cavs","vsWVU",67
+2,"19:42","Isaac McKneely misses two point jump shot",1182,"Missed Two","misses","Isaac McKneely",26,23,"Cavs","vsWVU",67
+2,"19:20","Jesse Edwards defensive rebound",1160,"Def Rebound","defensive rebound","Jesse Edwards",26,23,"Opp","vsWVU",68
+2,"18:54","Jesse Edwards makes two point layup (Kobe Johnson assists)",1134,"Made Two","makes","Jesse Edwards",26,25,"Cavs","vsWVU",69
+2,"18:52","Ryan Dunn misses two point layup",1132,"Missed Two","misses","Ryan Dunn",26,25,"Cavs","vsWVU",69
+2,"18:51","Ryan Dunn offensive rebound",1131,"Off Rebound","offensive rebound","Ryan Dunn",26,25,"Cavs","vsWVU",69
+2,"18:51","Jesse Edwards shooting foul (Ryan Dunn draws the foul)",1131,"Foul","shooting foul","Jesse Edwards",26,25,"Cavs","vsWVU",69
+2,"18:51","Ryan Dunn makes regular free throw 1 of 2",1131,"Made FT","makes","Ryan Dunn",27,25,"Cavs","vsWVU",69
+2,"18:51","Ryan Dunn misses regular free throw 2 of 2",1131,"Missed FT","misses","Ryan Dunn",27,25,"Cavs","vsWVU",69
+2,"18:43","Ofri Naveh defensive rebound",1123,"Def Rebound","defensive rebound","Ofri Naveh",27,25,"Opp","vsWVU",70
+2,"18:14","Kobe Johnson turnover (lost ball) (Reece Beekman steals)",1094,"Turnover","turnover","Kobe Johnson",27,25,"Cavs","vsWVU",71
+2,"17:53","Ryan Dunn makes two point layup",1073,"Made Two","makes","Ryan Dunn",29,25,"Opp","vsWVU",72
+2,"17:51","Quinn Slazinski misses two point jump shot",1071,"Missed Two","misses","Quinn Slazinski",29,25,"Opp","vsWVU",72
+2,"17:50","Blake Buchanan defensive rebound",1070,"Def Rebound","defensive rebound","Blake Buchanan",29,25,"Cavs","vsWVU",73
+2,"17:50","Jesse Edwards personal foul",1070,"Foul","personal foul","Jesse Edwards",29,25,"Cavs","vsWVU",73
+2,"17:39","Mountaineers lineup change (Kobe Johnson, Jesse Edwards, Ofri Naveh, Quinn Slazinski, Seth Wilson)",1059,"Opp Sub"," ","Mountaineers",29,25,"Cavs","vsWVU",73
+2,"17:39","Jesse Edwards shooting foul (Andrew Rohde draws the foul)",1059,"Foul","shooting foul","Jesse Edwards",29,25,"Cavs","vsWVU",73
+2,"17:39","Andrew Rohde misses regular free throw 1 of 2",1059,"Missed FT","misses","Andrew Rohde",29,25,"Cavs","vsWVU",73
+2,"17:39","Mountaineers lineup change (Kobe Johnson, Josiah Harris, Patrick Suemnick, Quinn Slazinski, Seth Wilson)",1059,"Opp Sub"," ","Mountaineers",29,25,"Cavs","vsWVU",73
+2,"17:09","Andrew Rohde makes regular free throw 2 of 2",1029,"Made FT","makes","Andrew Rohde",30,25,"Opp","vsWVU",74
+2,"16:47","Mountaineers turnover (shot clock violation)",1007,"Turnover","turnover","Mountaineers",30,25,"Cavs","vsWVU",75
+2,"16:47","Patrick Suemnick shooting foul (Blake Buchanan draws the foul)",1007,"Foul","shooting foul","Patrick Suemnick",30,25,"Cavs","vsWVU",75
+2,"16:47","Blake Buchanan makes regular free throw 1 of 2",1007,"Made FT","makes","Blake Buchanan",31,25,"Cavs","vsWVU",75
+2,"16:25","Blake Buchanan makes regular free throw 2 of 2",985,"Made FT","makes","Blake Buchanan",32,25,"Opp","vsWVU",76
+2,"16:23","Seth Wilson misses two point jump shot",983,"Missed Two","misses","Seth Wilson",32,25,"Opp","vsWVU",76
+2,"16:22","Patrick Suemnick offensive rebound",982,"Off Rebound","offensive rebound","Patrick Suemnick",32,25,"Opp","vsWVU",76
+2,"16:22","Ryan Dunn shooting foul (Patrick Suemnick draws the foul)",982,"Foul","shooting foul","Ryan Dunn",32,25,"Opp","vsWVU",76
+2,"16:22","Patrick Suemnick misses regular free throw 1 of 2",982,"Missed FT","misses","Patrick Suemnick",32,25,"Opp","vsWVU",76
+2,"16:22","Cavaliers lineup change (Blake Buchanan, Reece Beekman, Andrew Rohde, Isaac McKneely, Leon Bond III)",982,"Cav Sub"," ","Cavaliers",32,25,"Opp","vsWVU",76
+2,"16:08","Patrick Suemnick makes regular free throw 2 of 2",968,"Made FT","makes","Patrick Suemnick",32,26,"Cavs","vsWVU",77
+2,"16:08","Isaac McKneely turnover (bad pass)",968,"Turnover","turnover","Isaac McKneely",32,26,"Opp","vsWVU",78
+2,"15:47","Mountaineers lineup change (Ofri Naveh, Quinn Slazinski, Seth Wilson, Josiah Harris, Patrick Suemnick)",947,"Opp Sub"," ","Mountaineers",32,26,"Opp","vsWVU",78
+2,"15:45","Josiah Harris misses two point jump shot",945,"Missed Two","misses","Josiah Harris",32,26,"Opp","vsWVU",78
+2,"15:38","Ofri Naveh offensive rebound",938,"Off Rebound","offensive rebound","Ofri Naveh",32,26,"Opp","vsWVU",78
+2,"15:38","Mountaineers turnover (shot clock violation)",938,"Turnover","turnover","Mountaineers",32,26,"Cavs","vsWVU",79
+2,"15:38","TV timeout",938,""," ","TV",32,26,"Cavs","vsWVU",79
+2,"15:23","Mountaineers lineup change (Ofri Naveh, Quinn Slazinski, Seth Wilson, Josiah Harris, Jesse Edwards)",923,"Opp Sub"," ","Mountaineers",32,26,"Cavs","vsWVU",79
+2,"15:05","Andrew Rohde makes two point jump shot",905,"Made Two","makes","Andrew Rohde",34,26,"Opp","vsWVU",80
+2,"15:03","Quinn Slazinski misses three point jump shot",903,"Missed Three","misses","Quinn Slazinski",34,26,"Opp","vsWVU",80
+2,"14:47","Cavaliers defensive rebound",887,"Def Rebound","defensive rebound","Cavaliers",34,26,"Cavs","vsWVU",81
+2,"14:47","Blake Buchanan offensive foul (Ofri Naveh draws the foul)",887,""," ","Blake",34,26,"Cavs","vsWVU",81
+2,"14:47","Blake Buchanan turnover (offensive foul)",887,"Turnover","turnover","Blake Buchanan",34,26,"Opp","vsWVU",82
+2,"14:34","Cavaliers lineup change (Jacob Groves, Reece Beekman, Andrew Rohde, Isaac McKneely, Leon Bond III)",874,"Cav Sub"," ","Cavaliers",34,26,"Opp","vsWVU",82
+2,"14:32","Jesse Edwards misses two point jump shot",872,"Missed Two","misses","Jesse Edwards",34,26,"Opp","vsWVU",82
+2,"14:16","Isaac McKneely defensive rebound",856,"Def Rebound","defensive rebound","Isaac McKneely",34,26,"Cavs","vsWVU",83
+2,"14:14","Isaac McKneely misses two point jump shot",854,"Missed Two","misses","Isaac McKneely",34,26,"Cavs","vsWVU",83
+2,"13:46","Quinn Slazinski defensive rebound",826,"Def Rebound","defensive rebound","Quinn Slazinski",34,26,"Opp","vsWVU",84
+2,"13:44","Quinn Slazinski misses two point jump shot",824,"Missed Two","misses","Quinn Slazinski",34,26,"Opp","vsWVU",84
+2,"13:30","Andrew Rohde defensive rebound",810,"Def Rebound","defensive rebound","Andrew Rohde",34,26,"Cavs","vsWVU",85
+2,"13:28","Andrew Rohde misses three point jump shot",808,"Missed Three","misses","Andrew Rohde",34,26,"Cavs","vsWVU",85
+2,"13:20","Leon Bond III offensive rebound",800,"Off Rebound","offensive rebound","Leon Bond III",34,26,"Cavs","vsWVU",85
+2,"12:58","Andrew Rohde makes two point layup (Reece Beekman assists)",778,"Made Two","makes","Andrew Rohde",36,26,"Opp","vsWVU",86
+2,"12:41","Jesse Edwards makes two point dunk (Josiah Harris assists)",761,"Made Two","makes","Jesse Edwards",36,28,"Cavs","vsWVU",87
+2,"12:41","Mountaineers 30 second timeout",761,"Timeout","second timeout","Mountaineers 30",36,28,"Cavs","vsWVU",87
+2,"12:41","TV timeout",761,""," ","TV",36,28,"Cavs","vsWVU",87
+2,"12:41","Cavaliers lineup change (Dante Harris, Ryan Dunn, Isaac McKneely, Jacob Groves, Leon Bond III)",761,"Cav Sub"," ","Cavaliers",36,28,"Cavs","vsWVU",87
+2,"12:31","Mountaineers lineup change (Jesse Edwards, Ofri Naveh, Kobe Johnson, Seth Wilson, Josiah Harris)",751,"Opp Sub"," ","Mountaineers",36,28,"Cavs","vsWVU",87
+2,"12:29","Isaac McKneely misses three point jump shot",749,"Missed Three","misses","Isaac McKneely",36,28,"Cavs","vsWVU",87
+2,"12:06","Mountaineers defensive rebound",726,"Def Rebound","defensive rebound","Mountaineers",36,28,"Opp","vsWVU",88
+2,"12:04","Seth Wilson misses three point jump shot",724,"Missed Three","misses","Seth Wilson",36,28,"Opp","vsWVU",88
+2,"11:51","Dante Harris defensive rebound",711,"Def Rebound","defensive rebound","Dante Harris",36,28,"Cavs","vsWVU",89
+2,"11:49","Jesse Edwards blocks Isaac McKneely's two point jump shot",709,"Block","block","Jesse Edwards",36,28,"Cavs","vsWVU",89
+2,"11:30","Josiah Harris defensive rebound",690,"Def Rebound","defensive rebound","Josiah Harris",36,28,"Opp","vsWVU",90
+2,"11:23","Kobe Johnson makes three point jump shot (Josiah Harris assists)",683,"Made Three","makes","Kobe Johnson",36,31,"Cavs","vsWVU",91
+2,"10:58","Leon Bond III makes two point jump shot (Isaac McKneely assists)",658,"Made Two","makes","Leon Bond III",38,31,"Opp","vsWVU",92
+2,"10:58","Dante Harris personal foul (Seth Wilson draws the foul)",658,"Foul","personal foul","Dante Harris",38,31,"Opp","vsWVU",92
+2,"10:45","TV timeout",645,""," ","TV",38,31,"Opp","vsWVU",92
+2,"10:43","Kobe Johnson misses three point jump shot",643,"Missed Three","misses","Kobe Johnson",38,31,"Opp","vsWVU",92
+2,"10:39","Ofri Naveh offensive rebound",639,"Off Rebound","offensive rebound","Ofri Naveh",38,31,"Opp","vsWVU",92
+2,"10:24","Jesse Edwards makes two point dunk (Ofri Naveh assists)",624,"Made Two","makes","Jesse Edwards",38,33,"Cavs","vsWVU",93
+2,"10:22","Ryan Dunn makes two point layup (Isaac McKneely assists)",622,"Made Two","makes","Ryan Dunn",40,33,"Cavs","vsWVU",93
+2,"10:22","Jesse Edwards shooting foul (Ryan Dunn draws the foul)",622,"Foul","shooting foul","Jesse Edwards",40,33,"Cavs","vsWVU",93
+2,"10:22","Mountaineers lineup change (Kobe Johnson, Patrick Suemnick, Ofri Naveh, Seth Wilson, Josiah Harris)",622,"Opp Sub"," ","Mountaineers",40,33,"Cavs","vsWVU",93
+2,"10:22","Cavaliers lineup change (Dante Harris, Reece Beekman, Ryan Dunn, Jacob Groves, Leon Bond III)",622,"Cav Sub"," ","Cavaliers",40,33,"Cavs","vsWVU",93
+2,"10:22","Ryan Dunn misses regular free throw 1 of 1",622,"Missed FT","misses","Ryan Dunn",40,33,"Cavs","vsWVU",93
+2,"10:02","Seth Wilson defensive rebound",602,"Def Rebound","defensive rebound","Seth Wilson",40,33,"Opp","vsWVU",94
+2,"9:42","Seth Wilson makes three point jump shot (Ofri Naveh assists)",582,"Made Three","makes","Seth Wilson",40,36,"Cavs","vsWVU",95
+2,"9:40","Leon Bond III misses two point jump shot",580,"Missed Two","misses","Leon Bond III",40,36,"Cavs","vsWVU",95
+2,"9:32","Ofri Naveh defensive rebound",572,"Def Rebound","defensive rebound","Ofri Naveh",40,36,"Opp","vsWVU",96
+2,"9:30","Cavaliers lineup change (Andrew Rohde, Reece Beekman, Ryan Dunn, Jacob Groves, Leon Bond III)",570,"Cav Sub"," ","Cavaliers",40,36,"Opp","vsWVU",96
+2,"9:12","Seth Wilson makes three point jump shot (Kobe Johnson assists)",552,"Made Three","makes","Seth Wilson",40,39,"Cavs","vsWVU",97
+2,"9:10","Reece Beekman misses two point jump shot",550,"Missed Two","misses","Reece Beekman",40,39,"Cavs","vsWVU",97
+2,"9:08","Josiah Harris defensive rebound",548,"Def Rebound","defensive rebound","Josiah Harris",40,39,"Opp","vsWVU",98
+2,"8:47","Leon Bond III personal foul (Josiah Harris draws the foul)",527,"Foul","personal foul","Leon Bond III",40,39,"Opp","vsWVU",98
+2,"8:13","Kobe Johnson makes three point jump shot (Ofri Naveh assists)",493,"Made Three","makes","Kobe Johnson",40,42,"Cavs","vsWVU",99
+2,"8:06","Reece Beekman makes two point jump shot",486,"Made Two","makes","Reece Beekman",42,42,"Opp","vsWVU",100
+2,"8:06","Cavaliers 30 second timeout",486,"Timeout","second timeout","Cavaliers 30",42,42,"Opp","vsWVU",100
+2,"8:06","TV timeout",486,""," ","TV",42,42,"Opp","vsWVU",100
+2,"7:44","Cavaliers lineup change (Reece Beekman, Andrew Rohde, Ryan Dunn, Jacob Groves, Isaac McKneely)",464,"Cav Sub"," ","Cavaliers",42,42,"Opp","vsWVU",100
+2,"7:42","Josiah Harris misses three point jump shot",462,"Missed Three","misses","Josiah Harris",42,42,"Opp","vsWVU",100
+2,"7:42","Cavaliers defensive rebound",462,"Def Rebound","defensive rebound","Cavaliers",42,42,"Cavs","vsWVU",101
+2,"7:26","Mountaineers lineup change (Kobe Johnson, Ofri Naveh, Seth Wilson, Quinn Slazinski, Patrick Suemnick)",446,"Opp Sub"," ","Mountaineers",42,42,"Cavs","vsWVU",101
+2,"6:51","Jacob Groves makes three point jump shot (Reece Beekman assists)",411,"Made Three","makes","Jacob Groves",45,42,"Opp","vsWVU",102
+2,"6:39","Kobe Johnson turnover (lost ball) (Jacob Groves steals)",399,"Turnover","turnover","Kobe Johnson",45,42,"Cavs","vsWVU",103
+2,"6:39","Ofri Naveh personal foul (Isaac McKneely draws the foul)",399,"Foul","personal foul","Ofri Naveh",45,42,"Cavs","vsWVU",103
+2,"6:39","Isaac McKneely technical foul",399,""," ","Isaac",45,42,"Cavs","vsWVU",103
+2,"6:39","Isaac McKneely turnover",399,"Turnover","turnover","Isaac McKneely",45,42,"Opp","vsWVU",104
+2,"6:39","Quinn Slazinski technical foul",399,""," ","Quinn",45,42,"Opp","vsWVU",104
+2,"6:26","Quinn Slazinski turnover",386,"Turnover","turnover","Quinn Slazinski",45,42,"Cavs","vsWVU",105
+2,"6:24","Reece Beekman misses three point jump shot",384,"Missed Three","misses","Reece Beekman",45,42,"Cavs","vsWVU",105
+2,"6:10","Mountaineers defensive rebound",370,"Def Rebound","defensive rebound","Mountaineers",45,42,"Opp","vsWVU",106
+2,"5:50","Quinn Slazinski makes three point jump shot (Kobe Johnson assists)",350,"Made Three","makes","Quinn Slazinski",45,45,"Cavs","vsWVU",107
+2,"5:48","Jacob Groves misses three point jump shot",348,"Missed Three","misses","Jacob Groves",45,45,"Cavs","vsWVU",107
+2,"5:42","Kobe Johnson defensive rebound",342,"Def Rebound","defensive rebound","Kobe Johnson",45,45,"Opp","vsWVU",108
+2,"5:40","Seth Wilson misses three point jump shot",340,"Missed Three","misses","Seth Wilson",45,45,"Opp","vsWVU",108
+2,"5:27","Reece Beekman defensive rebound",327,"Def Rebound","defensive rebound","Reece Beekman",45,45,"Cavs","vsWVU",109
+2,"5:25","Ryan Dunn misses two point dunk",325,"Missed Two","misses","Ryan Dunn",45,45,"Cavs","vsWVU",109
+2,"5:25","Kobe Johnson defensive rebound",325,"Def Rebound","defensive rebound","Kobe Johnson",45,45,"Opp","vsWVU",110
+2,"5:25","Cavaliers lineup change (Reece Beekman, Andrew Rohde, Isaac McKneely, Ryan Dunn, Blake Buchanan)",325,"Cav Sub"," ","Cavaliers",45,45,"Opp","vsWVU",110
+2,"5:12","Mountaineers lineup change (Kobe Johnson, Ofri Naveh, Quinn Slazinski, Seth Wilson, Jesse Edwards)",312,"Opp Sub"," ","Mountaineers",45,45,"Opp","vsWVU",110
+2,"5:01","Blake Buchanan personal foul (Jesse Edwards draws the foul)",301,"Foul","personal foul","Blake Buchanan",45,45,"Opp","vsWVU",110
+2,"5:01","Mountaineers 30 second timeout",301,"Timeout","second timeout","Mountaineers 30",45,45,"Opp","vsWVU",110
+2,"4:55","Mountaineers lineup change (Kobe Johnson, Jesse Edwards, Josiah Harris, Quinn Slazinski, Seth Wilson)",295,"Opp Sub"," ","Mountaineers",45,45,"Opp","vsWVU",110
+2,"4:53","Quinn Slazinski misses three point jump shot",293,"Missed Three","misses","Quinn Slazinski",45,45,"Opp","vsWVU",110
+2,"4:36","Blake Buchanan defensive rebound",276,"Def Rebound","defensive rebound","Blake Buchanan",45,45,"Cavs","vsWVU",111
+2,"4:30","Reece Beekman turnover (bad pass) (Kobe Johnson steals)",270,"Turnover","turnover","Reece Beekman",45,45,"Opp","vsWVU",112
+2,"4:16","Kobe Johnson makes two point layup",256,"Made Two","makes","Kobe Johnson",45,47,"Cavs","vsWVU",113
+2,"4:14","Reece Beekman misses two point jump shot",254,"Missed Two","misses","Reece Beekman",45,47,"Cavs","vsWVU",113
+2,"3:54","Kobe Johnson defensive rebound",234,"Def Rebound","defensive rebound","Kobe Johnson",45,47,"Opp","vsWVU",114
+2,"3:52","Jesse Edwards misses two point jump shot",232,"Missed Two","misses","Jesse Edwards",45,47,"Opp","vsWVU",114
+2,"3:36","Reece Beekman defensive rebound",216,"Def Rebound","defensive rebound","Reece Beekman",45,47,"Cavs","vsWVU",115
+2,"3:36","Ryan Dunn makes two point layup (Andrew Rohde assists)",216,"Made Two","makes","Ryan Dunn",47,47,"Cavs","vsWVU",115
+2,"3:36","Quinn Slazinski shooting foul (Ryan Dunn draws the foul)",216,"Foul","shooting foul","Quinn Slazinski",47,47,"Cavs","vsWVU",115
+2,"3:36","TV timeout",216,""," ","TV",47,47,"Cavs","vsWVU",115
+2,"3:36","Mountaineers lineup change (Kobe Johnson, Jesse Edwards, Quinn Slazinski, Seth Wilson, Ofri Naveh)",216,"Opp Sub"," ","Mountaineers",47,47,"Cavs","vsWVU",115
+2,"3:22","Ryan Dunn makes regular free throw 1 of 1",202,"Made FT","makes","Ryan Dunn",48,47,"Opp","vsWVU",116
+2,"3:20","Jesse Edwards misses two point jump shot",200,"Missed Two","misses","Jesse Edwards",48,47,"Opp","vsWVU",116
+2,"2:44","Ryan Dunn defensive rebound",164,"Def Rebound","defensive rebound","Ryan Dunn",48,47,"Cavs","vsWVU",117
+2,"2:27","Reece Beekman makes two point jump shot",147,"Made Two","makes","Reece Beekman",50,47,"Opp","vsWVU",118
+2,"2:27","Blake Buchanan personal foul (Jesse Edwards draws the foul)",147,"Foul","personal foul","Blake Buchanan",50,47,"Opp","vsWVU",118
+2,"2:27","Cavaliers lineup change (Jacob Groves, Reece Beekman, Andrew Rohde, Isaac McKneely, Ryan Dunn)",147,"Cav Sub"," ","Cavaliers",50,47,"Opp","vsWVU",118
+2,"2:27","Jesse Edwards makes regular free throw 1 of 2",147,"Made FT","makes","Jesse Edwards",50,48,"Opp","vsWVU",118
+2,"2:03","Jesse Edwards misses regular free throw 2 of 2",123,"Missed FT","misses","Jesse Edwards",50,48,"Opp","vsWVU",118
+2,"2:03","Ofri Naveh offensive rebound",123,"Off Rebound","offensive rebound","Ofri Naveh",50,48,"Opp","vsWVU",118
+2,"2:03","Ofri Naveh turnover",123,"Turnover","turnover","Ofri Naveh",50,48,"Cavs","vsWVU",119
+2,"2:01","Isaac McKneely misses three point jump shot",121,"Missed Three","misses","Isaac McKneely",50,48,"Cavs","vsWVU",119
+2,"1:54","Quinn Slazinski defensive rebound",114,"Def Rebound","defensive rebound","Quinn Slazinski",50,48,"Opp","vsWVU",120
+2,"1:54","Seth Wilson makes three point jump shot (Kobe Johnson assists)",114,"Made Three","makes","Seth Wilson",50,51,"Cavs","vsWVU",121
+2,"1:31","Cavaliers lineup change (Reece Beekman, Andrew Rohde, Isaac McKneely, Leon Bond III, Jacob Groves)",91,"Cav Sub"," ","Cavaliers",50,51,"Cavs","vsWVU",121
+2,"1:13","Reece Beekman makes two point layup",73,"Made Two","makes","Reece Beekman",52,51,"Opp","vsWVU",122
+2,"1:13","Jacob Groves personal foul (Jesse Edwards draws the foul)",73,"Foul","personal foul","Jacob Groves",52,51,"Opp","vsWVU",122
+2,"1:13","Cavaliers lineup change (Reece Beekman, Andrew Rohde, Isaac McKneely, Ryan Dunn, Leon Bond III)",73,"Cav Sub"," ","Cavaliers",52,51,"Opp","vsWVU",122
+2,"1:13","Jesse Edwards misses regular free throw 1 of 1",73,"Missed FT","misses","Jesse Edwards",52,51,"Opp","vsWVU",122
+2,"0:46","Leon Bond III defensive rebound",46,"Def Rebound","defensive rebound","Leon Bond III",52,51,"Cavs","vsWVU",123
+2,"0:36","Ryan Dunn makes two point layup",36,"Made Two","makes","Ryan Dunn",54,51,"Opp","vsWVU",124
+2,"0:36","Ryan Dunn shooting foul (Quinn Slazinski draws the foul)",36,"Foul","shooting foul","Ryan Dunn",54,51,"Opp","vsWVU",124
+2,"0:36","Quinn Slazinski makes regular free throw 1 of 3",36,"Made FT","makes","Quinn Slazinski",54,52,"Opp","vsWVU",124
+2,"0:36","Quinn Slazinski makes regular free throw 2 of 3",36,"Made FT","makes","Quinn Slazinski",54,53,"Opp","vsWVU",124
+2,"0:36","Cavaliers 30 second timeout",36,"Timeout","second timeout","Cavaliers 30",54,53,"Opp","vsWVU",124
+2,"0:12","Quinn Slazinski makes regular free throw 3 of 3",12,"Made FT","makes","Quinn Slazinski",54,54,"Cavs","vsWVU",125
+2,"0:10","Ryan Dunn misses three point jump shot",10,"Missed Three","misses","Ryan Dunn",54,54,"Cavs","vsWVU",125
+2,"0:02","Leon Bond III offensive rebound",2,"Off Rebound","offensive rebound","Leon Bond III",54,54,"Cavs","vsWVU",125
+2,"0:02","Quinn Slazinski shooting foul (Reece Beekman draws the foul)",2,"Foul","shooting foul","Quinn Slazinski",54,54,"Cavs","vsWVU",125
+2,"0:02","Reece Beekman makes regular free throw 1 of 2",2,"Made FT","makes","Reece Beekman",55,54,"Cavs","vsWVU",125
+2,"0:02","Mountaineers 60 second timeout",2,"Timeout","second timeout","Mountaineers 60",55,54,"Cavs","vsWVU",125
+2,"0:02","Reece Beekman misses regular free throw 2 of 2",2,"Missed FT","misses","Reece Beekman",55,54,"Cavs","vsWVU",125
+2,"0:01","Ryan Dunn offensive rebound",1,"Off Rebound","offensive rebound","Ryan Dunn",55,54,"Cavs","vsWVU",125
+2,"0:01","Ofri Naveh personal foul (Ryan Dunn draws the foul)",1,"Foul","personal foul","Ofri Naveh",55,54,"Cavs","vsWVU",125
+2,"0:01","Ryan Dunn makes regular free throw 1 of 2",1,"Made FT","makes","Ryan Dunn",56,54,"Cavs","vsWVU",125
+2,"0:01","Ryan Dunn misses regular free throw 2 of 2",1,"Missed FT","misses","Ryan Dunn",56,54,"Cavs","vsWVU",125
+2,"0:00","Josiah Harris defensive rebound",0,"Def Rebound","defensive rebound","Josiah Harris",56,54,"Opp","vsWVU",126
+2,"0:00","Ofri Naveh defensive rebound",0,"Def Rebound","defensive rebound","Ofri Naveh",56,54,"Cavs","vsWVU",127
