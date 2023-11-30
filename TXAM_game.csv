@@ -1,0 +1,310 @@
+"Half","Time","Description","Time_in_sec","Event","Token","Player","UVA_score","Opp_score","Possession","Opps","Possession Number"
+1,"20:00","1ST HALF",1200,""," ","1ST",0,0,"Cavs","vsTXAM",1
+1,"20:00","Cavaliers lineup change (Isaac McKneely,Reece Beekman,Andrew Rohde,Ryan Dunn,Jacob Groves)",1200,"Cav Sub"," ","Cavaliers",0,0,"","vsTXAM",2
+1,"19:39","Henry Coleman III vs. Jacob Groves (Cavaliers gains possession)",1179,""," ","Henry",0,0,"Cavs","vsTXAM",3
+1,"19:24","Jacob Groves makes two point jump shot (Isaac McKneely assists)",1164,"Made Two","makes","Jacob Groves",2,0,"Opp","vsTXAM",4
+1,"19:22","Wade Taylor IV misses three point jump shot",1162,"Missed Three","misses","Wade Taylor IV",2,0,"Opp","vsTXAM",4
+1,"19:19","Henry Coleman III offensive rebound",1159,"Off Rebound","offensive rebound","Henry Coleman III",2,0,"Opp","vsTXAM",4
+1,"19:04","Henry Coleman III makes two point layup",1144,"Made Two","makes","Henry Coleman III",2,2,"Cavs","vsTXAM",5
+1,"19:02","Andrew Rohde misses two point layup",1142,"Missed Two","misses","Andrew Rohde",2,2,"Cavs","vsTXAM",5
+1,"18:42","Wade Taylor IV defensive rebound",1122,"Def Rebound","defensive rebound","Wade Taylor IV",2,2,"Opp","vsTXAM",6
+1,"18:16","Hayden Hefner turnover (out of bounds)",1096,"Turnover","turnover","Hayden Hefner",2,2,"Cavs","vsTXAM",7
+1,"17:59","Isaac McKneely makes three point jump shot (Reece Beekman assists)",1079,"Made Three","makes","Isaac McKneely",5,2,"Opp","vsTXAM",8
+1,"17:57","Hayden Hefner misses three point jump shot",1077,"Missed Three","misses","Hayden Hefner",5,2,"Opp","vsTXAM",8
+1,"17:56","Reece Beekman defensive rebound",1076,"Def Rebound","defensive rebound","Reece Beekman",5,2,"Cavs","vsTXAM",9
+1,"17:28","Isaac McKneely makes three point jump shot (Reece Beekman assists)",1048,"Made Three","makes","Isaac McKneely",8,2,"Opp","vsTXAM",10
+1,"17:26","Henry Coleman III misses two point jump shot",1046,"Missed Two","misses","Henry Coleman III",8,2,"Opp","vsTXAM",10
+1,"17:16","Ryan Dunn defensive rebound",1036,"Def Rebound","defensive rebound","Ryan Dunn",8,2,"Cavs","vsTXAM",11
+1,"17:14","Isaac McKneely misses two point jump shot",1034,"Missed Two","misses","Isaac McKneely",8,2,"Cavs","vsTXAM",11
+1,"17:04","Henry Coleman III defensive rebound",1024,"Def Rebound","defensive rebound","Henry Coleman III",8,2,"Opp","vsTXAM",12
+1,"17:02","Jace Carter misses three point jump shot",1022,"Missed Three","misses","Jace Carter",8,2,"Opp","vsTXAM",12
+1,"16:59","Henry Coleman III offensive rebound",1019,"Off Rebound","offensive rebound","Henry Coleman III",8,2,"Opp","vsTXAM",12
+1,"16:57","Henry Coleman III misses two point layup",1017,"Missed Two","misses","Henry Coleman III",8,2,"Opp","vsTXAM",12
+1,"16:42","Wildens Leveque offensive rebound",1002,"Off Rebound","offensive rebound","Wildens Leveque",8,2,"Opp","vsTXAM",12
+1,"16:29","Aggies lineup change (Jace Carter, Hayden Hefner, Wade Taylor IV, Andersson Garcia, Henry Coleman III)",989,"Opp Sub"," ","Aggies",8,2,"Opp","vsTXAM",12
+1,"15:55","Jace Carter makes two point layup (Andersson Garcia assists)",955,"Made Two","makes","Jace Carter",8,4,"Cavs","vsTXAM",13
+1,"15:53","Andrew Rohde misses three point jump shot",953,"Missed Three","misses","Andrew Rohde",8,4,"Cavs","vsTXAM",13
+1,"15:53","Aggies defensive rebound",953,"Def Rebound","defensive rebound","Aggies",8,4,"Opp","vsTXAM",14
+1,"15:41","TV timeout",941,""," ","TV",8,4,"Opp","vsTXAM",14
+1,"15:32","Jump ball. Hayden Hefner vs. Andrew Rohde (Aggies gains possession)",932,"Jump Ball"," ","Jump",8,4,"Opp","vsTXAM",14
+1,"15:30","Hayden Hefner misses two point layup",930,"Missed Two","misses","Hayden Hefner",8,4,"Opp","vsTXAM",14
+1,"15:15","Andrew Rohde defensive rebound",915,"Def Rebound","defensive rebound","Andrew Rohde",8,4,"Cavs","vsTXAM",15
+1,"15:13","Ryan Dunn misses two point layup",913,"Missed Two","misses","Ryan Dunn",8,4,"Cavs","vsTXAM",15
+1,"14:58","Jace Carter defensive rebound",898,"Def Rebound","defensive rebound","Jace Carter",8,4,"Opp","vsTXAM",16
+1,"14:36","Jace Carter makes two point layup",876,"Made Two","makes","Jace Carter",8,6,"Cavs","vsTXAM",17
+1,"14:11","Ryan Dunn makes three point jump shot (Andrew Rohde assists)",851,"Made Three","makes","Ryan Dunn",11,6,"Opp","vsTXAM",18
+1,"13:45","Wade Taylor IV makes three point jump shot",825,"Made Three","makes","Wade Taylor IV",11,9,"Cavs","vsTXAM",19
+1,"13:29","Ryan Dunn makes two point dunk (Jacob Groves assists)",809,"Made Two","makes","Ryan Dunn",13,9,"Opp","vsTXAM",20
+1,"13:29","Aggies lineup change (Jace Carter, Solomon Washington, Wade Taylor IV, Andersson Garcia, Eli Lawrence)",809,"Opp Sub"," ","Aggies",13,9,"Opp","vsTXAM",20
+1,"13:16","Cavaliers lineup change (Leon Bond III, Andrew Rohde, Isaac McKneely, Ryan Dunn, Jacob Groves)",796,"Cav Sub"," ","Cavaliers",13,9,"Opp","vsTXAM",20
+1,"12:51","Solomon Washington makes two point layup",771,"Made Two","makes","Solomon Washington",13,11,"Cavs","vsTXAM",21
+1,"12:32","Isaac McKneely makes two point jump shot",752,"Made Two","makes","Isaac McKneely",15,11,"Opp","vsTXAM",22
+1,"12:12","Eli Lawrence turnover (lost ball) (Leon Bond III steals)",732,"Turnover","turnover","Eli Lawrence",15,11,"Cavs","vsTXAM",23
+1,"12:10","Isaac McKneely misses three point jump shot",730,"Missed Three","misses","Isaac McKneely",15,11,"Cavs","vsTXAM",23
+1,"12:01","Andersson Garcia defensive rebound",721,"Def Rebound","defensive rebound","Andersson Garcia",15,11,"Opp","vsTXAM",24
+1,"11:59","Eli Lawrence misses three point jump shot",719,"Missed Three","misses","Eli Lawrence",15,11,"Opp","vsTXAM",24
+1,"11:47","Ryan Dunn defensive rebound",707,"Def Rebound","defensive rebound","Ryan Dunn",15,11,"Cavs","vsTXAM",25
+1,"11:47","TV timeout",707,""," ","TV",15,11,"Cavs","vsTXAM",25
+1,"11:47","Aggies lineup change (Manny Obaseki, Hayden Hefner, Eli Lawrence, Andersson Garcia, Solomon Washington)",707,"Opp Sub"," ","Aggies",15,11,"Cavs","vsTXAM",25
+1,"11:38","Cavaliers lineup change (Andrew Rohde, Elijah Gertrude, Reece Beekman, Blake Buchanan, Leon Bond III)",698,"Cav Sub"," ","Cavaliers",15,11,"Cavs","vsTXAM",25
+1,"11:22","Andrew Rohde makes three point jump shot (Reece Beekman assists)",682,"Made Three","makes","Andrew Rohde",18,11,"Opp","vsTXAM",26
+1,"11:20","Solomon Washington misses three point jump shot",680,"Missed Three","misses","Solomon Washington",18,11,"Opp","vsTXAM",26
+1,"10:57","Elijah Gertrude defensive rebound",657,"Def Rebound","defensive rebound","Elijah Gertrude",18,11,"Cavs","vsTXAM",27
+1,"10:55","Leon Bond III misses two point jump shot",655,"Missed Two","misses","Leon Bond III",18,11,"Cavs","vsTXAM",27
+1,"10:37","Eli Lawrence defensive rebound",637,"Def Rebound","defensive rebound","Eli Lawrence",18,11,"Opp","vsTXAM",28
+1,"10:27","Manny Obaseki turnover (lost ball) (Reece Beekman steals)",627,"Turnover","turnover","Manny Obaseki",18,11,"Cavs","vsTXAM",29
+1,"10:25","Andrew Rohde misses two point jump shot",625,"Missed Two","misses","Andrew Rohde",18,11,"Cavs","vsTXAM",29
+1,"10:25","Blake Buchanan offensive rebound",625,"Off Rebound","offensive rebound","Blake Buchanan",18,11,"Cavs","vsTXAM",29
+1,"10:25","Manny Obaseki personal foul",625,"Foul","personal foul","Manny Obaseki",18,11,"Cavs","vsTXAM",29
+1,"10:25","Aggies lineup change (Hayden Hefner, Henry Coleman III, Andersson Garcia, Jace Carter, Wade Taylor IV)",625,"Opp Sub"," ","Aggies",18,11,"Cavs","vsTXAM",29
+1,"10:09","Cavaliers lineup change (Blake Buchanan, Reece Beekman, Isaac McKneely, Elijah Gertrude, Leon Bond III)",609,"Cav Sub"," ","Cavaliers",18,11,"Cavs","vsTXAM",29
+1,"10:07","Reece Beekman misses two point jump shot",607,"Missed Two","misses","Reece Beekman",18,11,"Cavs","vsTXAM",29
+1,"10:00","Wade Taylor IV defensive rebound",600,"Def Rebound","defensive rebound","Wade Taylor IV",18,11,"Opp","vsTXAM",30
+1,"10:00","Blake Buchanan personal foul",600,"Foul","personal foul","Blake Buchanan",18,11,"Opp","vsTXAM",30
+1,"9:38","Cavaliers lineup change (Blake Buchanan, Reece Beekman, Isaac McKneely, Elijah Gertrude, Ryan Dunn)",578,"Cav Sub"," ","Cavaliers",18,11,"Opp","vsTXAM",30
+1,"9:15","Henry Coleman III makes two point jump shot (Hayden Hefner assists)",555,"Made Two","makes","Henry Coleman III",18,13,"Cavs","vsTXAM",31
+1,"9:03","Blake Buchanan turnover (lost ball) (Andersson Garcia steals)",543,"Turnover","turnover","Blake Buchanan",18,13,"Opp","vsTXAM",32
+1,"8:58","Wade Taylor IV turnover (bad pass) (Blake Buchanan steals)",538,"Turnover","turnover","Wade Taylor IV",18,13,"Cavs","vsTXAM",33
+1,"8:43","Blake Buchanan turnover (bad pass) (Henry Coleman III steals)",523,"Turnover","turnover","Blake Buchanan",18,13,"Opp","vsTXAM",34
+1,"8:41","Hayden Hefner misses three point jump shot",521,"Missed Three","misses","Hayden Hefner",18,13,"Opp","vsTXAM",34
+1,"8:19","Ryan Dunn defensive rebound",499,"Def Rebound","defensive rebound","Ryan Dunn",18,13,"Cavs","vsTXAM",35
+1,"7:57","Reece Beekman makes two point layup",477,"Made Two","makes","Reece Beekman",20,13,"Opp","vsTXAM",36
+1,"7:53","Henry Coleman III makes two point layup",473,"Made Two","makes","Henry Coleman III",20,15,"Cavs","vsTXAM",37
+1,"7:53","TV timeout",473,""," ","TV",20,15,"Cavs","vsTXAM",37
+1,"7:53","Aggies lineup change (Solomon Washington, Hayden Hefner, Wade Taylor IV, Andersson Garcia, Henry Coleman III)",473,"Opp Sub"," ","Aggies",20,15,"Cavs","vsTXAM",37
+1,"7:24","Cavaliers lineup change (Jacob Groves, Reece Beekman, Isaac McKneely, Andrew Rohde, Ryan Dunn)",444,"Cav Sub"," ","Cavaliers",20,15,"Cavs","vsTXAM",37
+1,"7:22","Andrew Rohde misses three point jump shot",442,"Missed Three","misses","Andrew Rohde",20,15,"Cavs","vsTXAM",37
+1,"6:59","Henry Coleman III defensive rebound",419,"Def Rebound","defensive rebound","Henry Coleman III",20,15,"Opp","vsTXAM",38
+1,"6:39","Andersson Garcia turnover (bad pass) (Reece Beekman steals)",399,"Turnover","turnover","Andersson Garcia",20,15,"Cavs","vsTXAM",39
+1,"6:25","Reece Beekman turnover (bad pass) (Solomon Washington steals)",385,"Turnover","turnover","Reece Beekman",20,15,"Opp","vsTXAM",40
+1,"6:25","Reece Beekman shooting foul (Wade Taylor IV draws the foul)",385,"Foul","shooting foul","Reece Beekman",20,15,"Opp","vsTXAM",40
+1,"6:25","Wade Taylor IV makes regular free throw 1 of 3",385,"Made FT","makes","Wade Taylor IV",20,16,"Opp","vsTXAM",40
+1,"6:25","Wade Taylor IV makes regular free throw 2 of 3",385,"Made FT","makes","Wade Taylor IV",20,17,"Opp","vsTXAM",40
+1,"6:17","Wade Taylor IV makes regular free throw 3 of 3",377,"Made FT","makes","Wade Taylor IV",20,18,"Cavs","vsTXAM",41
+1,"6:03","Andrew Rohde turnover (bad pass) (Henry Coleman III steals)",363,"Turnover","turnover","Andrew Rohde",20,18,"Opp","vsTXAM",42
+1,"5:38","Hayden Hefner makes three point jump shot (Wade Taylor IV assists)",338,"Made Three","makes","Hayden Hefner",20,21,"Cavs","vsTXAM",43
+1,"5:36","Reece Beekman misses three point jump shot",336,"Missed Three","misses","Reece Beekman",20,21,"Cavs","vsTXAM",43
+1,"5:27","Henry Coleman III defensive rebound",327,"Def Rebound","defensive rebound","Henry Coleman III",20,21,"Opp","vsTXAM",44
+1,"5:25","Hayden Hefner misses two point layup",325,"Missed Two","misses","Hayden Hefner",20,21,"Opp","vsTXAM",44
+1,"5:13","Henry Coleman III offensive rebound",313,"Off Rebound","offensive rebound","Henry Coleman III",20,21,"Opp","vsTXAM",44
+1,"5:11","Solomon Washington misses three point jump shot",311,"Missed Three","misses","Solomon Washington",20,21,"Opp","vsTXAM",44
+1,"5:08","Henry Coleman III offensive rebound",308,"Off Rebound","offensive rebound","Henry Coleman III",20,21,"Opp","vsTXAM",44
+1,"4:39","Henry Coleman III makes two point layup",279,"Made Two","makes","Henry Coleman III",20,23,"Cavs","vsTXAM",45
+1,"4:18","Andrew Rohde makes two point layup",258,"Made Two","makes","Andrew Rohde",22,23,"Opp","vsTXAM",46
+1,"4:16","Hayden Hefner misses two point layup",256,"Missed Two","misses","Hayden Hefner",22,23,"Opp","vsTXAM",46
+1,"4:16","Aggies offensive rebound",256,"Off Rebound","offensive rebound","Aggies",22,23,"Opp","vsTXAM",46
+1,"4:16","Aggies lineup change (Hayden Hefner, Jace Carter, Andersson Garcia, Wildens Leveque, Manny Obaseki)",256,"Opp Sub"," ","Aggies",22,23,"Opp","vsTXAM",46
+1,"3:59","Cavaliers lineup change (Leon Bond III, Andrew Rohde, Isaac McKneely, Ryan Dunn, Jacob Groves)",239,"Cav Sub"," ","Cavaliers",22,23,"Opp","vsTXAM",46
+1,"3:59","Hayden Hefner misses two point jump shot",239,"Missed Two","misses","Hayden Hefner",22,23,"Opp","vsTXAM",46
+1,"3:59","Andrew Rohde defensive rebound",239,"Def Rebound","defensive rebound","Andrew Rohde",22,23,"Cavs","vsTXAM",47
+1,"3:56","Andersson Garcia personal foul",236,"Foul","personal foul","Andersson Garcia",22,23,"Cavs","vsTXAM",47
+1,"3:56","TV timeout",236,""," ","TV",22,23,"Cavs","vsTXAM",47
+1,"3:41","Aggies lineup change (Jace Carter, Eli Lawrence, Wildens Leveque, Andersson Garcia, Manny Obaseki)",221,"Opp Sub"," ","Aggies",22,23,"Cavs","vsTXAM",47
+1,"3:39","Jacob Groves misses three point jump shot",219,"Missed Three","misses","Jacob Groves",22,23,"Cavs","vsTXAM",47
+1,"3:11","Eli Lawrence defensive rebound",191,"Def Rebound","defensive rebound","Eli Lawrence",22,23,"Opp","vsTXAM",48
+1,"3:11","Eli Lawrence offensive foul",191,""," ","Eli",22,23,"Opp","vsTXAM",48
+1,"3:11","Eli Lawrence turnover (offensive foul)",191,"Turnover","turnover","Eli Lawrence",22,23,"Cavs","vsTXAM",49
+1,"2:55","Aggies lineup change (Jace Carter, Wade Taylor IV, Wildens Leveque, Andersson Garcia, Manny Obaseki)",175,"Opp Sub"," ","Aggies",22,23,"Cavs","vsTXAM",49
+1,"2:53","Wildens Leveque blocks Leon Bond III's two point layup",173,"Block","block","Wildens Leveque",22,23,"Cavs","vsTXAM",49
+1,"2:35","Andersson Garcia defensive rebound",155,"Def Rebound","defensive rebound","Andersson Garcia",22,23,"Opp","vsTXAM",50
+1,"2:33","Manny Obaseki misses three point jump shot",153,"Missed Three","misses","Manny Obaseki",22,23,"Opp","vsTXAM",50
+1,"2:32","Wildens Leveque offensive rebound",152,"Off Rebound","offensive rebound","Wildens Leveque",22,23,"Opp","vsTXAM",50
+1,"2:32","Andrew Rohde shooting foul (Wildens Leveque draws the foul)",152,"Foul","shooting foul","Andrew Rohde",22,23,"Opp","vsTXAM",50
+1,"2:32","Wildens Leveque makes regular free throw 1 of 2",152,"Made FT","makes","Wildens Leveque",22,24,"Opp","vsTXAM",50
+1,"2:32","Cavaliers lineup change (Andrew Rohde, Isaac McKneely, Ryan Dunn, Jordan Minor, Leon Bond III)",152,"Cav Sub"," ","Cavaliers",22,24,"Opp","vsTXAM",50
+1,"2:32","Cavaliers 30 second timeout",152,"Timeout","second timeout","Cavaliers 30",22,24,"Opp","vsTXAM",50
+1,"2:32","Cavaliers lineup change (Andrew Rohde, Isaac McKneely, Ryan Dunn, Jordan Minor, Reece Beekman)",152,"Cav Sub"," ","Cavaliers",22,24,"Opp","vsTXAM",50
+1,"2:29","Wildens Leveque misses regular free throw 2 of 2",149,"Missed FT","misses","Wildens Leveque",22,24,"Opp","vsTXAM",50
+1,"2:19","Cavaliers defensive rebound",139,"Def Rebound","defensive rebound","Cavaliers",22,24,"Cavs","vsTXAM",51
+1,"2:19","Cavaliers turnover (10-second violation)",139,"Turnover","turnover","Cavaliers",22,24,"Opp","vsTXAM",52
+1,"2:12","Aggies lineup change (Jace Carter, Wade Taylor IV, Henry Coleman III, Andersson Garcia, Manny Obaseki)",132,"Opp Sub"," ","Aggies",22,24,"Opp","vsTXAM",52
+1,"2:10","Wade Taylor IV misses three point jump shot",130,"Missed Three","misses","Wade Taylor IV",22,24,"Opp","vsTXAM",52
+1,"1:56","Jordan Minor defensive rebound",116,"Def Rebound","defensive rebound","Jordan Minor",22,24,"Cavs","vsTXAM",53
+1,"1:44","Reece Beekman makes two point dunk (Andrew Rohde assists)",104,"Made Two","makes","Reece Beekman",24,24,"Opp","vsTXAM",54
+1,"1:42","Ryan Dunn blocks Henry Coleman III's two point jump shot",102,"Block","block","Ryan Dunn",24,24,"Opp","vsTXAM",54
+1,"1:30","Jordan Minor defensive rebound",90,"Def Rebound","defensive rebound","Jordan Minor",24,24,"Cavs","vsTXAM",55
+1,"1:28","Isaac McKneely misses three point jump shot",88,"Missed Three","misses","Isaac McKneely",24,24,"Cavs","vsTXAM",55
+1,"1:20","Jace Carter defensive rebound",80,"Def Rebound","defensive rebound","Jace Carter",24,24,"Opp","vsTXAM",56
+1,"1:06","Henry Coleman III makes two point layup (Wade Taylor IV assists)",66,"Made Two","makes","Henry Coleman III",24,26,"Cavs","vsTXAM",57
+1,"1:04","Reece Beekman misses two point jump shot",64,"Missed Two","misses","Reece Beekman",24,26,"Cavs","vsTXAM",57
+1,"1:02","Wade Taylor IV defensive rebound",62,"Def Rebound","defensive rebound","Wade Taylor IV",24,26,"Opp","vsTXAM",58
+1,"0:48","Jordan Minor personal foul",48,"Foul","personal foul","Jordan Minor",24,26,"Opp","vsTXAM",58
+1,"0:45","Manny Obaseki misses two point jump shot",45,"Missed Two","misses","Manny Obaseki",24,26,"Opp","vsTXAM",58
+1,"0:45","Cavaliers defensive rebound",45,"Def Rebound","defensive rebound","Cavaliers",24,26,"Cavs","vsTXAM",59
+1,"0:36","Aggies lineup change (Jace Carter, Wade Taylor IV, Andersson Garcia, Henry Coleman III, Solomon Washington)",36,"Opp Sub"," ","Aggies",24,26,"Cavs","vsTXAM",59
+1,"0:34","Isaac McKneely misses two point layup",34,"Missed Two","misses","Isaac McKneely",24,26,"Cavs","vsTXAM",59
+1,"0:18","Cavaliers offensive rebound",18,"Off Rebound","offensive rebound","Cavaliers",24,26,"Cavs","vsTXAM",59
+1,"0:10","Ryan Dunn makes three point jump shot (Reece Beekman assists)",10,"Made Three","makes","Ryan Dunn",27,26,"Opp","vsTXAM",60
+1,"0:10","Aggies 30 second timeout",10,"Timeout","second timeout","Aggies 30",27,26,"Opp","vsTXAM",60
+1,"0:07","Aggies lineup change (Jace Carter, Wade Taylor IV, Andersson Garcia, Hayden Hefner, Henry Coleman III)",7,"Opp Sub"," ","Aggies",27,26,"Opp","vsTXAM",60
+1,"0:02","Isaac McKneely personal foul",2,"Foul","personal foul","Isaac McKneely",27,26,"Opp","vsTXAM",60
+2,"20:00","2ND HALF",1200,""," ","2ND",27,26,"Opp","vsTXAM",60
+2,"20:00","Aggies lineup change (Jace Carter, Hayden Hefner, Wade Taylor IV, Wildens Leveque, Henry Coleman III)",1200,"Opp Sub"," ","Aggies",27,26,"Opp","vsTXAM",60
+2,"19:59","Cavaliers lineup change (Reece Beekman, Andrew Rohde, Isaac McKneely, Ryan Dunn, Jacob Groves)",1199,"Cav Sub"," ","Cavaliers",27,26,"Opp","vsTXAM",60
+2,"19:44","Open inbound Cavaliers",1184,""," ","Open",27,26,"Cavs","vsTXAM",61
+2,"19:15","Jacob Groves makes three point jump shot (Andrew Rohde assists)",1155,"Made Three","makes","Jacob Groves",30,26,"Opp","vsTXAM",62
+2,"19:13","Jace Carter misses three point jump shot",1153,"Missed Three","misses","Jace Carter",30,26,"Opp","vsTXAM",62
+2,"19:13","Jacob Groves defensive rebound",1153,"Def Rebound","defensive rebound","Jacob Groves",30,26,"Cavs","vsTXAM",63
+2,"19:02","Wildens Leveque personal foul",1142,"Foul","personal foul","Wildens Leveque",30,26,"Cavs","vsTXAM",63
+2,"18:48","Ryan Dunn turnover (lost ball)",1128,"Turnover","turnover","Ryan Dunn",30,26,"Opp","vsTXAM",64
+2,"18:37","Wade Taylor IV turnover (bad pass) (Ryan Dunn steals)",1117,"Turnover","turnover","Wade Taylor IV",30,26,"Cavs","vsTXAM",65
+2,"18:35","Andrew Rohde misses three point jump shot",1115,"Missed Three","misses","Andrew Rohde",30,26,"Cavs","vsTXAM",65
+2,"18:26","Wade Taylor IV defensive rebound",1106,"Def Rebound","defensive rebound","Wade Taylor IV",30,26,"Opp","vsTXAM",66
+2,"18:24","Wade Taylor IV misses three point jump shot",1104,"Missed Three","misses","Wade Taylor IV",30,26,"Opp","vsTXAM",66
+2,"18:12","Cavaliers defensive rebound",1092,"Def Rebound","defensive rebound","Cavaliers",30,26,"Cavs","vsTXAM",67
+2,"18:02","Reece Beekman makes two point layup",1082,"Made Two","makes","Reece Beekman",32,26,"Opp","vsTXAM",68
+2,"18:00","Hayden Hefner misses two point jump shot",1080,"Missed Two","misses","Hayden Hefner",32,26,"Opp","vsTXAM",68
+2,"17:41","Isaac McKneely defensive rebound",1061,"Def Rebound","defensive rebound","Isaac McKneely",32,26,"Cavs","vsTXAM",69
+2,"17:34","Reece Beekman makes two point layup (Jacob Groves assists)",1054,"Made Two","makes","Reece Beekman",34,26,"Opp","vsTXAM",70
+2,"17:34","Aggies 30 second timeout",1054,"Timeout","second timeout","Aggies 30",34,26,"Opp","vsTXAM",70
+2,"17:34","TV timeout",1054,""," ","TV",34,26,"Opp","vsTXAM",70
+2,"17:27","Aggies lineup change (Jace Carter, Hayden Hefner, Wade Taylor IV, Andersson Garcia, Henry Coleman III)",1047,"Opp Sub"," ","Aggies",34,26,"Opp","vsTXAM",70
+2,"17:17","Wade Taylor IV turnover (bad pass) (Ryan Dunn steals)",1037,"Turnover","turnover","Wade Taylor IV",34,26,"Cavs","vsTXAM",71
+2,"17:15","Ryan Dunn misses two point layup",1035,"Missed Two","misses","Ryan Dunn",34,26,"Cavs","vsTXAM",71
+2,"17:12","Henry Coleman III defensive rebound",1032,"Def Rebound","defensive rebound","Henry Coleman III",34,26,"Opp","vsTXAM",72
+2,"17:12","Henry Coleman III makes two point layup",1032,"Made Two","makes","Henry Coleman III",34,28,"Cavs","vsTXAM",73
+2,"16:43","Aggies lineup change (Jace Carter, Solomon Washington, Wade Taylor IV, Andersson Garcia, Henry Coleman III)",1003,"Opp Sub"," ","Aggies",34,28,"Cavs","vsTXAM",73
+2,"16:20","Andrew Rohde makes three point jump shot (Isaac McKneely assists)",980,"Made Three","makes","Andrew Rohde",37,28,"Opp","vsTXAM",74
+2,"16:05","Jace Carter turnover (out of bounds)",965,"Turnover","turnover","Jace Carter",37,28,"Cavs","vsTXAM",75
+2,"15:54","Wade Taylor IV personal foul",954,"Foul","personal foul","Wade Taylor IV",37,28,"Cavs","vsTXAM",75
+2,"15:25","Isaac McKneely makes two point jump shot",925,"Made Two","makes","Isaac McKneely",39,28,"Opp","vsTXAM",76
+2,"15:23","Wade Taylor IV misses three point jump shot",923,"Missed Three","misses","Wade Taylor IV",39,28,"Opp","vsTXAM",76
+2,"15:23","Henry Coleman III offensive rebound",923,"Off Rebound","offensive rebound","Henry Coleman III",39,28,"Opp","vsTXAM",76
+2,"15:23","Jacob Groves personal foul",923,"Foul","personal foul","Jacob Groves",39,28,"Opp","vsTXAM",76
+2,"15:23","Henry Coleman III personal foul",923,"Foul","personal foul","Henry Coleman III",39,28,"Opp","vsTXAM",76
+2,"15:23","TV timeout",923,""," ","TV",39,28,"Opp","vsTXAM",76
+2,"15:11","Aggies lineup change (Manny Obaseki, Wade Taylor IV, Andersson Garcia, Solomon Washington, Henry Coleman III)",911,"Opp Sub"," ","Aggies",39,28,"Opp","vsTXAM",76
+2,"15:09","Manny Obaseki misses three point jump shot",909,"Missed Three","misses","Manny Obaseki",39,28,"Opp","vsTXAM",76
+2,"14:53","Andrew Rohde defensive rebound",893,"Def Rebound","defensive rebound","Andrew Rohde",39,28,"Cavs","vsTXAM",77
+2,"14:43","Andrew Rohde makes two point layup",883,"Made Two","makes","Andrew Rohde",41,28,"Opp","vsTXAM",78
+2,"14:41","Reece Beekman blocks Solomon Washington's three point jump shot",881,"Block","block","Reece Beekman",41,28,"Opp","vsTXAM",78
+2,"14:35","Andersson Garcia offensive rebound",875,"Off Rebound","offensive rebound","Andersson Garcia",41,28,"Opp","vsTXAM",78
+2,"14:28","Andersson Garcia makes two point layup",868,"Made Two","makes","Andersson Garcia",41,30,"Cavs","vsTXAM",79
+2,"14:26","Jacob Groves misses three point jump shot",866,"Missed Three","misses","Jacob Groves",41,30,"Cavs","vsTXAM",79
+2,"14:22","Solomon Washington defensive rebound",862,"Def Rebound","defensive rebound","Solomon Washington",41,30,"Opp","vsTXAM",80
+2,"13:24","Henry Coleman III makes two point layup (Wade Taylor IV assists)",804,"Made Two","makes","Henry Coleman III",41,32,"Cavs","vsTXAM",81
+2,"13:20","Isaac McKneely misses three point jump shot",800,"Missed Three","misses","Isaac McKneely",41,32,"Cavs","vsTXAM",81
+2,"13:20","Cavaliers offensive rebound",800,"Off Rebound","offensive rebound","Cavaliers",41,32,"Cavs","vsTXAM",81
+2,"13:12","Cavaliers lineup change (Elijah Gertrude, Andrew Rohde, Isaac McKneely, Leon Bond III, Jacob Groves)",792,"Cav Sub"," ","Cavaliers",41,32,"Cavs","vsTXAM",81
+2,"13:10","Andrew Rohde misses three point jump shot",790,"Missed Three","misses","Andrew Rohde",41,32,"Cavs","vsTXAM",81
+2,"13:08","Cavaliers offensive rebound",788,"Off Rebound","offensive rebound","Cavaliers",41,32,"Cavs","vsTXAM",81
+2,"13:08","Wade Taylor IV personal foul",788,"Foul","personal foul","Wade Taylor IV",41,32,"Cavs","vsTXAM",81
+2,"12:54","Aggies lineup change (Bryce Lindsay, Andersson Garcia, Solomon Washington, Henry Coleman III, Manny Obaseki)",774,"Opp Sub"," ","Aggies",41,32,"Cavs","vsTXAM",81
+2,"12:46","Andrew Rohde turnover (bad pass) (Bryce Lindsay steals)",766,"Turnover","turnover","Andrew Rohde",41,32,"Opp","vsTXAM",82
+2,"12:46","Bryce Lindsay turnover (double dribble)",766,"Turnover","turnover","Bryce Lindsay",41,32,"Cavs","vsTXAM",83
+2,"12:37","Aggies lineup change (Bryce Lindsay, Andersson Garcia, Solomon Washington, Henry Coleman III, Jace Carter)",757,"Opp Sub"," ","Aggies",41,32,"Cavs","vsTXAM",83
+2,"12:06","Isaac McKneely turnover (bad pass) (Solomon Washington steals)",726,"Turnover","turnover","Isaac McKneely",41,32,"Opp","vsTXAM",84
+2,"12:03","Elijah Gertrude blocks Jace Carter's two point layup",723,"Block","block","Elijah Gertrude",41,32,"Opp","vsTXAM",84
+2,"12:03","Aggies offensive rebound",723,"Off Rebound","offensive rebound","Aggies",41,32,"Opp","vsTXAM",84
+2,"11:57","Aggies lineup change (Jace Carter, Bryce Lindsay, Andersson Garcia, Hayden Hefner, Henry Coleman III)",717,"Opp Sub"," ","Aggies",41,32,"Opp","vsTXAM",84
+2,"11:55","Hayden Hefner misses three point jump shot",715,"Missed Three","misses","Hayden Hefner",41,32,"Opp","vsTXAM",84
+2,"11:34","Jacob Groves defensive rebound",694,"Def Rebound","defensive rebound","Jacob Groves",41,32,"Cavs","vsTXAM",85
+2,"11:16","Andrew Rohde turnover (bad pass) (Andersson Garcia steals)",676,"Turnover","turnover","Andrew Rohde",41,32,"Opp","vsTXAM",86
+2,"11:16","Andersson Garcia turnover (bad pass)",676,"Turnover","turnover","Andersson Garcia",41,32,"Cavs","vsTXAM",87
+2,"11:16","TV timeout",676,""," ","TV",41,32,"Cavs","vsTXAM",87
+2,"11:16","Aggies lineup change (Jace Carter, Wildens Leveque, Eli Lawrence, Wade Taylor IV, Henry Coleman III)",676,"Opp Sub"," ","Aggies",41,32,"Cavs","vsTXAM",87
+2,"11:02","Cavaliers lineup change (Blake Buchanan, Isaac McKneely, Elijah Gertrude, Reece Beekman, Ryan Dunn)",662,"Cav Sub"," ","Cavaliers",41,32,"Cavs","vsTXAM",87
+2,"10:46","Eli Lawrence personal foul",646,"Foul","personal foul","Eli Lawrence",41,32,"Cavs","vsTXAM",87
+2,"10:44","Elijah Gertrude misses three point jump shot",644,"Missed Three","misses","Elijah Gertrude",41,32,"Cavs","vsTXAM",87
+2,"10:44","Blake Buchanan offensive rebound",644,"Off Rebound","offensive rebound","Blake Buchanan",41,32,"Cavs","vsTXAM",87
+2,"10:30","Cavaliers turnover (shot clock violation)",630,"Turnover","turnover","Cavaliers",41,32,"Opp","vsTXAM",88
+2,"10:30","Elijah Gertrude shooting foul (Wildens Leveque draws the foul)",630,"Foul","shooting foul","Elijah Gertrude",41,32,"Opp","vsTXAM",88
+2,"10:30","Wildens Leveque makes regular free throw 1 of 2",630,"Made FT","makes","Wildens Leveque",41,33,"Opp","vsTXAM",88
+2,"10:30","Wildens Leveque makes regular free throw 2 of 2",630,"Made FT","makes","Wildens Leveque",41,34,"Cavs","vsTXAM",89
+2,"10:10","Cavaliers lineup change (Blake Buchanan, Reece Beekman, Isaac McKneely, Andrew Rohde, Ryan Dunn)",610,"Cav Sub"," ","Cavaliers",41,34,"Cavs","vsTXAM",89
+2,"10:08","Andrew Rohde misses three point jump shot",608,"Missed Three","misses","Andrew Rohde",41,34,"Cavs","vsTXAM",89
+2,"9:53","Cavaliers offensive rebound",593,"Off Rebound","offensive rebound","Cavaliers",41,34,"Cavs","vsTXAM",89
+2,"9:51","Reece Beekman misses two point layup",591,"Missed Two","misses","Reece Beekman",41,34,"Cavs","vsTXAM",89
+2,"9:43","Jace Carter defensive rebound",583,"Def Rebound","defensive rebound","Jace Carter",41,34,"Opp","vsTXAM",90
+2,"9:41","Eli Lawrence misses two point layup",581,"Missed Two","misses","Eli Lawrence",41,34,"Opp","vsTXAM",90
+2,"9:39","Henry Coleman III offensive rebound",579,"Off Rebound","offensive rebound","Henry Coleman III",41,34,"Opp","vsTXAM",90
+2,"9:39","Henry Coleman III misses two point layup",579,"Missed Two","misses","Henry Coleman III",41,34,"Opp","vsTXAM",90
+2,"9:39","Wildens Leveque offensive rebound",579,"Off Rebound","offensive rebound","Wildens Leveque",41,34,"Opp","vsTXAM",90
+2,"9:39","Blake Buchanan shooting foul (Wildens Leveque draws the foul)",579,"Foul","shooting foul","Blake Buchanan",41,34,"Opp","vsTXAM",90
+2,"9:39","Wildens Leveque makes regular free throw 1 of 2",579,"Made FT","makes","Wildens Leveque",41,35,"Opp","vsTXAM",90
+2,"9:39","Cavaliers lineup change (Jacob Groves, Reece Beekman, Andrew Rohde, Taine Murray, Ryan Dunn)",579,"Cav Sub"," ","Cavaliers",41,35,"Opp","vsTXAM",90
+2,"9:20","Wildens Leveque makes regular free throw 2 of 2",560,"Made FT","makes","Wildens Leveque",41,36,"Cavs","vsTXAM",91
+2,"9:04","Ryan Dunn makes two point dunk (Jacob Groves assists)",544,"Made Two","makes","Ryan Dunn",43,36,"Opp","vsTXAM",92
+2,"9:02","Wade Taylor IV misses three point jump shot",542,"Missed Three","misses","Wade Taylor IV",43,36,"Opp","vsTXAM",92
+2,"8:53","Taine Murray defensive rebound",533,"Def Rebound","defensive rebound","Taine Murray",43,36,"Cavs","vsTXAM",93
+2,"8:53","Eli Lawrence personal foul",533,"Foul","personal foul","Eli Lawrence",43,36,"Cavs","vsTXAM",93
+2,"8:44","Aggies lineup change (Solomon Washington, Wade Taylor IV, Eli Lawrence, Wildens Leveque, Henry Coleman III)",524,"Opp Sub"," ","Aggies",43,36,"Cavs","vsTXAM",93
+2,"8:44","Eli Lawrence shooting foul (Ryan Dunn draws the foul)",524,"Foul","shooting foul","Eli Lawrence",43,36,"Cavs","vsTXAM",93
+2,"8:44","Ryan Dunn makes regular free throw 1 of 2",524,"Made FT","makes","Ryan Dunn",44,36,"Cavs","vsTXAM",93
+2,"8:34","Ryan Dunn makes regular free throw 2 of 2",514,"Made FT","makes","Ryan Dunn",45,36,"Opp","vsTXAM",94
+2,"8:23","Andrew Rohde personal foul",503,"Foul","personal foul","Andrew Rohde",45,36,"Opp","vsTXAM",94
+2,"8:21","Wade Taylor IV misses two point jump shot",501,"Missed Two","misses","Wade Taylor IV",45,36,"Opp","vsTXAM",94
+2,"8:12","Solomon Washington offensive rebound",492,"Off Rebound","offensive rebound","Solomon Washington",45,36,"Opp","vsTXAM",94
+2,"7:58","Eli Lawrence makes three point jump shot",478,"Made Three","makes","Eli Lawrence",45,39,"Cavs","vsTXAM",95
+2,"7:34","Jacob Groves makes three point jump shot (Reece Beekman assists)",454,"Made Three","makes","Jacob Groves",48,39,"Opp","vsTXAM",96
+2,"7:34","Jacob Groves personal foul",454,"Foul","personal foul","Jacob Groves",48,39,"Opp","vsTXAM",96
+2,"7:34","TV timeout",454,""," ","TV",48,39,"Opp","vsTXAM",96
+2,"7:26","Aggies lineup change (Wade Taylor IV, Eli Lawrence, Andersson Garcia, Solomon Washington, Henry Coleman III)",446,"Opp Sub"," ","Aggies",48,39,"Opp","vsTXAM",96
+2,"7:11","Henry Coleman III makes two point layup",431,"Made Two","makes","Henry Coleman III",48,41,"Cavs","vsTXAM",97
+2,"6:57","Jacob Groves makes two point jump shot",417,"Made Two","makes","Jacob Groves",50,41,"Opp","vsTXAM",98
+2,"6:57","Henry Coleman III turnover (bad pass)",417,"Turnover","turnover","Henry Coleman III",50,41,"Cavs","vsTXAM",99
+2,"6:47","Aggies lineup change (Wade Taylor IV, Jace Carter, Wildens Leveque, Solomon Washington, Henry Coleman III)",407,"Opp Sub"," ","Aggies",50,41,"Cavs","vsTXAM",99
+2,"6:45","Andrew Rohde misses two point jump shot",405,"Missed Two","misses","Andrew Rohde",50,41,"Cavs","vsTXAM",99
+2,"6:39","Solomon Washington defensive rebound",399,"Def Rebound","defensive rebound","Solomon Washington",50,41,"Opp","vsTXAM",100
+2,"6:34","Wade Taylor IV misses two point layup",394,"Missed Two","misses","Wade Taylor IV",50,41,"Opp","vsTXAM",100
+2,"6:34","Henry Coleman III offensive rebound",394,"Off Rebound","offensive rebound","Henry Coleman III",50,41,"Opp","vsTXAM",100
+2,"6:30","Ryan Dunn blocks Henry Coleman III's two point layup",390,"Block","block","Ryan Dunn",50,41,"Opp","vsTXAM",100
+2,"6:04","Andrew Rohde defensive rebound",364,"Def Rebound","defensive rebound","Andrew Rohde",50,41,"Cavs","vsTXAM",101
+2,"5:52","Jacob Groves makes two point layup (Taine Murray assists)",352,"Made Two","makes","Jacob Groves",52,41,"Opp","vsTXAM",102
+2,"5:52","Aggies 30 second timeout",352,"Timeout","second timeout","Aggies 30",52,41,"Opp","vsTXAM",102
+2,"5:43","Cavaliers 30 second timeout",343,"Timeout","second timeout","Cavaliers 30",52,41,"Opp","vsTXAM",102
+2,"5:41","Jace Carter misses three point jump shot",341,"Missed Three","misses","Jace Carter",52,41,"Opp","vsTXAM",102
+2,"5:40","Wildens Leveque offensive rebound",340,"Off Rebound","offensive rebound","Wildens Leveque",52,41,"Opp","vsTXAM",102
+2,"5:16","Wildens Leveque turnover (lost ball)",316,"Turnover","turnover","Wildens Leveque",52,41,"Cavs","vsTXAM",103
+2,"5:03","Andrew Rohde makes three point jump shot",303,"Made Three","makes","Andrew Rohde",55,41,"Opp","vsTXAM",104
+2,"5:01","Reece Beekman blocks Wade Taylor IV's two point layup",301,"Block","block","Reece Beekman",55,41,"Opp","vsTXAM",104
+2,"5:01","Aggies offensive rebound",301,"Off Rebound","offensive rebound","Aggies",55,41,"Opp","vsTXAM",104
+2,"4:51","Aggies lineup change (Jace Carter, Wade Taylor IV, Wildens Leveque, Eli Lawrence, Henry Coleman III)",291,"Opp Sub"," ","Aggies",55,41,"Opp","vsTXAM",104
+2,"4:49","Ryan Dunn blocks Wildens Leveque's two point layup",289,"Block","block","Ryan Dunn",55,41,"Opp","vsTXAM",104
+2,"4:26","Andrew Rohde defensive rebound",266,"Def Rebound","defensive rebound","Andrew Rohde",55,41,"Cavs","vsTXAM",105
+2,"4:24","Taine Murray misses two point jump shot",264,"Missed Two","misses","Taine Murray",55,41,"Cavs","vsTXAM",105
+2,"4:18","Jacob Groves offensive rebound",258,"Off Rebound","offensive rebound","Jacob Groves",55,41,"Cavs","vsTXAM",105
+2,"4:16","Jacob Groves misses two point layup",256,"Missed Two","misses","Jacob Groves",55,41,"Cavs","vsTXAM",105
+2,"4:15","Henry Coleman III defensive rebound",255,"Def Rebound","defensive rebound","Henry Coleman III",55,41,"Opp","vsTXAM",106
+2,"4:13","Ryan Dunn blocks Henry Coleman III's two point layup",253,"Block","block","Ryan Dunn",55,41,"Opp","vsTXAM",106
+2,"4:13","Aggies offensive rebound",253,"Off Rebound","offensive rebound","Aggies",55,41,"Opp","vsTXAM",106
+2,"4:13","Cavaliers lineup change (Reece Beekman, Andrew Rohde, Isaac McKneely, Ryan Dunn, Jacob Groves)",253,"Cav Sub"," ","Cavaliers",55,41,"Opp","vsTXAM",106
+2,"4:11","Aggies lineup change (Jace Carter, Wade Taylor IV, Eli Lawrence, Andersson Garcia, Henry Coleman III)",251,"Opp Sub"," ","Aggies",55,41,"Opp","vsTXAM",106
+2,"3:59","Wade Taylor IV makes two point layup (Henry Coleman III assists)",239,"Made Two","makes","Wade Taylor IV",55,43,"Cavs","vsTXAM",107
+2,"3:57","Isaac McKneely misses three point jump shot",237,"Missed Three","misses","Isaac McKneely",55,43,"Cavs","vsTXAM",107
+2,"3:46","Eli Lawrence defensive rebound",226,"Def Rebound","defensive rebound","Eli Lawrence",55,43,"Opp","vsTXAM",108
+2,"3:44","Ryan Dunn blocks Jace Carter's two point layup",224,"Block","block","Ryan Dunn",55,43,"Opp","vsTXAM",108
+2,"3:44","Aggies offensive rebound",224,"Off Rebound","offensive rebound","Aggies",55,43,"Opp","vsTXAM",108
+2,"3:32","TV timeout",212,""," ","TV",55,43,"Opp","vsTXAM",108
+2,"3:19","Wade Taylor IV turnover (bad pass) (Ryan Dunn steals)",199,"Turnover","turnover","Wade Taylor IV",55,43,"Cavs","vsTXAM",109
+2,"3:07","Cavaliers lineup change (Reece Beekman, Andrew Rohde, Isaac McKneely, Ryan Dunn, Leon Bond III)",187,"Cav Sub"," ","Cavaliers",55,43,"Cavs","vsTXAM",109
+2,"3:05","Isaac McKneely misses three point jump shot",185,"Missed Three","misses","Isaac McKneely",55,43,"Cavs","vsTXAM",109
+2,"2:57","Henry Coleman III defensive rebound",177,"Def Rebound","defensive rebound","Henry Coleman III",55,43,"Opp","vsTXAM",110
+2,"2:57","Reece Beekman shooting foul (Wade Taylor IV draws the foul)",177,"Foul","shooting foul","Reece Beekman",55,43,"Opp","vsTXAM",110
+2,"2:57","Wade Taylor IV misses regular free throw 1 of 3",177,"Missed FT","misses","Wade Taylor IV",55,43,"Opp","vsTXAM",110
+2,"2:57","Wade Taylor IV makes regular free throw 2 of 3",177,"Made FT","makes","Wade Taylor IV",55,44,"Opp","vsTXAM",110
+2,"2:57","Cavaliers lineup change (Reece Beekman, Andrew Rohde, Isaac McKneely, Ryan Dunn, Jacob Groves)",177,"Cav Sub"," ","Cavaliers",55,44,"Opp","vsTXAM",110
+2,"2:57","Wade Taylor IV misses regular free throw 3 of 3",177,"Missed FT","misses","Wade Taylor IV",55,44,"Opp","vsTXAM",110
+2,"2:34","Ryan Dunn defensive rebound",154,"Def Rebound","defensive rebound","Ryan Dunn",55,44,"Cavs","vsTXAM",111
+2,"2:32","Ryan Dunn misses three point jump shot",152,"Missed Three","misses","Ryan Dunn",55,44,"Cavs","vsTXAM",111
+2,"2:25","Henry Coleman III defensive rebound",145,"Def Rebound","defensive rebound","Henry Coleman III",55,44,"Opp","vsTXAM",112
+2,"2:01","Jace Carter makes three point jump shot (Wade Taylor IV assists)",121,"Made Three","makes","Jace Carter",55,47,"Cavs","vsTXAM",113
+2,"2:01","Andersson Garcia personal foul (Reece Beekman draws the foul)",121,"Foul","personal foul","Andersson Garcia",55,47,"Cavs","vsTXAM",113
+2,"2:01","Reece Beekman makes regular free throw 1 of 2",121,"Made FT","makes","Reece Beekman",56,47,"Cavs","vsTXAM",113
+2,"1:43","Reece Beekman makes regular free throw 2 of 2",103,"Made FT","makes","Reece Beekman",57,47,"Opp","vsTXAM",114
+2,"1:41","Eli Lawrence misses three point jump shot",101,"Missed Three","misses","Eli Lawrence",57,47,"Opp","vsTXAM",114
+2,"1:38","Andrew Rohde defensive rebound",98,"Def Rebound","defensive rebound","Andrew Rohde",57,47,"Cavs","vsTXAM",115
+2,"1:25","Aggies lineup change (Manny Obaseki, Wade Taylor IV, Eli Lawrence, Andersson Garcia, Henry Coleman III)",85,"Opp Sub"," ","Aggies",57,47,"Cavs","vsTXAM",115
+2,"1:23","Andrew Rohde misses two point layup",83,"Missed Two","misses","Andrew Rohde",57,47,"Cavs","vsTXAM",115
+2,"1:15","Andersson Garcia defensive rebound",75,"Def Rebound","defensive rebound","Andersson Garcia",57,47,"Opp","vsTXAM",116
+2,"1:01","Wade Taylor IV turnover (bad pass)",61,"Turnover","turnover","Wade Taylor IV",57,47,"Cavs","vsTXAM",117
+2,"1:01","Wade Taylor IV personal foul (Reece Beekman draws the foul)",61,"Foul","personal foul","Wade Taylor IV",57,47,"Cavs","vsTXAM",117
+2,"1:01","Reece Beekman makes regular free throw 1 of 2",61,"Made FT","makes","Reece Beekman",58,47,"Cavs","vsTXAM",117
+2,"0:53","Reece Beekman makes regular free throw 2 of 2",53,"Made FT","makes","Reece Beekman",59,47,"Opp","vsTXAM",118
+2,"0:51","Eli Lawrence misses three point jump shot",51,"Missed Three","misses","Eli Lawrence",59,47,"Opp","vsTXAM",118
+2,"0:25","Ryan Dunn defensive rebound",25,"Def Rebound","defensive rebound","Ryan Dunn",59,47,"Cavs","vsTXAM",119
+2,"0:23","Ryan Dunn misses three point jump shot",23,"Missed Three","misses","Ryan Dunn",59,47,"Cavs","vsTXAM",119
+2,"0:10","Andersson Garcia defensive rebound",10,"Def Rebound","defensive rebound","Andersson Garcia",59,47,"Opp","vsTXAM",120
+2,"0:08","Eli Lawrence misses two point jump shot",8,"Missed Two","misses","Eli Lawrence",59,47,"Opp","vsTXAM",120
+2,"0:00","Hayden Hefner turnover (bad pass) (Reece Beekman steals)",0,"Turnover","turnover","Hayden Hefner",59,47,"Cavs","vsTXAM",121
+2,"0:00","Jacob Groves defensive rebound",0,"Def Rebound","defensive rebound","Jacob Groves",59,47,"Opp","vsTXAM",122

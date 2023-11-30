@@ -7,8 +7,15 @@ UVA_roster = c("Blake Buchanan","Dante Harris","Reece Beekman","Andrew Rohde",
                "Ryan Dunn","Anthony Robinson","Jordan Minor","Tristan How", "Bryce Walker",
                "Christian Bliss","Jacob Groves","Leon Bond III","Cavaliers")
 
+TARL_stats = read.csv('TARL_stats.csv')
 TARL_stats$Player[TARL_stats$Player == "Jake Groves"] = "Jacob Groves"
 TARL_stats$Player[TARL_stats$Player == "Without Jake Groves"] = "Without Jacob Groves"
+FLA_stats = read.csv('FLA_stats.csv')
+NCAT_stats = read.csv('NCAT_stats.csv')
+TXSO_stats = read.csv('TXSO_stats.csv')
+WIS_stats = read.csv('WIS_stats.csv')
+WVU_stats = read.csv('WVU_stats.csv')
+TXAM_stats = read.csv('TXAM_stats.csv')
 
 szn_stats = TARL_stats %>% 
   full_join(FLA_stats)%>%
@@ -16,9 +23,9 @@ szn_stats = TARL_stats %>%
   full_join(TXSO_stats)%>%
   full_join(WIS_stats)%>%
   full_join(WVU_stats)%>%
+  full_join(TXAM_stats)%>%
   group_by(Player)%>%
   summarise_all(sum)
-### Only weird thing is the Jacob Groves is also called Jake Groves in some places
 
 szn_stats = szn_stats%>%
   mutate(PER = (FG_made.y*85.910 + Steals*53.897 + Three_made.y*51.757 +
@@ -50,14 +57,22 @@ szn_stats <- merge(szn_stats, with[, c("Player", "adjusted_plusminus")], by = "P
 
 ## Stats for each Lineup while they are on the court together
 
+FLA_game = read.csv('FLA_game.csv')
+NCAT_game = read.csv('NCAT_game.csv')
+TXSO_game = read.csv('TXSO_game.csv')
+WIS_game = read.csv('WIS_game.csv')
+WVU_game = read.csv('WVU_game.csv')
+TXAM_game = read.csv('TXAM_game.csv')
+
 game1 = TARL_game %>% 
   full_join(FLA_game)%>%
   full_join(NCAT_game)%>%
   full_join(TXSO_game)%>%
   full_join(WIS_game)%>%
-  full_join(WVU_game)
+  full_join(WVU_game)%>%
+  full_join(TXAM_game)
 Lineup_stats = tibble(On_court_time = 0,Possessions = 0, Pts= 0, Pts_against = 0, Tnovers = 0, FG_made = 0, FG_att = 0, Three_made =0, Three_att = 0,Rebounds = 0,Defensive_plays = 0)
-starting_lineup1 = "Isaac McKneely,Reece Beekman,Andrew Rohde,Ryan Dunn,Blake Buchanan"
+starting_lineup1 = "Isaac McKneely,Reece Beekman,Andrew Rohde,Ryan Dunn,Jacob Groves"
 starting = lapply(strsplit(starting_lineup1, split = ","),sort)
 Lineup_stats = add_column(Lineup_stats,Lineup = starting,.before = "On_court_time")
 
@@ -160,7 +175,7 @@ Lineup_stats = Lineup_stats%>%
 
 
 
-
+# write.csv(Lineup_stats, "Nov_stats.csv", row.names=FALSE)
 # write.csv(Lineup_stats, "First_4Lineup_stats.csv", row.names=FALSE)
 # Lineup_Stats = read.csv("/Users/mehulpol/SASL/First_4Lineup_stats.csv")
 # combine with new if new
