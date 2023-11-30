@@ -188,7 +188,13 @@ Lineup_stats = Lineup_stats%>%
 szn_stats %>%
   filter(Player %in% UVA_roster)%>%
   filter(Pt_dif>20)%>%
-  arrange(desc(Pt_dif))%>%
   ggplot(aes(x=reorder(Player, +Pt_dif),y=Pt_dif)) + geom_col() + geom_text(aes(label = Minutes), vjust = -0.2) +
   theme(axis.text.x = element_text(angle=60, hjust = 1)) +
   labs(title = "Top Point Differentials Amongst Players Labeled with Minutes on Court",y="Point Differential While on the Court", x="Player")
+
+szn_stats %>%
+  filter(Player %in% UVA_roster)%>%
+  filter(Minutes>100)%>%
+  ggplot(aes(x=reorder(Player, +Rebounds/Minutes),y=Rebounds/Minutes)) + geom_col() +
+  theme(axis.text.x = element_text(angle=60, hjust = 1)) +
+  labs(title = "Most Rebounds per Minute amongst the most used Players",y="Rebounds per Minute", x="Player")
