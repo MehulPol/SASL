@@ -54,6 +54,7 @@ for (i in 1:nrow(with)) {
 }
 
 szn_stats <- merge(szn_stats, with[, c("Player", "adjusted_plusminus")], by = "Player", all.x = TRUE)
+# write.csv(szn_stats, "Nov_playerstats.csv", row.names=FALSE)
 
 ## Stats for each Lineup while they are on the court together
 
