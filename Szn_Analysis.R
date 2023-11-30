@@ -28,12 +28,13 @@ szn_stats = TARL_stats %>%
   summarise_all(sum)
 
 szn_stats = szn_stats%>%
+  mutate(Minutes = round((On_court_time/60),2))%>%
   mutate(PER = (FG_made.y*85.910 + Steals*53.897 + Three_made.y*51.757 +
            FT_made*46.845 + Blocks*39.190 + Def_Rebounds*14.707 + Off_Rebounds*39.190 +
            Assists*34.677 - fouls*17.174 - (FT_att-FT_made)*20.091 - 
            (FG_att.y-FG_made.y)*39.190 - Tnovers.y*53.897)/(On_court_time/60))%>%
   mutate(Pt_diff_perposs = (Pts.x-Pts_against)/(Possessions))%>%
-  mutate(Pt_diff_permin = (Pts.x-Pts_against)/(On_court_time))%>%
+  mutate(Pt_diff_permin = (Pts.x-Pts_against)/(On_court_time/60))%>%
   mutate(poss_permin = Possessions/(On_court_time/60))%>%
   mutate(efficiency = (Pts.x + Def_Rebounds + Off_Rebounds + Defensive_plays - (FG_att.x - FG_made.x) - Tnovers.x) / (On_court_time/60))%>%
   mutate(def_eff = 2*Defensive_plays/Possessions)
@@ -168,6 +169,7 @@ BeekXDunn = BeekXDunn %>%
 
 
 Lineup_stats = Lineup_stats%>%
+  mutate(Minutes = round((On_court_time/60),2))%>%
   mutate(Pt_diff_perposs = (Pts-Pts_against)/(Possessions),.before = Pts)%>%
   mutate(Pt_diff_permin = (Pts-Pts_against)/(On_court_time),.before = Pts)%>%
   mutate(poss_permin = Possessions/(On_court_time/60),.before = Pts)%>%
@@ -180,3 +182,13 @@ Lineup_stats = Lineup_stats%>%
 # write.csv(Lineup_stats, "First_4Lineup_stats.csv", row.names=FALSE)
 # Lineup_Stats = read.csv("/Users/mehulpol/SASL/First_4Lineup_stats.csv")
 # combine with new if new
+
+#Visualizations
+
+szn_stats %>%
+  filter(Player %in% UVA_roster)%>%
+  filter(Pt_dif>20)%>%
+  arrange(desc(Pt_dif))%>%
+  ggplot(aes(x=reorder(Player, +Pt_dif),y=Pt_dif)) + geom_col() + geom_text(aes(label = Minutes), vjust = -0.2) +
+  theme(axis.text.x = element_text(angle=60, hjust = 1)) +
+  labs(title = "Top Point Differentials Amongst Players Labeled with Minutes on Court",y="Point Differential While on the Court", x="Player")
