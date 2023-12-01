@@ -197,4 +197,4 @@ szn_stats %>%
   filter(Minutes>100)%>%
   ggplot(aes(x=reorder(Player, +Rebounds/Minutes),y=Rebounds/Minutes)) + geom_col() +
   theme(axis.text.x = element_text(angle=60, hjust = 1)) +
-  labs(title = "Most Rebounds per Minute amongst the most used Players",y="Rebounds per Minute", x="Player")
+  labs(title = "Most Team Rebounds per Minute when on the Court",y="Rebounds per Minute", x="Player")
