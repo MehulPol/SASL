@@ -170,8 +170,6 @@ BeekXDunn = BeekXDunn %>%
 
 
 
-
-
 Lineup_stats = Lineup_stats%>%
   mutate(Minutes = round((On_court_time/60),2))%>%
   mutate(Pt_diff_perposs = (Pts-Pts_against)/(Possessions),.before = Pts)%>%
@@ -180,13 +178,16 @@ Lineup_stats = Lineup_stats%>%
   mutate(efficiency = (Pts + Rebounds + Defensive_plays - (FG_att - FG_made) - Tnovers) / (On_court_time/60),.before = Pts)%>%
   mutate(def_eff = 2*Defensive_plays/Possessions,.before = Pts)
 
-
-
-# write.csv(Lineup_stats, "Nov_stats.csv", row.names=FALSE)
+# write.csv(szn_stats, "Nov_stats.csv", row.names=FALSE)
 # write.csv(Lineup_stats, "First_4Lineup_stats.csv", row.names=FALSE)
 # Lineup_Stats = read.csv("/Users/mehulpol/SASL/First_4Lineup_stats.csv")
 # combine with new if new
 
+Tm_minutes = max(szn_stats$Minutes)
+Tm_Reb = max(szn_stats$Rebounds)
+Opp_Reb = max(szn_stats$Opp_DReb) + max(szn_stats$Opp_OReb)
+
+szn_stats$Reb_Rate = (szn_stats$Rebounds * (Tm_minutes / 5)) / (szn_stats$Minutes * (Tm_Reb + Opp_Reb))
 #Visualizations
 
 szn_stats %>%
