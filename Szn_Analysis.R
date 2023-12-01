@@ -122,7 +122,11 @@ for (i in 2:nrow(game1)) {
       Lineup_stats$Three_att[i_lineup] = Lineup_stats$Three_att[i_lineup] + 1
     } else if(game1$Event[i] == "Turnover"){
       Lineup_stats$Tnovers[i_lineup] = Lineup_stats$Tnovers[i_lineup] + 1
-    } 
+    }
+  } else if (game1$Event[i] == "Off Rebound"){
+    Lineup_stats$Opp_OReb[i_lineup] = Lineup_stats$Opp_OReb[i_lineup] + 1
+  } else if (game1$Event[i] == "Def Rebound"){
+    Lineup_stats$Opp_DReb[i_lineup] = Lineup_stats$Opp_DReb[i_lineup] + 1
   } else if (game1$Event[i] == "Turnover") {
     Lineup_stats$Defensive_plays[i_lineup] = Lineup_stats$Defensive_plays[i_lineup] + 1
   }

@@ -353,10 +353,10 @@ game1 = game_pbp(website1,starting_lineup1,abbrev1,opp1)
 
 
 
-
 ### Stats for each Lineup while they are on the court together
 
-Lineup_stats = tibble(On_court_time = 0,Possessions = 0, Pts= 0, Pts_against = 0, Tnovers = 0, FG_made = 0, FG_att = 0, Three_made =0, Three_att = 0,Rebounds = 0,Defensive_plays = 0)
+Lineup_stats = tibble(On_court_time = 0,Possessions = 0, Pts= 0, Pts_against = 0, Tnovers = 0, FG_made = 0, FG_att = 0, Three_made =0, Three_att = 0,Rebounds = 0,Opp_OReb = 0, Opp_DReb = 0, 
+                      Defensive_plays = 0)
 starting = lapply(strsplit(starting_lineup1, split = ","),sort)
 Lineup_stats = add_column(Lineup_stats,Lineup = starting,.before = "On_court_time")
 
@@ -367,7 +367,7 @@ for (i in 2:nrow(game1)) {
     Lineup_stats$On_court_time[i_lineup] = Lineup_stats$On_court_time[i_lineup] + (game1$Time_in_sec[i-1] - game1$Time_in_sec[i])
     Lineup_stats$Pts[i_lineup] = Lineup_stats$Pts[i_lineup] + (game1$UVA_score[i] - game1$UVA_score[i-1])
     Lineup_stats$Pts_against[i_lineup] = Lineup_stats$Pts_against[i_lineup] + (game1$Opp_score[i] - game1$Opp_score[i-1])
-    Lineup_stats$Possessions[i_lineup] = Lineup_stats$Possessions[i_lineup] + (game1$`Possession Number`[i] - game1$`Possession Number`[i-1])
+    Lineup_stats$Possessions[i_lineup] = Lineup_stats$Possessions[i_lineup] + (game1$`Possession.Number`[i] - game1$`Possession.Number`[i-1])
   } 
   if (game1$Event[i] == "Cav Sub"){
     Players = lapply(strsplit(gsub("\\)","",gsub("Cavaliers lineup change \\(", "", game1$Description[i])), split = ", "),sort)
@@ -381,7 +381,8 @@ for (i in 2:nrow(game1)) {
     }
     if (i_lineup == 0){
       Lineup_stats <- Lineup_stats %>% 
-        add_row(Lineup = Players,On_court_time = 0,Possessions = 0,Pts= 0,Pts_against = 0,Tnovers = 0,FG_made = 0,FG_att = 0,Three_made =0,Three_att = 0,Rebounds = 0,Defensive_plays = 0)
+        add_row(Lineup = Players,On_court_time = 0,Possessions = 0,Pts= 0,Pts_against = 0,Tnovers = 0,FG_made = 0,FG_att = 0,Three_made =0,Three_att = 0,Rebounds = 0,
+                Opp_OReb = 0, Opp_DReb = 0, Defensive_plays = 0)
       i_lineup = nrow(Lineup_stats)
     }
   } else if (game1$Player[i] %in% UVA_roster) {
@@ -405,6 +406,10 @@ for (i in 2:nrow(game1)) {
     } else if(game1$Event[i] == "Turnover"){
       Lineup_stats$Tnovers[i_lineup] = Lineup_stats$Tnovers[i_lineup] + 1
     } 
+  } else if (game1$Event[i] == "Off Rebound"){
+    Lineup_stats$Opp_OReb[i_lineup] = Lineup_stats$Opp_OReb[i_lineup] + 1
+  } else if (game1$Event[i] == "Def Rebound"){
+    Lineup_stats$Opp_DReb[i_lineup] = Lineup_stats$Opp_DReb[i_lineup] + 1
   } else if (game1$Event[i] == "Turnover") {
     Lineup_stats$Defensive_plays[i_lineup] = Lineup_stats$Defensive_plays[i_lineup] + 1
   }
@@ -412,7 +417,7 @@ for (i in 2:nrow(game1)) {
 
 # Next, Create Table for individual players using the Lineup_stats table
 
-Player_stats = tibble(Player = "", On_court_time = 0, Possessions = 0, Pts= 0, Pts_against = 0, Tnovers = 0, FG_made = 0, FG_att = 0, Three_made =0, Three_att = 0,Rebounds = 0,Defensive_plays = 0)
+Player_stats = tibble(Player = "", On_court_time = 0, Possessions = 0, Pts= 0, Pts_against = 0, Tnovers = 0, FG_made = 0, FG_att = 0, Three_made =0, Three_att = 0,Rebounds = 0,Opp_OReb = 0, Opp_DReb = 0,Defensive_plays = 0)
 for (i in 1:length(UVA_roster)) {
   lineups_withp = grepl(UVA_roster[i],Lineup_stats$Lineup)
   Player_stats <- Player_stats %>%
@@ -422,7 +427,8 @@ for (i in 1:length(UVA_roster)) {
             Tnovers = sum(Lineup_stats$Tnovers[lineups_withp]),
             FG_made = sum(Lineup_stats$FG_made[lineups_withp]), FG_att = sum(Lineup_stats$FG_att[lineups_withp]),
             Three_made = sum(Lineup_stats$Three_made[lineups_withp]), Three_att = sum(Lineup_stats$Three_att[lineups_withp]),
-            Rebounds = sum(Lineup_stats$Rebounds[lineups_withp]), Defensive_plays = sum(Lineup_stats$Defensive_plays[lineups_withp]))
+            Rebounds = sum(Lineup_stats$Rebounds[lineups_withp]), Opp_OReb = sum(Lineup_stats$Opp_OReb[lineups_withp]),
+            Opp_DReb = sum(Lineup_stats$Opp_DReb[lineups_withp]), Defensive_plays = sum(Lineup_stats$Defensive_plays[lineups_withp]))
   Player_stats <- Player_stats %>%
     add_row(Player = paste("Without",UVA_roster[i], sep = " "),
             On_court_time = sum(Lineup_stats$On_court_time[!lineups_withp]),Possessions = sum(Lineup_stats$Possessions[!lineups_withp]),
@@ -430,7 +436,8 @@ for (i in 1:length(UVA_roster)) {
             Tnovers = sum(Lineup_stats$Tnovers[!lineups_withp]),
             FG_made = sum(Lineup_stats$FG_made[!lineups_withp]), FG_att = sum(Lineup_stats$FG_att[!lineups_withp]),
             Three_made = sum(Lineup_stats$Three_made[!lineups_withp]), Three_att = sum(Lineup_stats$Three_att[!lineups_withp]),
-            Rebounds = sum(Lineup_stats$Rebounds[!lineups_withp]), Defensive_plays = sum(Lineup_stats$Defensive_plays[!lineups_withp]))
+            Rebounds = sum(Lineup_stats$Rebounds[!lineups_withp]), Opp_OReb = sum(Lineup_stats$Opp_OReb[!lineups_withp]),
+            Opp_DReb = sum(Lineup_stats$Opp_DReb[!lineups_withp]), Defensive_plays = sum(Lineup_stats$Defensive_plays[!lineups_withp]))
 }
 Player_stats = Player_stats[-1,]
 
