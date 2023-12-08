@@ -126,10 +126,10 @@ colnames(lineup_changes)[colnames(lineup_changes) == 'Lineup'] <- 'Description'
 
 
 ## Fox Sports Scraping and Cleaning
-website1 = "https://www.foxsports.com/college-basketball/syracuse-orange-vs-virginia-cavaliers-dec-02-2023-game-boxscore-246174?tab=playbyplay"
+website1 = "https://www.foxsports.com/college-basketball/north-carolina-central-eagles-vs-virginia-cavaliers-dec-05-2023-game-boxscore-246175?tab=playbyplay"
 starting_lineup1 = "Isaac McKneely,Reece Beekman,Andrew Rohde,Ryan Dunn,Jacob Groves"
-abbrev1 = "SYR"
-opp1 = "vsSYR"
+abbrev1 = "NCCU"
+opp1 = "vsNCCU"
 
 game = tibble(Half = 1, Time = "", Description = "", Event = "", Token = "", words = strsplit("place holder", split = ' '), Player = "", 
                UVA_score = 0, Opp_score = 0, Time_in_sec = 0, Opps = "",`Possession Number` = 0)
@@ -347,7 +347,7 @@ game1 = game_pbp(website1,starting_lineup1,abbrev1,opp1)
 ## end of playbyplay data for all games
 
 # game1 = game1%>%select(-words)
-# write.csv(game1, "SYR_game.csv", row.names=FALSE)
+# write.csv(game1, "NCCU_game.csv", row.names=FALSE)
 
 
 
@@ -361,6 +361,7 @@ starting = lapply(strsplit(starting_lineup1, split = ","),sort)
 Lineup_stats = add_column(Lineup_stats,Lineup = starting,.before = "On_court_time")
 
 Lineup_time = 0
+i_lineup = 1
 for (i in 2:nrow(game1)) {
   if (game1$Time_in_sec[i-1]>=game1$Time_in_sec[i]){
     Lineup_stats$On_court_time[i_lineup] = Lineup_stats$On_court_time[i_lineup] + (game1$Time_in_sec[i-1] - game1$Time_in_sec[i])
@@ -517,7 +518,7 @@ All_Stats = merge(Player_stats, Box_Score, by = "Player", all.x = TRUE) %>%
   mutate(def_eff = 2*Defensive_plays/Possessions, .after = Pt_diff_permin)%>%
   mutate(PER = PER/(On_court_time/60))
 
-# write.csv(All_Stats, "SYR_stats.csv", row.names=FALSE)
+# write.csv(All_Stats, "NCCU_stats.csv", row.names=FALSE)
 
 ## Visualizations
 

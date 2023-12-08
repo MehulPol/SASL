@@ -1,0 +1,273 @@
+"Half","Time","Description","Time_in_sec","Event","Token","Player","UVA_score","Opp_score","Possession","Opps","Possession Number"
+1,"20:00","1ST HALF",1200,""," ","1ST",0,0,"Cavs","vsNCCU",1
+1,"20:00","Cavaliers lineup change (Isaac McKneely,Reece Beekman,Andrew Rohde,Ryan Dunn,Jacob Groves)",1200,"Cav Sub"," ","Cavaliers",0,0,"","vsNCCU",2
+1,"19:41","Perry Smith Jr. vs. Jacob Groves (Eagles gains possession)",1181,""," ","Perry",0,0,"Opp","vsNCCU",3
+1,"19:39","Cobey Harraway misses three point jump shot",1179,"Missed Three","misses","Cobey Harraway",0,0,"Opp","vsNCCU",3
+1,"19:16","Isaac McKneely defensive rebound",1156,"Def Rebound","defensive rebound","Isaac McKneely",0,0,"Cavs","vsNCCU",4
+1,"19:14","Reece Beekman misses three point jump shot",1154,"Missed Three","misses","Reece Beekman",0,0,"Cavs","vsNCCU",4
+1,"18:56","Perry Smith Jr. defensive rebound",1136,"Def Rebound","defensive rebound","Perry Smith Jr.",0,0,"Opp","vsNCCU",5
+1,"18:50","Josh Smith turnover (bad pass) (Ryan Dunn steals)",1130,"Turnover","turnover","Josh Smith",0,0,"Cavs","vsNCCU",6
+1,"18:28","Isaac McKneely makes three point jump shot (Ryan Dunn assists)",1108,"Made Three","makes","Isaac McKneely",3,0,"Opp","vsNCCU",7
+1,"18:26","Josh Smith misses three point jump shot",1106,"Missed Three","misses","Josh Smith",3,0,"Opp","vsNCCU",7
+1,"18:17","Reece Beekman defensive rebound",1097,"Def Rebound","defensive rebound","Reece Beekman",3,0,"Cavs","vsNCCU",8
+1,"17:58","Isaac McKneely makes three point jump shot (Andrew Rohde assists)",1078,"Made Three","makes","Isaac McKneely",6,0,"Opp","vsNCCU",9
+1,"17:37","Josh Smith makes two point jump shot",1057,"Made Two","makes","Josh Smith",6,2,"Cavs","vsNCCU",10
+1,"17:17","Isaac McKneely makes three point jump shot (Andrew Rohde assists)",1037,"Made Three","makes","Isaac McKneely",9,2,"Opp","vsNCCU",11
+1,"16:54","Perry Smith Jr. makes two point layup (Terrence Crawford assists)",1014,"Made Two","makes","Perry Smith Jr.",9,4,"Cavs","vsNCCU",12
+1,"16:51","Isaac McKneely makes three point jump shot (Jacob Groves assists)",1011,"Made Three","makes","Isaac McKneely",12,4,"Opp","vsNCCU",13
+1,"16:48","Eagles 30 second timeout",1008,"Timeout","second timeout","Eagles 30",12,4,"Opp","vsNCCU",13
+1,"16:42","Josh Smith turnover (bad pass) (Reece Beekman steals)",1002,"Turnover","turnover","Josh Smith",12,4,"Cavs","vsNCCU",14
+1,"16:19","Reece Beekman makes two point layup",979,"Made Two","makes","Reece Beekman",14,4,"Opp","vsNCCU",15
+1,"16:17","Andrew Rohde blocks Po'Boigh King's two point jump shot",977,"Block","block","Andrew Rohde",14,4,"Opp","vsNCCU",15
+1,"16:01","Andrew Rohde defensive rebound",961,"Def Rebound","defensive rebound","Andrew Rohde",14,4,"Cavs","vsNCCU",16
+1,"15:59","Isaac McKneely misses three point jump shot",959,"Missed Three","misses","Isaac McKneely",14,4,"Cavs","vsNCCU",16
+1,"15:53","Josh Smith defensive rebound",953,"Def Rebound","defensive rebound","Josh Smith",14,4,"Opp","vsNCCU",17
+1,"15:26","Keishon Porter makes two point dunk (Josh Smith assists)",926,"Made Two","makes","Keishon Porter",14,6,"Cavs","vsNCCU",18
+1,"15:26","Cobey Harraway personal foul (Reece Beekman draws the foul)",926,"Foul","personal foul","Cobey Harraway",14,6,"Cavs","vsNCCU",18
+1,"15:23","TV timeout",923,""," ","TV",14,6,"Cavs","vsNCCU",18
+1,"14:52","Isaac McKneely makes two point layup (Ryan Dunn assists)",892,"Made Two","makes","Isaac McKneely",16,6,"Opp","vsNCCU",19
+1,"14:29","Perry Smith Jr. makes two point layup (Josh Smith assists)",869,"Made Two","makes","Perry Smith Jr.",16,8,"Cavs","vsNCCU",20
+1,"14:27","Jacob Groves misses three point jump shot",867,"Missed Three","misses","Jacob Groves",16,8,"Cavs","vsNCCU",20
+1,"14:20","Po'Boigh King defensive rebound",860,"Def Rebound","defensive rebound","Po'Boigh King",16,8,"Opp","vsNCCU",21
+1,"14:07","Perry Smith Jr. makes two point layup (Po'Boigh King assists)",847,"Made Two","makes","Perry Smith Jr.",16,10,"Cavs","vsNCCU",22
+1,"14:07","Po'Boigh King shooting foul (Andrew Rohde draws the foul)",847,"Foul","shooting foul","Po'Boigh King",16,10,"Cavs","vsNCCU",22
+1,"14:07","Andrew Rohde misses regular free throw 1 of 2",847,"Missed FT","misses","Andrew Rohde",16,10,"Cavs","vsNCCU",22
+1,"14:07","Andrew Rohde misses regular free throw 2 of 2",847,"Missed FT","misses","Andrew Rohde",16,10,"Cavs","vsNCCU",22
+1,"13:54","Keishon Porter defensive rebound",834,"Def Rebound","defensive rebound","Keishon Porter",16,10,"Opp","vsNCCU",23
+1,"13:42","Leon Bond III personal foul",822,"Foul","personal foul","Leon Bond III",16,10,"Opp","vsNCCU",23
+1,"13:37","Perry Smith Jr. turnover (bad pass) (Blake Buchanan steals)",817,"Turnover","turnover","Perry Smith Jr.",16,10,"Cavs","vsNCCU",24
+1,"13:22","Elijah Gertrude makes two point layup (Leon Bond III assists)",802,"Made Two","makes","Elijah Gertrude",18,10,"Opp","vsNCCU",25
+1,"13:20","Perry Smith Jr. misses two point jump shot",800,"Missed Two","misses","Perry Smith Jr.",18,10,"Opp","vsNCCU",25
+1,"13:07","Isaac McKneely defensive rebound",787,"Def Rebound","defensive rebound","Isaac McKneely",18,10,"Cavs","vsNCCU",26
+1,"13:05","Elijah Gertrude misses three point jump shot",785,"Missed Three","misses","Elijah Gertrude",18,10,"Cavs","vsNCCU",26
+1,"13:00","Blake Buchanan offensive rebound",780,"Off Rebound","offensive rebound","Blake Buchanan",18,10,"Cavs","vsNCCU",26
+1,"12:58","Isaac McKneely misses three point jump shot",778,"Missed Three","misses","Isaac McKneely",18,10,"Cavs","vsNCCU",26
+1,"12:35","Po'Boigh King defensive rebound",755,"Def Rebound","defensive rebound","Po'Boigh King",18,10,"Opp","vsNCCU",27
+1,"12:33","Leon Bond III blocks Josh Smith's two point layup",753,"Block","block","Leon Bond III",18,10,"Opp","vsNCCU",27
+1,"12:27","Keishon Porter offensive rebound",747,"Off Rebound","offensive rebound","Keishon Porter",18,10,"Opp","vsNCCU",27
+1,"12:25","Po'Boigh King misses three point jump shot",745,"Missed Three","misses","Po'Boigh King",18,10,"Opp","vsNCCU",27
+1,"12:02","Blake Buchanan defensive rebound",722,"Def Rebound","defensive rebound","Blake Buchanan",18,10,"Cavs","vsNCCU",28
+1,"11:29","Andrew Rohde makes three point jump shot (Blake Buchanan assists)",689,"Made Three","makes","Andrew Rohde",21,10,"Opp","vsNCCU",29
+1,"11:00","Josh Smith makes three point jump shot (Timmy Adedire assists)",660,"Made Three","makes","Josh Smith",21,13,"Cavs","vsNCCU",30
+1,"10:42","Leon Bond III makes two point layup (Andrew Rohde assists)",642,"Made Two","makes","Leon Bond III",23,13,"Opp","vsNCCU",31
+1,"10:37","Josh Smith turnover (lost ball) (Blake Buchanan steals)",637,"Turnover","turnover","Josh Smith",23,13,"Cavs","vsNCCU",32
+1,"10:35","Elijah Gertrude makes two point dunk (Andrew Rohde assists)",635,"Made Two","makes","Elijah Gertrude",25,13,"Opp","vsNCCU",33
+1,"10:35","Eagles 30 second timeout",635,"Timeout","second timeout","Eagles 30",25,13,"Opp","vsNCCU",33
+1,"10:17","TV timeout",617,""," ","TV",25,13,"Opp","vsNCCU",33
+1,"10:00","Elijah Gertrude personal foul",600,"Foul","personal foul","Elijah Gertrude",25,13,"Opp","vsNCCU",33
+1,"9:58","Perry Smith Jr. misses three point jump shot",598,"Missed Three","misses","Perry Smith Jr.",25,13,"Opp","vsNCCU",33
+1,"9:58","Leon Bond III defensive rebound",598,"Def Rebound","defensive rebound","Leon Bond III",25,13,"Cavs","vsNCCU",34
+1,"9:43","Keishon Porter personal foul (Leon Bond III draws the foul)",583,"Foul","personal foul","Keishon Porter",25,13,"Cavs","vsNCCU",34
+1,"9:24","Leon Bond III makes two point jump shot (Taine Murray assists)",564,"Made Two","makes","Leon Bond III",27,13,"Opp","vsNCCU",35
+1,"9:22","Timmy Adedire misses three point jump shot",562,"Missed Three","misses","Timmy Adedire",27,13,"Opp","vsNCCU",35
+1,"9:17","Reece Beekman defensive rebound",557,"Def Rebound","defensive rebound","Reece Beekman",27,13,"Cavs","vsNCCU",36
+1,"8:50","Reece Beekman makes two point layup",530,"Made Two","makes","Reece Beekman",29,13,"Opp","vsNCCU",37
+1,"8:48","Guy Fauntleroy misses two point layup",528,"Missed Two","misses","Guy Fauntleroy",29,13,"Opp","vsNCCU",37
+1,"8:36","Leon Bond III defensive rebound",516,"Def Rebound","defensive rebound","Leon Bond III",29,13,"Cavs","vsNCCU",38
+1,"8:08","Leon Bond III makes two point jump shot (Reece Beekman assists)",488,"Made Two","makes","Leon Bond III",31,13,"Opp","vsNCCU",39
+1,"8:06","Leon Bond III blocks Josh Smith's two point jump shot",486,"Block","block","Leon Bond III",31,13,"Opp","vsNCCU",39
+1,"8:01","Reece Beekman defensive rebound",481,"Def Rebound","defensive rebound","Reece Beekman",31,13,"Cavs","vsNCCU",40
+1,"7:59","Elijah Gertrude misses three point jump shot",479,"Missed Three","misses","Elijah Gertrude",31,13,"Cavs","vsNCCU",40
+1,"7:26","Perry Smith Jr. defensive rebound",446,"Def Rebound","defensive rebound","Perry Smith Jr.",31,13,"Opp","vsNCCU",41
+1,"7:24","Josh Smith misses two point layup",444,"Missed Two","misses","Josh Smith",31,13,"Opp","vsNCCU",41
+1,"7:05","Leon Bond III defensive rebound",425,"Def Rebound","defensive rebound","Leon Bond III",31,13,"Cavs","vsNCCU",42
+1,"7:01","Blake Buchanan turnover (lost ball) (Timmy Adedire steals)",421,"Turnover","turnover","Blake Buchanan",31,13,"Opp","vsNCCU",43
+1,"7:01","Guy Fauntleroy turnover (bad pass)",421,"Turnover","turnover","Guy Fauntleroy",31,13,"Cavs","vsNCCU",44
+1,"6:48","TV timeout",408,""," ","TV",31,13,"Cavs","vsNCCU",44
+1,"6:46","Jacob Groves misses three point jump shot",406,"Missed Three","misses","Jacob Groves",31,13,"Cavs","vsNCCU",44
+1,"6:28","Guy Fauntleroy defensive rebound",388,"Def Rebound","defensive rebound","Guy Fauntleroy",31,13,"Opp","vsNCCU",45
+1,"6:26","Po'Boigh King misses two point jump shot",386,"Missed Two","misses","Po'Boigh King",31,13,"Opp","vsNCCU",45
+1,"6:08","Ryan Dunn defensive rebound",368,"Def Rebound","defensive rebound","Ryan Dunn",31,13,"Cavs","vsNCCU",46
+1,"6:06","Andrew Rohde misses three point jump shot",366,"Missed Three","misses","Andrew Rohde",31,13,"Cavs","vsNCCU",46
+1,"6:05","Ryan Dunn offensive rebound",365,"Off Rebound","offensive rebound","Ryan Dunn",31,13,"Cavs","vsNCCU",46
+1,"5:53","Perry Smith Jr. personal foul (Ryan Dunn draws the foul)",353,"Foul","personal foul","Perry Smith Jr.",31,13,"Cavs","vsNCCU",46
+1,"5:51","Reece Beekman misses two point jump shot",351,"Missed Two","misses","Reece Beekman",31,13,"Cavs","vsNCCU",46
+1,"5:34","Po'Boigh King defensive rebound",334,"Def Rebound","defensive rebound","Po'Boigh King",31,13,"Opp","vsNCCU",47
+1,"5:27","Guy Fauntleroy turnover (lost ball) (Reece Beekman steals)",327,"Turnover","turnover","Guy Fauntleroy",31,13,"Cavs","vsNCCU",48
+1,"5:01","Ryan Dunn makes two point dunk (Isaac McKneely assists)",301,"Made Two","makes","Ryan Dunn",33,13,"Opp","vsNCCU",49
+1,"5:01","Jacob Groves shooting foul (Keishon Porter draws the foul)",301,"Foul","shooting foul","Jacob Groves",33,13,"Opp","vsNCCU",49
+1,"5:01","Keishon Porter makes regular free throw 1 of 2",301,"Made FT","makes","Keishon Porter",33,14,"Opp","vsNCCU",49
+1,"4:46","Keishon Porter makes regular free throw 2 of 2",286,"Made FT","makes","Keishon Porter",33,15,"Cavs","vsNCCU",50
+1,"4:41","Jordan Minor turnover (bad pass) (Po'Boigh King steals)",281,"Turnover","turnover","Jordan Minor",33,15,"Opp","vsNCCU",51
+1,"4:16","Po'Boigh King makes two point dunk",256,"Made Two","makes","Po'Boigh King",33,17,"Cavs","vsNCCU",52
+1,"3:45","Ryan Dunn makes two point layup (Jacob Groves assists)",225,"Made Two","makes","Ryan Dunn",35,17,"Opp","vsNCCU",53
+1,"3:43","Josh Smith misses two point layup",223,"Missed Two","misses","Josh Smith",35,17,"Opp","vsNCCU",53
+1,"3:40","Ryan Dunn defensive rebound",220,"Def Rebound","defensive rebound","Ryan Dunn",35,17,"Cavs","vsNCCU",54
+1,"3:15","TV timeout",195,""," ","TV",35,17,"Cavs","vsNCCU",54
+1,"2:39","Leon Bond III makes three point jump shot (Jordan Minor assists)",159,"Made Three","makes","Leon Bond III",38,17,"Opp","vsNCCU",55
+1,"2:37","Po'Boigh King misses two point jump shot",157,"Missed Two","misses","Po'Boigh King",38,17,"Opp","vsNCCU",55
+1,"2:18","Jordan Minor defensive rebound",138,"Def Rebound","defensive rebound","Jordan Minor",38,17,"Cavs","vsNCCU",56
+1,"2:16","Jordan Minor misses two point layup",136,"Missed Two","misses","Jordan Minor",38,17,"Cavs","vsNCCU",56
+1,"2:12","Perry Smith Jr. defensive rebound",132,"Def Rebound","defensive rebound","Perry Smith Jr.",38,17,"Opp","vsNCCU",57
+1,"1:51","Ryan Dunn blocks Keishon Porter's two point layup",111,"Block","block","Ryan Dunn",38,17,"Opp","vsNCCU",57
+1,"1:51","Cavaliers defensive rebound",111,"Def Rebound","defensive rebound","Cavaliers",38,17,"Cavs","vsNCCU",58
+1,"1:28","Elijah Gertrude makes three point jump shot (Leon Bond III assists)",88,"Made Three","makes","Elijah Gertrude",41,17,"Opp","vsNCCU",59
+1,"1:28","Official timeout",88,""," ","Official",41,17,"Opp","vsNCCU",59
+1,"1:14","Elijah Gertrude personal foul (Po'Boigh King draws the foul)",74,"Foul","personal foul","Elijah Gertrude",41,17,"Opp","vsNCCU",59
+1,"1:12","Cobey Harraway misses two point jump shot",72,"Missed Two","misses","Cobey Harraway",41,17,"Opp","vsNCCU",59
+1,"1:01","Leon Bond III defensive rebound",61,"Def Rebound","defensive rebound","Leon Bond III",41,17,"Cavs","vsNCCU",60
+1,"0:40","Keishon Porter personal foul (Ryan Dunn draws the foul)",40,"Foul","personal foul","Keishon Porter",41,17,"Cavs","vsNCCU",60
+1,"0:38","Blake Buchanan misses two point jump shot",38,"Missed Two","misses","Blake Buchanan",41,17,"Cavs","vsNCCU",60
+1,"0:33","Cobey Harraway defensive rebound",33,"Def Rebound","defensive rebound","Cobey Harraway",41,17,"Opp","vsNCCU",61
+1,"0:31","Po'Boigh King misses three point jump shot",31,"Missed Three","misses","Po'Boigh King",41,17,"Opp","vsNCCU",61
+1,"0:06","Ryan Dunn defensive rebound",6,"Def Rebound","defensive rebound","Ryan Dunn",41,17,"Cavs","vsNCCU",62
+1,"0:04","Leon Bond III misses two point jump shot",4,"Missed Two","misses","Leon Bond III",41,17,"Cavs","vsNCCU",62
+2,"20:00","2ND HALF",1200,""," ","2ND",41,17,"Cavs","vsNCCU",62
+2,"19:44","Open inbound Cavaliers",1184,""," ","Open",41,17,"Cavs","vsNCCU",62
+2,"19:42","Isaac McKneely misses two point jump shot",1182,"Missed Two","misses","Isaac McKneely",41,17,"Cavs","vsNCCU",62
+2,"19:28","Keishon Porter defensive rebound",1168,"Def Rebound","defensive rebound","Keishon Porter",41,17,"Opp","vsNCCU",63
+2,"19:26","Cobey Harraway misses three point jump shot",1166,"Missed Three","misses","Cobey Harraway",41,17,"Opp","vsNCCU",63
+2,"19:22","Josh Smith offensive rebound",1162,"Off Rebound","offensive rebound","Josh Smith",41,17,"Opp","vsNCCU",63
+2,"19:20","Josh Smith misses two point jump shot",1160,"Missed Two","misses","Josh Smith",41,17,"Opp","vsNCCU",63
+2,"19:18","Cobey Harraway offensive rebound",1158,"Off Rebound","offensive rebound","Cobey Harraway",41,17,"Opp","vsNCCU",63
+2,"19:18","Ryan Dunn shooting foul (Cobey Harraway draws the foul)",1158,"Foul","shooting foul","Ryan Dunn",41,17,"Opp","vsNCCU",63
+2,"19:18","Cobey Harraway makes regular free throw 1 of 2",1158,"Made FT","makes","Cobey Harraway",41,18,"Opp","vsNCCU",63
+2,"19:18","Cobey Harraway misses regular free throw 2 of 2",1158,"Missed FT","misses","Cobey Harraway",41,18,"Opp","vsNCCU",63
+2,"19:06","Jacob Groves defensive rebound",1146,"Def Rebound","defensive rebound","Jacob Groves",41,18,"Cavs","vsNCCU",64
+2,"18:51","Reece Beekman makes two point layup",1131,"Made Two","makes","Reece Beekman",43,18,"Opp","vsNCCU",65
+2,"18:46","Jacob Groves personal foul",1126,"Foul","personal foul","Jacob Groves",43,18,"Opp","vsNCCU",65
+2,"18:40","Josh Smith turnover (lost ball) (Reece Beekman steals)",1120,"Turnover","turnover","Josh Smith",43,18,"Cavs","vsNCCU",66
+2,"18:14","Ryan Dunn makes two point dunk (Reece Beekman assists)",1094,"Made Two","makes","Ryan Dunn",45,18,"Opp","vsNCCU",67
+2,"18:12","Po'Boigh King misses two point jump shot",1092,"Missed Two","misses","Po'Boigh King",45,18,"Opp","vsNCCU",67
+2,"18:03","Ryan Dunn defensive rebound",1083,"Def Rebound","defensive rebound","Ryan Dunn",45,18,"Cavs","vsNCCU",68
+2,"17:50","Official timeout",1070,""," ","Official",45,18,"Cavs","vsNCCU",68
+2,"17:45","Andrew Rohde turnover (bad pass) (Po'Boigh King steals)",1065,"Turnover","turnover","Andrew Rohde",45,18,"Opp","vsNCCU",69
+2,"17:43","Isaac McKneely blocks Po'Boigh King's two point layup",1063,"Block","block","Isaac McKneely",45,18,"Opp","vsNCCU",69
+2,"17:35","Reece Beekman defensive rebound",1055,"Def Rebound","defensive rebound","Reece Beekman",45,18,"Cavs","vsNCCU",70
+2,"17:18","Jacob Groves makes two point layup (Reece Beekman assists)",1038,"Made Two","makes","Jacob Groves",47,18,"Opp","vsNCCU",71
+2,"17:16","Po'Boigh King misses three point jump shot",1036,"Missed Three","misses","Po'Boigh King",47,18,"Opp","vsNCCU",71
+2,"17:06","Ryan Dunn defensive rebound",1026,"Def Rebound","defensive rebound","Ryan Dunn",47,18,"Cavs","vsNCCU",72
+2,"16:34","Isaac McKneely makes three point jump shot (Reece Beekman assists)",994,"Made Three","makes","Isaac McKneely",50,18,"Opp","vsNCCU",73
+2,"16:11","Perry Smith Jr. makes two point layup (Guy Fauntleroy assists)",971,"Made Two","makes","Perry Smith Jr.",50,20,"Cavs","vsNCCU",74
+2,"16:09","Andrew Rohde misses three point jump shot",969,"Missed Three","misses","Andrew Rohde",50,20,"Cavs","vsNCCU",74
+2,"15:48","Cobey Harraway defensive rebound",948,"Def Rebound","defensive rebound","Cobey Harraway",50,20,"Opp","vsNCCU",75
+2,"15:46","Keishon Porter misses three point jump shot",946,"Missed Three","misses","Keishon Porter",50,20,"Opp","vsNCCU",75
+2,"15:45","Cavaliers defensive rebound",945,"Def Rebound","defensive rebound","Cavaliers",50,20,"Cavs","vsNCCU",76
+2,"15:19","TV timeout",919,""," ","TV",50,20,"Cavs","vsNCCU",76
+2,"15:19","Guy Fauntleroy shooting foul (Reece Beekman draws the foul)",919,"Foul","shooting foul","Guy Fauntleroy",50,20,"Cavs","vsNCCU",76
+2,"15:19","Reece Beekman makes regular free throw 1 of 2",919,"Made FT","makes","Reece Beekman",51,20,"Cavs","vsNCCU",76
+2,"15:03","Reece Beekman makes regular free throw 2 of 2",903,"Made FT","makes","Reece Beekman",52,20,"Opp","vsNCCU",77
+2,"14:42","Perry Smith Jr. makes two point layup",882,"Made Two","makes","Perry Smith Jr.",52,22,"Cavs","vsNCCU",78
+2,"14:22","Elijah Gertrude makes two point layup",862,"Made Two","makes","Elijah Gertrude",54,22,"Opp","vsNCCU",79
+2,"14:20","Guy Fauntleroy misses three point jump shot",860,"Missed Three","misses","Guy Fauntleroy",54,22,"Opp","vsNCCU",79
+2,"14:16","Perry Smith Jr. offensive rebound",856,"Off Rebound","offensive rebound","Perry Smith Jr.",54,22,"Opp","vsNCCU",79
+2,"14:00","Perry Smith Jr. makes two point layup",840,"Made Two","makes","Perry Smith Jr.",54,24,"Cavs","vsNCCU",80
+2,"13:58","Reece Beekman misses three point jump shot",838,"Missed Three","misses","Reece Beekman",54,24,"Cavs","vsNCCU",80
+2,"13:57","Po'Boigh King defensive rebound",837,"Def Rebound","defensive rebound","Po'Boigh King",54,24,"Opp","vsNCCU",81
+2,"13:42","Blake Buchanan personal foul (Po'Boigh King draws the foul)",822,"Foul","personal foul","Blake Buchanan",54,24,"Opp","vsNCCU",81
+2,"13:37","Po'Boigh King turnover (lost ball) (Reece Beekman steals)",817,"Turnover","turnover","Po'Boigh King",54,24,"Cavs","vsNCCU",82
+2,"13:35","Keishon Porter blocks Reece Beekman's two point layup",815,"Block","block","Keishon Porter",54,24,"Cavs","vsNCCU",82
+2,"13:29","Leon Bond III offensive rebound",809,"Off Rebound","offensive rebound","Leon Bond III",54,24,"Cavs","vsNCCU",82
+2,"13:08","Leon Bond III makes two point layup",788,"Made Two","makes","Leon Bond III",56,24,"Opp","vsNCCU",83
+2,"13:08","Keishon Porter makes two point jump shot",788,"Made Two","makes","Keishon Porter",56,26,"Opp","vsNCCU",83
+2,"13:08","Elijah Gertrude shooting foul (Keishon Porter draws the foul)",788,"Foul","shooting foul","Elijah Gertrude",56,26,"Opp","vsNCCU",83
+2,"12:47","Keishon Porter makes regular free throw 1 of 1",767,"Made FT","makes","Keishon Porter",56,27,"Cavs","vsNCCU",84
+2,"12:45","Elijah Gertrude misses three point jump shot",765,"Missed Three","misses","Elijah Gertrude",56,27,"Cavs","vsNCCU",84
+2,"12:45","Blake Buchanan offensive rebound",765,"Off Rebound","offensive rebound","Blake Buchanan",56,27,"Cavs","vsNCCU",84
+2,"12:44","Perry Smith Jr. personal foul (Blake Buchanan draws the foul)",764,"Foul","personal foul","Perry Smith Jr.",56,27,"Cavs","vsNCCU",84
+2,"12:42","Keishon Porter personal foul (Leon Bond III draws the foul)",762,"Foul","personal foul","Keishon Porter",56,27,"Cavs","vsNCCU",84
+2,"12:17","Isaac McKneely makes two point jump shot (Elijah Gertrude assists)",737,"Made Two","makes","Isaac McKneely",58,27,"Opp","vsNCCU",85
+2,"12:15","Josh Smith misses two point jump shot",735,"Missed Two","misses","Josh Smith",58,27,"Opp","vsNCCU",85
+2,"12:15","Keishon Porter offensive rebound",735,"Off Rebound","offensive rebound","Keishon Porter",58,27,"Opp","vsNCCU",85
+2,"12:12","Leon Bond III personal foul (Keishon Porter draws the foul)",732,"Foul","personal foul","Leon Bond III",58,27,"Opp","vsNCCU",85
+2,"12:12","Josh Smith makes two point layup (Po'Boigh King assists)",732,"Made Two","makes","Josh Smith",58,29,"Opp","vsNCCU",85
+2,"12:12","Taine Murray shooting foul (Josh Smith draws the foul)",732,"Foul","shooting foul","Taine Murray",58,29,"Opp","vsNCCU",85
+2,"12:06","Josh Smith makes regular free throw 1 of 1",726,"Made FT","makes","Josh Smith",58,30,"Cavs","vsNCCU",86
+2,"11:49","Josh Smith personal foul (Isaac McKneely draws the foul)",709,"Foul","personal foul","Josh Smith",58,30,"Cavs","vsNCCU",86
+2,"11:29","Leon Bond III makes two point jump shot",689,"Made Two","makes","Leon Bond III",60,30,"Opp","vsNCCU",87
+2,"11:27","Po'Boigh King misses two point jump shot",687,"Missed Two","misses","Po'Boigh King",60,30,"Opp","vsNCCU",87
+2,"11:22","Taine Murray defensive rebound",682,"Def Rebound","defensive rebound","Taine Murray",60,30,"Cavs","vsNCCU",88
+2,"10:48","Isaac McKneely makes three point jump shot (Leon Bond III assists)",648,"Made Three","makes","Isaac McKneely",63,30,"Opp","vsNCCU",89
+2,"10:46","Josh Smith misses two point layup",646,"Missed Two","misses","Josh Smith",63,30,"Opp","vsNCCU",89
+2,"10:36","Leon Bond III defensive rebound",636,"Def Rebound","defensive rebound","Leon Bond III",63,30,"Cavs","vsNCCU",90
+2,"10:28","Blake Buchanan makes two point hook shot (Andrew Rohde assists)",628,"Made Two","makes","Blake Buchanan",65,30,"Opp","vsNCCU",91
+2,"10:28","Eagles 30 second timeout",628,"Timeout","second timeout","Eagles 30",65,30,"Opp","vsNCCU",91
+2,"10:09","TV timeout",609,""," ","TV",65,30,"Opp","vsNCCU",91
+2,"10:07","Guy Fauntleroy misses two point jump shot",607,"Missed Two","misses","Guy Fauntleroy",65,30,"Opp","vsNCCU",91
+2,"10:01","Keishon Porter offensive rebound",601,"Off Rebound","offensive rebound","Keishon Porter",65,30,"Opp","vsNCCU",91
+2,"9:59","Blake Buchanan blocks Keishon Porter's two point layup",599,"Block","block","Blake Buchanan",65,30,"Opp","vsNCCU",91
+2,"9:46","Leon Bond III defensive rebound",586,"Def Rebound","defensive rebound","Leon Bond III",65,30,"Cavs","vsNCCU",92
+2,"9:22","Blake Buchanan makes two point layup (Andrew Rohde assists)",562,"Made Two","makes","Blake Buchanan",67,30,"Opp","vsNCCU",93
+2,"9:20","Po'Boigh King misses two point layup",560,"Missed Two","misses","Po'Boigh King",67,30,"Opp","vsNCCU",93
+2,"9:16","Po'Boigh King offensive rebound",556,"Off Rebound","offensive rebound","Po'Boigh King",67,30,"Opp","vsNCCU",93
+2,"8:54","Po'Boigh King makes two point layup",534,"Made Two","makes","Po'Boigh King",67,32,"Cavs","vsNCCU",94
+2,"8:52","Andrew Rohde misses two point jump shot",532,"Missed Two","misses","Andrew Rohde",67,32,"Cavs","vsNCCU",94
+2,"8:51","Josh Smith defensive rebound",531,"Def Rebound","defensive rebound","Josh Smith",67,32,"Opp","vsNCCU",95
+2,"8:51","Ryan Dunn personal foul (Josh Smith draws the foul)",531,"Foul","personal foul","Ryan Dunn",67,32,"Opp","vsNCCU",95
+2,"8:51","TV timeout",531,""," ","TV",67,32,"Opp","vsNCCU",95
+2,"8:51","Josh Smith makes regular free throw 1 of 2",531,"Made FT","makes","Josh Smith",67,33,"Opp","vsNCCU",95
+2,"8:51","Josh Smith misses regular free throw 2 of 2",531,"Missed FT","misses","Josh Smith",67,33,"Opp","vsNCCU",95
+2,"8:21","Leon Bond III defensive rebound",501,"Def Rebound","defensive rebound","Leon Bond III",67,33,"Cavs","vsNCCU",96
+2,"8:19","Elijah Gertrude misses two point jump shot",499,"Missed Two","misses","Elijah Gertrude",67,33,"Cavs","vsNCCU",96
+2,"8:18","Blake Buchanan offensive rebound",498,"Off Rebound","offensive rebound","Blake Buchanan",67,33,"Cavs","vsNCCU",96
+2,"8:16","Perry Smith Jr. blocks Blake Buchanan's two point layup",496,"Block","block","Perry Smith Jr.",67,33,"Cavs","vsNCCU",96
+2,"8:10","Cavaliers offensive rebound",490,"Off Rebound","offensive rebound","Cavaliers",67,33,"Cavs","vsNCCU",96
+2,"7:49","Elijah Gertrude makes two point jump shot",469,"Made Two","makes","Elijah Gertrude",69,33,"Opp","vsNCCU",97
+2,"7:47","Keishon Porter misses two point jump shot",467,"Missed Two","misses","Keishon Porter",69,33,"Opp","vsNCCU",97
+2,"7:30","Leon Bond III defensive rebound",450,"Def Rebound","defensive rebound","Leon Bond III",69,33,"Cavs","vsNCCU",98
+2,"7:28","Leon Bond III misses two point jump shot",448,"Missed Two","misses","Leon Bond III",69,33,"Cavs","vsNCCU",98
+2,"7:20","Josh Smith defensive rebound",440,"Def Rebound","defensive rebound","Josh Smith",69,33,"Opp","vsNCCU",99
+2,"7:20","Leon Bond III personal foul (Josh Smith draws the foul)",440,"Foul","personal foul","Leon Bond III",69,33,"Opp","vsNCCU",99
+2,"7:20","TV timeout",440,""," ","TV",69,33,"Opp","vsNCCU",99
+2,"7:20","Josh Smith misses regular free throw 1 of 2",440,"Missed FT","misses","Josh Smith",69,33,"Opp","vsNCCU",99
+2,"7:00","Josh Smith makes regular free throw 2 of 2",420,"Made FT","makes","Josh Smith",69,34,"Cavs","vsNCCU",100
+2,"6:58","Perry Smith Jr. blocks Jordan Minor's two point layup",418,"Block","block","Perry Smith Jr.",69,34,"Cavs","vsNCCU",100
+2,"6:48","Keishon Porter defensive rebound",408,"Def Rebound","defensive rebound","Keishon Porter",69,34,"Opp","vsNCCU",101
+2,"6:46","Guy Fauntleroy misses three point jump shot",406,"Missed Three","misses","Guy Fauntleroy",69,34,"Opp","vsNCCU",101
+2,"6:31","Taine Murray defensive rebound",391,"Def Rebound","defensive rebound","Taine Murray",69,34,"Cavs","vsNCCU",102
+2,"6:31","Guy Fauntleroy shooting foul (Leon Bond III draws the foul)",391,"Foul","shooting foul","Guy Fauntleroy",69,34,"Cavs","vsNCCU",102
+2,"6:31","Leon Bond III misses regular free throw 1 of 2",391,"Missed FT","misses","Leon Bond III",69,34,"Cavs","vsNCCU",102
+2,"6:15","Leon Bond III makes regular free throw 2 of 2",375,"Made FT","makes","Leon Bond III",70,34,"Opp","vsNCCU",103
+2,"6:15","Jordan Minor shooting foul (Keishon Porter draws the foul)",375,"Foul","shooting foul","Jordan Minor",70,34,"Opp","vsNCCU",103
+2,"6:15","Keishon Porter makes regular free throw 1 of 2",375,"Made FT","makes","Keishon Porter",70,35,"Opp","vsNCCU",103
+2,"6:15","Keishon Porter misses regular free throw 2 of 2",375,"Missed FT","misses","Keishon Porter",70,35,"Opp","vsNCCU",103
+2,"5:53","Blake Buchanan defensive rebound",353,"Def Rebound","defensive rebound","Blake Buchanan",70,35,"Cavs","vsNCCU",104
+2,"5:39","Blake Buchanan makes two point dunk (Jordan Minor assists)",339,"Made Two","makes","Blake Buchanan",72,35,"Opp","vsNCCU",105
+2,"5:37","Po'Boigh King misses two point jump shot",337,"Missed Two","misses","Po'Boigh King",72,35,"Opp","vsNCCU",105
+2,"5:22","Taine Murray defensive rebound",322,"Def Rebound","defensive rebound","Taine Murray",72,35,"Cavs","vsNCCU",106
+2,"4:49","Elijah Gertrude makes two point jump shot",289,"Made Two","makes","Elijah Gertrude",74,35,"Opp","vsNCCU",107
+2,"4:49","Elijah Gertrude shooting foul (Guy Fauntleroy draws the foul)",289,"Foul","shooting foul","Elijah Gertrude",74,35,"Opp","vsNCCU",107
+2,"4:49","Guy Fauntleroy makes regular free throw 1 of 3",289,"Made FT","makes","Guy Fauntleroy",74,36,"Opp","vsNCCU",107
+2,"4:49","Guy Fauntleroy makes regular free throw 2 of 3",289,"Made FT","makes","Guy Fauntleroy",74,37,"Opp","vsNCCU",107
+2,"4:30","Guy Fauntleroy makes regular free throw 3 of 3",270,"Made FT","makes","Guy Fauntleroy",74,38,"Cavs","vsNCCU",108
+2,"4:28","Jordan Minor misses two point layup",268,"Missed Two","misses","Jordan Minor",74,38,"Cavs","vsNCCU",108
+2,"4:19","Keishon Porter defensive rebound",259,"Def Rebound","defensive rebound","Keishon Porter",74,38,"Opp","vsNCCU",109
+2,"3:58","Guy Fauntleroy makes three point jump shot",238,"Made Three","makes","Guy Fauntleroy",74,41,"Cavs","vsNCCU",110
+2,"3:56","Elijah Gertrude misses three point jump shot",236,"Missed Three","misses","Elijah Gertrude",74,41,"Cavs","vsNCCU",110
+2,"3:49","Kye Dickson defensive rebound",229,"Def Rebound","defensive rebound","Kye Dickson",74,41,"Opp","vsNCCU",111
+2,"3:47","Josh Smith misses three point jump shot",227,"Missed Three","misses","Josh Smith",74,41,"Opp","vsNCCU",111
+2,"3:24","Jordan Minor defensive rebound",204,"Def Rebound","defensive rebound","Jordan Minor",74,41,"Cavs","vsNCCU",112
+2,"3:24","Kye Dickson shooting foul (Blake Buchanan draws the foul)",204,"Foul","shooting foul","Kye Dickson",74,41,"Cavs","vsNCCU",112
+2,"3:24","TV timeout",204,""," ","TV",74,41,"Cavs","vsNCCU",112
+2,"3:24","Blake Buchanan makes regular free throw 1 of 2",204,"Made FT","makes","Blake Buchanan",75,41,"Cavs","vsNCCU",112
+2,"3:24","Blake Buchanan misses regular free throw 2 of 2",204,"Missed FT","misses","Blake Buchanan",75,41,"Cavs","vsNCCU",112
+2,"3:09","Kye Dickson defensive rebound",189,"Def Rebound","defensive rebound","Kye Dickson",75,41,"Opp","vsNCCU",113
+2,"3:09","Jordan Minor personal foul (Kye Dickson draws the foul)",189,"Foul","personal foul","Jordan Minor",75,41,"Opp","vsNCCU",113
+2,"3:09","Kye Dickson misses regular free throw 1 of 2",189,"Missed FT","misses","Kye Dickson",75,41,"Opp","vsNCCU",113
+2,"3:09","Kye Dickson misses regular free throw 2 of 2",189,"Missed FT","misses","Kye Dickson",75,41,"Opp","vsNCCU",113
+2,"2:52","Blake Buchanan defensive rebound",172,"Def Rebound","defensive rebound","Blake Buchanan",75,41,"Cavs","vsNCCU",114
+2,"2:46","Jordan Minor turnover (lost ball) (Timmy Adedire steals)",166,"Turnover","turnover","Jordan Minor",75,41,"Opp","vsNCCU",115
+2,"2:46","Blake Buchanan shooting foul (Kye Dickson draws the foul)",166,"Foul","shooting foul","Blake Buchanan",75,41,"Opp","vsNCCU",115
+2,"2:46","Kye Dickson makes regular free throw 1 of 2",166,"Made FT","makes","Kye Dickson",75,42,"Opp","vsNCCU",115
+2,"2:46","Kye Dickson misses regular free throw 2 of 2",166,"Missed FT","misses","Kye Dickson",75,42,"Opp","vsNCCU",115
+2,"2:36","Jordan Minor defensive rebound",156,"Def Rebound","defensive rebound","Jordan Minor",75,42,"Cavs","vsNCCU",116
+2,"2:34","Blake Buchanan misses two point dunk",154,"Missed Two","misses","Blake Buchanan",75,42,"Cavs","vsNCCU",116
+2,"2:31","Perry Smith Jr. defensive rebound",151,"Def Rebound","defensive rebound","Perry Smith Jr.",75,42,"Opp","vsNCCU",117
+2,"2:31","Taine Murray shooting foul (Guy Fauntleroy draws the foul)",151,"Foul","shooting foul","Taine Murray",75,42,"Opp","vsNCCU",117
+2,"2:31","Guy Fauntleroy makes regular free throw 1 of 2",151,"Made FT","makes","Guy Fauntleroy",75,43,"Opp","vsNCCU",117
+2,"2:07","Guy Fauntleroy makes regular free throw 2 of 2",127,"Made FT","makes","Guy Fauntleroy",75,44,"Cavs","vsNCCU",118
+2,"2:05","Jordan Minor misses two point layup",125,"Missed Two","misses","Jordan Minor",75,44,"Cavs","vsNCCU",118
+2,"1:55","Timmy Adedire defensive rebound",115,"Def Rebound","defensive rebound","Timmy Adedire",75,44,"Opp","vsNCCU",119
+2,"1:48","Guy Fauntleroy turnover (bad pass)",108,"Turnover","turnover","Guy Fauntleroy",75,44,"Cavs","vsNCCU",120
+2,"1:43","Taine Murray turnover (bad pass) (Kye Dickson steals)",103,"Turnover","turnover","Taine Murray",75,44,"Opp","vsNCCU",121
+2,"1:18","Guy Fauntleroy makes three point jump shot (Kye Dickson assists)",78,"Made Three","makes","Guy Fauntleroy",75,47,"Cavs","vsNCCU",122
+2,"1:16","Bryce Walker misses two point jump shot",76,"Missed Two","misses","Bryce Walker",75,47,"Cavs","vsNCCU",122
+2,"1:09","Kye Dickson defensive rebound",69,"Def Rebound","defensive rebound","Kye Dickson",75,47,"Opp","vsNCCU",123
+2,"1:07","Terrence Crawford misses three point jump shot",67,"Missed Three","misses","Terrence Crawford",75,47,"Opp","vsNCCU",123
+2,"0:51","Taine Murray defensive rebound",51,"Def Rebound","defensive rebound","Taine Murray",75,47,"Cavs","vsNCCU",124
+2,"0:21","Blake Buchanan makes two point jump shot (Tristan How assists)",21,"Made Two","makes","Blake Buchanan",77,47,"Opp","vsNCCU",125
+2,"0:19","Guy Fauntleroy misses three point jump shot",19,"Missed Three","misses","Guy Fauntleroy",77,47,"Opp","vsNCCU",125
+2,"0:19","End of 2nd Half.",19,""," ","End",77,47,"Opp","vsNCCU",125
+2,"0:00","Perry Smith Jr. defensive rebound",0,"Def Rebound","defensive rebound","Perry Smith Jr.",77,47,"Cavs","vsNCCU",126
+2,"0:00","Cavaliers defensive rebound",0,"Def Rebound","defensive rebound","Cavaliers",77,47,"Opp","vsNCCU",127
+2,"0:00","Cavaliers defensive rebound",0,"Def Rebound","defensive rebound","Cavaliers",77,47,"Cavs","vsNCCU",128
