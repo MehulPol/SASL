@@ -1,0 +1,310 @@
+"Half","Time","Description","Time_in_sec","Event","Token","Player","UVA_score","Opp_score","Possession","Opps","Possession Number"
+1,"20:00","1ST HALF",1200,""," ","1ST",0,0,"Cavs","vsSYR",1
+1,"20:00","Cavaliers lineup change (Isaac McKneely,Reece Beekman,Andrew Rohde,Ryan Dunn,Jacob Groves)",1200,"Cav Sub"," ","Cavaliers",0,0,"","vsSYR",2
+1,"19:37","Naheem McLeod vs. Ryan Dunn (Orange gains possession)",1177,""," ","Naheem",0,0,"Opp","vsSYR",3
+1,"19:35","J.J. Starling misses two point jump shot",1175,"Missed Two","misses","J.J. Starling",0,0,"Opp","vsSYR",3
+1,"19:16","Cavaliers defensive rebound",1156,"Def Rebound","defensive rebound","Cavaliers",0,0,"Cavs","vsSYR",4
+1,"19:14","Jacob Groves misses two point jump shot",1154,"Missed Two","misses","Jacob Groves",0,0,"Cavs","vsSYR",4
+1,"18:54","Naheem McLeod defensive rebound",1134,"Def Rebound","defensive rebound","Naheem McLeod",0,0,"Opp","vsSYR",5
+1,"18:38","Naheem McLeod makes two point dunk (Judah Mintz assists)",1118,"Made Two","makes","Naheem McLeod",0,2,"Cavs","vsSYR",6
+1,"18:36","Ryan Dunn misses three point jump shot",1116,"Missed Three","misses","Ryan Dunn",0,2,"Cavs","vsSYR",6
+1,"18:08","Naheem McLeod defensive rebound",1088,"Def Rebound","defensive rebound","Naheem McLeod",0,2,"Opp","vsSYR",7
+1,"17:35","Chris Bell makes three point jump shot (Justin Taylor assists)",1055,"Made Three","makes","Chris Bell",0,5,"Cavs","vsSYR",8
+1,"17:26","J.J. Starling personal foul (Isaac McKneely draws the foul)",1046,"Foul","personal foul","J.J. Starling",0,5,"Cavs","vsSYR",8
+1,"17:24","Andrew Rohde misses three point jump shot",1044,"Missed Three","misses","Andrew Rohde",0,5,"Cavs","vsSYR",8
+1,"17:23","Jacob Groves offensive rebound",1043,"Off Rebound","offensive rebound","Jacob Groves",0,5,"Cavs","vsSYR",8
+1,"17:23","Justin Taylor shooting foul (Jacob Groves draws the foul)",1043,"Foul","shooting foul","Justin Taylor",0,5,"Cavs","vsSYR",8
+1,"17:23","Jacob Groves misses regular free throw 1 of 2",1043,"Missed FT","misses","Jacob Groves",0,5,"Cavs","vsSYR",8
+1,"17:09","Jacob Groves makes regular free throw 2 of 2",1029,"Made FT","makes","Jacob Groves",1,5,"Opp","vsSYR",9
+1,"17:07","Judah Mintz misses two point layup",1027,"Missed Two","misses","Judah Mintz",1,5,"Opp","vsSYR",9
+1,"16:57","Jacob Groves defensive rebound",1017,"Def Rebound","defensive rebound","Jacob Groves",1,5,"Cavs","vsSYR",10
+1,"16:32","Reece Beekman makes two point jump shot (Andrew Rohde assists)",992,"Made Two","makes","Reece Beekman",3,5,"Opp","vsSYR",11
+1,"16:30","Justin Taylor misses three point jump shot",990,"Missed Three","misses","Justin Taylor",3,5,"Opp","vsSYR",11
+1,"16:16","Jacob Groves defensive rebound",976,"Def Rebound","defensive rebound","Jacob Groves",3,5,"Cavs","vsSYR",12
+1,"16:14","Jacob Groves misses three point jump shot",974,"Missed Three","misses","Jacob Groves",3,5,"Cavs","vsSYR",12
+1,"15:53","Judah Mintz defensive rebound",953,"Def Rebound","defensive rebound","Judah Mintz",3,5,"Opp","vsSYR",13
+1,"15:53","Jump ball. Naheem McLeod vs. Ryan Dunn (Cavaliers gains possession)",953,"Jump Ball"," ","Jump",3,5,"Cavs","vsSYR",14
+1,"15:53","Naheem McLeod turnover (lost ball) (Ryan Dunn steals)",953,"Turnover","turnover","Naheem McLeod",3,5,"Opp","vsSYR",15
+1,"15:38","TV timeout",938,""," ","TV",3,5,"Opp","vsSYR",15
+1,"15:17","Isaac McKneely makes two point layup",917,"Made Two","makes","Isaac McKneely",5,5,"Cavs","vsSYR",16
+1,"15:15","Judah Mintz misses two point jump shot",915,"Missed Two","misses","Judah Mintz",5,5,"Cavs","vsSYR",16
+1,"15:04","Judah Mintz offensive rebound",904,"Off Rebound","offensive rebound","Judah Mintz",5,5,"Cavs","vsSYR",16
+1,"15:02","Judah Mintz misses two point layup",902,"Missed Two","misses","Judah Mintz",5,5,"Cavs","vsSYR",16
+1,"14:57","Isaac McKneely defensive rebound",897,"Def Rebound","defensive rebound","Isaac McKneely",5,5,"Opp","vsSYR",17
+1,"14:37","Reece Beekman makes two point layup",877,"Made Two","makes","Reece Beekman",7,5,"Cavs","vsSYR",18
+1,"14:35","Chris Bell misses three point jump shot",875,"Missed Three","misses","Chris Bell",7,5,"Cavs","vsSYR",18
+1,"14:24","Isaac McKneely defensive rebound",864,"Def Rebound","defensive rebound","Isaac McKneely",7,5,"Opp","vsSYR",19
+1,"14:22","Andrew Rohde misses two point jump shot",862,"Missed Two","misses","Andrew Rohde",7,5,"Opp","vsSYR",19
+1,"13:55","Justin Taylor defensive rebound",835,"Def Rebound","defensive rebound","Justin Taylor",7,5,"Cavs","vsSYR",20
+1,"13:33","J.J. Starling makes three point jump shot (Chris Bell assists)",813,"Made Three","makes","J.J. Starling",7,8,"Opp","vsSYR",21
+1,"13:10","Isaac McKneely makes three point jump shot (Ryan Dunn assists)",790,"Made Three","makes","Isaac McKneely",10,8,"Cavs","vsSYR",22
+1,"13:10","Justin Taylor turnover (traveling)",790,"Turnover","turnover","Justin Taylor",10,8,"Opp","vsSYR",23
+1,"13:10","Orange lineup change (J.J. Starling, Judah Mintz, Chris Bell, Justin Taylor, Maliq Brown)",790,"Opp Sub"," ","Orange",10,8,"Opp","vsSYR",23
+1,"12:40","Cavaliers lineup change (Reece Beekman, Blake Buchanan, Isaac McKneely, Ryan Dunn, Elijah Gertrude)",760,"Cav Sub"," ","Cavaliers",10,8,"Opp","vsSYR",23
+1,"12:38","Isaac McKneely misses three point jump shot",758,"Missed Three","misses","Isaac McKneely",10,8,"Opp","vsSYR",23
+1,"12:38","Cavaliers offensive rebound",758,"Off Rebound","offensive rebound","Cavaliers",10,8,"Opp","vsSYR",23
+1,"12:13","Cavaliers turnover (shot clock violation)",733,"Turnover","turnover","Cavaliers",10,8,"Cavs","vsSYR",24
+1,"11:52","Justin Taylor makes three point jump shot (J.J. Starling assists)",712,"Made Three","makes","Justin Taylor",10,11,"Opp","vsSYR",25
+1,"11:52","Maliq Brown shooting foul (Elijah Gertrude draws the foul)",712,"Foul","shooting foul","Maliq Brown",10,11,"Opp","vsSYR",25
+1,"11:52","TV timeout",712,""," ","TV",10,11,"Opp","vsSYR",25
+1,"11:52","Cavaliers lineup change (Blake Buchanan, Reece Beekman, Isaac McKneely, Elijah Gertrude, Leon Bond III)",712,"Cav Sub"," ","Cavaliers",10,11,"Opp","vsSYR",25
+1,"11:52","Cavaliers lineup change (Blake Buchanan, Reece Beekman, Andrew Rohde, Elijah Gertrude, Leon Bond III)",712,"Cav Sub"," ","Cavaliers",10,11,"Opp","vsSYR",25
+1,"11:52","Elijah Gertrude makes regular free throw 1 of 2",712,"Made FT","makes","Elijah Gertrude",11,11,"Opp","vsSYR",25
+1,"11:26","Elijah Gertrude makes regular free throw 2 of 2",686,"Made FT","makes","Elijah Gertrude",12,11,"Cavs","vsSYR",26
+1,"11:25","J.J. Starling misses two point layup",685,"Missed Two","misses","J.J. Starling",12,11,"Cavs","vsSYR",26
+1,"11:25","Maliq Brown offensive rebound",685,"Off Rebound","offensive rebound","Maliq Brown",12,11,"Cavs","vsSYR",26
+1,"11:25","Leon Bond III shooting foul (Maliq Brown draws the foul)",685,"Foul","shooting foul","Leon Bond III",12,11,"Cavs","vsSYR",26
+1,"11:25","Maliq Brown makes regular free throw 1 of 2",685,"Made FT","makes","Maliq Brown",12,12,"Cavs","vsSYR",26
+1,"11:25","Orange lineup change (Maliq Brown, Benny Williams, Judah Mintz, Chris Bell, Quadir Copeland)",685,"Opp Sub"," ","Orange",12,12,"Cavs","vsSYR",26
+1,"11:01","Maliq Brown makes regular free throw 2 of 2",661,"Made FT","makes","Maliq Brown",12,13,"Opp","vsSYR",27
+1,"10:47","Leon Bond III turnover (lost ball) (Benny Williams steals)",647,"Turnover","turnover","Leon Bond III",12,13,"Cavs","vsSYR",28
+1,"10:45","Chris Bell misses two point jump shot",645,"Missed Two","misses","Chris Bell",12,13,"Cavs","vsSYR",28
+1,"10:37","Leon Bond III defensive rebound",637,"Def Rebound","defensive rebound","Leon Bond III",12,13,"Opp","vsSYR",29
+1,"10:15","Elijah Gertrude makes two point dunk (Reece Beekman assists)",615,"Made Two","makes","Elijah Gertrude",14,13,"Cavs","vsSYR",30
+1,"10:13","Benny Williams misses two point jump shot",613,"Missed Two","misses","Benny Williams",14,13,"Cavs","vsSYR",30
+1,"9:55","Reece Beekman defensive rebound",595,"Def Rebound","defensive rebound","Reece Beekman",14,13,"Opp","vsSYR",31
+1,"9:55","Andrew Rohde turnover (out of bounds)",595,"Turnover","turnover","Andrew Rohde",14,13,"Cavs","vsSYR",32
+1,"9:55","Cavaliers lineup change (Isaac McKneely, Jacob Groves, Andrew Rohde, Elijah Gertrude, Leon Bond III)",595,"Cav Sub"," ","Cavaliers",14,13,"Cavs","vsSYR",32
+1,"9:32","Orange lineup change (Maliq Brown, J.J. Starling, Justin Taylor, Benny Williams, Quadir Copeland)",572,"Opp Sub"," ","Orange",14,13,"Cavs","vsSYR",32
+1,"9:05","Benny Williams makes two point jump shot",545,"Made Two","makes","Benny Williams",14,15,"Opp","vsSYR",33
+1,"9:03","Leon Bond III misses two point jump shot",543,"Missed Two","misses","Leon Bond III",14,15,"Opp","vsSYR",33
+1,"8:40","Justin Taylor defensive rebound",520,"Def Rebound","defensive rebound","Justin Taylor",14,15,"Cavs","vsSYR",34
+1,"8:38","J.J. Starling misses three point jump shot",518,"Missed Three","misses","J.J. Starling",14,15,"Cavs","vsSYR",34
+1,"8:37","Isaac McKneely defensive rebound",517,"Def Rebound","defensive rebound","Isaac McKneely",14,15,"Opp","vsSYR",35
+1,"8:37","Quadir Copeland personal foul (Isaac McKneely draws the foul)",517,"Foul","personal foul","Quadir Copeland",14,15,"Opp","vsSYR",35
+1,"8:24","Cavaliers lineup change (Andrew Rohde, Isaac McKneely, Elijah Gertrude, Jacob Groves, Ryan Dunn)",504,"Cav Sub"," ","Cavaliers",14,15,"Opp","vsSYR",35
+1,"7:58","Isaac McKneely makes three point jump shot (Andrew Rohde assists)",478,"Made Three","makes","Isaac McKneely",17,15,"Cavs","vsSYR",36
+1,"7:43","Justin Taylor turnover (bad pass) (Elijah Gertrude steals)",463,"Turnover","turnover","Justin Taylor",17,15,"Opp","vsSYR",37
+1,"7:41","Elijah Gertrude misses two point layup",461,"Missed Two","misses","Elijah Gertrude",17,15,"Opp","vsSYR",37
+1,"7:35","Justin Taylor defensive rebound",455,"Def Rebound","defensive rebound","Justin Taylor",17,15,"Cavs","vsSYR",38
+1,"7:21","Maliq Brown turnover (bad pass) (Ryan Dunn steals)",441,"Turnover","turnover","Maliq Brown",17,15,"Opp","vsSYR",39
+1,"7:19","Isaac McKneely misses two point jump shot",439,"Missed Two","misses","Isaac McKneely",17,15,"Opp","vsSYR",39
+1,"7:02","Quadir Copeland defensive rebound",422,"Def Rebound","defensive rebound","Quadir Copeland",17,15,"Cavs","vsSYR",40
+1,"6:30","Maliq Brown makes two point layup (Justin Taylor assists)",390,"Made Two","makes","Maliq Brown",17,17,"Opp","vsSYR",41
+1,"6:30","Maliq Brown shooting foul (Jacob Groves draws the foul)",390,"Foul","shooting foul","Maliq Brown",17,17,"Opp","vsSYR",41
+1,"6:30","TV timeout",390,""," ","TV",17,17,"Opp","vsSYR",41
+1,"6:30","Cavaliers lineup change (Andrew Rohde, Isaac McKneely, Reece Beekman, Ryan Dunn, Jacob Groves)",390,"Cav Sub"," ","Cavaliers",17,17,"Opp","vsSYR",41
+1,"6:30","Orange lineup change (Maliq Brown, Judah Mintz, Justin Taylor, Benny Williams, Quadir Copeland)",390,"Opp Sub"," ","Orange",17,17,"Opp","vsSYR",41
+1,"6:30","Jacob Groves makes regular free throw 1 of 2",390,"Made FT","makes","Jacob Groves",18,17,"Opp","vsSYR",41
+1,"6:04","Jacob Groves makes regular free throw 2 of 2",364,"Made FT","makes","Jacob Groves",19,17,"Cavs","vsSYR",42
+1,"6:02","Reece Beekman blocks Judah Mintz's three point jump shot",362,"Block","block","Reece Beekman",19,17,"Cavs","vsSYR",42
+1,"6:02","Quadir Copeland offensive rebound",362,"Off Rebound","offensive rebound","Quadir Copeland",19,17,"Cavs","vsSYR",42
+1,"6:02","Ryan Dunn shooting foul (Quadir Copeland draws the foul)",362,"Foul","shooting foul","Ryan Dunn",19,17,"Cavs","vsSYR",42
+1,"6:02","Quadir Copeland misses regular free throw 1 of 2",362,"Missed FT","misses","Quadir Copeland",19,17,"Cavs","vsSYR",42
+1,"5:36","Quadir Copeland makes regular free throw 2 of 2",336,"Made FT","makes","Quadir Copeland",19,18,"Opp","vsSYR",43
+1,"5:17","Jacob Groves turnover (lost ball) (Benny Williams steals)",317,"Turnover","turnover","Jacob Groves",19,18,"Cavs","vsSYR",44
+1,"5:15","Justin Taylor misses three point jump shot",315,"Missed Three","misses","Justin Taylor",19,18,"Cavs","vsSYR",44
+1,"5:03","Ryan Dunn defensive rebound",303,"Def Rebound","defensive rebound","Ryan Dunn",19,18,"Opp","vsSYR",45
+1,"4:46","Isaac McKneely makes three point jump shot (Jacob Groves assists)",286,"Made Three","makes","Isaac McKneely",22,18,"Cavs","vsSYR",46
+1,"4:40","Quadir Copeland turnover (bad pass) (Andrew Rohde steals)",280,"Turnover","turnover","Quadir Copeland",22,18,"Opp","vsSYR",47
+1,"4:40","Andrew Rohde makes two point layup",280,"Made Two","makes","Andrew Rohde",24,18,"Cavs","vsSYR",48
+1,"4:40","Orange 30 second timeout",280,"Timeout","second timeout","Orange 30",24,18,"Cavs","vsSYR",48
+1,"4:28","Orange lineup change (Maliq Brown, Judah Mintz, Justin Taylor, Benny Williams, Chris Bell)",268,"Opp Sub"," ","Orange",24,18,"Cavs","vsSYR",48
+1,"4:26","Ryan Dunn blocks Benny Williams's two point layup",266,"Block","block","Ryan Dunn",24,18,"Cavs","vsSYR",48
+1,"4:20","Andrew Rohde defensive rebound",260,"Def Rebound","defensive rebound","Andrew Rohde",24,18,"Opp","vsSYR",49
+1,"4:20","Judah Mintz shooting foul (Reece Beekman draws the foul)",260,"Foul","shooting foul","Judah Mintz",24,18,"Opp","vsSYR",49
+1,"4:20","Reece Beekman makes regular free throw 1 of 2",260,"Made FT","makes","Reece Beekman",25,18,"Opp","vsSYR",49
+1,"4:20","Reece Beekman makes regular free throw 2 of 2",260,"Made FT","makes","Reece Beekman",26,18,"Cavs","vsSYR",50
+1,"4:03","Orange lineup change (Maliq Brown, Judah Mintz, Chris Bell, J.J. Starling, Benny Williams)",243,"Opp Sub"," ","Orange",26,18,"Cavs","vsSYR",50
+1,"4:03","Jacob Groves shooting foul (Judah Mintz draws the foul)",243,"Foul","shooting foul","Jacob Groves",26,18,"Cavs","vsSYR",50
+1,"4:03","Judah Mintz makes regular free throw 1 of 2",243,"Made FT","makes","Judah Mintz",26,19,"Cavs","vsSYR",50
+1,"4:03","Orange lineup change (Maliq Brown, J.J. Starling, Judah Mintz, Justin Taylor, Benny Williams)",243,"Opp Sub"," ","Orange",26,19,"Cavs","vsSYR",50
+1,"4:03","Judah Mintz misses regular free throw 2 of 2",243,"Missed FT","misses","Judah Mintz",26,19,"Cavs","vsSYR",50
+1,"3:46","Isaac McKneely defensive rebound",226,"Def Rebound","defensive rebound","Isaac McKneely",26,19,"Opp","vsSYR",51
+1,"3:32","Andrew Rohde makes two point jump shot",212,"Made Two","makes","Andrew Rohde",28,19,"Cavs","vsSYR",52
+1,"3:06","Judah Mintz makes two point layup",186,"Made Two","makes","Judah Mintz",28,21,"Opp","vsSYR",53
+1,"2:39","Reece Beekman makes two point jump shot",159,"Made Two","makes","Reece Beekman",30,21,"Cavs","vsSYR",54
+1,"2:39","Ryan Dunn shooting foul (Benny Williams draws the foul)",159,"Foul","shooting foul","Ryan Dunn",30,21,"Cavs","vsSYR",54
+1,"2:39","TV timeout",159,""," ","TV",30,21,"Cavs","vsSYR",54
+1,"2:39","Cavaliers lineup change (Reece Beekman, Andrew Rohde, Isaac McKneely, Leon Bond III, Jacob Groves)",159,"Cav Sub"," ","Cavaliers",30,21,"Cavs","vsSYR",54
+1,"2:39","Orange lineup change (Naheem McLeod, J.J. Starling, Judah Mintz, Justin Taylor, Benny Williams)",159,"Opp Sub"," ","Orange",30,21,"Cavs","vsSYR",54
+1,"2:39","Benny Williams misses regular free throw 1 of 2",159,"Missed FT","misses","Benny Williams",30,21,"Cavs","vsSYR",54
+1,"2:27","Benny Williams makes regular free throw 2 of 2",147,"Made FT","makes","Benny Williams",30,22,"Opp","vsSYR",55
+1,"2:25","Isaac McKneely misses three point jump shot",145,"Missed Three","misses","Isaac McKneely",30,22,"Opp","vsSYR",55
+1,"2:06","Orange defensive rebound",126,"Def Rebound","defensive rebound","Orange",30,22,"Cavs","vsSYR",56
+1,"1:49","Naheem McLeod turnover (traveling)",109,"Turnover","turnover","Naheem McLeod",30,22,"Opp","vsSYR",57
+1,"1:31","Isaac McKneely makes two point jump shot (Reece Beekman assists)",91,"Made Two","makes","Isaac McKneely",32,22,"Cavs","vsSYR",58
+1,"1:31","J.J. Starling turnover (traveling)",91,"Turnover","turnover","J.J. Starling",32,22,"Opp","vsSYR",59
+1,"1:18","Orange lineup change (J.J. Starling, Judah Mintz, Justin Taylor, Naheem McLeod, Chris Bell)",78,"Opp Sub"," ","Orange",32,22,"Opp","vsSYR",59
+1,"0:54","Leon Bond III makes two point dunk (Isaac McKneely assists)",54,"Made Two","makes","Leon Bond III",34,22,"Cavs","vsSYR",60
+1,"0:52","Chris Bell misses two point jump shot",52,"Missed Two","misses","Chris Bell",34,22,"Cavs","vsSYR",60
+1,"0:31","Andrew Rohde defensive rebound",31,"Def Rebound","defensive rebound","Andrew Rohde",34,22,"Opp","vsSYR",61
+1,"0:18","Isaac McKneely makes three point jump shot (Reece Beekman assists)",18,"Made Three","makes","Isaac McKneely",37,22,"Cavs","vsSYR",62
+1,"0:18","Orange 30 second timeout",18,"Timeout","second timeout","Orange 30",37,22,"Cavs","vsSYR",62
+1,"0:01","Orange lineup change (Quadir Copeland, Judah Mintz, Chris Bell, Justin Taylor, Naheem McLeod)",1,"Opp Sub"," ","Orange",37,22,"Cavs","vsSYR",62
+2,"20:00","2ND HALF",1200,""," ","2ND",37,22,"Cavs","vsSYR",62
+2,"20:00","Cavaliers lineup change (Reece Beekman, Andrew Rohde, Isaac McKneely, Jacob Groves, Ryan Dunn)",1200,"Cav Sub"," ","Cavaliers",37,22,"Cavs","vsSYR",62
+2,"20:00","Orange lineup change (Judah Mintz, Chris Bell, Justin Taylor, Naheem McLeod, J.J. Starling)",1200,"Opp Sub"," ","Orange",37,22,"Cavs","vsSYR",62
+2,"19:40","Open inbound Orange",1180,""," ","Open",37,22,"Opp","vsSYR",63
+2,"19:38","Justin Taylor misses three point jump shot",1178,"Missed Three","misses","Justin Taylor",37,22,"Opp","vsSYR",63
+2,"19:17","Ryan Dunn defensive rebound",1157,"Def Rebound","defensive rebound","Ryan Dunn",37,22,"Cavs","vsSYR",64
+2,"18:49","Jacob Groves makes two point layup (Andrew Rohde assists)",1129,"Made Two","makes","Jacob Groves",39,22,"Opp","vsSYR",65
+2,"18:24","J.J. Starling makes two point jump shot",1104,"Made Two","makes","J.J. Starling",39,24,"Cavs","vsSYR",66
+2,"18:07","Reece Beekman makes two point layup",1087,"Made Two","makes","Reece Beekman",41,24,"Opp","vsSYR",67
+2,"18:07","Isaac McKneely shooting foul (Naheem McLeod draws the foul)",1087,"Foul","shooting foul","Isaac McKneely",41,24,"Opp","vsSYR",67
+2,"18:07","Naheem McLeod makes regular free throw 1 of 2",1087,"Made FT","makes","Naheem McLeod",41,25,"Opp","vsSYR",67
+2,"17:57","Naheem McLeod makes regular free throw 2 of 2",1077,"Made FT","makes","Naheem McLeod",41,26,"Cavs","vsSYR",68
+2,"17:55","Ryan Dunn misses three point jump shot",1075,"Missed Three","misses","Ryan Dunn",41,26,"Cavs","vsSYR",68
+2,"17:43","Chris Bell defensive rebound",1063,"Def Rebound","defensive rebound","Chris Bell",41,26,"Opp","vsSYR",69
+2,"17:41","Chris Bell misses three point jump shot",1061,"Missed Three","misses","Chris Bell",41,26,"Opp","vsSYR",69
+2,"17:19","Isaac McKneely defensive rebound",1039,"Def Rebound","defensive rebound","Isaac McKneely",41,26,"Cavs","vsSYR",70
+2,"17:00","Andrew Rohde makes three point jump shot (Ryan Dunn assists)",1020,"Made Three","makes","Andrew Rohde",44,26,"Opp","vsSYR",71
+2,"16:36","Naheem McLeod makes two point hook shot (Justin Taylor assists)",996,"Made Two","makes","Naheem McLeod",44,28,"Cavs","vsSYR",72
+2,"16:34","Justin Taylor personal foul",994,"Foul","personal foul","Justin Taylor",44,28,"Cavs","vsSYR",72
+2,"16:16","Ryan Dunn makes two point jump shot (Reece Beekman assists)",976,"Made Two","makes","Ryan Dunn",46,28,"Opp","vsSYR",73
+2,"15:59","J.J. Starling makes two point layup",959,"Made Two","makes","J.J. Starling",46,30,"Cavs","vsSYR",74
+2,"15:46","Jacob Groves makes three point jump shot (Reece Beekman assists)",946,"Made Three","makes","Jacob Groves",49,30,"Opp","vsSYR",75
+2,"15:46","Orange 30 second timeout",946,"Timeout","second timeout","Orange 30",49,30,"Opp","vsSYR",75
+2,"15:46","TV timeout",946,""," ","TV",49,30,"Opp","vsSYR",75
+2,"15:34","Orange lineup change (J.J. Starling, Judah Mintz, Chris Bell, Quadir Copeland, Naheem McLeod)",934,"Opp Sub"," ","Orange",49,30,"Opp","vsSYR",75
+2,"15:34","J.J. Starling makes two point jump shot",934,"Made Two","makes","J.J. Starling",49,32,"Opp","vsSYR",75
+2,"15:34","Isaac McKneely shooting foul (J.J. Starling draws the foul)",934,"Foul","shooting foul","Isaac McKneely",49,32,"Opp","vsSYR",75
+2,"15:34","TV timeout",934,""," ","TV",49,32,"Opp","vsSYR",75
+2,"15:10","J.J. Starling makes regular free throw 1 of 1",910,"Made FT","makes","J.J. Starling",49,33,"Cavs","vsSYR",76
+2,"14:50","Andrew Rohde makes three point jump shot (Reece Beekman assists)",890,"Made Three","makes","Andrew Rohde",52,33,"Opp","vsSYR",77
+2,"14:48","Judah Mintz misses two point jump shot",888,"Missed Two","misses","Judah Mintz",52,33,"Opp","vsSYR",77
+2,"14:38","Ryan Dunn defensive rebound",878,"Def Rebound","defensive rebound","Ryan Dunn",52,33,"Cavs","vsSYR",78
+2,"14:36","Reece Beekman misses two point layup",876,"Missed Two","misses","Reece Beekman",52,33,"Cavs","vsSYR",78
+2,"14:29","Ryan Dunn offensive rebound",869,"Off Rebound","offensive rebound","Ryan Dunn",52,33,"Cavs","vsSYR",78
+2,"14:14","Isaac McKneely makes three point jump shot (Reece Beekman assists)",854,"Made Three","makes","Isaac McKneely",55,33,"Opp","vsSYR",79
+2,"14:14","Judah Mintz turnover (lost ball) (Reece Beekman steals)",854,"Turnover","turnover","Judah Mintz",55,33,"Cavs","vsSYR",80
+2,"13:54","Orange lineup change (J.J. Starling, Judah Mintz, Chris Bell, Maliq Brown, Quadir Copeland)",834,"Opp Sub"," ","Orange",55,33,"Cavs","vsSYR",80
+2,"13:52","Andrew Rohde misses two point jump shot",832,"Missed Two","misses","Andrew Rohde",55,33,"Cavs","vsSYR",80
+2,"13:40","Chris Bell defensive rebound",820,"Def Rebound","defensive rebound","Chris Bell",55,33,"Opp","vsSYR",81
+2,"13:38","Judah Mintz misses three point jump shot",818,"Missed Three","misses","Judah Mintz",55,33,"Opp","vsSYR",81
+2,"13:38","Cavaliers defensive rebound",818,"Def Rebound","defensive rebound","Cavaliers",55,33,"Cavs","vsSYR",82
+2,"13:29","Cavaliers lineup change (Reece Beekman, Blake Buchanan, Isaac McKneely, Ryan Dunn, Elijah Gertrude)",809,"Cav Sub"," ","Cavaliers",55,33,"Cavs","vsSYR",82
+2,"13:27","Reece Beekman misses two point layup",807,"Missed Two","misses","Reece Beekman",55,33,"Cavs","vsSYR",82
+2,"13:22","Maliq Brown defensive rebound",802,"Def Rebound","defensive rebound","Maliq Brown",55,33,"Opp","vsSYR",83
+2,"13:20","Ryan Dunn blocks J.J. Starling's two point layup",800,"Block","block","Ryan Dunn",55,33,"Opp","vsSYR",83
+2,"13:20","Orange offensive rebound",800,"Off Rebound","offensive rebound","Orange",55,33,"Opp","vsSYR",83
+2,"13:20","Cavaliers lineup change (Blake Buchanan, Andrew Rohde, Isaac McKneely, Elijah Gertrude, Ryan Dunn)",800,"Cav Sub"," ","Cavaliers",55,33,"Opp","vsSYR",83
+2,"13:19","Orange lineup change (Maliq Brown, J.J. Starling, Kyle Cuffe Jr., Chris Bell, Quadir Copeland)",799,"Opp Sub"," ","Orange",55,33,"Opp","vsSYR",83
+2,"13:01","Kyle Cuffe Jr. turnover (out of bounds)",781,"Turnover","turnover","Kyle Cuffe Jr.",55,33,"Cavs","vsSYR",84
+2,"12:39","Isaac McKneely makes three point jump shot",759,"Made Three","makes","Isaac McKneely",58,33,"Opp","vsSYR",85
+2,"12:39","Chris Bell turnover (traveling)",759,"Turnover","turnover","Chris Bell",58,33,"Cavs","vsSYR",86
+2,"12:23","Orange lineup change (Kyle Cuffe Jr., Maliq Brown, Judah Mintz, Benny Williams, Quadir Copeland)",743,"Opp Sub"," ","Orange",58,33,"Cavs","vsSYR",86
+2,"12:11","Ryan Dunn makes two point jump shot",731,"Made Two","makes","Ryan Dunn",60,33,"Opp","vsSYR",87
+2,"12:11","Ryan Dunn personal foul",731,"Foul","personal foul","Ryan Dunn",60,33,"Opp","vsSYR",87
+2,"12:02","Cavaliers lineup change (Blake Buchanan, Andrew Rohde, Isaac McKneely, Elijah Gertrude, Leon Bond III)",722,"Cav Sub"," ","Cavaliers",60,33,"Opp","vsSYR",87
+2,"12:00","Benny Williams misses three point jump shot",720,"Missed Three","misses","Benny Williams",60,33,"Opp","vsSYR",87
+2,"12:00","Quadir Copeland offensive rebound",720,"Off Rebound","offensive rebound","Quadir Copeland",60,33,"Opp","vsSYR",87
+2,"11:58","Quadir Copeland turnover (Elijah Gertrude steals)",718,"Turnover","turnover","Quadir Copeland",60,33,"Cavs","vsSYR",88
+2,"11:58","Maliq Brown personal foul",718,"Foul","personal foul","Maliq Brown",60,33,"Cavs","vsSYR",88
+2,"11:58","TV timeout",718,""," ","TV",60,33,"Cavs","vsSYR",88
+2,"11:52","Cavaliers lineup change (Blake Buchanan, Taine Murray, Isaac McKneely, Elijah Gertrude, Leon Bond III)",712,"Cav Sub"," ","Cavaliers",60,33,"Cavs","vsSYR",88
+2,"11:37","Leon Bond III makes two point dunk (Isaac McKneely assists)",697,"Made Two","makes","Leon Bond III",62,33,"Opp","vsSYR",89
+2,"11:37","Leon Bond III personal foul",697,"Foul","personal foul","Leon Bond III",62,33,"Opp","vsSYR",89
+2,"11:26","Cavaliers lineup change (Blake Buchanan, Taine Murray, Reece Beekman, Elijah Gertrude, Leon Bond III)",686,"Cav Sub"," ","Cavaliers",62,33,"Opp","vsSYR",89
+2,"10:55","Kyle Cuffe Jr. makes three point jump shot (Quadir Copeland assists)",655,"Made Three","makes","Kyle Cuffe Jr.",62,36,"Cavs","vsSYR",90
+2,"10:55","Benny Williams shooting foul (Blake Buchanan draws the foul)",655,"Foul","shooting foul","Benny Williams",62,36,"Cavs","vsSYR",90
+2,"10:55","Blake Buchanan makes regular free throw 1 of 2",655,"Made FT","makes","Blake Buchanan",63,36,"Cavs","vsSYR",90
+2,"10:40","Blake Buchanan makes regular free throw 2 of 2",640,"Made FT","makes","Blake Buchanan",64,36,"Opp","vsSYR",91
+2,"10:38","Maliq Brown misses two point layup",638,"Missed Two","misses","Maliq Brown",64,36,"Opp","vsSYR",91
+2,"10:37","Quadir Copeland offensive rebound",637,"Off Rebound","offensive rebound","Quadir Copeland",64,36,"Opp","vsSYR",91
+2,"10:35","Quadir Copeland misses two point dunk",635,"Missed Two","misses","Quadir Copeland",64,36,"Opp","vsSYR",91
+2,"10:14","Cavaliers defensive rebound",614,"Def Rebound","defensive rebound","Cavaliers",64,36,"Cavs","vsSYR",92
+2,"9:59","Taine Murray makes three point jump shot (Reece Beekman assists)",599,"Made Three","makes","Taine Murray",67,36,"Opp","vsSYR",93
+2,"9:57","Kyle Cuffe Jr. misses three point jump shot",597,"Missed Three","misses","Kyle Cuffe Jr.",67,36,"Opp","vsSYR",93
+2,"9:48","Leon Bond III defensive rebound",588,"Def Rebound","defensive rebound","Leon Bond III",67,36,"Cavs","vsSYR",94
+2,"9:29","Reece Beekman makes three point jump shot (Elijah Gertrude assists)",569,"Made Three","makes","Reece Beekman",70,36,"Opp","vsSYR",95
+2,"9:14","Maliq Brown makes two point layup (Quadir Copeland assists)",554,"Made Two","makes","Maliq Brown",70,38,"Cavs","vsSYR",96
+2,"9:12","Leon Bond III misses two point dunk",552,"Missed Two","misses","Leon Bond III",70,38,"Cavs","vsSYR",96
+2,"9:09","Taine Murray offensive rebound",549,"Off Rebound","offensive rebound","Taine Murray",70,38,"Cavs","vsSYR",96
+2,"9:07","Elijah Gertrude misses three point jump shot",547,"Missed Three","misses","Elijah Gertrude",70,38,"Cavs","vsSYR",96
+2,"9:07","Blake Buchanan offensive rebound",547,"Off Rebound","offensive rebound","Blake Buchanan",70,38,"Cavs","vsSYR",96
+2,"9:07","Blake Buchanan turnover (lost ball) (Maliq Brown steals)",547,"Turnover","turnover","Blake Buchanan",70,38,"Opp","vsSYR",97
+2,"9:07","Orange lineup change (Kyle Cuffe Jr., Maliq Brown, Justin Taylor, J.J. Starling, Quadir Copeland)",547,"Opp Sub"," ","Orange",70,38,"Opp","vsSYR",97
+2,"8:47","Cavaliers lineup change (Blake Buchanan, Andrew Rohde, Taine Murray, Elijah Gertrude, Leon Bond III)",527,"Cav Sub"," ","Cavaliers",70,38,"Opp","vsSYR",97
+2,"8:29","Quadir Copeland makes two point layup",509,"Made Two","makes","Quadir Copeland",70,40,"Cavs","vsSYR",98
+2,"7:59","Blake Buchanan makes two point dunk (Leon Bond III assists)",479,"Made Two","makes","Blake Buchanan",72,40,"Opp","vsSYR",99
+2,"7:35","J.J. Starling turnover (Taine Murray steals)",455,"Turnover","turnover","J.J. Starling",72,40,"Cavs","vsSYR",100
+2,"7:21","Taine Murray makes three point jump shot (Andrew Rohde assists)",441,"Made Three","makes","Taine Murray",75,40,"Opp","vsSYR",101
+2,"7:19","Kyle Cuffe Jr. misses three point jump shot",439,"Missed Three","misses","Kyle Cuffe Jr.",75,40,"Opp","vsSYR",101
+2,"7:19","Cavaliers defensive rebound",439,"Def Rebound","defensive rebound","Cavaliers",75,40,"Cavs","vsSYR",102
+2,"7:19","TV timeout",439,""," ","TV",75,40,"Cavs","vsSYR",102
+2,"7:19","Orange lineup change (Chris Bell, Maliq Brown, J.J. Starling, Justin Taylor, Quadir Copeland)",439,"Opp Sub"," ","Orange",75,40,"Cavs","vsSYR",102
+2,"7:14","Cavaliers lineup change (Jordan Minor, Andrew Rohde, Taine Murray, Elijah Gertrude, Leon Bond III)",434,"Cav Sub"," ","Cavaliers",75,40,"Cavs","vsSYR",102
+2,"7:14","Taine Murray turnover (Chris Bell steals)",434,"Turnover","turnover","Taine Murray",75,40,"Opp","vsSYR",103
+2,"7:12","Chris Bell misses two point layup",432,"Missed Two","misses","Chris Bell",75,40,"Opp","vsSYR",103
+2,"7:11","Maliq Brown offensive rebound",431,"Off Rebound","offensive rebound","Maliq Brown",75,40,"Opp","vsSYR",103
+2,"7:06","Maliq Brown makes two point dunk",426,"Made Two","makes","Maliq Brown",75,42,"Cavs","vsSYR",104
+2,"7:02","Elijah Gertrude turnover (Quadir Copeland steals)",422,"Turnover","turnover","Elijah Gertrude",75,42,"Opp","vsSYR",105
+2,"7:02","Quadir Copeland makes two point layup",422,"Made Two","makes","Quadir Copeland",75,44,"Opp","vsSYR",105
+2,"7:02","Elijah Gertrude shooting foul (Quadir Copeland draws the foul)",422,"Foul","shooting foul","Elijah Gertrude",75,44,"Opp","vsSYR",105
+2,"6:46","Quadir Copeland makes regular free throw 1 of 1",406,"Made FT","makes","Quadir Copeland",75,45,"Cavs","vsSYR",106
+2,"6:44","Leon Bond III misses two point jump shot",404,"Missed Two","misses","Leon Bond III",75,45,"Cavs","vsSYR",106
+2,"6:37","Justin Taylor defensive rebound",397,"Def Rebound","defensive rebound","Justin Taylor",75,45,"Opp","vsSYR",107
+2,"6:35","Justin Taylor misses three point jump shot",395,"Missed Three","misses","Justin Taylor",75,45,"Opp","vsSYR",107
+2,"6:21","Andrew Rohde defensive rebound",381,"Def Rebound","defensive rebound","Andrew Rohde",75,45,"Cavs","vsSYR",108
+2,"6:19","Elijah Gertrude misses two point layup",379,"Missed Two","misses","Elijah Gertrude",75,45,"Cavs","vsSYR",108
+2,"6:16","Jordan Minor offensive rebound",376,"Off Rebound","offensive rebound","Jordan Minor",75,45,"Cavs","vsSYR",108
+2,"6:14","Jordan Minor misses two point layup",374,"Missed Two","misses","Jordan Minor",75,45,"Cavs","vsSYR",108
+2,"6:12","Leon Bond III offensive rebound",372,"Off Rebound","offensive rebound","Leon Bond III",75,45,"Cavs","vsSYR",108
+2,"6:11","Leon Bond III misses two point layup",371,"Missed Two","misses","Leon Bond III",75,45,"Cavs","vsSYR",108
+2,"6:10","Leon Bond III offensive rebound",370,"Off Rebound","offensive rebound","Leon Bond III",75,45,"Cavs","vsSYR",108
+2,"6:08","Leon Bond III misses two point layup",368,"Missed Two","misses","Leon Bond III",75,45,"Cavs","vsSYR",108
+2,"6:05","Justin Taylor defensive rebound",365,"Def Rebound","defensive rebound","Justin Taylor",75,45,"Opp","vsSYR",109
+2,"6:05","J.J. Starling makes two point jump shot",365,"Made Two","makes","J.J. Starling",75,47,"Opp","vsSYR",109
+2,"6:05","Jordan Minor shooting foul (J.J. Starling draws the foul)",365,"Foul","shooting foul","Jordan Minor",75,47,"Opp","vsSYR",109
+2,"5:38","J.J. Starling makes regular free throw 1 of 1",338,"Made FT","makes","J.J. Starling",75,48,"Cavs","vsSYR",110
+2,"5:36","Andrew Rohde misses three point jump shot",336,"Missed Three","misses","Andrew Rohde",75,48,"Cavs","vsSYR",110
+2,"5:29","Maliq Brown defensive rebound",329,"Def Rebound","defensive rebound","Maliq Brown",75,48,"Opp","vsSYR",111
+2,"5:27","J.J. Starling misses two point layup",327,"Missed Two","misses","J.J. Starling",75,48,"Opp","vsSYR",111
+2,"5:01","Leon Bond III defensive rebound",301,"Def Rebound","defensive rebound","Leon Bond III",75,48,"Cavs","vsSYR",112
+2,"4:57","Elijah Gertrude turnover (J.J. Starling steals)",297,"Turnover","turnover","Elijah Gertrude",75,48,"Opp","vsSYR",113
+2,"4:55","J.J. Starling misses two point layup",295,"Missed Two","misses","J.J. Starling",75,48,"Opp","vsSYR",113
+2,"4:44","Elijah Gertrude defensive rebound",284,"Def Rebound","defensive rebound","Elijah Gertrude",75,48,"Cavs","vsSYR",114
+2,"4:42","Taine Murray misses three point jump shot",282,"Missed Three","misses","Taine Murray",75,48,"Cavs","vsSYR",114
+2,"4:36","Quadir Copeland defensive rebound",276,"Def Rebound","defensive rebound","Quadir Copeland",75,48,"Opp","vsSYR",115
+2,"4:34","Elijah Gertrude blocks Chris Bell's three point jump shot",274,"Block","block","Elijah Gertrude",75,48,"Opp","vsSYR",115
+2,"4:34","Orange offensive rebound",274,"Off Rebound","offensive rebound","Orange",75,48,"Opp","vsSYR",115
+2,"4:34","Cavaliers lineup change (Blake Buchanan, Taine Murray, Elijah Gertrude, Jordan Minor, Leon Bond III)",274,"Cav Sub"," ","Cavaliers",75,48,"Opp","vsSYR",115
+2,"4:31","Justin Taylor turnover",271,"Turnover","turnover","Justin Taylor",75,48,"Cavs","vsSYR",116
+2,"4:28","Elijah Gertrude turnover",268,"Turnover","turnover","Elijah Gertrude",75,48,"Opp","vsSYR",117
+2,"4:26","Justin Taylor misses three point jump shot",266,"Missed Three","misses","Justin Taylor",75,48,"Opp","vsSYR",117
+2,"4:25","Quadir Copeland offensive rebound",265,"Off Rebound","offensive rebound","Quadir Copeland",75,48,"Opp","vsSYR",117
+2,"4:21","Quadir Copeland turnover (Blake Buchanan steals)",261,"Turnover","turnover","Quadir Copeland",75,48,"Cavs","vsSYR",118
+2,"4:10","Leon Bond III turnover",250,"Turnover","turnover","Leon Bond III",75,48,"Opp","vsSYR",119
+2,"3:40","Chris Bell makes two point jump shot (J.J. Starling assists)",220,"Made Two","makes","Chris Bell",75,50,"Cavs","vsSYR",120
+2,"3:40","J.J. Starling personal foul",220,"Foul","personal foul","J.J. Starling",75,50,"Cavs","vsSYR",120
+2,"3:40","TV timeout",220,""," ","TV",75,50,"Cavs","vsSYR",120
+2,"3:26","Orange lineup change (Maliq Brown, J.J. Starling, Chris Bell, Benny Williams, Quadir Copeland)",206,"Opp Sub"," ","Orange",75,50,"Cavs","vsSYR",120
+2,"3:26","Benny Williams shooting foul (Leon Bond III draws the foul)",206,"Foul","shooting foul","Benny Williams",75,50,"Cavs","vsSYR",120
+2,"3:26","Leon Bond III makes regular free throw 1 of 2",206,"Made FT","makes","Leon Bond III",76,50,"Cavs","vsSYR",120
+2,"3:07","Leon Bond III makes regular free throw 2 of 2",187,"Made FT","makes","Leon Bond III",77,50,"Opp","vsSYR",121
+2,"3:05","Quadir Copeland misses two point layup",185,"Missed Two","misses","Quadir Copeland",77,50,"Opp","vsSYR",121
+2,"2:55","Cavaliers defensive rebound",175,"Def Rebound","defensive rebound","Cavaliers",77,50,"Cavs","vsSYR",122
+2,"2:54","Benny Williams blocks Blake Buchanan's two point dunk",174,"Block","block","Benny Williams",77,50,"Cavs","vsSYR",122
+2,"2:54","Benny Williams defensive rebound",174,"Def Rebound","defensive rebound","Benny Williams",77,50,"Opp","vsSYR",123
+2,"2:54","Jordan Minor personal foul",174,"Foul","personal foul","Jordan Minor",77,50,"Opp","vsSYR",123
+2,"2:54","Benny Williams makes regular free throw 1 of 2",174,"Made FT","makes","Benny Williams",77,51,"Opp","vsSYR",123
+2,"2:54","Benny Williams misses regular free throw 2 of 2",174,"Missed FT","misses","Benny Williams",77,51,"Opp","vsSYR",123
+2,"2:27","Leon Bond III defensive rebound",147,"Def Rebound","defensive rebound","Leon Bond III",77,51,"Cavs","vsSYR",124
+2,"2:14","Elijah Gertrude makes two point jump shot",134,"Made Two","makes","Elijah Gertrude",79,51,"Opp","vsSYR",125
+2,"2:14","Blake Buchanan shooting foul (Benny Williams draws the foul)",134,"Foul","shooting foul","Blake Buchanan",79,51,"Opp","vsSYR",125
+2,"2:14","Benny Williams misses regular free throw 1 of 2",134,"Missed FT","misses","Benny Williams",79,51,"Opp","vsSYR",125
+2,"2:14","Cavaliers lineup change (Blake Buchanan, Taine Murray, Bryce Walker, Jordan Minor, Leon Bond III)",134,"Cav Sub"," ","Cavaliers",79,51,"Opp","vsSYR",125
+2,"2:14","Benny Williams misses regular free throw 2 of 2",134,"Missed FT","misses","Benny Williams",79,51,"Opp","vsSYR",125
+2,"1:58","Taine Murray defensive rebound",118,"Def Rebound","defensive rebound","Taine Murray",79,51,"Cavs","vsSYR",126
+2,"1:42","Maliq Brown personal foul",102,"Foul","personal foul","Maliq Brown",79,51,"Cavs","vsSYR",126
+2,"1:42","Blake Buchanan makes two point jump shot (Leon Bond III assists)",102,"Made Two","makes","Blake Buchanan",81,51,"Opp","vsSYR",127
+2,"1:23","Cavaliers lineup change (Tristan How, Taine Murray, Jordan Minor, Leon Bond III, Bryce Walker)",83,"Cav Sub"," ","Cavaliers",81,51,"Opp","vsSYR",127
+2,"1:21","Chris Bell misses three point jump shot",81,"Missed Three","misses","Chris Bell",81,51,"Opp","vsSYR",127
+2,"1:15","Maliq Brown offensive rebound",75,"Off Rebound","offensive rebound","Maliq Brown",81,51,"Opp","vsSYR",127
+2,"1:03","Maliq Brown makes two point layup",63,"Made Two","makes","Maliq Brown",81,53,"Cavs","vsSYR",128
+2,"1:01","Benny Williams blocks Jordan Minor's two point layup",61,"Block","block","Benny Williams",81,53,"Cavs","vsSYR",128
+2,"0:59","Tristan How offensive rebound",59,"Off Rebound","offensive rebound","Tristan How",81,53,"Cavs","vsSYR",128
+2,"0:59","Chris Bell personal foul",59,"Foul","personal foul","Chris Bell",81,53,"Cavs","vsSYR",128
+2,"0:59","Tristan How misses regular free throw 1 of 1",59,"Missed FT","misses","Tristan How",81,53,"Cavs","vsSYR",128
+2,"0:58","Benny Williams defensive rebound",58,"Def Rebound","defensive rebound","Benny Williams",81,53,"Opp","vsSYR",129
+2,"0:58","Jordan Minor personal foul",58,"Foul","personal foul","Jordan Minor",81,53,"Opp","vsSYR",129
+2,"0:58","Benny Williams makes regular free throw 1 of 2",58,"Made FT","makes","Benny Williams",81,54,"Opp","vsSYR",129
+2,"0:54","Benny Williams makes regular free throw 2 of 2",54,"Made FT","makes","Benny Williams",81,55,"Cavs","vsSYR",130
+2,"0:54","Benny Williams shooting foul (Taine Murray draws the foul)",54,"Foul","shooting foul","Benny Williams",81,55,"Cavs","vsSYR",130
+2,"0:54","Taine Murray misses regular free throw 1 of 2",54,"Missed FT","misses","Taine Murray",81,55,"Cavs","vsSYR",130
+2,"0:39","Taine Murray makes regular free throw 2 of 2",39,"Made FT","makes","Taine Murray",82,55,"Opp","vsSYR",131
+2,"0:28","J.J. Starling makes three point jump shot (Benny Williams assists)",28,"Made Three","makes","J.J. Starling",82,58,"Cavs","vsSYR",132
+2,"0:15","Tristan How makes two point jump shot (Bryce Walker assists)",15,"Made Two","makes","Tristan How",84,58,"Opp","vsSYR",133
+2,"0:00","Judah Mintz makes two point layup",0,"Made Two","makes","Judah Mintz",84,60,"Cavs","vsSYR",134
+2,"0:00","Quadir Copeland makes two point layup",0,"Made Two","makes","Quadir Copeland",84,62,"Opp","vsSYR",135
