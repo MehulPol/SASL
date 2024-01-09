@@ -1,0 +1,309 @@
+"Half","Time","Description","Time_in_sec","Event","Token","Player","UVA_score","Opp_score","Possession","Opps","Possession Number"
+1,"20:00","1ST HALF",1200,""," ","1ST",0,0,"Cavs","vsMORG",1
+1,"20:00","Cavaliers lineup change (Isaac McKneely,Reece Beekman,Andrew Rohde,Ryan Dunn,Jacob Groves)",1200,"Cav Sub"," ","Cavaliers",0,0,"","vsMORG",2
+1,"19:40","Allen Udemadu vs. Ryan Dunn (Isaac McKneely gains possession)",1180,""," ","Allen",0,0,"Cavs","vsMORG",3
+1,"19:38","Isaac McKneely misses three point jump shot",1178,"Missed Three","misses","Isaac McKneely",0,0,"Cavs","vsMORG",3
+1,"19:27","Jacob Groves offensive rebound",1167,"Off Rebound","offensive rebound","Jacob Groves",0,0,"Cavs","vsMORG",3
+1,"19:25","Andrew Rohde misses three point jump shot",1165,"Missed Three","misses","Andrew Rohde",0,0,"Cavs","vsMORG",3
+1,"19:09","Allen Udemadu defensive rebound",1149,"Def Rebound","defensive rebound","Allen Udemadu",0,0,"Opp","vsMORG",4
+1,"18:49","Allen Udemadu turnover (bad pass) (Andrew Rohde steals)",1129,"Turnover","turnover","Allen Udemadu",0,0,"Cavs","vsMORG",5
+1,"18:26","Jacob Groves makes three point jump shot (Andrew Rohde assists)",1106,"Made Three","makes","Jacob Groves",3,0,"Opp","vsMORG",6
+1,"18:09","Kamron Hobbs turnover (bad pass) (Ryan Dunn steals)",1089,"Turnover","turnover","Kamron Hobbs",3,0,"Cavs","vsMORG",7
+1,"18:07","Jacob Groves misses two point jump shot",1087,"Missed Two","misses","Jacob Groves",3,0,"Cavs","vsMORG",7
+1,"17:58","Allen Udemadu defensive rebound",1078,"Def Rebound","defensive rebound","Allen Udemadu",3,0,"Opp","vsMORG",8
+1,"17:56","Ahmarie Simpkins misses two point layup",1076,"Missed Two","misses","Ahmarie Simpkins",3,0,"Opp","vsMORG",8
+1,"17:39","Ryan Dunn defensive rebound",1059,"Def Rebound","defensive rebound","Ryan Dunn",3,0,"Cavs","vsMORG",9
+1,"17:37","Jacob Groves misses two point layup",1057,"Missed Two","misses","Jacob Groves",3,0,"Cavs","vsMORG",9
+1,"17:24","Ahmarie Simpkins defensive rebound",1044,"Def Rebound","defensive rebound","Ahmarie Simpkins",3,0,"Opp","vsMORG",10
+1,"17:01","Kamron Hobbs makes two point jump shot",1021,"Made Two","makes","Kamron Hobbs",3,2,"Cavs","vsMORG",11
+1,"16:30","Reece Beekman makes two point jump shot",990,"Made Two","makes","Reece Beekman",5,2,"Opp","vsMORG",12
+1,"16:28","Kamron Hobbs misses two point jump shot",988,"Missed Two","misses","Kamron Hobbs",5,2,"Opp","vsMORG",12
+1,"16:17","Andrew Rohde defensive rebound",977,"Def Rebound","defensive rebound","Andrew Rohde",5,2,"Cavs","vsMORG",13
+1,"15:58","Andrew Rohde makes three point jump shot (Reece Beekman assists)",958,"Made Three","makes","Andrew Rohde",8,2,"Opp","vsMORG",14
+1,"15:56","Ryan Dunn blocks Rob Lawson's two point layup",956,"Block","block","Ryan Dunn",8,2,"Opp","vsMORG",14
+1,"15:55","Trent Edwards offensive rebound",955,"Off Rebound","offensive rebound","Trent Edwards",8,2,"Opp","vsMORG",14
+1,"15:55","Trent Edwards makes two point layup",955,"Made Two","makes","Trent Edwards",8,4,"Opp","vsMORG",14
+1,"15:55","Jacob Groves shooting foul (Trent Edwards draws the foul)",955,"Foul","shooting foul","Jacob Groves",8,4,"Opp","vsMORG",14
+1,"15:55","TV timeout",955,""," ","TV",8,4,"Opp","vsMORG",14
+1,"15:55","Bears lineup change (Kamron Hobbs, Rob Lawson, Ahmarie Simpkins, Trent Edwards, Christian Oliver)",955,"Opp Sub"," ","Bears",8,4,"Opp","vsMORG",14
+1,"15:55","Cavaliers lineup change (Reece Beekman, Andrew Rohde, Isaac McKneely, Ryan Dunn, Blake Buchanan)",955,"Cav Sub"," ","Cavaliers",8,4,"Opp","vsMORG",14
+1,"15:27","Trent Edwards makes regular free throw 1 of 1",927,"Made FT","makes","Trent Edwards",8,5,"Cavs","vsMORG",15
+1,"14:59","Reece Beekman makes two point jump shot",899,"Made Two","makes","Reece Beekman",10,5,"Opp","vsMORG",16
+1,"14:57","Rob Lawson misses two point jump shot",897,"Missed Two","misses","Rob Lawson",10,5,"Opp","vsMORG",16
+1,"14:46","Ryan Dunn defensive rebound",886,"Def Rebound","defensive rebound","Ryan Dunn",10,5,"Cavs","vsMORG",17
+1,"14:44","Andrew Rohde misses two point jump shot",884,"Missed Two","misses","Andrew Rohde",10,5,"Cavs","vsMORG",17
+1,"14:33","Rob Lawson defensive rebound",873,"Def Rebound","defensive rebound","Rob Lawson",10,5,"Opp","vsMORG",18
+1,"14:32","Rob Lawson misses two point jump shot",872,"Missed Two","misses","Rob Lawson",10,5,"Opp","vsMORG",18
+1,"14:32","Christian Oliver offensive rebound",872,"Off Rebound","offensive rebound","Christian Oliver",10,5,"Opp","vsMORG",18
+1,"14:31","Christian Oliver misses two point layup",871,"Missed Two","misses","Christian Oliver",10,5,"Opp","vsMORG",18
+1,"14:31","Bears offensive rebound",871,"Off Rebound","offensive rebound","Bears",10,5,"Opp","vsMORG",18
+1,"14:31","Bears lineup change (Kamron Hobbs, Rob Lawson, Allen Udemadu, Trent Edwards, Christian Oliver)",871,"Opp Sub"," ","Bears",10,5,"Opp","vsMORG",18
+1,"14:11","Cavaliers lineup change (Blake Buchanan, Reece Beekman, Andrew Rohde, Taine Murray, Ryan Dunn)",851,"Cav Sub"," ","Cavaliers",10,5,"Opp","vsMORG",18
+1,"14:11","Bears turnover (shot clock violation)",851,"Turnover","turnover","Bears",10,5,"Cavs","vsMORG",19
+1,"13:58","Bears lineup change (Marvin Brimage, Rob Lawson, Trent Edwards, Christian Oliver, Allen Udemadu)",838,"Opp Sub"," ","Bears",10,5,"Cavs","vsMORG",19
+1,"13:37","Andrew Rohde makes two point layup",817,"Made Two","makes","Andrew Rohde",12,5,"Opp","vsMORG",20
+1,"13:13","Allen Udemadu turnover (traveling)",793,"Turnover","turnover","Allen Udemadu",12,5,"Cavs","vsMORG",21
+1,"13:11","Blake Buchanan misses two point hook shot",791,"Missed Two","misses","Blake Buchanan",12,5,"Cavs","vsMORG",21
+1,"13:11","Cavaliers offensive rebound",791,"Off Rebound","offensive rebound","Cavaliers",12,5,"Cavs","vsMORG",21
+1,"13:11","Cavaliers lineup change (Blake Buchanan, Reece Beekman, Andrew Rohde, Taine Murray, Leon Bond III)",791,"Cav Sub"," ","Cavaliers",12,5,"Cavs","vsMORG",21
+1,"13:03","Bears lineup change (Kamron Hobbs, Trent Edwards, Marvin Brimage, Ahmarie Simpkins, Allen Udemadu)",783,"Opp Sub"," ","Bears",12,5,"Cavs","vsMORG",21
+1,"12:52","Reece Beekman makes two point jump shot",772,"Made Two","makes","Reece Beekman",14,5,"Opp","vsMORG",22
+1,"12:39","Allen Udemadu turnover (bad pass) (Taine Murray steals)",759,"Turnover","turnover","Allen Udemadu",14,5,"Cavs","vsMORG",23
+1,"12:20","Cavaliers lineup change (Blake Buchanan, Isaac McKneely, Andrew Rohde, Taine Murray, Leon Bond III)",740,"Cav Sub"," ","Cavaliers",14,5,"Cavs","vsMORG",23
+1,"12:18","Taine Murray misses three point jump shot",738,"Missed Three","misses","Taine Murray",14,5,"Cavs","vsMORG",23
+1,"12:12","Cavaliers offensive rebound",732,"Off Rebound","offensive rebound","Cavaliers",14,5,"Cavs","vsMORG",23
+1,"12:10","Blake Buchanan misses two point hook shot",730,"Missed Two","misses","Blake Buchanan",14,5,"Cavs","vsMORG",23
+1,"11:49","Ahmarie Simpkins defensive rebound",709,"Def Rebound","defensive rebound","Ahmarie Simpkins",14,5,"Opp","vsMORG",24
+1,"11:47","Blake Buchanan blocks Allen Udemadu's two point jump shot",707,"Block","block","Blake Buchanan",14,5,"Opp","vsMORG",24
+1,"11:30","Leon Bond III defensive rebound",690,"Def Rebound","defensive rebound","Leon Bond III",14,5,"Cavs","vsMORG",25
+1,"11:28","Leon Bond III misses two point layup",688,"Missed Two","misses","Leon Bond III",14,5,"Cavs","vsMORG",25
+1,"11:27","Blake Buchanan offensive rebound",687,"Off Rebound","offensive rebound","Blake Buchanan",14,5,"Cavs","vsMORG",25
+1,"11:27","Trent Edwards shooting foul (Blake Buchanan draws the foul)",687,"Foul","shooting foul","Trent Edwards",14,5,"Cavs","vsMORG",25
+1,"11:27","TV timeout",687,""," ","TV",14,5,"Cavs","vsMORG",25
+1,"11:27","Cavaliers lineup change (Reece Beekman, Jacob Groves, Taine Murray, Isaac McKneely, Leon Bond III)",687,"Cav Sub"," ","Cavaliers",14,5,"Cavs","vsMORG",25
+1,"11:16","Bears lineup change (Kamron Hobbs, Ahmarie Simpkins, Trent Edwards, Rob Lawson, Christian Oliver)",676,"Opp Sub"," ","Bears",14,5,"Cavs","vsMORG",25
+1,"11:14","Leon Bond III misses two point jump shot",674,"Missed Two","misses","Leon Bond III",14,5,"Cavs","vsMORG",25
+1,"11:02","Christian Oliver defensive rebound",662,"Def Rebound","defensive rebound","Christian Oliver",14,5,"Opp","vsMORG",26
+1,"10:43","Ahmarie Simpkins makes two point layup",643,"Made Two","makes","Ahmarie Simpkins",14,7,"Cavs","vsMORG",27
+1,"10:24","Jacob Groves makes three point jump shot (Isaac McKneely assists)",624,"Made Three","makes","Jacob Groves",17,7,"Opp","vsMORG",28
+1,"10:24","Jacob Groves shooting foul (Ahmarie Simpkins draws the foul)",624,"Foul","shooting foul","Jacob Groves",17,7,"Opp","vsMORG",28
+1,"10:24","Ahmarie Simpkins misses regular free throw 1 of 2",624,"Missed FT","misses","Ahmarie Simpkins",17,7,"Opp","vsMORG",28
+1,"10:24","Cavaliers lineup change (Reece Beekman, Taine Murray, Isaac McKneely, Ryan Dunn, Leon Bond III)",624,"Cav Sub"," ","Cavaliers",17,7,"Opp","vsMORG",28
+1,"10:10","Ahmarie Simpkins makes regular free throw 2 of 2",610,"Made FT","makes","Ahmarie Simpkins",17,8,"Cavs","vsMORG",29
+1,"10:10","Trent Edwards shooting foul (Ryan Dunn draws the foul)",610,"Foul","shooting foul","Trent Edwards",17,8,"Cavs","vsMORG",29
+1,"10:10","Ryan Dunn misses regular free throw 1 of 2",610,"Missed FT","misses","Ryan Dunn",17,8,"Cavs","vsMORG",29
+1,"10:10","Ryan Dunn misses regular free throw 2 of 2",610,"Missed FT","misses","Ryan Dunn",17,8,"Cavs","vsMORG",29
+1,"9:52","Christian Oliver defensive rebound",592,"Def Rebound","defensive rebound","Christian Oliver",17,8,"Opp","vsMORG",30
+1,"9:50","Kamron Hobbs misses three point jump shot",590,"Missed Three","misses","Kamron Hobbs",17,8,"Opp","vsMORG",30
+1,"9:39","Rob Lawson offensive rebound",579,"Off Rebound","offensive rebound","Rob Lawson",17,8,"Opp","vsMORG",30
+1,"9:22","Rob Lawson makes two point layup",562,"Made Two","makes","Rob Lawson",17,10,"Cavs","vsMORG",31
+1,"9:20","Christian Oliver blocks Ryan Dunn's two point layup",560,"Block","block","Christian Oliver",17,10,"Cavs","vsMORG",31
+1,"9:17","Cavaliers offensive rebound",557,"Off Rebound","offensive rebound","Cavaliers",17,10,"Cavs","vsMORG",31
+1,"9:14","Cavaliers lineup change (Reece Beekman, Andrew Rohde, Isaac McKneely, Ryan Dunn, Leon Bond III)",554,"Cav Sub"," ","Cavaliers",17,10,"Cavs","vsMORG",31
+1,"8:55","Reece Beekman makes three point jump shot (Leon Bond III assists)",535,"Made Three","makes","Reece Beekman",20,10,"Opp","vsMORG",32
+1,"8:53","Christian Oliver misses two point layup",533,"Missed Two","misses","Christian Oliver",20,10,"Opp","vsMORG",32
+1,"8:41","Andrew Rohde defensive rebound",521,"Def Rebound","defensive rebound","Andrew Rohde",20,10,"Cavs","vsMORG",33
+1,"8:41","Andrew Rohde turnover (bad pass) (Ahmarie Simpkins steals)",521,"Turnover","turnover","Andrew Rohde",20,10,"Opp","vsMORG",34
+1,"8:41","Cavaliers lineup change (Reece Beekman, Andrew Rohde, Isaac McKneely, Ryan Dunn, Jordan Minor)",521,"Cav Sub"," ","Cavaliers",20,10,"Opp","vsMORG",34
+1,"8:31","Bears lineup change (Kamron Hobbs, Rob Lawson, Ahmarie Simpkins, Trent Edwards, Allen Udemadu)",511,"Opp Sub"," ","Bears",20,10,"Opp","vsMORG",34
+1,"8:29","Rob Lawson misses two point jump shot",509,"Missed Two","misses","Rob Lawson",20,10,"Opp","vsMORG",34
+1,"8:08","Ryan Dunn defensive rebound",488,"Def Rebound","defensive rebound","Ryan Dunn",20,10,"Cavs","vsMORG",35
+1,"8:06","Reece Beekman misses three point jump shot",486,"Missed Three","misses","Reece Beekman",20,10,"Cavs","vsMORG",35
+1,"8:02","Ryan Dunn offensive rebound",482,"Off Rebound","offensive rebound","Ryan Dunn",20,10,"Cavs","vsMORG",35
+1,"8:02","Ryan Dunn makes two point layup",482,"Made Two","makes","Ryan Dunn",22,10,"Cavs","vsMORG",35
+1,"8:02","Ahmarie Simpkins shooting foul (Ryan Dunn draws the foul)",482,"Foul","shooting foul","Ahmarie Simpkins",22,10,"Cavs","vsMORG",35
+1,"7:35","Ryan Dunn makes regular free throw 1 of 1",455,"Made FT","makes","Ryan Dunn",23,10,"Opp","vsMORG",36
+1,"7:35","Trent Edwards offensive foul",455,""," ","Trent",23,10,"Opp","vsMORG",36
+1,"7:35","Trent Edwards turnover (offensive foul)",455,"Turnover","turnover","Trent Edwards",23,10,"Cavs","vsMORG",37
+1,"7:35","TV timeout",455,""," ","TV",23,10,"Cavs","vsMORG",37
+1,"7:35","Bears lineup change (Kamron Hobbs, Rob Lawson, Ahmarie Simpkins, Christian Oliver, Allen Udemadu)",455,"Opp Sub"," ","Bears",23,10,"Cavs","vsMORG",37
+1,"7:21","Cavaliers lineup change (Reece Beekman, Andrew Rohde, Elijah Gertrude, Ryan Dunn, Jordan Minor)",441,"Cav Sub"," ","Cavaliers",23,10,"Cavs","vsMORG",37
+1,"7:19","Ryan Dunn misses two point layup",439,"Missed Two","misses","Ryan Dunn",23,10,"Cavs","vsMORG",37
+1,"7:19","Ryan Dunn offensive rebound",439,"Off Rebound","offensive rebound","Ryan Dunn",23,10,"Cavs","vsMORG",37
+1,"7:19","Ahmarie Simpkins shooting foul (Ryan Dunn draws the foul)",439,"Foul","shooting foul","Ahmarie Simpkins",23,10,"Cavs","vsMORG",37
+1,"7:19","Ryan Dunn makes regular free throw 1 of 2",439,"Made FT","makes","Ryan Dunn",24,10,"Cavs","vsMORG",37
+1,"7:19","Ryan Dunn misses regular free throw 2 of 2",439,"Missed FT","misses","Ryan Dunn",24,10,"Cavs","vsMORG",37
+1,"6:55","Ahmarie Simpkins defensive rebound",415,"Def Rebound","defensive rebound","Ahmarie Simpkins",24,10,"Opp","vsMORG",38
+1,"6:38","Rob Lawson makes two point jump shot",398,"Made Two","makes","Rob Lawson",24,12,"Cavs","vsMORG",39
+1,"6:19","Reece Beekman turnover (bad pass) (Christian Oliver steals)",379,"Turnover","turnover","Reece Beekman",24,12,"Opp","vsMORG",40
+1,"6:07","Allen Udemadu turnover (bad pass) (Ryan Dunn steals)",367,"Turnover","turnover","Allen Udemadu",24,12,"Cavs","vsMORG",41
+1,"5:51","Ryan Dunn makes two point layup (Reece Beekman assists)",351,"Made Two","makes","Ryan Dunn",26,12,"Opp","vsMORG",42
+1,"5:51","Ryan Dunn personal foul (Allen Udemadu draws the foul)",351,"Foul","personal foul","Ryan Dunn",26,12,"Opp","vsMORG",42
+1,"5:51","Bears lineup change (Kamron Hobbs, Rob Lawson, Ahmarie Simpkins, Christian Oliver, Marvin Brimage)",351,"Opp Sub"," ","Bears",26,12,"Opp","vsMORG",42
+1,"5:42","Cavaliers lineup change (Isaac McKneely, Andrew Rohde, Elijah Gertrude, Leon Bond III, Jordan Minor)",342,"Cav Sub"," ","Cavaliers",26,12,"Opp","vsMORG",42
+1,"5:35","Christian Oliver turnover (bad pass) (Andrew Rohde steals)",335,"Turnover","turnover","Christian Oliver",26,12,"Cavs","vsMORG",43
+1,"5:33","Jordan Minor misses two point dunk",333,"Missed Two","misses","Jordan Minor",26,12,"Cavs","vsMORG",43
+1,"5:28","Marvin Brimage defensive rebound",328,"Def Rebound","defensive rebound","Marvin Brimage",26,12,"Opp","vsMORG",44
+1,"5:26","Rob Lawson misses two point layup",326,"Missed Two","misses","Rob Lawson",26,12,"Opp","vsMORG",44
+1,"5:12","Isaac McKneely defensive rebound",312,"Def Rebound","defensive rebound","Isaac McKneely",26,12,"Cavs","vsMORG",45
+1,"5:10","Isaac McKneely misses three point jump shot",310,"Missed Three","misses","Isaac McKneely",26,12,"Cavs","vsMORG",45
+1,"5:03","Jordan Minor offensive rebound",303,"Off Rebound","offensive rebound","Jordan Minor",26,12,"Cavs","vsMORG",45
+1,"4:54","Marvin Brimage personal foul (Cavaliers draws the foul)",294,"Foul","personal foul","Marvin Brimage",26,12,"Cavs","vsMORG",45
+1,"4:39","Leon Bond III makes two point layup (Jordan Minor assists)",279,"Made Two","makes","Leon Bond III",28,12,"Opp","vsMORG",46
+1,"4:37","Marvin Brimage misses three point jump shot",277,"Missed Three","misses","Marvin Brimage",28,12,"Opp","vsMORG",46
+1,"4:22","Isaac McKneely defensive rebound",262,"Def Rebound","defensive rebound","Isaac McKneely",28,12,"Cavs","vsMORG",47
+1,"3:53","Jordan Minor makes two point layup (Andrew Rohde assists)",233,"Made Two","makes","Jordan Minor",30,12,"Opp","vsMORG",48
+1,"3:53","Elijah Gertrude personal foul (Rob Lawson draws the foul)",233,"Foul","personal foul","Elijah Gertrude",30,12,"Opp","vsMORG",48
+1,"3:53","TV timeout",233,""," ","TV",30,12,"Opp","vsMORG",48
+1,"3:53","Cavaliers lineup change (Andrew Rohde, Taine Murray, Reece Beekman, Jordan Minor, Leon Bond III)",233,"Cav Sub"," ","Cavaliers",30,12,"Opp","vsMORG",48
+1,"3:53","Rob Lawson makes regular free throw 1 of 2",233,"Made FT","makes","Rob Lawson",30,13,"Opp","vsMORG",48
+1,"3:53","Rob Lawson misses regular free throw 2 of 2",233,"Missed FT","misses","Rob Lawson",30,13,"Opp","vsMORG",48
+1,"3:29","Andrew Rohde defensive rebound",209,"Def Rebound","defensive rebound","Andrew Rohde",30,13,"Cavs","vsMORG",49
+1,"3:23","Jordan Minor turnover (bad pass) (Ahmarie Simpkins steals)",203,"Turnover","turnover","Jordan Minor",30,13,"Opp","vsMORG",50
+1,"3:17","Christian Oliver turnover (bad pass) (Leon Bond III steals)",197,"Turnover","turnover","Christian Oliver",30,13,"Cavs","vsMORG",51
+1,"2:52","Leon Bond III makes two point layup",172,"Made Two","makes","Leon Bond III",32,13,"Opp","vsMORG",52
+1,"2:50","Kamron Hobbs misses two point jump shot",170,"Missed Two","misses","Kamron Hobbs",32,13,"Opp","vsMORG",52
+1,"2:42","Taine Murray defensive rebound",162,"Def Rebound","defensive rebound","Taine Murray",32,13,"Cavs","vsMORG",53
+1,"2:40","Jordan Minor makes two point dunk (Reece Beekman assists)",160,"Made Two","makes","Jordan Minor",34,13,"Opp","vsMORG",54
+1,"2:40","Bears 30 second timeout",160,"Timeout","second timeout","Bears 30",34,13,"Opp","vsMORG",54
+1,"2:40","Cavaliers lineup change (Reece Beekman, Andrew Rohde, Taine Murray, Ryan Dunn, Leon Bond III)",160,"Cav Sub"," ","Cavaliers",34,13,"Opp","vsMORG",54
+1,"2:30","Bears lineup change (Kamron Hobbs, Rob Lawson, Ahmarie Simpkins, Marvin Brimage, Allen Udemadu)",150,"Opp Sub"," ","Bears",34,13,"Opp","vsMORG",54
+1,"2:28","Ahmarie Simpkins misses two point layup",148,"Missed Two","misses","Ahmarie Simpkins",34,13,"Opp","vsMORG",54
+1,"2:21","Ryan Dunn defensive rebound",141,"Def Rebound","defensive rebound","Ryan Dunn",34,13,"Cavs","vsMORG",55
+1,"2:15","Reece Beekman makes two point layup",135,"Made Two","makes","Reece Beekman",36,13,"Opp","vsMORG",56
+1,"2:13","Ahmarie Simpkins misses two point layup",133,"Missed Two","misses","Ahmarie Simpkins",36,13,"Opp","vsMORG",56
+1,"2:01","Andrew Rohde defensive rebound",121,"Def Rebound","defensive rebound","Andrew Rohde",36,13,"Cavs","vsMORG",57
+1,"1:59","Taine Murray misses three point jump shot",119,"Missed Three","misses","Taine Murray",36,13,"Cavs","vsMORG",57
+1,"1:53","Leon Bond III offensive rebound",113,"Off Rebound","offensive rebound","Leon Bond III",36,13,"Cavs","vsMORG",57
+1,"1:23","Andrew Rohde makes three point jump shot (Reece Beekman assists)",83,"Made Three","makes","Andrew Rohde",39,13,"Opp","vsMORG",58
+1,"1:21","Leon Bond III blocks Rob Lawson's two point layup",81,"Block","block","Leon Bond III",39,13,"Opp","vsMORG",58
+1,"0:58","Ryan Dunn defensive rebound",58,"Def Rebound","defensive rebound","Ryan Dunn",39,13,"Cavs","vsMORG",59
+1,"0:44","Leon Bond III makes two point layup (Taine Murray assists)",44,"Made Two","makes","Leon Bond III",41,13,"Opp","vsMORG",60
+1,"0:24","Rob Lawson makes three point jump shot (Kamron Hobbs assists)",24,"Made Three","makes","Rob Lawson",41,16,"Cavs","vsMORG",61
+1,"0:17","Ryan Dunn makes two point dunk (Reece Beekman assists)",17,"Made Two","makes","Ryan Dunn",43,16,"Cavs","vsMORG",61
+1,"0:17","Ahmarie Simpkins shooting foul (Ryan Dunn draws the foul)",17,"Foul","shooting foul","Ahmarie Simpkins",43,16,"Cavs","vsMORG",61
+1,"0:17","Ryan Dunn misses regular free throw 1 of 1",17,"Missed FT","misses","Ryan Dunn",43,16,"Cavs","vsMORG",61
+1,"0:01","Marvin Brimage defensive rebound",1,"Def Rebound","defensive rebound","Marvin Brimage",43,16,"Opp","vsMORG",62
+2,"20:00","2ND HALF",1200,""," ","2ND",43,16,"Opp","vsMORG",62
+2,"20:00","Cavaliers lineup change (Reece Beekman, Andrew Rohde, Isaac McKneely, Ryan Dunn, Jacob Groves)",1200,"Cav Sub"," ","Cavaliers",43,16,"Opp","vsMORG",62
+2,"20:00","Bears lineup change (Kamron Hobbs, Rob Lawson, Ahmarie Simpkins, Trent Edwards, Allen Udemadu)",1200,"Opp Sub"," ","Bears",43,16,"Opp","vsMORG",62
+2,"19:42","Open inbound Bears",1182,""," ","Open",43,16,"Opp","vsMORG",62
+2,"19:18","Trent Edwards makes two point turnaround jump shot",1158,"Made Two","makes","Trent Edwards",43,18,"Cavs","vsMORG",63
+2,"19:16","Isaac McKneely misses two point jump shot",1156,"Missed Two","misses","Isaac McKneely",43,18,"Cavs","vsMORG",63
+2,"18:57","Trent Edwards defensive rebound",1137,"Def Rebound","defensive rebound","Trent Edwards",43,18,"Opp","vsMORG",64
+2,"18:41","Ahmarie Simpkins turnover (bad pass) (Jacob Groves steals)",1121,"Turnover","turnover","Ahmarie Simpkins",43,18,"Cavs","vsMORG",65
+2,"18:39","Andrew Rohde misses three point jump shot",1119,"Missed Three","misses","Andrew Rohde",43,18,"Cavs","vsMORG",65
+2,"18:39","Bears defensive rebound",1119,"Def Rebound","defensive rebound","Bears",43,18,"Opp","vsMORG",66
+2,"18:23","Bears lineup change (Kamron Hobbs, Rob Lawson, Christian Oliver, Trent Edwards, Allen Udemadu)",1103,"Opp Sub"," ","Bears",43,18,"Opp","vsMORG",66
+2,"18:02","Christian Oliver makes three point jump shot (Rob Lawson assists)",1082,"Made Three","makes","Christian Oliver",43,21,"Cavs","vsMORG",67
+2,"18:00","Ryan Dunn misses two point layup",1080,"Missed Two","misses","Ryan Dunn",43,21,"Cavs","vsMORG",67
+2,"17:48","Allen Udemadu defensive rebound",1068,"Def Rebound","defensive rebound","Allen Udemadu",43,21,"Opp","vsMORG",68
+2,"17:22","Kamron Hobbs makes three point jump shot (Rob Lawson assists)",1042,"Made Three","makes","Kamron Hobbs",43,24,"Cavs","vsMORG",69
+2,"17:00","Reece Beekman makes two point turnaround jump shot",1020,"Made Two","makes","Reece Beekman",45,24,"Opp","vsMORG",70
+2,"16:49","Rob Lawson turnover (bad pass) (Andrew Rohde steals)",1009,"Turnover","turnover","Rob Lawson",45,24,"Cavs","vsMORG",71
+2,"16:49","Rob Lawson shooting foul (Jacob Groves draws the foul)",1009,"Foul","shooting foul","Rob Lawson",45,24,"Cavs","vsMORG",71
+2,"16:49","Jacob Groves misses regular free throw 1 of 2",1009,"Missed FT","misses","Jacob Groves",45,24,"Cavs","vsMORG",71
+2,"16:25","Jacob Groves makes regular free throw 2 of 2",985,"Made FT","makes","Jacob Groves",46,24,"Opp","vsMORG",72
+2,"16:09","Rob Lawson turnover (bad pass)",969,"Turnover","turnover","Rob Lawson",46,24,"Cavs","vsMORG",73
+2,"15:53","Isaac McKneely makes three point jump shot (Reece Beekman assists)",953,"Made Three","makes","Isaac McKneely",49,24,"Opp","vsMORG",74
+2,"15:34","Kamron Hobbs makes two point jump shot (Rob Lawson assists)",934,"Made Two","makes","Kamron Hobbs",49,26,"Cavs","vsMORG",75
+2,"15:31","Andrew Rohde misses three point jump shot",931,"Missed Three","misses","Andrew Rohde",49,26,"Cavs","vsMORG",75
+2,"15:15","Rob Lawson defensive rebound",915,"Def Rebound","defensive rebound","Rob Lawson",49,26,"Opp","vsMORG",76
+2,"15:15","Allen Udemadu turnover (bad pass)",915,"Turnover","turnover","Allen Udemadu",49,26,"Cavs","vsMORG",77
+2,"15:04","TV timeout",904,""," ","TV",49,26,"Cavs","vsMORG",77
+2,"15:04","Reece Beekman makes two point layup (Andrew Rohde assists)",904,"Made Two","makes","Reece Beekman",51,26,"Cavs","vsMORG",77
+2,"15:04","Allen Udemadu shooting foul (Reece Beekman draws the foul)",904,"Foul","shooting foul","Allen Udemadu",51,26,"Cavs","vsMORG",77
+2,"15:04","Reece Beekman misses regular free throw 1 of 1",904,"Missed FT","misses","Reece Beekman",51,26,"Cavs","vsMORG",77
+2,"14:46","Allen Udemadu defensive rebound",886,"Def Rebound","defensive rebound","Allen Udemadu",51,26,"Opp","vsMORG",78
+2,"14:31","Allen Udemadu turnover (lost ball) (Isaac McKneely steals)",871,"Turnover","turnover","Allen Udemadu",51,26,"Cavs","vsMORG",79
+2,"14:29","Isaac McKneely misses three point jump shot",869,"Missed Three","misses","Isaac McKneely",51,26,"Cavs","vsMORG",79
+2,"14:21","Christian Oliver defensive rebound",861,"Def Rebound","defensive rebound","Christian Oliver",51,26,"Opp","vsMORG",80
+2,"14:21","Trent Edwards misses three point jump shot",861,"Missed Three","misses","Trent Edwards",51,26,"Opp","vsMORG",80
+2,"14:07","Reece Beekman defensive rebound",847,"Def Rebound","defensive rebound","Reece Beekman",51,26,"Cavs","vsMORG",81
+2,"13:53","Ryan Dunn turnover (lost ball) (Kamron Hobbs steals)",833,"Turnover","turnover","Ryan Dunn",51,26,"Opp","vsMORG",82
+2,"13:27","Rob Lawson makes three point jump shot",807,"Made Three","makes","Rob Lawson",51,29,"Cavs","vsMORG",83
+2,"13:25","Reece Beekman misses two point layup",805,"Missed Two","misses","Reece Beekman",51,29,"Cavs","vsMORG",83
+2,"13:21","Allen Udemadu defensive rebound",801,"Def Rebound","defensive rebound","Allen Udemadu",51,29,"Opp","vsMORG",84
+2,"13:21","Ryan Dunn shooting foul (Kamron Hobbs draws the foul)",801,"Foul","shooting foul","Ryan Dunn",51,29,"Opp","vsMORG",84
+2,"13:21","Kamron Hobbs makes regular free throw 1 of 2",801,"Made FT","makes","Kamron Hobbs",51,30,"Opp","vsMORG",84
+2,"13:21","Cavaliers lineup change (Blake Buchanan, Andrew Rohde, Isaac McKneely, Taine Murray, Leon Bond III)",801,"Cav Sub"," ","Cavaliers",51,30,"Opp","vsMORG",84
+2,"13:21","Bears lineup change (Kamron Hobbs, Rob Lawson, Trent Edwards, Christian Oliver, Ahmarie Simpkins)",801,"Opp Sub"," ","Bears",51,30,"Opp","vsMORG",84
+2,"13:21","Kamron Hobbs misses regular free throw 2 of 2",801,"Missed FT","misses","Kamron Hobbs",51,30,"Opp","vsMORG",84
+2,"12:55","Leon Bond III defensive rebound",775,"Def Rebound","defensive rebound","Leon Bond III",51,30,"Cavs","vsMORG",85
+2,"12:24","Isaac McKneely makes three point jump shot (Leon Bond III assists)",744,"Made Three","makes","Isaac McKneely",54,30,"Opp","vsMORG",86
+2,"12:22","Ahmarie Simpkins misses three point jump shot",742,"Missed Three","misses","Ahmarie Simpkins",54,30,"Opp","vsMORG",86
+2,"12:09","Leon Bond III defensive rebound",729,"Def Rebound","defensive rebound","Leon Bond III",54,30,"Cavs","vsMORG",87
+2,"12:09","Kamron Hobbs shooting foul (Leon Bond III draws the foul)",729,"Foul","shooting foul","Kamron Hobbs",54,30,"Cavs","vsMORG",87
+2,"12:09","Leon Bond III makes regular free throw 1 of 2",729,"Made FT","makes","Leon Bond III",55,30,"Cavs","vsMORG",87
+2,"12:09","Bears lineup change (Marvin Brimage, Rob Lawson, Ahmarie Simpkins, Trent Edwards, Christian Oliver)",729,"Opp Sub"," ","Bears",55,30,"Cavs","vsMORG",87
+2,"11:59","Leon Bond III makes regular free throw 2 of 2",719,"Made FT","makes","Leon Bond III",56,30,"Opp","vsMORG",88
+2,"11:59","Taine Murray shooting foul",719,"Foul","shooting foul","Taine Murray",56,30,"Opp","vsMORG",88
+2,"11:59","TV timeout",719,""," ","TV",56,30,"Opp","vsMORG",88
+2,"11:59","Cavaliers lineup change (Blake Buchanan, Reece Beekman, Taine Murray, Elijah Gertrude, Leon Bond III)",719,"Cav Sub"," ","Cavaliers",56,30,"Opp","vsMORG",88
+2,"11:59","Rob Lawson misses regular free throw 1 of 2",719,"Missed FT","misses","Rob Lawson",56,30,"Opp","vsMORG",88
+2,"11:46","Rob Lawson makes regular free throw 2 of 2",706,"Made FT","makes","Rob Lawson",56,31,"Cavs","vsMORG",89
+2,"11:44","Christian Oliver blocks Leon Bond III's two point layup",704,"Block","block","Christian Oliver",56,31,"Cavs","vsMORG",89
+2,"11:28","Trent Edwards defensive rebound",688,"Def Rebound","defensive rebound","Trent Edwards",56,31,"Opp","vsMORG",90
+2,"11:05","Christian Oliver makes two point turnaround jump shot",665,"Made Two","makes","Christian Oliver",56,33,"Cavs","vsMORG",91
+2,"11:03","Elijah Gertrude misses two point jump shot",663,"Missed Two","misses","Elijah Gertrude",56,33,"Cavs","vsMORG",91
+2,"10:56","Leon Bond III offensive rebound",656,"Off Rebound","offensive rebound","Leon Bond III",56,33,"Cavs","vsMORG",91
+2,"10:33","Taine Murray makes three point jump shot (Reece Beekman assists)",633,"Made Three","makes","Taine Murray",59,33,"Opp","vsMORG",92
+2,"10:31","Reece Beekman blocks Rob Lawson's two point layup",631,"Block","block","Reece Beekman",59,33,"Opp","vsMORG",92
+2,"10:08","Blake Buchanan defensive rebound",608,"Def Rebound","defensive rebound","Blake Buchanan",59,33,"Cavs","vsMORG",93
+2,"10:06","Leon Bond III misses two point jump shot",606,"Missed Two","misses","Leon Bond III",59,33,"Cavs","vsMORG",93
+2,"10:04","Blake Buchanan offensive rebound",604,"Off Rebound","offensive rebound","Blake Buchanan",59,33,"Cavs","vsMORG",93
+2,"10:02","Taine Murray misses three point jump shot",602,"Missed Three","misses","Taine Murray",59,33,"Cavs","vsMORG",93
+2,"9:59","Blake Buchanan offensive rebound",599,"Off Rebound","offensive rebound","Blake Buchanan",59,33,"Cavs","vsMORG",93
+2,"9:57","Blake Buchanan misses two point layup",597,"Missed Two","misses","Blake Buchanan",59,33,"Cavs","vsMORG",93
+2,"9:51","Ahmarie Simpkins defensive rebound",591,"Def Rebound","defensive rebound","Ahmarie Simpkins",59,33,"Opp","vsMORG",94
+2,"9:42","Bears lineup change (Rob Lawson, Ahmarie Simpkins, Trent Edwards, Kamron Hobbs, Allen Udemadu)",582,"Opp Sub"," ","Bears",59,33,"Opp","vsMORG",94
+2,"9:42","Blake Buchanan shooting foul (Ahmarie Simpkins draws the foul)",582,"Foul","shooting foul","Blake Buchanan",59,33,"Opp","vsMORG",94
+2,"9:42","Ahmarie Simpkins makes regular free throw 1 of 2",582,"Made FT","makes","Ahmarie Simpkins",59,34,"Opp","vsMORG",94
+2,"9:42","Ahmarie Simpkins misses regular free throw 2 of 2",582,"Missed FT","misses","Ahmarie Simpkins",59,34,"Opp","vsMORG",94
+2,"9:32","Leon Bond III defensive rebound",572,"Def Rebound","defensive rebound","Leon Bond III",59,34,"Cavs","vsMORG",95
+2,"9:32","Blake Buchanan turnover (bad pass)",572,"Turnover","turnover","Blake Buchanan",59,34,"Opp","vsMORG",96
+2,"9:15","Cavaliers lineup change (Blake Buchanan, Reece Beekman, Taine Murray, Elijah Gertrude, Ryan Dunn)",555,"Cav Sub"," ","Cavaliers",59,34,"Opp","vsMORG",96
+2,"8:56","Kamron Hobbs makes three point jump shot (Rob Lawson assists)",536,"Made Three","makes","Kamron Hobbs",59,37,"Cavs","vsMORG",97
+2,"8:54","Reece Beekman misses two point jump shot",534,"Missed Two","misses","Reece Beekman",59,37,"Cavs","vsMORG",97
+2,"8:50","Ryan Dunn offensive rebound",530,"Off Rebound","offensive rebound","Ryan Dunn",59,37,"Cavs","vsMORG",97
+2,"8:48","Ryan Dunn misses two point layup",528,"Missed Two","misses","Ryan Dunn",59,37,"Cavs","vsMORG",97
+2,"8:40","Ahmarie Simpkins defensive rebound",520,"Def Rebound","defensive rebound","Ahmarie Simpkins",59,37,"Opp","vsMORG",98
+2,"8:38","Rob Lawson misses two point jump shot",518,"Missed Two","misses","Rob Lawson",59,37,"Opp","vsMORG",98
+2,"8:38","Trent Edwards offensive rebound",518,"Off Rebound","offensive rebound","Trent Edwards",59,37,"Opp","vsMORG",98
+2,"8:38","Elijah Gertrude shooting foul (Trent Edwards draws the foul)",518,"Foul","shooting foul","Elijah Gertrude",59,37,"Opp","vsMORG",98
+2,"8:38","TV timeout",518,""," ","TV",59,37,"Opp","vsMORG",98
+2,"8:38","Cavaliers lineup change (Andrew Rohde, Reece Beekman, Isaac McKneely, Jacob Groves, Ryan Dunn)",518,"Cav Sub"," ","Cavaliers",59,37,"Opp","vsMORG",98
+2,"8:38","Bears lineup change (Kamron Hobbs, Marvin Brimage, Ahmarie Simpkins, Trent Edwards, Allen Udemadu)",518,"Opp Sub"," ","Bears",59,37,"Opp","vsMORG",98
+2,"8:38","Trent Edwards misses regular free throw 1 of 2",518,"Missed FT","misses","Trent Edwards",59,37,"Opp","vsMORG",98
+2,"8:27","Trent Edwards makes regular free throw 2 of 2",507,"Made FT","makes","Trent Edwards",59,38,"Cavs","vsMORG",99
+2,"8:04","Jacob Groves makes three point jump shot (Isaac McKneely assists)",484,"Made Three","makes","Jacob Groves",62,38,"Opp","vsMORG",100
+2,"8:04","Ahmarie Simpkins turnover (lost ball) (Jacob Groves steals)",484,"Turnover","turnover","Ahmarie Simpkins",62,38,"Cavs","vsMORG",101
+2,"7:43","Bears lineup change (Kamron Hobbs, Ahmarie Simpkins, Trent Edwards, Rob Lawson, Allen Udemadu)",463,"Opp Sub"," ","Bears",62,38,"Cavs","vsMORG",101
+2,"7:41","Jacob Groves misses three point jump shot",461,"Missed Three","misses","Jacob Groves",62,38,"Cavs","vsMORG",101
+2,"7:18","Ahmarie Simpkins defensive rebound",438,"Def Rebound","defensive rebound","Ahmarie Simpkins",62,38,"Opp","vsMORG",102
+2,"7:18","TV timeout",438,""," ","TV",62,38,"Opp","vsMORG",102
+2,"7:16","Reece Beekman blocks Rob Lawson's two point jump shot",436,"Block","block","Reece Beekman",62,38,"Opp","vsMORG",102
+2,"6:55","Reece Beekman defensive rebound",415,"Def Rebound","defensive rebound","Reece Beekman",62,38,"Cavs","vsMORG",103
+2,"6:36","Andrew Rohde makes two point layup (Isaac McKneely assists)",396,"Made Two","makes","Andrew Rohde",64,38,"Opp","vsMORG",104
+2,"6:34","Kamron Hobbs misses three point jump shot",394,"Missed Three","misses","Kamron Hobbs",64,38,"Opp","vsMORG",104
+2,"6:28","Allen Udemadu offensive rebound",388,"Off Rebound","offensive rebound","Allen Udemadu",64,38,"Opp","vsMORG",104
+2,"6:20","Kamron Hobbs turnover (bad pass) (Reece Beekman steals)",380,"Turnover","turnover","Kamron Hobbs",64,38,"Cavs","vsMORG",105
+2,"6:18","Reece Beekman misses three point jump shot",378,"Missed Three","misses","Reece Beekman",64,38,"Cavs","vsMORG",105
+2,"6:13","Ryan Dunn offensive rebound",373,"Off Rebound","offensive rebound","Ryan Dunn",64,38,"Cavs","vsMORG",105
+2,"6:11","Ryan Dunn misses two point layup",371,"Missed Two","misses","Ryan Dunn",64,38,"Cavs","vsMORG",105
+2,"6:10","Ryan Dunn offensive rebound",370,"Off Rebound","offensive rebound","Ryan Dunn",64,38,"Cavs","vsMORG",105
+2,"6:08","Ryan Dunn misses two point layup",368,"Missed Two","misses","Ryan Dunn",64,38,"Cavs","vsMORG",105
+2,"5:55","Rob Lawson defensive rebound",355,"Def Rebound","defensive rebound","Rob Lawson",64,38,"Opp","vsMORG",106
+2,"5:49","Ahmarie Simpkins turnover (lost ball) (Isaac McKneely steals)",349,"Turnover","turnover","Ahmarie Simpkins",64,38,"Cavs","vsMORG",107
+2,"5:47","Reece Beekman makes two point layup (Isaac McKneely assists)",347,"Made Two","makes","Reece Beekman",66,38,"Opp","vsMORG",108
+2,"5:47","Cavaliers 30 second timeout",347,"Timeout","second timeout","Cavaliers 30",66,38,"Opp","vsMORG",108
+2,"5:47","Cavaliers lineup change (Elijah Gertrude, Andrew Rohde, Isaac McKneely, Jordan Minor, Leon Bond III)",347,"Cav Sub"," ","Cavaliers",66,38,"Opp","vsMORG",108
+2,"5:33","Bears lineup change (Kamron Hobbs, Rob Lawson, Christian Oliver, Trent Edwards, Allen Udemadu)",333,"Opp Sub"," ","Bears",66,38,"Opp","vsMORG",108
+2,"5:13","Kamron Hobbs turnover (bad pass) (Jordan Minor steals)",313,"Turnover","turnover","Kamron Hobbs",66,38,"Cavs","vsMORG",109
+2,"5:11","Isaac McKneely misses three point jump shot",311,"Missed Three","misses","Isaac McKneely",66,38,"Cavs","vsMORG",109
+2,"4:43","Kamron Hobbs defensive rebound",283,"Def Rebound","defensive rebound","Kamron Hobbs",66,38,"Opp","vsMORG",110
+2,"4:41","Rob Lawson misses two point jump shot",281,"Missed Two","misses","Rob Lawson",66,38,"Opp","vsMORG",110
+2,"4:34","Bears offensive rebound",274,"Off Rebound","offensive rebound","Bears",66,38,"Opp","vsMORG",110
+2,"4:32","Kamron Hobbs misses two point jump shot",272,"Missed Two","misses","Kamron Hobbs",66,38,"Opp","vsMORG",110
+2,"4:31","Trent Edwards offensive rebound",271,"Off Rebound","offensive rebound","Trent Edwards",66,38,"Opp","vsMORG",110
+2,"4:11","Trent Edwards makes two point layup",251,"Made Two","makes","Trent Edwards",66,40,"Cavs","vsMORG",111
+2,"3:53","Leon Bond III makes two point layup (Andrew Rohde assists)",233,"Made Two","makes","Leon Bond III",68,40,"Opp","vsMORG",112
+2,"3:53","Leon Bond III shooting foul (Rob Lawson draws the foul)",233,"Foul","shooting foul","Leon Bond III",68,40,"Opp","vsMORG",112
+2,"3:53","TV timeout",233,""," ","TV",68,40,"Opp","vsMORG",112
+2,"3:53","Cavaliers lineup change (Blake Buchanan, Taine Murray, Elijah Gertrude, Jordan Minor, Leon Bond III)",233,"Cav Sub"," ","Cavaliers",68,40,"Opp","vsMORG",112
+2,"3:53","Bears lineup change (Kamron Hobbs, Rob Lawson, Trent Edwards, Christian Oliver, Ahmarie Simpkins)",233,"Opp Sub"," ","Bears",68,40,"Opp","vsMORG",112
+2,"3:53","Rob Lawson makes regular free throw 1 of 2",233,"Made FT","makes","Rob Lawson",68,41,"Opp","vsMORG",112
+2,"3:32","Rob Lawson makes regular free throw 2 of 2",212,"Made FT","makes","Rob Lawson",68,42,"Cavs","vsMORG",113
+2,"3:02","Jordan Minor makes two point hook shot",182,"Made Two","makes","Jordan Minor",70,42,"Opp","vsMORG",114
+2,"2:42","Rob Lawson turnover (double dribble)",162,"Turnover","turnover","Rob Lawson",70,42,"Cavs","vsMORG",115
+2,"2:18","Elijah Gertrude makes two point jump shot",138,"Made Two","makes","Elijah Gertrude",72,42,"Opp","vsMORG",116
+2,"2:16","Christian Oliver misses three point jump shot",136,"Missed Three","misses","Christian Oliver",72,42,"Opp","vsMORG",116
+2,"2:14","Kamron Hobbs offensive rebound",134,"Off Rebound","offensive rebound","Kamron Hobbs",72,42,"Opp","vsMORG",116
+2,"1:59","Kamron Hobbs makes two point layup",119,"Made Two","makes","Kamron Hobbs",72,44,"Cavs","vsMORG",117
+2,"1:57","Leon Bond III misses two point jump shot",117,"Missed Two","misses","Leon Bond III",72,44,"Cavs","vsMORG",117
+2,"1:43","Jordan Minor offensive rebound",103,"Off Rebound","offensive rebound","Jordan Minor",72,44,"Cavs","vsMORG",117
+2,"1:20","Elijah Gertrude makes two point reverse layup (Taine Murray assists)",80,"Made Two","makes","Elijah Gertrude",74,44,"Opp","vsMORG",118
+2,"1:18","Ahmarie Simpkins misses three point jump shot",78,"Missed Three","misses","Ahmarie Simpkins",74,44,"Opp","vsMORG",118
+2,"1:17","Leon Bond III defensive rebound",77,"Def Rebound","defensive rebound","Leon Bond III",74,44,"Cavs","vsMORG",119
+2,"1:17","Cavaliers 30 second timeout",77,"Timeout","second timeout","Cavaliers 30",74,44,"Cavs","vsMORG",119
+2,"1:07","Cavaliers lineup change (Blake Buchanan, Tristan How, Elijah Gertrude, Jordan Minor, Bryce Walker)",67,"Cav Sub"," ","Cavaliers",74,44,"Cavs","vsMORG",119
+2,"0:52","Tristan How makes two point jump shot (Elijah Gertrude assists)",52,"Made Two","makes","Tristan How",76,44,"Opp","vsMORG",120
+2,"0:50","Elijah Gertrude blocks Rob Lawson's two point layup",50,"Block","block","Elijah Gertrude",76,44,"Opp","vsMORG",120
+2,"0:37","Bears offensive rebound",37,"Off Rebound","offensive rebound","Bears",76,44,"Opp","vsMORG",120
+2,"0:35","Elijah Gertrude blocks Rob Lawson's two point jump shot",35,"Block","block","Elijah Gertrude",76,44,"Opp","vsMORG",120
+2,"0:29","Blake Buchanan defensive rebound",29,"Def Rebound","defensive rebound","Blake Buchanan",76,44,"Cavs","vsMORG",121
+2,"0:27","Jordan Minor misses two point layup",27,"Missed Two","misses","Jordan Minor",76,44,"Cavs","vsMORG",121
+2,"0:15","Elijah Gertrude offensive rebound",15,"Off Rebound","offensive rebound","Elijah Gertrude",76,44,"Cavs","vsMORG",121
+2,"0:00","Kamron Hobbs misses two point jump shot",0,"Missed Two","misses","Kamron Hobbs",76,44,"Cavs","vsMORG",121
+2,"0:00","Andrew Rohde defensive rebound",0,"Def Rebound","defensive rebound","Andrew Rohde",76,44,"Opp","vsMORG",122
+2,"0:00","Bryce Walker makes three point jump shot (Blake Buchanan assists)",0,"Made Three","makes","Bryce Walker",79,44,"Cavs","vsMORG",123

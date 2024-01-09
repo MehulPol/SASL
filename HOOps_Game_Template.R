@@ -126,10 +126,10 @@ colnames(lineup_changes)[colnames(lineup_changes) == 'Lineup'] <- 'Description'
 
 
 ## Fox Sports Scraping and Cleaning
-website1 = "https://www.foxsports.com/college-basketball/north-carolina-central-eagles-vs-virginia-cavaliers-dec-05-2023-game-boxscore-246175?tab=playbyplay"
+website1 = "https://www.foxsports.com/college-basketball/virginia-cavaliers-vs-north-carolina-state-wolfpack-jan-06-2024-game-boxscore-245746?tab=playbyplay"
 starting_lineup1 = "Isaac McKneely,Reece Beekman,Andrew Rohde,Ryan Dunn,Jacob Groves"
-abbrev1 = "NCCU"
-opp1 = "vsNCCU"
+abbrev1 = "NCST"
+opp1 = "vsNCST"
 
 game = tibble(Half = 1, Time = "", Description = "", Event = "", Token = "", words = strsplit("place holder", split = ' '), Player = "", 
                UVA_score = 0, Opp_score = 0, Time_in_sec = 0, Opps = "",`Possession Number` = 0)
@@ -347,7 +347,7 @@ game1 = game_pbp(website1,starting_lineup1,abbrev1,opp1)
 ## end of playbyplay data for all games
 
 # game1 = game1%>%select(-words)
-# write.csv(game1, "NCCU_game.csv", row.names=FALSE)
+# write.csv(game1, "NCST_game.csv", row.names=FALSE)
 
 
 
@@ -518,7 +518,7 @@ All_Stats = merge(Player_stats, Box_Score, by = "Player", all.x = TRUE) %>%
   mutate(def_eff = 2*Defensive_plays/Possessions, .after = Pt_diff_permin)%>%
   mutate(PER = PER/(On_court_time/60))
 
-# write.csv(All_Stats, "NCCU_stats.csv", row.names=FALSE)
+# write.csv(All_Stats, "NCST_stats.csv", row.names=FALSE)
 
 ## Visualizations
 

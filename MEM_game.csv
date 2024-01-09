@@ -1,0 +1,341 @@
+"Half","Time","Description","Time_in_sec","Event","Token","Player","UVA_score","Opp_score","Possession","Opps","Possession Number"
+1,"20:00","1ST HALF",1200,""," ","1ST",0,0,"Cavs","vsMEM",1
+1,"20:00","Cavaliers lineup change (Isaac McKneely,Reece Beekman,Andrew Rohde,Ryan Dunn,Jacob Groves)",1200,"Cav Sub"," ","Cavaliers",0,0,"","vsMEM",2
+1,"19:46","Jump ball. Malcolm Dandridge vs. Ryan Dunn (Malcolm Dandridge gains possession)",1186,"Jump Ball"," ","Jump",0,0,"Opp","vsMEM",3
+1,"19:37","Ryan Dunn personal foul",1177,"Foul","personal foul","Ryan Dunn",0,0,"Opp","vsMEM",3
+1,"19:03","Jaykwon Walton makes two point layup (Malcolm Dandridge assists)",1143,"Made Two","makes","Jaykwon Walton",0,2,"Cavs","vsMEM",4
+1,"19:01","Isaac McKneely misses two point jump shot",1141,"Missed Two","misses","Isaac McKneely",0,2,"Cavs","vsMEM",4
+1,"18:48","David Jones defensive rebound",1128,"Def Rebound","defensive rebound","David Jones",0,2,"Opp","vsMEM",5
+1,"18:25","David Jones makes three point jump shot",1105,"Made Three","makes","David Jones",0,5,"Cavs","vsMEM",6
+1,"18:14","Ryan Dunn turnover (bad pass) (Nicholas Jourdain steals)",1094,"Turnover","turnover","Ryan Dunn",0,5,"Opp","vsMEM",7
+1,"18:02","David Jones makes two point layup",1082,"Made Two","makes","David Jones",0,7,"Cavs","vsMEM",8
+1,"18:02","Malcolm Dandridge shooting foul (Ryan Dunn draws the foul)",1082,"Foul","shooting foul","Malcolm Dandridge",0,7,"Cavs","vsMEM",8
+1,"18:02","Ryan Dunn makes regular free throw 1 of 2",1082,"Made FT","makes","Ryan Dunn",1,7,"Cavs","vsMEM",8
+1,"18:02","Ryan Dunn misses regular free throw 2 of 2",1082,"Missed FT","misses","Ryan Dunn",1,7,"Cavs","vsMEM",8
+1,"17:39","Malcolm Dandridge defensive rebound",1059,"Def Rebound","defensive rebound","Malcolm Dandridge",1,7,"Opp","vsMEM",9
+1,"17:37","Nicholas Jourdain misses three point jump shot",1057,"Missed Three","misses","Nicholas Jourdain",1,7,"Opp","vsMEM",9
+1,"17:24","Andrew Rohde defensive rebound",1044,"Def Rebound","defensive rebound","Andrew Rohde",1,7,"Cavs","vsMEM",10
+1,"17:22","Ryan Dunn misses three point jump shot",1042,"Missed Three","misses","Ryan Dunn",1,7,"Cavs","vsMEM",10
+1,"17:09","David Jones defensive rebound",1029,"Def Rebound","defensive rebound","David Jones",1,7,"Opp","vsMEM",11
+1,"17:00","Jahvon Quinerly makes three point jump shot",1020,"Made Three","makes","Jahvon Quinerly",1,10,"Cavs","vsMEM",12
+1,"16:58","Ryan Dunn misses two point layup",1018,"Missed Two","misses","Ryan Dunn",1,10,"Cavs","vsMEM",12
+1,"16:44","Malcolm Dandridge defensive rebound",1004,"Def Rebound","defensive rebound","Malcolm Dandridge",1,10,"Opp","vsMEM",13
+1,"16:42","Malcolm Dandridge misses two point layup",1002,"Missed Two","misses","Malcolm Dandridge",1,10,"Opp","vsMEM",13
+1,"16:23","Andrew Rohde defensive rebound",983,"Def Rebound","defensive rebound","Andrew Rohde",1,10,"Cavs","vsMEM",14
+1,"16:23","Cavaliers turnover (back court violation)",983,"Turnover","turnover","Cavaliers",1,10,"Opp","vsMEM",15
+1,"16:23","Tigers lineup change (Nicholas Jourdain, David Jones, Ashton Hardaway, Jahvon Quinerly, Caleb Mills)",983,"Opp Sub"," ","Tigers",1,10,"Opp","vsMEM",15
+1,"16:12","Cavaliers lineup change (Reece Beekman, Andrew Rohde, Isaac McKneely, Leon Bond III, Jacob Groves)",972,"Cav Sub"," ","Cavaliers",1,10,"Opp","vsMEM",15
+1,"16:10","Ashton Hardaway makes three point jump shot (Nicholas Jourdain assists)",970,"Made Three","makes","Ashton Hardaway",1,13,"Cavs","vsMEM",16
+1,"16:10","Cavaliers 30 second timeout",970,"Timeout","second timeout","Cavaliers 30",1,13,"Cavs","vsMEM",16
+1,"15:58","TV timeout",958,""," ","TV",1,13,"Cavs","vsMEM",16
+1,"15:32","Reece Beekman makes three point jump shot (Andrew Rohde assists)",932,"Made Three","makes","Reece Beekman",4,13,"Opp","vsMEM",17
+1,"15:17","Jahvon Quinerly turnover (lost ball) (Reece Beekman steals)",917,"Turnover","turnover","Jahvon Quinerly",4,13,"Cavs","vsMEM",18
+1,"14:55","Leon Bond III makes two point dunk (Reece Beekman assists)",895,"Made Two","makes","Leon Bond III",6,13,"Opp","vsMEM",19
+1,"14:55","Ashton Hardaway turnover (bad pass)",895,"Turnover","turnover","Ashton Hardaway",6,13,"Cavs","vsMEM",20
+1,"14:37","Tigers lineup change (Jayhlon Young, Ashton Hardaway, Jaykwon Walton, Caleb Mills, Jayden Hardaway)",877,"Opp Sub"," ","Tigers",6,13,"Cavs","vsMEM",20
+1,"14:35","Andrew Rohde misses three point jump shot",875,"Missed Three","misses","Andrew Rohde",6,13,"Cavs","vsMEM",20
+1,"14:21","Jayhlon Young defensive rebound",861,"Def Rebound","defensive rebound","Jayhlon Young",6,13,"Opp","vsMEM",21
+1,"14:19","Ashton Hardaway misses three point jump shot",859,"Missed Three","misses","Ashton Hardaway",6,13,"Opp","vsMEM",21
+1,"14:01","Jayhlon Young offensive rebound",841,"Off Rebound","offensive rebound","Jayhlon Young",6,13,"Opp","vsMEM",21
+1,"13:59","Caleb Mills misses three point jump shot",839,"Missed Three","misses","Caleb Mills",6,13,"Opp","vsMEM",21
+1,"13:40","Jacob Groves defensive rebound",820,"Def Rebound","defensive rebound","Jacob Groves",6,13,"Cavs","vsMEM",22
+1,"13:12","Jacob Groves makes three point jump shot (Reece Beekman assists)",792,"Made Three","makes","Jacob Groves",9,13,"Opp","vsMEM",23
+1,"13:10","Jaykwon Walton misses two point layup",790,"Missed Two","misses","Jaykwon Walton",9,13,"Opp","vsMEM",23
+1,"13:02","Jaykwon Walton offensive rebound",782,"Off Rebound","offensive rebound","Jaykwon Walton",9,13,"Opp","vsMEM",23
+1,"12:56","Jaykwon Walton makes two point layup",776,"Made Two","makes","Jaykwon Walton",9,15,"Cavs","vsMEM",24
+1,"12:54","Isaac McKneely misses two point jump shot",774,"Missed Two","misses","Isaac McKneely",9,15,"Cavs","vsMEM",24
+1,"12:50","Jayhlon Young defensive rebound",770,"Def Rebound","defensive rebound","Jayhlon Young",9,15,"Opp","vsMEM",25
+1,"12:50","Andrew Rohde personal foul",770,"Foul","personal foul","Andrew Rohde",9,15,"Opp","vsMEM",25
+1,"12:50","Tigers lineup change (Jayhlon Young, Malcolm Dandridge, Caleb Mills, Jaykwon Walton, Jayden Hardaway)",770,"Opp Sub"," ","Tigers",9,15,"Opp","vsMEM",25
+1,"12:43","Cavaliers lineup change (Reece Beekman, Blake Buchanan, Isaac McKneely, Elijah Gertrude, Leon Bond III)",763,"Cav Sub"," ","Cavaliers",9,15,"Opp","vsMEM",25
+1,"12:41","Jayhlon Young misses two point layup",761,"Missed Two","misses","Jayhlon Young",9,15,"Opp","vsMEM",25
+1,"12:19","Reece Beekman defensive rebound",739,"Def Rebound","defensive rebound","Reece Beekman",9,15,"Cavs","vsMEM",26
+1,"11:48","Reece Beekman makes three point jump shot",708,"Made Three","makes","Reece Beekman",12,15,"Opp","vsMEM",27
+1,"11:46","Caleb Mills misses two point jump shot",706,"Missed Two","misses","Caleb Mills",12,15,"Opp","vsMEM",27
+1,"11:44","Cavaliers defensive rebound",704,"Def Rebound","defensive rebound","Cavaliers",12,15,"Cavs","vsMEM",28
+1,"11:44","TV timeout",704,""," ","TV",12,15,"Cavs","vsMEM",28
+1,"11:35","Tigers lineup change (Jayhlon Young, Caleb Mills, Jaykwon Walton, Malcolm Dandridge, David Jones)",695,"Opp Sub"," ","Tigers",12,15,"Cavs","vsMEM",28
+1,"11:15","Tigers lineup change (Jahvon Quinerly, David Jones, Caleb Mills, Jaykwon Walton, Malcolm Dandridge)",675,"Opp Sub"," ","Tigers",12,15,"Cavs","vsMEM",28
+1,"11:00","Isaac McKneely turnover (lost ball) (Caleb Mills steals)",660,"Turnover","turnover","Isaac McKneely",12,15,"Opp","vsMEM",29
+1,"11:00","Elijah Gertrude shooting foul (David Jones draws the foul)",660,"Foul","shooting foul","Elijah Gertrude",12,15,"Opp","vsMEM",29
+1,"11:00","David Jones makes regular free throw 1 of 2",660,"Made FT","makes","David Jones",12,16,"Opp","vsMEM",29
+1,"10:51","David Jones makes regular free throw 2 of 2",651,"Made FT","makes","David Jones",12,17,"Cavs","vsMEM",30
+1,"10:42","Elijah Gertrude makes two point layup (Blake Buchanan assists)",642,"Made Two","makes","Elijah Gertrude",14,17,"Opp","vsMEM",31
+1,"10:40","Jaykwon Walton misses three point jump shot",640,"Missed Three","misses","Jaykwon Walton",14,17,"Opp","vsMEM",31
+1,"10:13","Blake Buchanan defensive rebound",613,"Def Rebound","defensive rebound","Blake Buchanan",14,17,"Cavs","vsMEM",32
+1,"10:05","Reece Beekman turnover (lost ball) (Malcolm Dandridge steals)",605,"Turnover","turnover","Reece Beekman",14,17,"Opp","vsMEM",33
+1,"9:46","Caleb Mills makes three point jump shot (David Jones assists)",586,"Made Three","makes","Caleb Mills",14,20,"Cavs","vsMEM",34
+1,"9:41","Cavaliers lineup change (Blake Buchanan, Reece Beekman, Isaac McKneely, Andrew Rohde, Ryan Dunn)",581,"Cav Sub"," ","Cavaliers",14,20,"Cavs","vsMEM",34
+1,"9:21","Blake Buchanan turnover (lost ball) (Jahvon Quinerly steals)",561,"Turnover","turnover","Blake Buchanan",14,20,"Opp","vsMEM",35
+1,"9:06","David Jones makes two point jump shot",546,"Made Two","makes","David Jones",14,22,"Cavs","vsMEM",36
+1,"9:06","Jaykwon Walton personal foul",546,"Foul","personal foul","Jaykwon Walton",14,22,"Cavs","vsMEM",36
+1,"9:06","Tigers lineup change (David Jones, Nicholas Jourdain, Jaykwon Walton, Jahvon Quinerly, Jayden Hardaway)",546,"Opp Sub"," ","Tigers",14,22,"Cavs","vsMEM",36
+1,"8:58","Cavaliers lineup change (Taine Murray, Reece Beekman, Andrew Rohde, Jacob Groves, Ryan Dunn)",538,"Cav Sub"," ","Cavaliers",14,22,"Cavs","vsMEM",36
+1,"8:44","Jacob Groves makes two point layup (Andrew Rohde assists)",524,"Made Two","makes","Jacob Groves",16,22,"Opp","vsMEM",37
+1,"8:34","David Jones makes three point jump shot (Jahvon Quinerly assists)",514,"Made Three","makes","David Jones",16,25,"Cavs","vsMEM",38
+1,"8:32","Andrew Rohde misses three point jump shot",512,"Missed Three","misses","Andrew Rohde",16,25,"Cavs","vsMEM",38
+1,"8:28","David Jones defensive rebound",508,"Def Rebound","defensive rebound","David Jones",16,25,"Opp","vsMEM",39
+1,"8:26","David Jones misses two point layup",506,"Missed Two","misses","David Jones",16,25,"Opp","vsMEM",39
+1,"8:23","Jacob Groves defensive rebound",503,"Def Rebound","defensive rebound","Jacob Groves",16,25,"Cavs","vsMEM",40
+1,"8:23","Ryan Dunn makes two point layup (Reece Beekman assists)",503,"Made Two","makes","Ryan Dunn",18,25,"Cavs","vsMEM",40
+1,"8:23","Nicholas Jourdain shooting foul (Ryan Dunn draws the foul)",503,"Foul","shooting foul","Nicholas Jourdain",18,25,"Cavs","vsMEM",40
+1,"8:23","Tigers lineup change (Nicholas Jourdain, David Jones, Jahvon Quinerly, Jayden Hardaway, Jayhlon Young)",503,"Opp Sub"," ","Tigers",18,25,"Cavs","vsMEM",40
+1,"8:23","Ryan Dunn misses regular free throw 1 of 1",503,"Missed FT","misses","Ryan Dunn",18,25,"Cavs","vsMEM",40
+1,"8:01","Ryan Dunn offensive rebound",481,"Off Rebound","offensive rebound","Ryan Dunn",18,25,"Cavs","vsMEM",40
+1,"7:59","Taine Murray misses three point jump shot",479,"Missed Three","misses","Taine Murray",18,25,"Cavs","vsMEM",40
+1,"7:46","Jayden Hardaway defensive rebound",466,"Def Rebound","defensive rebound","Jayden Hardaway",18,25,"Opp","vsMEM",41
+1,"7:29","David Jones makes two point jump shot",449,"Made Two","makes","David Jones",18,27,"Cavs","vsMEM",42
+1,"7:14","Ryan Dunn makes two point layup (Andrew Rohde assists)",434,"Made Two","makes","Ryan Dunn",20,27,"Opp","vsMEM",43
+1,"7:14","Andrew Rohde shooting foul (Jayden Hardaway draws the foul)",434,"Foul","shooting foul","Andrew Rohde",20,27,"Opp","vsMEM",43
+1,"7:14","TV timeout",434,""," ","TV",20,27,"Opp","vsMEM",43
+1,"7:14","Cavaliers lineup change (Reece Beekman, Isaac McKneely, Taine Murray, Ryan Dunn, Jacob Groves)",434,"Cav Sub"," ","Cavaliers",20,27,"Opp","vsMEM",43
+1,"7:14","Tigers lineup change (Jayhlon Young, Nicholas Jourdain, Jaykwon Walton, Jahvon Quinerly, Jayden Hardaway)",434,"Opp Sub"," ","Tigers",20,27,"Opp","vsMEM",43
+1,"7:14","Jayden Hardaway makes regular free throw 1 of 2",434,"Made FT","makes","Jayden Hardaway",20,28,"Opp","vsMEM",43
+1,"6:44","Jayden Hardaway makes regular free throw 2 of 2",404,"Made FT","makes","Jayden Hardaway",20,29,"Cavs","vsMEM",44
+1,"6:24","Jacob Groves makes two point jump shot (Isaac McKneely assists)",384,"Made Two","makes","Jacob Groves",22,29,"Opp","vsMEM",45
+1,"6:22","Ryan Dunn blocks Jayhlon Young's two point layup",382,"Block","block","Ryan Dunn",22,29,"Opp","vsMEM",45
+1,"6:05","Ryan Dunn defensive rebound",365,"Def Rebound","defensive rebound","Ryan Dunn",22,29,"Cavs","vsMEM",46
+1,"6:03","Ryan Dunn misses two point layup",363,"Missed Two","misses","Ryan Dunn",22,29,"Cavs","vsMEM",46
+1,"5:49","Jaykwon Walton defensive rebound",349,"Def Rebound","defensive rebound","Jaykwon Walton",22,29,"Opp","vsMEM",47
+1,"5:47","Jaykwon Walton misses two point layup",347,"Missed Two","misses","Jaykwon Walton",22,29,"Opp","vsMEM",47
+1,"5:40","Ryan Dunn defensive rebound",340,"Def Rebound","defensive rebound","Ryan Dunn",22,29,"Cavs","vsMEM",48
+1,"5:23","Reece Beekman makes two point layup",323,"Made Two","makes","Reece Beekman",24,29,"Opp","vsMEM",49
+1,"5:21","Jayden Hardaway misses three point jump shot",321,"Missed Three","misses","Jayden Hardaway",24,29,"Opp","vsMEM",49
+1,"5:12","Reece Beekman defensive rebound",312,"Def Rebound","defensive rebound","Reece Beekman",24,29,"Cavs","vsMEM",50
+1,"5:10","Isaac McKneely misses three point jump shot",310,"Missed Three","misses","Isaac McKneely",24,29,"Cavs","vsMEM",50
+1,"4:51","Nicholas Jourdain defensive rebound",291,"Def Rebound","defensive rebound","Nicholas Jourdain",24,29,"Opp","vsMEM",51
+1,"4:51","Jahvon Quinerly turnover (bad pass)",291,"Turnover","turnover","Jahvon Quinerly",24,29,"Cavs","vsMEM",52
+1,"4:51","Cavaliers lineup change (Elijah Gertrude, Taine Murray, Isaac McKneely, Leon Bond III, Jacob Groves)",291,"Cav Sub"," ","Cavaliers",24,29,"Cavs","vsMEM",52
+1,"4:24","Tigers lineup change (Malcolm Dandridge, Ashton Hardaway, Caleb Mills, Jaykwon Walton, Jahvon Quinerly)",264,"Opp Sub"," ","Tigers",24,29,"Cavs","vsMEM",52
+1,"4:09","Jacob Groves makes two point layup (Taine Murray assists)",249,"Made Two","makes","Jacob Groves",26,29,"Opp","vsMEM",53
+1,"4:00","Jacob Groves personal foul",240,"Foul","personal foul","Jacob Groves",26,29,"Opp","vsMEM",53
+1,"3:58","Jahvon Quinerly misses three point jump shot",238,"Missed Three","misses","Jahvon Quinerly",26,29,"Opp","vsMEM",53
+1,"3:37","Elijah Gertrude defensive rebound",217,"Def Rebound","defensive rebound","Elijah Gertrude",26,29,"Cavs","vsMEM",54
+1,"3:37","Jahvon Quinerly shooting foul (Isaac McKneely draws the foul)",217,"Foul","shooting foul","Jahvon Quinerly",26,29,"Cavs","vsMEM",54
+1,"3:37","TV timeout",217,""," ","TV",26,29,"Cavs","vsMEM",54
+1,"3:37","Tigers lineup change (David Jones, Caleb Mills, Jaykwon Walton, Jahvon Quinerly, Malcolm Dandridge)",217,"Opp Sub"," ","Tigers",26,29,"Cavs","vsMEM",54
+1,"3:37","Cavaliers lineup change (Taine Murray, Isaac McKneely, Reece Beekman, Jacob Groves, Leon Bond III)",217,"Cav Sub"," ","Cavaliers",26,29,"Cavs","vsMEM",54
+1,"3:37","Isaac McKneely makes regular free throw 1 of 2",217,"Made FT","makes","Isaac McKneely",27,29,"Cavs","vsMEM",54
+1,"3:13","Isaac McKneely makes regular free throw 2 of 2",193,"Made FT","makes","Isaac McKneely",28,29,"Opp","vsMEM",55
+1,"3:11","David Jones misses two point jump shot",191,"Missed Two","misses","David Jones",28,29,"Opp","vsMEM",55
+1,"3:06","Malcolm Dandridge offensive rebound",186,"Off Rebound","offensive rebound","Malcolm Dandridge",28,29,"Opp","vsMEM",55
+1,"2:49","Malcolm Dandridge makes two point layup",169,"Made Two","makes","Malcolm Dandridge",28,31,"Cavs","vsMEM",56
+1,"2:49","Malcolm Dandridge personal foul",169,"Foul","personal foul","Malcolm Dandridge",28,31,"Cavs","vsMEM",56
+1,"2:34","Tigers lineup change (David Jones, Caleb Mills, Jaykwon Walton, Jahvon Quinerly, Nicholas Jourdain)",154,"Opp Sub"," ","Tigers",28,31,"Cavs","vsMEM",56
+1,"2:32","Reece Beekman misses two point jump shot",152,"Missed Two","misses","Reece Beekman",28,31,"Cavs","vsMEM",56
+1,"2:26","Leon Bond III offensive rebound",146,"Off Rebound","offensive rebound","Leon Bond III",28,31,"Cavs","vsMEM",56
+1,"2:12","Leon Bond III makes two point layup",132,"Made Two","makes","Leon Bond III",30,31,"Opp","vsMEM",57
+1,"2:12","Reece Beekman shooting foul (David Jones draws the foul)",132,"Foul","shooting foul","Reece Beekman",30,31,"Opp","vsMEM",57
+1,"2:12","David Jones makes regular free throw 1 of 2",132,"Made FT","makes","David Jones",30,32,"Opp","vsMEM",57
+1,"1:56","David Jones makes regular free throw 2 of 2",116,"Made FT","makes","David Jones",30,33,"Cavs","vsMEM",58
+1,"1:56","Jump ball. Reece Beekman vs. Jahvon Quinerly (Reece Beekman gains possession)",116,"Jump Ball"," ","Jump",30,33,"Cavs","vsMEM",58
+1,"1:48","Cavaliers lineup change (Reece Beekman, Taine Murray, Isaac McKneely, Ryan Dunn, Leon Bond III)",108,"Cav Sub"," ","Cavaliers",30,33,"Cavs","vsMEM",58
+1,"1:46","Caleb Mills blocks Taine Murray's three point jump shot",106,"Block","block","Caleb Mills",30,33,"Cavs","vsMEM",58
+1,"1:34","Tigers defensive rebound",94,"Def Rebound","defensive rebound","Tigers",30,33,"Opp","vsMEM",59
+1,"1:32","Jahvon Quinerly misses two point layup",92,"Missed Two","misses","Jahvon Quinerly",30,33,"Opp","vsMEM",59
+1,"1:27","Tigers offensive rebound",87,"Off Rebound","offensive rebound","Tigers",30,33,"Opp","vsMEM",59
+1,"1:07","Tigers makes two point layup",67,"Made Two","makes","Tigers",30,35,"Cavs","vsMEM",60
+1,"0:52","Ryan Dunn makes two point dunk (Reece Beekman assists)",52,"Made Two","makes","Ryan Dunn",32,35,"Opp","vsMEM",61
+1,"0:52","Taine Murray shooting foul (Caleb Mills draws the foul)",52,"Foul","shooting foul","Taine Murray",32,35,"Opp","vsMEM",61
+1,"0:52","Caleb Mills makes regular free throw 1 of 2",52,"Made FT","makes","Caleb Mills",32,36,"Opp","vsMEM",61
+1,"0:52","Caleb Mills misses regular free throw 2 of 2",52,"Missed FT","misses","Caleb Mills",32,36,"Opp","vsMEM",61
+1,"0:42","Isaac McKneely defensive rebound",42,"Def Rebound","defensive rebound","Isaac McKneely",32,36,"Cavs","vsMEM",62
+1,"0:32","Isaac McKneely turnover (lost ball) (Nicholas Jourdain steals)",32,"Turnover","turnover","Isaac McKneely",32,36,"Opp","vsMEM",63
+1,"0:15","Caleb Mills makes two point layup (Nicholas Jourdain assists)",15,"Made Two","makes","Caleb Mills",32,38,"Cavs","vsMEM",64
+1,"0:13","David Jones blocks Ryan Dunn's two point layup",13,"Block","block","David Jones",32,38,"Cavs","vsMEM",64
+1,"0:13","Ryan Dunn offensive rebound",13,"Off Rebound","offensive rebound","Ryan Dunn",32,38,"Cavs","vsMEM",64
+1,"0:13","David Jones personal foul (Ryan Dunn draws the foul)",13,"Foul","personal foul","David Jones",32,38,"Cavs","vsMEM",64
+2,"20:00","2ND HALF",1200,""," ","2ND",32,38,"Cavs","vsMEM",64
+2,"20:00","Open inbound Tigers",1200,""," ","Open",32,38,"Opp","vsMEM",65
+2,"20:00","Tigers lineup change (Jaykwon Walton, Nicholas Jourdain, David Jones, Malcolm Dandridge, Jahvon Quinerly)",1200,"Opp Sub"," ","Tigers",32,38,"Opp","vsMEM",65
+2,"19:52","Cavaliers lineup change (Reece Beekman, Andrew Rohde, Isaac McKneely, Ryan Dunn, Jacob Groves)",1192,"Cav Sub"," ","Cavaliers",32,38,"Opp","vsMEM",65
+2,"19:52","Andrew Rohde shooting foul (Malcolm Dandridge draws the foul)",1192,"Foul","shooting foul","Andrew Rohde",32,38,"Opp","vsMEM",65
+2,"19:52","Malcolm Dandridge makes regular free throw 1 of 2",1192,"Made FT","makes","Malcolm Dandridge",32,39,"Opp","vsMEM",65
+2,"19:52","Cavaliers lineup change (Reece Beekman, Elijah Gertrude, Isaac McKneely, Ryan Dunn, Jacob Groves)",1192,"Cav Sub"," ","Cavaliers",32,39,"Opp","vsMEM",65
+2,"19:52","Malcolm Dandridge misses regular free throw 2 of 2",1192,"Missed FT","misses","Malcolm Dandridge",32,39,"Opp","vsMEM",65
+2,"19:41","Jaykwon Walton offensive rebound",1181,"Off Rebound","offensive rebound","Jaykwon Walton",32,39,"Opp","vsMEM",65
+2,"19:39","Jahvon Quinerly misses three point jump shot",1179,"Missed Three","misses","Jahvon Quinerly",32,39,"Opp","vsMEM",65
+2,"19:35","Malcolm Dandridge offensive rebound",1175,"Off Rebound","offensive rebound","Malcolm Dandridge",32,39,"Opp","vsMEM",65
+2,"19:14","Malcolm Dandridge makes two point layup",1154,"Made Two","makes","Malcolm Dandridge",32,41,"Cavs","vsMEM",66
+2,"18:59","Jacob Groves makes three point jump shot (Isaac McKneely assists)",1139,"Made Three","makes","Jacob Groves",35,41,"Opp","vsMEM",67
+2,"18:42","Malcolm Dandridge turnover (bad pass)",1122,"Turnover","turnover","Malcolm Dandridge",35,41,"Cavs","vsMEM",68
+2,"18:21","Elijah Gertrude makes two point layup",1101,"Made Two","makes","Elijah Gertrude",37,41,"Opp","vsMEM",69
+2,"18:19","Ryan Dunn blocks David Jones's two point layup",1099,"Block","block","Ryan Dunn",37,41,"Opp","vsMEM",69
+2,"18:16","Tigers offensive rebound",1096,"Off Rebound","offensive rebound","Tigers",37,41,"Opp","vsMEM",69
+2,"17:57","Nicholas Jourdain makes two point dunk (Jaykwon Walton assists)",1077,"Made Two","makes","Nicholas Jourdain",37,43,"Cavs","vsMEM",70
+2,"17:55","Elijah Gertrude misses two point layup",1075,"Missed Two","misses","Elijah Gertrude",37,43,"Cavs","vsMEM",70
+2,"17:49","Malcolm Dandridge defensive rebound",1069,"Def Rebound","defensive rebound","Malcolm Dandridge",37,43,"Opp","vsMEM",71
+2,"17:41","David Jones turnover (bad pass) (Elijah Gertrude steals)",1061,"Turnover","turnover","David Jones",37,43,"Cavs","vsMEM",72
+2,"17:38","Elijah Gertrude turnover (lost ball) (Jaykwon Walton steals)",1058,"Turnover","turnover","Elijah Gertrude",37,43,"Opp","vsMEM",73
+2,"17:38","Reece Beekman personal foul",1058,"Foul","personal foul","Reece Beekman",37,43,"Opp","vsMEM",73
+2,"17:36","Cavaliers lineup change (Reece Beekman, Isaac McKneely, Andrew Rohde, Ryan Dunn, Jacob Groves)",1056,"Cav Sub"," ","Cavaliers",37,43,"Opp","vsMEM",73
+2,"17:26","David Jones makes two point layup (Jahvon Quinerly assists)",1046,"Made Two","makes","David Jones",37,45,"Cavs","vsMEM",74
+2,"17:24","Jacob Groves misses two point jump shot",1044,"Missed Two","misses","Jacob Groves",37,45,"Cavs","vsMEM",74
+2,"17:00","Nicholas Jourdain defensive rebound",1020,"Def Rebound","defensive rebound","Nicholas Jourdain",37,45,"Opp","vsMEM",75
+2,"16:44","Jaykwon Walton turnover (lost ball) (Jacob Groves steals)",1004,"Turnover","turnover","Jaykwon Walton",37,45,"Cavs","vsMEM",76
+2,"16:42","Andrew Rohde misses two point layup",1002,"Missed Two","misses","Andrew Rohde",37,45,"Cavs","vsMEM",76
+2,"16:39","Jaykwon Walton defensive rebound",999,"Def Rebound","defensive rebound","Jaykwon Walton",37,45,"Opp","vsMEM",77
+2,"16:39","Isaac McKneely personal foul",999,"Foul","personal foul","Isaac McKneely",37,45,"Opp","vsMEM",77
+2,"16:35","Tigers lineup change (Nicholas Jourdain, David Jones, Caleb Mills, Jahvon Quinerly, Jayden Hardaway)",995,"Opp Sub"," ","Tigers",37,45,"Opp","vsMEM",77
+2,"16:18","Caleb Mills makes two point layup (Jahvon Quinerly assists)",978,"Made Two","makes","Caleb Mills",37,47,"Cavs","vsMEM",78
+2,"16:18","Reece Beekman makes two point layup",978,"Made Two","makes","Reece Beekman",39,47,"Cavs","vsMEM",78
+2,"16:18","Nicholas Jourdain shooting foul (Reece Beekman draws the foul)",978,"Foul","shooting foul","Nicholas Jourdain",39,47,"Cavs","vsMEM",78
+2,"16:18","Cavaliers lineup change (Reece Beekman, Leon Bond III, Isaac McKneely, Ryan Dunn, Jacob Groves)",978,"Cav Sub"," ","Cavaliers",39,47,"Cavs","vsMEM",78
+2,"15:59","Reece Beekman makes regular free throw 1 of 1",959,"Made FT","makes","Reece Beekman",40,47,"Opp","vsMEM",79
+2,"15:53","TV timeout",953,""," ","TV",40,47,"Opp","vsMEM",79
+2,"15:51","David Jones misses two point jump shot",951,"Missed Two","misses","David Jones",40,47,"Opp","vsMEM",79
+2,"15:30","Reece Beekman defensive rebound",930,"Def Rebound","defensive rebound","Reece Beekman",40,47,"Cavs","vsMEM",80
+2,"15:03","Leon Bond III makes two point jump shot",903,"Made Two","makes","Leon Bond III",42,47,"Opp","vsMEM",81
+2,"14:48","Caleb Mills makes three point jump shot (David Jones assists)",888,"Made Three","makes","Caleb Mills",42,50,"Cavs","vsMEM",82
+2,"14:48","Nicholas Jourdain personal foul",888,"Foul","personal foul","Nicholas Jourdain",42,50,"Cavs","vsMEM",82
+2,"14:31","Tigers lineup change (Nicholas Jourdain, Jayhlon Young, Caleb Mills, Jaykwon Walton, Jayden Hardaway)",871,"Opp Sub"," ","Tigers",42,50,"Cavs","vsMEM",82
+2,"14:27","Reece Beekman turnover (lost ball) (Jaykwon Walton steals)",867,"Turnover","turnover","Reece Beekman",42,50,"Opp","vsMEM",83
+2,"14:27","Jaykwon Walton turnover (lost ball) (Ryan Dunn steals)",867,"Turnover","turnover","Jaykwon Walton",42,50,"Cavs","vsMEM",84
+2,"14:27","Jayhlon Young personal foul",867,"Foul","personal foul","Jayhlon Young",42,50,"Cavs","vsMEM",84
+2,"14:12","Tigers lineup change (Jayhlon Young, Nicholas Jourdain, Caleb Mills, Jaykwon Walton, David Jones)",852,"Opp Sub"," ","Tigers",42,50,"Cavs","vsMEM",84
+2,"14:07","Leon Bond III turnover (bad pass) (Nicholas Jourdain steals)",847,"Turnover","turnover","Leon Bond III",42,50,"Opp","vsMEM",85
+2,"14:05","Jayhlon Young misses three point jump shot",845,"Missed Three","misses","Jayhlon Young",42,50,"Opp","vsMEM",85
+2,"14:05","Tigers offensive rebound",845,"Off Rebound","offensive rebound","Tigers",42,50,"Opp","vsMEM",85
+2,"13:49","Ryan Dunn personal foul",829,"Foul","personal foul","Ryan Dunn",42,50,"Opp","vsMEM",85
+2,"13:32","Jaykwon Walton makes two point layup",812,"Made Two","makes","Jaykwon Walton",42,52,"Cavs","vsMEM",86
+2,"13:15","Reece Beekman makes two point layup",795,"Made Two","makes","Reece Beekman",44,52,"Opp","vsMEM",87
+2,"13:14","Jaykwon Walton misses three point jump shot",794,"Missed Three","misses","Jaykwon Walton",44,52,"Opp","vsMEM",87
+2,"13:14","Tigers offensive rebound",794,"Off Rebound","offensive rebound","Tigers",44,52,"Opp","vsMEM",87
+2,"13:14","Jacob Groves personal foul",794,"Foul","personal foul","Jacob Groves",44,52,"Opp","vsMEM",87
+2,"13:14","Tigers lineup change (Jayhlon Young, Malcolm Dandridge, David Jones, Caleb Mills, Jaykwon Walton)",794,"Opp Sub"," ","Tigers",44,52,"Opp","vsMEM",87
+2,"13:01","Cavaliers lineup change (Reece Beekman, Isaac McKneely, Blake Buchanan, Andrew Rohde, Leon Bond III)",781,"Cav Sub"," ","Cavaliers",44,52,"Opp","vsMEM",87
+2,"13:01","Blake Buchanan shooting foul (Malcolm Dandridge draws the foul)",781,"Foul","shooting foul","Blake Buchanan",44,52,"Opp","vsMEM",87
+2,"13:01","Malcolm Dandridge makes regular free throw 1 of 2",781,"Made FT","makes","Malcolm Dandridge",44,53,"Opp","vsMEM",87
+2,"12:37","Malcolm Dandridge makes regular free throw 2 of 2",757,"Made FT","makes","Malcolm Dandridge",44,54,"Cavs","vsMEM",88
+2,"12:35","Isaac McKneely misses three point jump shot",755,"Missed Three","misses","Isaac McKneely",44,54,"Cavs","vsMEM",88
+2,"12:26","Malcolm Dandridge defensive rebound",746,"Def Rebound","defensive rebound","Malcolm Dandridge",44,54,"Opp","vsMEM",89
+2,"12:24","David Jones misses two point jump shot",744,"Missed Two","misses","David Jones",44,54,"Opp","vsMEM",89
+2,"12:24","Cavaliers defensive rebound",744,"Def Rebound","defensive rebound","Cavaliers",44,54,"Cavs","vsMEM",90
+2,"12:24","Caleb Mills personal foul",744,"Foul","personal foul","Caleb Mills",44,54,"Cavs","vsMEM",90
+2,"12:24","Tigers lineup change (Jayhlon Young, Jahvon Quinerly, Caleb Mills, Jaykwon Walton, Malcolm Dandridge)",744,"Opp Sub"," ","Tigers",44,54,"Cavs","vsMEM",90
+2,"12:05","Cavaliers lineup change (Blake Buchanan, Reece Beekman, Andrew Rohde, Isaac McKneely, Ryan Dunn)",725,"Cav Sub"," ","Cavaliers",44,54,"Cavs","vsMEM",90
+2,"12:01","Isaac McKneely turnover (lost ball) (Jahvon Quinerly steals)",721,"Turnover","turnover","Isaac McKneely",44,54,"Opp","vsMEM",91
+2,"12:01","Jayhlon Young makes two point dunk",721,"Made Two","makes","Jayhlon Young",44,56,"Cavs","vsMEM",92
+2,"12:01","Cavaliers 30 second timeout",721,"Timeout","second timeout","Cavaliers 30",44,56,"Cavs","vsMEM",92
+2,"11:44","TV timeout",704,""," ","TV",44,56,"Cavs","vsMEM",92
+2,"11:42","Isaac McKneely misses three point jump shot",702,"Missed Three","misses","Isaac McKneely",44,56,"Cavs","vsMEM",92
+2,"11:27","Jahvon Quinerly defensive rebound",687,"Def Rebound","defensive rebound","Jahvon Quinerly",44,56,"Opp","vsMEM",93
+2,"11:25","Jayhlon Young misses two point layup",685,"Missed Two","misses","Jayhlon Young",44,56,"Opp","vsMEM",93
+2,"11:12","Blake Buchanan defensive rebound",672,"Def Rebound","defensive rebound","Blake Buchanan",44,56,"Cavs","vsMEM",94
+2,"11:10","Blake Buchanan misses two point layup",670,"Missed Two","misses","Blake Buchanan",44,56,"Cavs","vsMEM",94
+2,"11:01","Malcolm Dandridge defensive rebound",661,"Def Rebound","defensive rebound","Malcolm Dandridge",44,56,"Opp","vsMEM",95
+2,"10:59","Caleb Mills misses two point jump shot",659,"Missed Two","misses","Caleb Mills",44,56,"Opp","vsMEM",95
+2,"10:58","Tigers offensive rebound",658,"Off Rebound","offensive rebound","Tigers",44,56,"Opp","vsMEM",95
+2,"10:58","Blake Buchanan personal foul (Malcolm Dandridge draws the foul)",658,"Foul","personal foul","Blake Buchanan",44,56,"Opp","vsMEM",95
+2,"10:58","TV timeout",658,""," ","TV",44,56,"Opp","vsMEM",95
+2,"10:58","Tigers lineup change (David Jones, Caleb Mills, Jaykwon Walton, Jahvon Quinerly, Malcolm Dandridge)",658,"Opp Sub"," ","Tigers",44,56,"Opp","vsMEM",95
+2,"10:58","Cavaliers lineup change (Jacob Groves, Reece Beekman, Andrew Rohde, Isaac McKneely, Ryan Dunn)",658,"Cav Sub"," ","Cavaliers",44,56,"Opp","vsMEM",95
+2,"10:58","Malcolm Dandridge misses regular free throw 1 of 2",658,"Missed FT","misses","Malcolm Dandridge",44,56,"Opp","vsMEM",95
+2,"10:49","Reece Beekman defensive rebound",649,"Def Rebound","defensive rebound","Reece Beekman",44,56,"Cavs","vsMEM",96
+2,"10:47","Reece Beekman misses two point jump shot",647,"Missed Two","misses","Reece Beekman",44,56,"Cavs","vsMEM",96
+2,"10:41","Jaykwon Walton defensive rebound",641,"Def Rebound","defensive rebound","Jaykwon Walton",44,56,"Opp","vsMEM",97
+2,"10:25","Malcolm Dandridge makes two point layup (Jahvon Quinerly assists)",625,"Made Two","makes","Malcolm Dandridge",44,58,"Cavs","vsMEM",98
+2,"10:23","Jacob Groves misses three point jump shot",623,"Missed Three","misses","Jacob Groves",44,58,"Cavs","vsMEM",98
+2,"10:05","Jahvon Quinerly defensive rebound",605,"Def Rebound","defensive rebound","Jahvon Quinerly",44,58,"Opp","vsMEM",99
+2,"9:51","Jahvon Quinerly makes three point jump shot (Malcolm Dandridge assists)",591,"Made Three","makes","Jahvon Quinerly",44,61,"Cavs","vsMEM",100
+2,"9:49","Andrew Rohde misses three point jump shot",589,"Missed Three","misses","Andrew Rohde",44,61,"Cavs","vsMEM",100
+2,"9:44","Jahvon Quinerly defensive rebound",584,"Def Rebound","defensive rebound","Jahvon Quinerly",44,61,"Opp","vsMEM",101
+2,"9:33","Jahvon Quinerly turnover (bad pass) (Andrew Rohde steals)",573,"Turnover","turnover","Jahvon Quinerly",44,61,"Cavs","vsMEM",102
+2,"9:33","Isaac McKneely turnover (bad pass)",573,"Turnover","turnover","Isaac McKneely",44,61,"Opp","vsMEM",103
+2,"9:33","Tigers lineup change (David Jones, Caleb Mills, Jayden Hardaway, Jahvon Quinerly, Malcolm Dandridge)",573,"Opp Sub"," ","Tigers",44,61,"Opp","vsMEM",103
+2,"9:23","Cavaliers lineup change (Reece Beekman, Andrew Rohde, Elijah Gertrude, Ryan Dunn, Jacob Groves)",563,"Cav Sub"," ","Cavaliers",44,61,"Opp","vsMEM",103
+2,"9:09","Jayden Hardaway makes two point layup (Jahvon Quinerly assists)",549,"Made Two","makes","Jayden Hardaway",44,63,"Cavs","vsMEM",104
+2,"9:01","Elijah Gertrude turnover (bad pass) (Caleb Mills steals)",541,"Turnover","turnover","Elijah Gertrude",44,63,"Opp","vsMEM",105
+2,"8:56","Caleb Mills turnover (bad pass) (Elijah Gertrude steals)",536,"Turnover","turnover","Caleb Mills",44,63,"Cavs","vsMEM",106
+2,"8:54","Elijah Gertrude turnover (lost ball) (Malcolm Dandridge steals)",534,"Turnover","turnover","Elijah Gertrude",44,63,"Opp","vsMEM",107
+2,"8:54","Elijah Gertrude shooting foul (David Jones draws the foul)",534,"Foul","shooting foul","Elijah Gertrude",44,63,"Opp","vsMEM",107
+2,"8:54","David Jones makes regular free throw 1 of 2",534,"Made FT","makes","David Jones",44,64,"Opp","vsMEM",107
+2,"8:54","Tigers lineup change (David Jones, Caleb Mills, Jahvon Quinerly, Nicholas Jourdain, Jayden Hardaway)",534,"Opp Sub"," ","Tigers",44,64,"Opp","vsMEM",107
+2,"8:54","Cavaliers lineup change (Taine Murray, Andrew Rohde, Isaac McKneely, Ryan Dunn, Jacob Groves)",534,"Cav Sub"," ","Cavaliers",44,64,"Opp","vsMEM",107
+2,"8:45","David Jones makes regular free throw 2 of 2",525,"Made FT","makes","David Jones",44,65,"Cavs","vsMEM",108
+2,"8:43","Ryan Dunn misses two point layup",523,"Missed Two","misses","Ryan Dunn",44,65,"Cavs","vsMEM",108
+2,"8:42","Ryan Dunn offensive rebound",522,"Off Rebound","offensive rebound","Ryan Dunn",44,65,"Cavs","vsMEM",108
+2,"8:42","Ryan Dunn misses two point layup",522,"Missed Two","misses","Ryan Dunn",44,65,"Cavs","vsMEM",108
+2,"8:40","Ryan Dunn offensive rebound",520,"Off Rebound","offensive rebound","Ryan Dunn",44,65,"Cavs","vsMEM",108
+2,"8:40","Ryan Dunn misses two point layup",520,"Missed Two","misses","Ryan Dunn",44,65,"Cavs","vsMEM",108
+2,"8:40","Ryan Dunn offensive rebound",520,"Off Rebound","offensive rebound","Ryan Dunn",44,65,"Cavs","vsMEM",108
+2,"8:21","Ryan Dunn makes two point layup",501,"Made Two","makes","Ryan Dunn",46,65,"Opp","vsMEM",109
+2,"8:19","David Jones misses three point jump shot",499,"Missed Three","misses","David Jones",46,65,"Opp","vsMEM",109
+2,"8:03","Jacob Groves defensive rebound",483,"Def Rebound","defensive rebound","Jacob Groves",46,65,"Cavs","vsMEM",110
+2,"7:39","Isaac McKneely makes two point jump shot (Taine Murray assists)",459,"Made Two","makes","Isaac McKneely",48,65,"Opp","vsMEM",111
+2,"7:27","David Jones makes two point layup",447,"Made Two","makes","David Jones",48,67,"Cavs","vsMEM",112
+2,"7:27","Jahvon Quinerly personal foul",447,"Foul","personal foul","Jahvon Quinerly",48,67,"Cavs","vsMEM",112
+2,"7:27","TV timeout",447,""," ","TV",48,67,"Cavs","vsMEM",112
+2,"7:27","Tigers lineup change (Nicholas Jourdain, David Jones, Jayhlon Young, Jahvon Quinerly, Jayden Hardaway)",447,"Opp Sub"," ","Tigers",48,67,"Cavs","vsMEM",112
+2,"7:13","Cavaliers lineup change (Reece Beekman, Taine Murray, Isaac McKneely, Ryan Dunn, Jacob Groves)",433,"Cav Sub"," ","Cavaliers",48,67,"Cavs","vsMEM",112
+2,"7:12","Reece Beekman turnover (bad pass) (Jayhlon Young steals)",432,"Turnover","turnover","Reece Beekman",48,67,"Opp","vsMEM",113
+2,"7:05","Jump ball. Jayden Hardaway vs. Jacob Groves (Jacob Groves gains possession)",425,"Jump Ball"," ","Jump",48,67,"Cavs","vsMEM",114
+2,"7:05","Jayden Hardaway turnover (lost ball) (Jacob Groves steals)",425,"Turnover","turnover","Jayden Hardaway",48,67,"Opp","vsMEM",115
+2,"7:03","Isaac McKneely misses three point jump shot",423,"Missed Three","misses","Isaac McKneely",48,67,"Opp","vsMEM",115
+2,"6:50","Tigers defensive rebound",410,"Def Rebound","defensive rebound","Tigers",48,67,"Cavs","vsMEM",116
+2,"6:48","Jahvon Quinerly misses three point jump shot",408,"Missed Three","misses","Jahvon Quinerly",48,67,"Cavs","vsMEM",116
+2,"6:44","Reece Beekman defensive rebound",404,"Def Rebound","defensive rebound","Reece Beekman",48,67,"Opp","vsMEM",117
+2,"6:21","Reece Beekman turnover (bad pass) (David Jones steals)",381,"Turnover","turnover","Reece Beekman",48,67,"Cavs","vsMEM",118
+2,"6:19","Nicholas Jourdain misses two point jump shot",379,"Missed Two","misses","Nicholas Jourdain",48,67,"Cavs","vsMEM",118
+2,"6:19","Cavaliers defensive rebound",379,"Def Rebound","defensive rebound","Cavaliers",48,67,"Opp","vsMEM",119
+2,"6:19","Tigers lineup change (Jayhlon Young, Caleb Mills, David Jones, Jahvon Quinerly, Malcolm Dandridge)",379,"Opp Sub"," ","Tigers",48,67,"Opp","vsMEM",119
+2,"6:06","Cavaliers lineup change (Reece Beekman, Taine Murray, Isaac McKneely, Ryan Dunn, Leon Bond III)",366,"Cav Sub"," ","Cavaliers",48,67,"Opp","vsMEM",119
+2,"6:04","Isaac McKneely misses three point jump shot",364,"Missed Three","misses","Isaac McKneely",48,67,"Opp","vsMEM",119
+2,"6:00","Ryan Dunn offensive rebound",360,"Off Rebound","offensive rebound","Ryan Dunn",48,67,"Opp","vsMEM",119
+2,"5:58","Reece Beekman misses three point jump shot",358,"Missed Three","misses","Reece Beekman",48,67,"Opp","vsMEM",119
+2,"5:56","Ryan Dunn offensive rebound",356,"Off Rebound","offensive rebound","Ryan Dunn",48,67,"Opp","vsMEM",119
+2,"5:54","Ryan Dunn misses two point layup",354,"Missed Two","misses","Ryan Dunn",48,67,"Opp","vsMEM",119
+2,"5:37","Malcolm Dandridge defensive rebound",337,"Def Rebound","defensive rebound","Malcolm Dandridge",48,67,"Cavs","vsMEM",120
+2,"5:24","David Jones turnover (lost ball) (Ryan Dunn steals)",324,"Turnover","turnover","David Jones",48,67,"Opp","vsMEM",121
+2,"5:24","Caleb Mills shooting foul (Isaac McKneely draws the foul)",324,"Foul","shooting foul","Caleb Mills",48,67,"Opp","vsMEM",121
+2,"5:24","Isaac McKneely makes regular free throw 1 of 2",324,"Made FT","makes","Isaac McKneely",49,67,"Opp","vsMEM",121
+2,"5:24","Tigers lineup change (Jaykwon Walton, David Jones, Caleb Mills, Jahvon Quinerly, Malcolm Dandridge)",324,"Opp Sub"," ","Tigers",49,67,"Opp","vsMEM",121
+2,"5:24","Isaac McKneely makes regular free throw 2 of 2",324,"Made FT","makes","Isaac McKneely",50,67,"Cavs","vsMEM",122
+2,"5:02","Cavaliers lineup change (Reece Beekman, Taine Murray, Andrew Rohde, Ryan Dunn, Leon Bond III)",302,"Cav Sub"," ","Cavaliers",50,67,"Cavs","vsMEM",122
+2,"5:00","Jaykwon Walton misses three point jump shot",300,"Missed Three","misses","Jaykwon Walton",50,67,"Cavs","vsMEM",122
+2,"4:46","Ryan Dunn defensive rebound",286,"Def Rebound","defensive rebound","Ryan Dunn",50,67,"Opp","vsMEM",123
+2,"4:38","Tigers lineup change (David Jones, Caleb Mills, Jayhlon Young, Jahvon Quinerly, Malcolm Dandridge)",278,"Opp Sub"," ","Tigers",50,67,"Opp","vsMEM",123
+2,"4:36","Leon Bond III misses two point jump shot",276,"Missed Two","misses","Leon Bond III",50,67,"Opp","vsMEM",123
+2,"4:26","Ryan Dunn offensive rebound",266,"Off Rebound","offensive rebound","Ryan Dunn",50,67,"Opp","vsMEM",123
+2,"4:24","Ryan Dunn misses two point jump shot",264,"Missed Two","misses","Ryan Dunn",50,67,"Opp","vsMEM",123
+2,"4:19","Jahvon Quinerly defensive rebound",259,"Def Rebound","defensive rebound","Jahvon Quinerly",50,67,"Cavs","vsMEM",124
+2,"4:11","David Jones makes two point layup",251,"Made Two","makes","David Jones",50,69,"Opp","vsMEM",125
+2,"4:11","Reece Beekman turnover (bad pass)",251,"Turnover","turnover","Reece Beekman",50,69,"Cavs","vsMEM",126
+2,"3:54","Cavaliers lineup change (Elijah Gertrude, Andrew Rohde, Taine Murray, Ryan Dunn, Leon Bond III)",234,"Cav Sub"," ","Cavaliers",50,69,"Cavs","vsMEM",126
+2,"3:52","David Jones misses two point layup",232,"Missed Two","misses","David Jones",50,69,"Cavs","vsMEM",126
+2,"3:42","Taine Murray defensive rebound",222,"Def Rebound","defensive rebound","Taine Murray",50,69,"Opp","vsMEM",127
+2,"3:18","Ryan Dunn makes two point layup (Taine Murray assists)",198,"Made Two","makes","Ryan Dunn",52,69,"Cavs","vsMEM",128
+2,"3:18","Taine Murray shooting foul (David Jones draws the foul)",198,"Foul","shooting foul","Taine Murray",52,69,"Cavs","vsMEM",128
+2,"3:18","TV timeout",198,""," ","TV",52,69,"Cavs","vsMEM",128
+2,"3:18","David Jones makes regular free throw 1 of 2",198,"Made FT","makes","David Jones",52,70,"Cavs","vsMEM",128
+2,"3:18","David Jones makes regular free throw 2 of 2",198,"Made FT","makes","David Jones",52,71,"Opp","vsMEM",129
+2,"3:18","Tigers lineup change (Jayhlon Young, Jayden Hardaway, Caleb Mills, Jahvon Quinerly, Malcolm Dandridge)",198,"Opp Sub"," ","Tigers",52,71,"Opp","vsMEM",129
+2,"3:01","Cavaliers lineup change (Andrew Rohde, Taine Murray, Elijah Gertrude, Jordan Minor, Leon Bond III)",181,"Cav Sub"," ","Cavaliers",52,71,"Opp","vsMEM",129
+2,"2:45","Taine Murray turnover (bad pass) (Malcolm Dandridge steals)",165,"Turnover","turnover","Taine Murray",52,71,"Cavs","vsMEM",130
+2,"2:19","Jahvon Quinerly makes three point jump shot",139,"Made Three","makes","Jahvon Quinerly",52,74,"Opp","vsMEM",131
+2,"2:10","Tigers lineup change (Jayhlon Young, Caleb Mills, Carl Cherenfant, Ashton Hardaway, Jayden Hardaway)",130,"Opp Sub"," ","Tigers",52,74,"Opp","vsMEM",131
+2,"1:47","Andrew Rohde turnover (lost ball) (Carl Cherenfant steals)",107,"Turnover","turnover","Andrew Rohde",52,74,"Cavs","vsMEM",132
+2,"1:45","Jayden Hardaway misses three point jump shot",105,"Missed Three","misses","Jayden Hardaway",52,74,"Cavs","vsMEM",132
+2,"1:40","Jordan Minor defensive rebound",100,"Def Rebound","defensive rebound","Jordan Minor",52,74,"Opp","vsMEM",133
+2,"1:40","Caleb Mills personal foul (Elijah Gertrude draws the foul)",100,"Foul","personal foul","Caleb Mills",52,74,"Opp","vsMEM",133
+2,"1:40","Tigers lineup change (Jayhlon Young, Ashton Hardaway, Carl Cherenfant, Jonathan Pierre, JJ Taylor)",100,"Opp Sub"," ","Tigers",52,74,"Opp","vsMEM",133
+2,"1:40","Elijah Gertrude misses regular free throw 1 of 2",100,"Missed FT","misses","Elijah Gertrude",52,74,"Opp","vsMEM",133
+2,"1:22","Ashton Hardaway defensive rebound",82,"Def Rebound","defensive rebound","Ashton Hardaway",52,74,"Cavs","vsMEM",134
+2,"1:12","Ashton Hardaway makes three point jump shot",72,"Made Three","makes","Ashton Hardaway",52,77,"Opp","vsMEM",135
+2,"1:11","Elijah Gertrude misses two point layup",71,"Missed Two","misses","Elijah Gertrude",52,77,"Opp","vsMEM",135
+2,"1:11","Jordan Minor offensive rebound",71,"Off Rebound","offensive rebound","Jordan Minor",52,77,"Opp","vsMEM",135
+2,"1:10","Jayhlon Young personal foul (Jordan Minor draws the foul)",70,"Foul","personal foul","Jayhlon Young",52,77,"Opp","vsMEM",135
+2,"1:10","Jordan Minor misses regular free throw 1 of 1",70,"Missed FT","misses","Jordan Minor",52,77,"Opp","vsMEM",135
+2,"0:52","JJ Taylor defensive rebound",52,"Def Rebound","defensive rebound","JJ Taylor",52,77,"Cavs","vsMEM",136
+2,"0:50","Jonathan Pierre misses three point jump shot",50,"Missed Three","misses","Jonathan Pierre",52,77,"Cavs","vsMEM",136
+2,"0:42","Taine Murray defensive rebound",42,"Def Rebound","defensive rebound","Taine Murray",52,77,"Opp","vsMEM",137
+2,"0:12","Jordan Minor makes two point layup (Andrew Rohde assists)",12,"Made Two","makes","Jordan Minor",54,77,"Cavs","vsMEM",138
+2,"0:05","Tigers turnover (shot clock violation)",5,"Turnover","turnover","Tigers",54,77,"Opp","vsMEM",139
+2,"0:03","Andrew Rohde misses three point jump shot",3,"Missed Three","misses","Andrew Rohde",54,77,"Opp","vsMEM",139
+2,"0:01","Cavaliers offensive rebound",1,"Off Rebound","offensive rebound","Cavaliers",54,77,"Opp","vsMEM",139
+2,"0:00","Tigers lineup change (Nicholas Jourdain, David Jones, Caleb Mills, Jayhlon Young, Jahvon Quinerly)",0,"Opp Sub"," ","Tigers",54,77,"Opp","vsMEM",139
+2,"0:00","Leon Bond III misses two point layup",0,"Missed Two","misses","Leon Bond III",54,77,"Opp","vsMEM",139
+2,"0:00","David Jones defensive rebound",0,"Def Rebound","defensive rebound","David Jones",54,77,"Cavs","vsMEM",140
+2,"0:00","Elijah Gertrude misses three point jump shot",0,"Missed Three","misses","Elijah Gertrude",54,77,"Cavs","vsMEM",140
+2,"0:00","Cavaliers offensive rebound",0,"Off Rebound","offensive rebound","Cavaliers",54,77,"Cavs","vsMEM",140
+2,"0:00","End of 2nd Half.",0,""," ","End",54,77,"Cavs","vsMEM",140

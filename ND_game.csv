@@ -1,0 +1,320 @@
+"Half","Time","Description","Time_in_sec","Event","Token","Player","UVA_score","Opp_score","Possession","Opps","Possession Number"
+1,"20:00","1ST HALF",1200,""," ","1ST",0,0,"Cavs","vsND",1
+1,"20:00","Cavaliers lineup change (Isaac McKneely,Reece Beekman,Andrew Rohde,Ryan Dunn,Jacob Groves)",1200,"Cav Sub"," ","Cavaliers",0,0,"","vsND",2
+1,"19:35","(Fighting Irish gains possession)",1175,""," ","(Fighting",0,0,"","vsND",2
+1,"19:10","J.R. Konieczny makes three point jump shot (Markus Burton assists)",1150,"Made Three","makes","J.R. Konieczny",0,3,"Cavs","vsND",3
+1,"19:08","Reece Beekman misses three point jump shot",1148,"Missed Three","misses","Reece Beekman",0,3,"Cavs","vsND",3
+1,"18:56","Carey Booth defensive rebound",1136,"Def Rebound","defensive rebound","Carey Booth",0,3,"Opp","vsND",4
+1,"18:36","J.R. Konieczny makes three point jump shot (Markus Burton assists)",1116,"Made Three","makes","J.R. Konieczny",0,6,"Cavs","vsND",5
+1,"18:34","Andrew Rohde misses two point jump shot",1114,"Missed Two","misses","Andrew Rohde",0,6,"Cavs","vsND",5
+1,"18:15","Tae Davis defensive rebound",1095,"Def Rebound","defensive rebound","Tae Davis",0,6,"Opp","vsND",6
+1,"18:10","Tae Davis turnover (lost ball) (Jacob Groves steals)",1090,"Turnover","turnover","Tae Davis",0,6,"Cavs","vsND",7
+1,"18:08","Ryan Dunn misses two point driving layup",1088,"Missed Two","misses","Ryan Dunn",0,6,"Cavs","vsND",7
+1,"17:41","Carey Booth defensive rebound",1061,"Def Rebound","defensive rebound","Carey Booth",0,6,"Opp","vsND",8
+1,"17:40","J.R. Konieczny makes three point jump shot (Tae Davis assists)",1060,"Made Three","makes","J.R. Konieczny",0,9,"Cavs","vsND",9
+1,"17:20","Fighting Irish lineup change (Carey Booth, Markus Burton, Julian Roper II, Kebba Njie, J.R. Konieczny)",1040,"Opp Sub"," ","Fighting",0,9,"Cavs","vsND",9
+1,"17:18","Jacob Groves misses two point layup",1038,"Missed Two","misses","Jacob Groves",0,9,"Cavs","vsND",9
+1,"17:08","Kebba Njie defensive rebound",1028,"Def Rebound","defensive rebound","Kebba Njie",0,9,"Opp","vsND",10
+1,"17:08","Ryan Dunn shooting foul (Carey Booth draws the foul)",1028,"Foul","shooting foul","Ryan Dunn",0,9,"Opp","vsND",10
+1,"17:08","Carey Booth misses regular free throw 1 of 2",1028,"Missed FT","misses","Carey Booth",0,9,"Opp","vsND",10
+1,"17:08","Cavaliers lineup change (Reece Beekman, Andrew Rohde, Isaac McKneely, Ryan Dunn, Leon Bond III)",1028,"Cav Sub"," ","Cavaliers",0,9,"Opp","vsND",10
+1,"16:51","Carey Booth makes regular free throw 2 of 2",1011,"Made FT","makes","Carey Booth",0,10,"Cavs","vsND",11
+1,"16:49","Andrew Rohde misses three point jump shot",1009,"Missed Three","misses","Andrew Rohde",0,10,"Cavs","vsND",11
+1,"16:28","Carey Booth defensive rebound",988,"Def Rebound","defensive rebound","Carey Booth",0,10,"Opp","vsND",12
+1,"16:28","Julian Roper II personal foul",988,"Foul","personal foul","Julian Roper II",0,10,"Opp","vsND",12
+1,"16:15","J.R. Konieczny turnover (bad pass) (Leon Bond III steals)",975,"Turnover","turnover","J.R. Konieczny",0,10,"Cavs","vsND",13
+1,"16:13","Leon Bond III misses two point fadeaway jump shot",973,"Missed Two","misses","Leon Bond III",0,10,"Cavs","vsND",13
+1,"15:57","Kebba Njie defensive rebound",957,"Def Rebound","defensive rebound","Kebba Njie",0,10,"Opp","vsND",14
+1,"15:40","Markus Burton makes three point jump shot (Kebba Njie assists)",940,"Made Three","makes","Markus Burton",0,13,"Cavs","vsND",15
+1,"15:38","Reece Beekman misses two point fadeaway jump shot",938,"Missed Two","misses","Reece Beekman",0,13,"Cavs","vsND",15
+1,"15:11","Carey Booth defensive rebound",911,"Def Rebound","defensive rebound","Carey Booth",0,13,"Opp","vsND",16
+1,"15:02","Carey Booth turnover (bad pass) (Ryan Dunn steals)",902,"Turnover","turnover","Carey Booth",0,13,"Cavs","vsND",17
+1,"14:47","Ryan Dunn makes two point dunk (Reece Beekman assists)",887,"Made Two","makes","Ryan Dunn",2,13,"Opp","vsND",18
+1,"14:38","Markus Burton turnover (bad pass) (Isaac McKneely steals)",878,"Turnover","turnover","Markus Burton",2,13,"Cavs","vsND",19
+1,"14:19","Ryan Dunn makes two point jump shot (Leon Bond III assists)",859,"Made Two","makes","Ryan Dunn",4,13,"Opp","vsND",20
+1,"14:17","Carey Booth misses three point jump shot",857,"Missed Three","misses","Carey Booth",4,13,"Opp","vsND",20
+1,"14:03","Isaac McKneely defensive rebound",843,"Def Rebound","defensive rebound","Isaac McKneely",4,13,"Cavs","vsND",21
+1,"14:01","Ryan Dunn misses two point floating jump shot",841,"Missed Two","misses","Ryan Dunn",4,13,"Cavs","vsND",21
+1,"13:35","Carey Booth defensive rebound",815,"Def Rebound","defensive rebound","Carey Booth",4,13,"Opp","vsND",22
+1,"13:12","J.R. Konieczny makes two point jump shot",792,"Made Two","makes","J.R. Konieczny",4,15,"Cavs","vsND",23
+1,"12:41","Reece Beekman makes two point jump shot (Isaac McKneely assists)",761,"Made Two","makes","Reece Beekman",6,15,"Opp","vsND",24
+1,"12:24","Carey Booth makes two point fadeaway jump shot (J.R. Konieczny assists)",744,"Made Two","makes","Carey Booth",6,17,"Cavs","vsND",25
+1,"11:53","Isaac McKneely makes three point jump shot (Leon Bond III assists)",713,"Made Three","makes","Isaac McKneely",9,17,"Opp","vsND",26
+1,"11:35","Kebba Njie makes two point hook shot",695,"Made Two","makes","Kebba Njie",9,19,"Cavs","vsND",27
+1,"11:33","Isaac McKneely misses three point jump shot",693,"Missed Three","misses","Isaac McKneely",9,19,"Cavs","vsND",27
+1,"11:30","Leon Bond III offensive rebound",690,"Off Rebound","offensive rebound","Leon Bond III",9,19,"Cavs","vsND",27
+1,"11:30","Carey Booth shooting foul (Reece Beekman draws the foul)",690,"Foul","shooting foul","Carey Booth",9,19,"Cavs","vsND",27
+1,"11:30","TV timeout",690,""," ","TV",9,19,"Cavs","vsND",27
+1,"11:30","Fighting Irish lineup change (Logan Imes, Braeden Shrewsberry, Markus Burton, Tae Davis, Matt Zona)",690,"Opp Sub"," ","Fighting",9,19,"Cavs","vsND",27
+1,"11:30","Cavaliers lineup change (Reece Beekman, Blake Buchanan, Isaac McKneely, Taine Murray, Leon Bond III)",690,"Cav Sub"," ","Cavaliers",9,19,"Cavs","vsND",27
+1,"11:30","Reece Beekman makes regular free throw 1 of 2",690,"Made FT","makes","Reece Beekman",10,19,"Cavs","vsND",27
+1,"11:00","Reece Beekman makes regular free throw 2 of 2",660,"Made FT","makes","Reece Beekman",11,19,"Opp","vsND",28
+1,"10:58","Braeden Shrewsberry misses three point jump shot",658,"Missed Three","misses","Braeden Shrewsberry",11,19,"Opp","vsND",28
+1,"10:58","Tae Davis offensive rebound",658,"Off Rebound","offensive rebound","Tae Davis",11,19,"Opp","vsND",28
+1,"10:58","Fighting Irish turnover (shot clock violation)",658,"Turnover","turnover","Fighting Irish",11,19,"Cavs","vsND",29
+1,"10:35","TV timeout",635,""," ","TV",11,19,"Cavs","vsND",29
+1,"10:33","Isaac McKneely misses two point pullup jump shot",633,"Missed Two","misses","Isaac McKneely",11,19,"Cavs","vsND",29
+1,"10:02","Tae Davis defensive rebound",602,"Def Rebound","defensive rebound","Tae Davis",11,19,"Opp","vsND",30
+1,"9:43","Matt Zona makes two point driving hook shot",583,"Made Two","makes","Matt Zona",11,21,"Cavs","vsND",31
+1,"9:41","Blake Buchanan misses two point jump shot",581,"Missed Two","misses","Blake Buchanan",11,21,"Cavs","vsND",31
+1,"9:23","Matt Zona defensive rebound",563,"Def Rebound","defensive rebound","Matt Zona",11,21,"Opp","vsND",32
+1,"9:21","Logan Imes misses three point jump shot",561,"Missed Three","misses","Logan Imes",11,21,"Opp","vsND",32
+1,"9:12","Reece Beekman defensive rebound",552,"Def Rebound","defensive rebound","Reece Beekman",11,21,"Cavs","vsND",33
+1,"9:11","Blake Buchanan misses two point alley-oop layup",551,"Missed Two","misses","Blake Buchanan",11,21,"Cavs","vsND",33
+1,"9:11","Cavaliers offensive rebound",551,"Off Rebound","offensive rebound","Cavaliers",11,21,"Cavs","vsND",33
+1,"9:11","Fighting Irish lineup change (Julian Roper II, Kebba Njie, Braeden Shrewsberry, Markus Burton, J.R. Konieczny)",551,"Opp Sub"," ","Fighting",11,21,"Cavs","vsND",33
+1,"9:05","Cavaliers lineup change (Andrew Rohde, Reece Beekman, Taine Murray, Ryan Dunn, Jacob Groves)",545,"Cav Sub"," ","Cavaliers",11,21,"Cavs","vsND",33
+1,"8:34","Ryan Dunn makes two point layup (Reece Beekman assists)",514,"Made Two","makes","Ryan Dunn",13,21,"Opp","vsND",34
+1,"8:34","Ryan Dunn shooting foul (J.R. Konieczny draws the foul)",514,"Foul","shooting foul","Ryan Dunn",13,21,"Opp","vsND",34
+1,"8:34","J.R. Konieczny makes regular free throw 1 of 2",514,"Made FT","makes","J.R. Konieczny",13,22,"Opp","vsND",34
+1,"8:34","Cavaliers lineup change (Isaac McKneely, Andrew Rohde, Taine Murray, Leon Bond III, Jacob Groves)",514,"Cav Sub"," ","Cavaliers",13,22,"Opp","vsND",34
+1,"8:34","Fighting Irish lineup change (Julian Roper II, Carey Booth, Kebba Njie, Logan Imes, J.R. Konieczny)",514,"Opp Sub"," ","Fighting",13,22,"Opp","vsND",34
+1,"8:34","J.R. Konieczny misses regular free throw 2 of 2",514,"Missed FT","misses","J.R. Konieczny",13,22,"Opp","vsND",34
+1,"8:17","Kebba Njie offensive rebound",497,"Off Rebound","offensive rebound","Kebba Njie",13,22,"Opp","vsND",34
+1,"8:16","Julian Roper II misses two point layup",496,"Missed Two","misses","Julian Roper II",13,22,"Opp","vsND",34
+1,"8:16","Kebba Njie offensive rebound",496,"Off Rebound","offensive rebound","Kebba Njie",13,22,"Opp","vsND",34
+1,"8:15","Kebba Njie misses two point tip layup",495,"Missed Two","misses","Kebba Njie",13,22,"Opp","vsND",34
+1,"7:52","Andrew Rohde defensive rebound",472,"Def Rebound","defensive rebound","Andrew Rohde",13,22,"Cavs","vsND",35
+1,"7:51","Andrew Rohde misses three point jump shot",471,"Missed Three","misses","Andrew Rohde",13,22,"Cavs","vsND",35
+1,"7:51","Fighting Irish defensive rebound",471,"Def Rebound","defensive rebound","Fighting Irish",13,22,"Opp","vsND",36
+1,"7:51","TV timeout",471,""," ","TV",13,22,"Opp","vsND",36
+1,"7:35","Cavaliers lineup change (Reece Beekman, Elijah Gertrude, Isaac McKneely, Jacob Groves, Leon Bond III)",455,"Cav Sub"," ","Cavaliers",13,22,"Opp","vsND",36
+1,"7:35","Jacob Groves personal foul",455,"Foul","personal foul","Jacob Groves",13,22,"Opp","vsND",36
+1,"7:35","Fighting Irish lineup change (Carey Booth, Markus Burton, Logan Imes, Kebba Njie, J.R. Konieczny)",455,"Opp Sub"," ","Fighting",13,22,"Opp","vsND",36
+1,"7:16","Cavaliers lineup change (Reece Beekman, Isaac McKneely, Elijah Gertrude, Jacob Groves, Jordan Minor)",436,"Cav Sub"," ","Cavaliers",13,22,"Opp","vsND",36
+1,"6:57","J.R. Konieczny makes two point driving layup",417,"Made Two","makes","J.R. Konieczny",13,24,"Cavs","vsND",37
+1,"6:55","Reece Beekman misses two point jump shot",415,"Missed Two","misses","Reece Beekman",13,24,"Cavs","vsND",37
+1,"6:51","J.R. Konieczny defensive rebound",411,"Def Rebound","defensive rebound","J.R. Konieczny",13,24,"Opp","vsND",38
+1,"6:37","Markus Burton makes two point driving layup",397,"Made Two","makes","Markus Burton",13,26,"Cavs","vsND",39
+1,"6:37","Carey Booth shooting foul (Reece Beekman draws the foul)",397,"Foul","shooting foul","Carey Booth",13,26,"Cavs","vsND",39
+1,"6:37","Reece Beekman makes regular free throw 1 of 2",397,"Made FT","makes","Reece Beekman",14,26,"Cavs","vsND",39
+1,"6:37","Fighting Irish lineup change (Braeden Shrewsberry, Logan Imes, Markus Burton, Kebba Njie, J.R. Konieczny)",397,"Opp Sub"," ","Fighting",14,26,"Cavs","vsND",39
+1,"6:37","Reece Beekman misses regular free throw 2 of 2",397,"Missed FT","misses","Reece Beekman",14,26,"Cavs","vsND",39
+1,"6:13","Kebba Njie defensive rebound",373,"Def Rebound","defensive rebound","Kebba Njie",14,26,"Opp","vsND",40
+1,"6:01","Markus Burton turnover (lost ball) (Isaac McKneely steals)",361,"Turnover","turnover","Markus Burton",14,26,"Cavs","vsND",41
+1,"5:38","Elijah Gertrude turnover (traveling)",338,"Turnover","turnover","Elijah Gertrude",14,26,"Opp","vsND",42
+1,"5:36","Kebba Njie misses two point hook shot",336,"Missed Two","misses","Kebba Njie",14,26,"Opp","vsND",42
+1,"5:27","Elijah Gertrude defensive rebound",327,"Def Rebound","defensive rebound","Elijah Gertrude",14,26,"Cavs","vsND",43
+1,"5:23","Reece Beekman turnover (bad pass) (Braeden Shrewsberry steals)",323,"Turnover","turnover","Reece Beekman",14,26,"Opp","vsND",44
+1,"5:23","Fighting Irish lineup change (Matt Zona, Markus Burton, Braeden Shrewsberry, Tae Davis, J.R. Konieczny)",323,"Opp Sub"," ","Fighting",14,26,"Opp","vsND",44
+1,"5:23","Cavaliers 30 second timeout",323,"Timeout","second timeout","Cavaliers 30",14,26,"Opp","vsND",44
+1,"5:17","Cavaliers lineup change (Reece Beekman, Isaac McKneely, Andrew Rohde, Jordan Minor, Leon Bond III)",317,"Cav Sub"," ","Cavaliers",14,26,"Opp","vsND",44
+1,"4:53","Braeden Shrewsberry makes three point jump shot (Markus Burton assists)",293,"Made Three","makes","Braeden Shrewsberry",14,29,"Cavs","vsND",45
+1,"4:29","Reece Beekman makes two point driving layup",269,"Made Two","makes","Reece Beekman",16,29,"Opp","vsND",46
+1,"4:04","Tae Davis makes two point layup",244,"Made Two","makes","Tae Davis",16,31,"Cavs","vsND",47
+1,"3:41","Jordan Minor turnover (lost ball) (Markus Burton steals)",221,"Turnover","turnover","Jordan Minor",16,31,"Opp","vsND",48
+1,"3:18","J.R. Konieczny makes three point jump shot (Matt Zona assists)",198,"Made Three","makes","J.R. Konieczny",16,34,"Cavs","vsND",49
+1,"3:18","Markus Burton personal foul",198,"Foul","personal foul","Markus Burton",16,34,"Cavs","vsND",49
+1,"3:18","TV timeout",198,""," ","TV",16,34,"Cavs","vsND",49
+1,"3:18","Fighting Irish lineup change (Markus Burton, Braeden Shrewsberry, Julian Roper II, J.R. Konieczny, Matt Zona)",198,"Opp Sub"," ","Fighting",16,34,"Cavs","vsND",49
+1,"3:13","Cavaliers lineup change (Reece Beekman, Andrew Rohde, Isaac McKneely, Blake Buchanan, Ryan Dunn)",193,"Cav Sub"," ","Cavaliers",16,34,"Cavs","vsND",49
+1,"3:00","Isaac McKneely makes two point jump shot (Ryan Dunn assists)",180,"Made Two","makes","Isaac McKneely",18,34,"Opp","vsND",50
+1,"2:45","Markus Burton makes two point driving layup",165,"Made Two","makes","Markus Burton",18,36,"Cavs","vsND",51
+1,"2:45","Braeden Shrewsberry shooting foul (Isaac McKneely draws the foul)",165,"Foul","shooting foul","Braeden Shrewsberry",18,36,"Cavs","vsND",51
+1,"2:45","Isaac McKneely misses regular free throw 1 of 3",165,"Missed FT","misses","Isaac McKneely",18,36,"Cavs","vsND",51
+1,"2:45","Isaac McKneely makes regular free throw 2 of 3",165,"Made FT","makes","Isaac McKneely",19,36,"Cavs","vsND",51
+1,"2:45","Fighting Irish lineup change (Julian Roper II, Markus Burton, Braeden Shrewsberry, J.R. Konieczny, Kebba Njie)",165,"Opp Sub"," ","Fighting",19,36,"Cavs","vsND",51
+1,"2:45","Cavaliers lineup change (Jacob Groves, Reece Beekman, Andrew Rohde, Isaac McKneely, Ryan Dunn)",165,"Cav Sub"," ","Cavaliers",19,36,"Cavs","vsND",51
+1,"2:27","Isaac McKneely makes regular free throw 3 of 3",147,"Made FT","makes","Isaac McKneely",20,36,"Opp","vsND",52
+1,"2:13","Markus Burton makes three point jump shot (Braeden Shrewsberry assists)",133,"Made Three","makes","Markus Burton",20,39,"Cavs","vsND",53
+1,"2:11","Reece Beekman misses three point jump shot",131,"Missed Three","misses","Reece Beekman",20,39,"Cavs","vsND",53
+1,"2:01","Ryan Dunn offensive rebound",121,"Off Rebound","offensive rebound","Ryan Dunn",20,39,"Cavs","vsND",53
+1,"2:00","Reece Beekman misses two point jump shot",120,"Missed Two","misses","Reece Beekman",20,39,"Cavs","vsND",53
+1,"2:00","Ryan Dunn offensive rebound",120,"Off Rebound","offensive rebound","Ryan Dunn",20,39,"Cavs","vsND",53
+1,"2:00","Julian Roper II personal foul",120,"Foul","personal foul","Julian Roper II",20,39,"Cavs","vsND",53
+1,"1:54","Fighting Irish lineup change (Tae Davis, Markus Burton, Braeden Shrewsberry, Kebba Njie, J.R. Konieczny)",114,"Opp Sub"," ","Fighting",20,39,"Cavs","vsND",53
+1,"1:31","Ryan Dunn makes two point pullup bank jump shot",91,"Made Two","makes","Ryan Dunn",22,39,"Opp","vsND",54
+1,"1:08","Kebba Njie makes two point hook shot (Markus Burton assists)",68,"Made Two","makes","Kebba Njie",22,41,"Cavs","vsND",55
+1,"0:56","Jacob Groves makes two point turnaround jump shot (Reece Beekman assists)",56,"Made Two","makes","Jacob Groves",24,41,"Opp","vsND",56
+1,"0:56","Fighting Irish 30 second timeout",56,"Timeout","second timeout","Fighting Irish 30",24,41,"Opp","vsND",56
+1,"0:47","Fighting Irish lineup change (Markus Burton, Braeden Shrewsberry, Carey Booth, Kebba Njie, J.R. Konieczny)",47,"Opp Sub"," ","Fighting",24,41,"Opp","vsND",56
+1,"0:47","Braeden Shrewsberry turnover (traveling)",47,"Turnover","turnover","Braeden Shrewsberry",24,41,"Cavs","vsND",57
+1,"0:33","Fighting Irish lineup change (Carey Booth, Markus Burton, Logan Imes, Kebba Njie, J.R. Konieczny)",33,"Opp Sub"," ","Fighting",24,41,"Cavs","vsND",57
+1,"0:10","Reece Beekman turnover (bad pass) (Carey Booth steals)",10,"Turnover","turnover","Reece Beekman",24,41,"Opp","vsND",58
+1,"0:08","Markus Burton misses two point driving reverse layup",8,"Missed Two","misses","Markus Burton",24,41,"Opp","vsND",58
+1,"0:03","Reece Beekman defensive rebound",3,"Def Rebound","defensive rebound","Reece Beekman",24,41,"Cavs","vsND",59
+2,"20:00","2ND HALF",1200,""," ","2ND",24,41,"Cavs","vsND",59
+2,"20:00","Fighting Irish lineup change (Carey Booth, Tae Davis, Markus Burton, Kebba Njie, J.R. Konieczny)",1200,"Opp Sub"," ","Fighting",24,41,"Cavs","vsND",59
+2,"19:45","Open inbound Cavaliers",1185,""," ","Open",24,41,"Cavs","vsND",59
+2,"19:43","Ryan Dunn turnover (lost ball) (Tae Davis steals)",1183,"Turnover","turnover","Ryan Dunn",24,41,"Opp","vsND",60
+2,"19:21","Ryan Dunn personal foul (Tae Davis draws the foul)",1161,"Foul","personal foul","Ryan Dunn",24,41,"Opp","vsND",60
+2,"19:19","J.R. Konieczny misses two point jump shot",1159,"Missed Two","misses","J.R. Konieczny",24,41,"Opp","vsND",60
+2,"19:10","Jacob Groves defensive rebound",1150,"Def Rebound","defensive rebound","Jacob Groves",24,41,"Cavs","vsND",61
+2,"18:47","Ryan Dunn makes two point finger roll layup (Reece Beekman assists)",1127,"Made Two","makes","Ryan Dunn",26,41,"Opp","vsND",62
+2,"18:45","Markus Burton misses three point jump shot",1125,"Missed Three","misses","Markus Burton",26,41,"Opp","vsND",62
+2,"18:44","J.R. Konieczny offensive rebound",1124,"Off Rebound","offensive rebound","J.R. Konieczny",26,41,"Opp","vsND",62
+2,"18:30","Reece Beekman personal foul (J.R. Konieczny draws the foul)",1110,"Foul","personal foul","Reece Beekman",26,41,"Opp","vsND",62
+2,"18:17","Kebba Njie turnover (bad pass)",1097,"Turnover","turnover","Kebba Njie",26,41,"Cavs","vsND",63
+2,"17:43","Andrew Rohde makes three point jump shot (Isaac McKneely assists)",1063,"Made Three","makes","Andrew Rohde",29,41,"Opp","vsND",64
+2,"17:41","Carey Booth misses three point jump shot",1061,"Missed Three","misses","Carey Booth",29,41,"Opp","vsND",64
+2,"17:23","Isaac McKneely defensive rebound",1043,"Def Rebound","defensive rebound","Isaac McKneely",29,41,"Cavs","vsND",65
+2,"17:22","Ryan Dunn makes two point reverse layup (Andrew Rohde assists)",1042,"Made Two","makes","Ryan Dunn",31,41,"Opp","vsND",66
+2,"17:22","Fighting Irish 30 second timeout",1042,"Timeout","second timeout","Fighting Irish 30",31,41,"Opp","vsND",66
+2,"16:55","Fighting Irish lineup change (Julian Roper II, Markus Burton, Braeden Shrewsberry, Kebba Njie, J.R. Konieczny)",1015,"Opp Sub"," ","Fighting",31,41,"Opp","vsND",66
+2,"16:36","Julian Roper II makes three point jump shot (Markus Burton assists)",996,"Made Three","makes","Julian Roper II",31,44,"Cavs","vsND",67
+2,"16:34","Isaac McKneely misses two point jump shot",994,"Missed Two","misses","Isaac McKneely",31,44,"Cavs","vsND",67
+2,"16:23","Julian Roper II defensive rebound",983,"Def Rebound","defensive rebound","Julian Roper II",31,44,"Opp","vsND",68
+2,"16:11","Kebba Njie makes two point dunk (Markus Burton assists)",971,"Made Two","makes","Kebba Njie",31,46,"Cavs","vsND",69
+2,"16:11","Reece Beekman makes two point driving layup",971,"Made Two","makes","Reece Beekman",33,46,"Cavs","vsND",69
+2,"16:11","Markus Burton shooting foul (Reece Beekman draws the foul)",971,"Foul","shooting foul","Markus Burton",33,46,"Cavs","vsND",69
+2,"16:11","TV timeout",971,""," ","TV",33,46,"Cavs","vsND",69
+2,"16:11","Cavaliers lineup change (Reece Beekman, Andrew Rohde, Isaac McKneely, Leon Bond III, Jacob Groves)",971,"Cav Sub"," ","Cavaliers",33,46,"Cavs","vsND",69
+2,"16:11","Reece Beekman misses regular free throw 1 of 1",971,"Missed FT","misses","Reece Beekman",33,46,"Cavs","vsND",69
+2,"15:54","J.R. Konieczny defensive rebound",954,"Def Rebound","defensive rebound","J.R. Konieczny",33,46,"Opp","vsND",70
+2,"15:54","Isaac McKneely shooting foul (Braeden Shrewsberry draws the foul)",954,"Foul","shooting foul","Isaac McKneely",33,46,"Opp","vsND",70
+2,"15:54","Braeden Shrewsberry makes regular free throw 1 of 3",954,"Made FT","makes","Braeden Shrewsberry",33,47,"Opp","vsND",70
+2,"15:54","Braeden Shrewsberry misses regular free throw 2 of 3",954,"Missed FT","misses","Braeden Shrewsberry",33,47,"Opp","vsND",70
+2,"15:35","Braeden Shrewsberry makes regular free throw 3 of 3",935,"Made FT","makes","Braeden Shrewsberry",33,48,"Cavs","vsND",71
+2,"15:33","Leon Bond III misses two point jump shot",933,"Missed Two","misses","Leon Bond III",33,48,"Cavs","vsND",71
+2,"15:09","J.R. Konieczny defensive rebound",909,"Def Rebound","defensive rebound","J.R. Konieczny",33,48,"Opp","vsND",72
+2,"15:07","Markus Burton misses two point jump shot",907,"Missed Two","misses","Markus Burton",33,48,"Opp","vsND",72
+2,"15:00","Leon Bond III defensive rebound",900,"Def Rebound","defensive rebound","Leon Bond III",33,48,"Cavs","vsND",73
+2,"14:30","Reece Beekman makes two point driving dunk",870,"Made Two","makes","Reece Beekman",35,48,"Opp","vsND",74
+2,"14:28","Julian Roper II misses two point layup",868,"Missed Two","misses","Julian Roper II",35,48,"Opp","vsND",74
+2,"14:20","Isaac McKneely defensive rebound",860,"Def Rebound","defensive rebound","Isaac McKneely",35,48,"Cavs","vsND",75
+2,"13:59","Reece Beekman turnover (lost ball) (Julian Roper II steals)",839,"Turnover","turnover","Reece Beekman",35,48,"Opp","vsND",76
+2,"13:59","Isaac McKneely personal foul (Julian Roper II draws the foul)",839,"Foul","personal foul","Isaac McKneely",35,48,"Opp","vsND",76
+2,"13:51","Fighting Irish lineup change (Julian Roper II, Markus Burton, Braeden Shrewsberry, Tae Davis, Matt Zona)",831,"Opp Sub"," ","Fighting",35,48,"Opp","vsND",76
+2,"13:49","Julian Roper II misses three point jump shot",829,"Missed Three","misses","Julian Roper II",35,48,"Opp","vsND",76
+2,"13:45","Matt Zona offensive rebound",825,"Off Rebound","offensive rebound","Matt Zona",35,48,"Opp","vsND",76
+2,"13:43","Matt Zona misses two point layup",823,"Missed Two","misses","Matt Zona",35,48,"Opp","vsND",76
+2,"13:41","Matt Zona offensive rebound",821,"Off Rebound","offensive rebound","Matt Zona",35,48,"Opp","vsND",76
+2,"13:39","Matt Zona misses two point layup",819,"Missed Two","misses","Matt Zona",35,48,"Opp","vsND",76
+2,"13:37","Tae Davis offensive rebound",817,"Off Rebound","offensive rebound","Tae Davis",35,48,"Opp","vsND",76
+2,"13:37","Andrew Rohde personal foul (Tae Davis draws the foul)",817,"Foul","personal foul","Andrew Rohde",35,48,"Opp","vsND",76
+2,"13:37","Cavaliers lineup change (Reece Beekman, Andrew Rohde, Isaac McKneely, Taine Murray, Ryan Dunn)",817,"Cav Sub"," ","Cavaliers",35,48,"Opp","vsND",76
+2,"13:23","Fighting Irish turnover (5-second violation)",803,"Turnover","turnover","Fighting Irish",35,48,"Cavs","vsND",77
+2,"13:23","Julian Roper II shooting foul (Ryan Dunn draws the foul)",803,"Foul","shooting foul","Julian Roper II",35,48,"Cavs","vsND",77
+2,"13:23","Ryan Dunn makes regular free throw 1 of 2",803,"Made FT","makes","Ryan Dunn",36,48,"Cavs","vsND",77
+2,"13:23","Fighting Irish lineup change (Logan Imes, J.R. Konieczny, Braeden Shrewsberry, Tae Davis, Matt Zona)",803,"Opp Sub"," ","Fighting",36,48,"Cavs","vsND",77
+2,"13:23","Ryan Dunn misses regular free throw 2 of 2",803,"Missed FT","misses","Ryan Dunn",36,48,"Cavs","vsND",77
+2,"13:05","J.R. Konieczny defensive rebound",785,"Def Rebound","defensive rebound","J.R. Konieczny",36,48,"Opp","vsND",78
+2,"13:03","Braeden Shrewsberry misses three point jump shot",783,"Missed Three","misses","Braeden Shrewsberry",36,48,"Opp","vsND",78
+2,"12:40","Isaac McKneely defensive rebound",760,"Def Rebound","defensive rebound","Isaac McKneely",36,48,"Cavs","vsND",79
+2,"12:20","Taine Murray makes two point layup",740,"Made Two","makes","Taine Murray",38,48,"Opp","vsND",80
+2,"12:18","J.R. Konieczny misses three point jump shot",738,"Missed Three","misses","J.R. Konieczny",38,48,"Opp","vsND",80
+2,"12:18","Cavaliers defensive rebound",738,"Def Rebound","defensive rebound","Cavaliers",38,48,"Cavs","vsND",81
+2,"11:57","Fighting Irish lineup change (Logan Imes, Carey Booth, Markus Burton, J.R. Konieczny, Kebba Njie)",717,"Opp Sub"," ","Fighting",38,48,"Cavs","vsND",81
+2,"11:55","Isaac McKneely misses two point jump shot",715,"Missed Two","misses","Isaac McKneely",38,48,"Cavs","vsND",81
+2,"11:41","J.R. Konieczny defensive rebound",701,"Def Rebound","defensive rebound","J.R. Konieczny",38,48,"Opp","vsND",82
+2,"11:29","Markus Burton makes two point driving floating jump shot",689,"Made Two","makes","Markus Burton",38,50,"Cavs","vsND",83
+2,"11:27","Reece Beekman misses two point jump shot",687,"Missed Two","misses","Reece Beekman",38,50,"Cavs","vsND",83
+2,"11:12","Carey Booth defensive rebound",672,"Def Rebound","defensive rebound","Carey Booth",38,50,"Opp","vsND",84
+2,"10:56","Carey Booth makes three point jump shot (Markus Burton assists)",656,"Made Three","makes","Carey Booth",38,53,"Cavs","vsND",85
+2,"10:56","Andrew Rohde makes two point pullup jump shot",656,"Made Two","makes","Andrew Rohde",40,53,"Cavs","vsND",85
+2,"10:56","J.R. Konieczny shooting foul (Andrew Rohde draws the foul)",656,"Foul","shooting foul","J.R. Konieczny",40,53,"Cavs","vsND",85
+2,"10:56","TV timeout",656,""," ","TV",40,53,"Cavs","vsND",85
+2,"10:56","Andrew Rohde misses regular free throw 1 of 1",656,"Missed FT","misses","Andrew Rohde",40,53,"Cavs","vsND",85
+2,"10:31","J.R. Konieczny defensive rebound",631,"Def Rebound","defensive rebound","J.R. Konieczny",40,53,"Opp","vsND",86
+2,"9:58","Carey Booth makes two point pullup jump shot",598,"Made Two","makes","Carey Booth",40,55,"Cavs","vsND",87
+2,"9:56","Reece Beekman misses two point jump shot",596,"Missed Two","misses","Reece Beekman",40,55,"Cavs","vsND",87
+2,"9:51","Ryan Dunn offensive rebound",591,"Off Rebound","offensive rebound","Ryan Dunn",40,55,"Cavs","vsND",87
+2,"9:49","Ryan Dunn misses two point layup",589,"Missed Two","misses","Ryan Dunn",40,55,"Cavs","vsND",87
+2,"9:44","Ryan Dunn offensive rebound",584,"Off Rebound","offensive rebound","Ryan Dunn",40,55,"Cavs","vsND",87
+2,"9:42","Reece Beekman misses three point jump shot",582,"Missed Three","misses","Reece Beekman",40,55,"Cavs","vsND",87
+2,"9:30","Kebba Njie defensive rebound",570,"Def Rebound","defensive rebound","Kebba Njie",40,55,"Opp","vsND",88
+2,"9:06","Carey Booth makes three point jump shot (Markus Burton assists)",546,"Made Three","makes","Carey Booth",40,58,"Cavs","vsND",89
+2,"9:04","Andrew Rohde misses three point jump shot",544,"Missed Three","misses","Andrew Rohde",40,58,"Cavs","vsND",89
+2,"8:52","Markus Burton defensive rebound",532,"Def Rebound","defensive rebound","Markus Burton",40,58,"Opp","vsND",90
+2,"8:52","Markus Burton makes two point driving layup",532,"Made Two","makes","Markus Burton",40,60,"Opp","vsND",90
+2,"8:52","Taine Murray shooting foul (Markus Burton draws the foul)",532,"Foul","shooting foul","Taine Murray",40,60,"Opp","vsND",90
+2,"8:52","Cavaliers lineup change (Elijah Gertrude, Blake Buchanan, Taine Murray, Isaac McKneely, Leon Bond III)",532,"Cav Sub"," ","Cavaliers",40,60,"Opp","vsND",90
+2,"8:38","Markus Burton makes regular free throw 1 of 1",518,"Made FT","makes","Markus Burton",40,61,"Cavs","vsND",91
+2,"8:36","Blake Buchanan misses two point hook shot",516,"Missed Two","misses","Blake Buchanan",40,61,"Cavs","vsND",91
+2,"8:25","Carey Booth defensive rebound",505,"Def Rebound","defensive rebound","Carey Booth",40,61,"Opp","vsND",92
+2,"8:25","Blake Buchanan personal foul (Kebba Njie draws the foul)",505,"Foul","personal foul","Blake Buchanan",40,61,"Opp","vsND",92
+2,"8:25","Fighting Irish lineup change (Carey Booth, Julian Roper II, Logan Imes, Kebba Njie, J.R. Konieczny)",505,"Opp Sub"," ","Fighting",40,61,"Opp","vsND",92
+2,"8:25","Kebba Njie makes regular free throw 1 of 2",505,"Made FT","makes","Kebba Njie",40,62,"Opp","vsND",92
+2,"7:57","Kebba Njie makes regular free throw 2 of 2",477,"Made FT","makes","Kebba Njie",40,63,"Cavs","vsND",93
+2,"7:55","Isaac McKneely misses three point jump shot",475,"Missed Three","misses","Isaac McKneely",40,63,"Cavs","vsND",93
+2,"7:49","J.R. Konieczny defensive rebound",469,"Def Rebound","defensive rebound","J.R. Konieczny",40,63,"Opp","vsND",94
+2,"7:47","Carey Booth misses three point jump shot",467,"Missed Three","misses","Carey Booth",40,63,"Opp","vsND",94
+2,"7:36","Leon Bond III defensive rebound",456,"Def Rebound","defensive rebound","Leon Bond III",40,63,"Cavs","vsND",95
+2,"7:03","Elijah Gertrude makes two point running pullup jump shot",423,"Made Two","makes","Elijah Gertrude",42,63,"Opp","vsND",96
+2,"6:50","J.R. Konieczny turnover (bad pass) (Leon Bond III steals)",410,"Turnover","turnover","J.R. Konieczny",42,63,"Cavs","vsND",97
+2,"6:46","Isaac McKneely turnover (bad pass) (Logan Imes steals)",406,"Turnover","turnover","Isaac McKneely",42,63,"Opp","vsND",98
+2,"6:44","Logan Imes misses two point layup",404,"Missed Two","misses","Logan Imes",42,63,"Opp","vsND",98
+2,"6:44","Carey Booth offensive rebound",404,"Off Rebound","offensive rebound","Carey Booth",42,63,"Opp","vsND",98
+2,"6:44","Carey Booth makes two point putback layup",404,"Made Two","makes","Carey Booth",42,65,"Opp","vsND",98
+2,"6:44","Blake Buchanan shooting foul (Carey Booth draws the foul)",404,"Foul","shooting foul","Blake Buchanan",42,65,"Opp","vsND",98
+2,"6:44","TV timeout",404,""," ","TV",42,65,"Opp","vsND",98
+2,"6:44","Cavaliers lineup change (Reece Beekman, Andrew Rohde, Isaac McKneely, Ryan Dunn, Jacob Groves)",404,"Cav Sub"," ","Cavaliers",42,65,"Opp","vsND",98
+2,"6:44","Fighting Irish lineup change (Carey Booth, Markus Burton, Braeden Shrewsberry, Kebba Njie, J.R. Konieczny)",404,"Opp Sub"," ","Fighting",42,65,"Opp","vsND",98
+2,"6:31","Carey Booth makes regular free throw 1 of 1",391,"Made FT","makes","Carey Booth",42,66,"Cavs","vsND",99
+2,"6:29","Ryan Dunn turnover (bad pass) (Carey Booth steals)",389,"Turnover","turnover","Ryan Dunn",42,66,"Opp","vsND",100
+2,"6:29","Jacob Groves personal foul (Carey Booth draws the foul)",389,"Foul","personal foul","Jacob Groves",42,66,"Opp","vsND",100
+2,"6:29","Carey Booth makes regular free throw 1 of 2",389,"Made FT","makes","Carey Booth",42,67,"Opp","vsND",100
+2,"6:29","Carey Booth misses regular free throw 2 of 2",389,"Missed FT","misses","Carey Booth",42,67,"Opp","vsND",100
+2,"6:15","Andrew Rohde defensive rebound",375,"Def Rebound","defensive rebound","Andrew Rohde",42,67,"Cavs","vsND",101
+2,"5:59","Jacob Groves makes two point pullup jump shot",359,"Made Two","makes","Jacob Groves",44,67,"Opp","vsND",102
+2,"5:59","Jacob Groves personal foul (Kebba Njie draws the foul)",359,"Foul","personal foul","Jacob Groves",44,67,"Opp","vsND",102
+2,"5:59","Kebba Njie makes regular free throw 1 of 2",359,"Made FT","makes","Kebba Njie",44,68,"Opp","vsND",102
+2,"5:59","Fighting Irish lineup change (Carey Booth, Markus Burton, Braeden Shrewsberry, Kebba Njie, Julian Roper II)",359,"Opp Sub"," ","Fighting",44,68,"Opp","vsND",102
+2,"5:59","Cavaliers lineup change (Reece Beekman, Andrew Rohde, Elijah Gertrude, Ryan Dunn, Jacob Groves)",359,"Cav Sub"," ","Cavaliers",44,68,"Opp","vsND",102
+2,"5:44","Kebba Njie makes regular free throw 2 of 2",344,"Made FT","makes","Kebba Njie",44,69,"Cavs","vsND",103
+2,"5:42","Reece Beekman misses three point jump shot",342,"Missed Three","misses","Reece Beekman",44,69,"Cavs","vsND",103
+2,"5:24","Markus Burton defensive rebound",324,"Def Rebound","defensive rebound","Markus Burton",44,69,"Opp","vsND",104
+2,"5:22","Braeden Shrewsberry misses three point jump shot",322,"Missed Three","misses","Braeden Shrewsberry",44,69,"Opp","vsND",104
+2,"5:09","Ryan Dunn defensive rebound",309,"Def Rebound","defensive rebound","Ryan Dunn",44,69,"Cavs","vsND",105
+2,"5:07","Andrew Rohde misses two point jump shot",307,"Missed Two","misses","Andrew Rohde",44,69,"Cavs","vsND",105
+2,"5:00","Markus Burton defensive rebound",300,"Def Rebound","defensive rebound","Markus Burton",44,69,"Opp","vsND",106
+2,"4:58","Markus Burton misses two point jump shot",298,"Missed Two","misses","Markus Burton",44,69,"Opp","vsND",106
+2,"4:55","Carey Booth offensive rebound",295,"Off Rebound","offensive rebound","Carey Booth",44,69,"Opp","vsND",106
+2,"4:38","Carey Booth makes two point putback layup",278,"Made Two","makes","Carey Booth",44,71,"Cavs","vsND",107
+2,"4:23","Reece Beekman turnover (bad pass) (Braeden Shrewsberry steals)",263,"Turnover","turnover","Reece Beekman",44,71,"Opp","vsND",108
+2,"4:23","Markus Burton turnover (lost ball)",263,"Turnover","turnover","Markus Burton",44,71,"Cavs","vsND",109
+2,"4:23","Cavaliers lineup change (Reece Beekman, Andrew Rohde, Elijah Gertrude, Ryan Dunn, Jordan Minor)",263,"Cav Sub"," ","Cavaliers",44,71,"Cavs","vsND",109
+2,"4:15","Fighting Irish lineup change (Tae Davis, Julian Roper II, Markus Burton, Braeden Shrewsberry, Kebba Njie)",255,"Opp Sub"," ","Fighting",44,71,"Cavs","vsND",109
+2,"4:13","Andrew Rohde misses two point jump shot",253,"Missed Two","misses","Andrew Rohde",44,71,"Cavs","vsND",109
+2,"4:13","Jordan Minor offensive rebound",253,"Off Rebound","offensive rebound","Jordan Minor",44,71,"Cavs","vsND",109
+2,"4:06","Kebba Njie personal foul (Jordan Minor draws the foul)",246,"Foul","personal foul","Kebba Njie",44,71,"Cavs","vsND",109
+2,"4:06","Reece Beekman misses two point jump shot",246,"Missed Two","misses","Reece Beekman",44,71,"Cavs","vsND",109
+2,"4:06","Reece Beekman offensive rebound",246,"Off Rebound","offensive rebound","Reece Beekman",44,71,"Cavs","vsND",109
+2,"4:05","Reece Beekman makes two point driving floating jump shot",245,"Made Two","makes","Reece Beekman",46,71,"Cavs","vsND",109
+2,"4:05","Kebba Njie shooting foul (Reece Beekman draws the foul)",245,"Foul","shooting foul","Kebba Njie",46,71,"Cavs","vsND",109
+2,"4:05","Reece Beekman misses regular free throw 1 of 1",245,"Missed FT","misses","Reece Beekman",46,71,"Cavs","vsND",109
+2,"3:48","Tae Davis defensive rebound",228,"Def Rebound","defensive rebound","Tae Davis",46,71,"Opp","vsND",110
+2,"3:35","Markus Burton turnover (lost ball) (Elijah Gertrude steals)",215,"Turnover","turnover","Markus Burton",46,71,"Cavs","vsND",111
+2,"3:35","Kebba Njie shooting foul (Reece Beekman draws the foul)",215,"Foul","shooting foul","Kebba Njie",46,71,"Cavs","vsND",111
+2,"3:35","TV timeout",215,""," ","TV",46,71,"Cavs","vsND",111
+2,"3:35","Fighting Irish lineup change (Carey Booth, Markus Burton, Logan Imes, J.R. Konieczny, Kebba Njie)",215,"Opp Sub"," ","Fighting",46,71,"Cavs","vsND",111
+2,"3:35","Cavaliers lineup change (Reece Beekman, Andrew Rohde, Elijah Gertrude, Blake Buchanan, Jordan Minor)",215,"Cav Sub"," ","Cavaliers",46,71,"Cavs","vsND",111
+2,"3:35","Reece Beekman makes regular free throw 1 of 2",215,"Made FT","makes","Reece Beekman",47,71,"Cavs","vsND",111
+2,"3:35","Cavaliers lineup change (Blake Buchanan, Reece Beekman, Leon Bond III, Elijah Gertrude, Jordan Minor)",215,"Cav Sub"," ","Cavaliers",47,71,"Cavs","vsND",111
+2,"3:19","Reece Beekman makes regular free throw 2 of 2",199,"Made FT","makes","Reece Beekman",48,71,"Opp","vsND",112
+2,"3:19","Cavaliers lineup change (Blake Buchanan, Taine Murray, Elijah Gertrude, Jordan Minor, Leon Bond III)",199,"Cav Sub"," ","Cavaliers",48,71,"Opp","vsND",112
+2,"3:04","Carey Booth turnover (lost ball)",184,"Turnover","turnover","Carey Booth",48,71,"Cavs","vsND",113
+2,"3:02","Elijah Gertrude misses two point layup",182,"Missed Two","misses","Elijah Gertrude",48,71,"Cavs","vsND",113
+2,"2:59","Jordan Minor offensive rebound",179,"Off Rebound","offensive rebound","Jordan Minor",48,71,"Cavs","vsND",113
+2,"2:57","Kebba Njie blocks Jordan Minor's two point layup",177,"Block","block","Kebba Njie",48,71,"Cavs","vsND",113
+2,"2:55","Logan Imes defensive rebound",175,"Def Rebound","defensive rebound","Logan Imes",48,71,"Opp","vsND",114
+2,"2:55","Blake Buchanan personal foul (Logan Imes draws the foul)",175,"Foul","personal foul","Blake Buchanan",48,71,"Opp","vsND",114
+2,"2:55","Logan Imes makes regular free throw 1 of 2",175,"Made FT","makes","Logan Imes",48,72,"Opp","vsND",114
+2,"2:42","Logan Imes makes regular free throw 2 of 2",162,"Made FT","makes","Logan Imes",48,73,"Cavs","vsND",115
+2,"2:42","Carey Booth shooting foul (Taine Murray draws the foul)",162,"Foul","shooting foul","Carey Booth",48,73,"Cavs","vsND",115
+2,"2:42","Taine Murray misses regular free throw 1 of 2",162,"Missed FT","misses","Taine Murray",48,73,"Cavs","vsND",115
+2,"2:42","Fighting Irish lineup change (Alex Wade, Raheem Braiton, Tony Sanders Jr., Thomas Crowe, Zane Harbaugh)",162,"Opp Sub"," ","Fighting",48,73,"Cavs","vsND",115
+2,"2:42","Taine Murray misses regular free throw 2 of 2",162,"Missed FT","misses","Taine Murray",48,73,"Cavs","vsND",115
+2,"2:30","Taine Murray offensive rebound",150,"Off Rebound","offensive rebound","Taine Murray",48,73,"Cavs","vsND",115
+2,"2:28","Leon Bond III misses two point jump shot",148,"Missed Two","misses","Leon Bond III",48,73,"Cavs","vsND",115
+2,"2:08","Tony Sanders Jr. defensive rebound",128,"Def Rebound","defensive rebound","Tony Sanders Jr.",48,73,"Opp","vsND",116
+2,"2:06","Zane Harbaugh misses three point jump shot",126,"Missed Three","misses","Zane Harbaugh",48,73,"Opp","vsND",116
+2,"1:52","Blake Buchanan defensive rebound",112,"Def Rebound","defensive rebound","Blake Buchanan",48,73,"Cavs","vsND",117
+2,"1:50","Elijah Gertrude misses two point jump shot",110,"Missed Two","misses","Elijah Gertrude",48,73,"Cavs","vsND",117
+2,"1:44","Zane Harbaugh defensive rebound",104,"Def Rebound","defensive rebound","Zane Harbaugh",48,73,"Opp","vsND",118
+2,"1:19","Tony Sanders Jr. makes three point jump shot (Alex Wade assists)",79,"Made Three","makes","Tony Sanders Jr.",48,76,"Cavs","vsND",119
+2,"1:01","Jordan Minor makes two point layup",61,"Made Two","makes","Jordan Minor",50,76,"Opp","vsND",120
+2,"0:59","Tony Sanders Jr. misses three point jump shot",59,"Missed Three","misses","Tony Sanders Jr.",50,76,"Opp","vsND",120
+2,"0:51","Elijah Gertrude defensive rebound",51,"Def Rebound","defensive rebound","Elijah Gertrude",50,76,"Cavs","vsND",121
+2,"0:51","Thomas Crowe personal foul (Elijah Gertrude draws the foul)",51,"Foul","personal foul","Thomas Crowe",50,76,"Cavs","vsND",121
+2,"0:51","Elijah Gertrude makes regular free throw 1 of 2",51,"Made FT","makes","Elijah Gertrude",51,76,"Cavs","vsND",121
+2,"0:51","Fighting Irish lineup change (Alex Wade, Raheem Braiton, JT Kelly, Thomas Crowe, Thomas Hattan)",51,"Opp Sub"," ","Fighting",51,76,"Cavs","vsND",121
+2,"0:41","Elijah Gertrude makes regular free throw 2 of 2",41,"Made FT","makes","Elijah Gertrude",52,76,"Opp","vsND",122
+2,"0:41","Alex Wade turnover (bad pass) (Elijah Gertrude steals)",41,"Turnover","turnover","Alex Wade",52,76,"Cavs","vsND",123
+2,"0:24","Elijah Gertrude turnover (back court violation)",24,"Turnover","turnover","Elijah Gertrude",52,76,"Opp","vsND",124
+2,"0:22","Blake Buchanan blocks Thomas Crowe's two point layup",22,"Block","block","Blake Buchanan",52,76,"Opp","vsND",124
+2,"0:17","Thomas Hattan offensive rebound",17,"Off Rebound","offensive rebound","Thomas Hattan",52,76,"Opp","vsND",124
+2,"0:14","Thomas Hattan misses two point layup",14,"Missed Two","misses","Thomas Hattan",52,76,"Opp","vsND",124
+2,"0:13","Elijah Gertrude defensive rebound",13,"Def Rebound","defensive rebound","Elijah Gertrude",52,76,"Cavs","vsND",125
+2,"0:00","Reece Beekman turnover (lost ball)",0,"Turnover","turnover","Reece Beekman",52,76,"Opp","vsND",126
+2,"0:00","Elijah Gertrude makes two point driving layup",0,"Made Two","makes","Elijah Gertrude",54,76,"Cavs","vsND",127

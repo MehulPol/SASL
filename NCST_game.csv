@@ -1,0 +1,288 @@
+"Half","Time","Description","Time_in_sec","Event","Token","Player","UVA_score","Opp_score","Possession","Opps","Possession Number"
+1,"20:00","1ST HALF",1200,""," ","1ST",0,0,"Cavs","vsNCST",1
+1,"20:00","Cavaliers lineup change (Isaac McKneely,Reece Beekman,Andrew Rohde,Ryan Dunn,Jacob Groves)",1200,"Cav Sub"," ","Cavaliers",0,0,"","vsNCST",2
+1,"19:30","Blake Buchanan vs. D.J. Burns Jr. (Jayden Taylor gains possession)",1170,""," ","Blake",0,0,"Opp","vsNCST",3
+1,"19:28","Jayden Taylor misses three point jump shot",1168,"Missed Three","misses","Jayden Taylor",0,0,"Opp","vsNCST",3
+1,"19:07","Cavaliers defensive rebound",1147,"Def Rebound","defensive rebound","Cavaliers",0,0,"Cavs","vsNCST",4
+1,"19:05","Isaac McKneely misses two point jump shot",1145,"Missed Two","misses","Isaac McKneely",0,0,"Cavs","vsNCST",4
+1,"18:35","D.J. Burns Jr. defensive rebound",1115,"Def Rebound","defensive rebound","D.J. Burns Jr.",0,0,"Opp","vsNCST",5
+1,"18:33","Casey Morsell misses three point jump shot",1113,"Missed Three","misses","Casey Morsell",0,0,"Opp","vsNCST",5
+1,"18:25","Ryan Dunn defensive rebound",1105,"Def Rebound","defensive rebound","Ryan Dunn",0,0,"Cavs","vsNCST",6
+1,"18:14","Isaac McKneely makes three point jump shot (Reece Beekman assists)",1094,"Made Three","makes","Isaac McKneely",3,0,"Opp","vsNCST",7
+1,"17:53","Jayden Taylor turnover (lost ball) (Blake Buchanan steals)",1073,"Turnover","turnover","Jayden Taylor",3,0,"Cavs","vsNCST",8
+1,"17:48","Isaac McKneely turnover (lost ball) (D.J. Burns Jr. steals)",1068,"Turnover","turnover","Isaac McKneely",3,0,"Opp","vsNCST",9
+1,"17:22","Jayden Taylor makes two point layup (D.J. Burns Jr. assists)",1042,"Made Two","makes","Jayden Taylor",3,2,"Cavs","vsNCST",10
+1,"17:20","Isaac McKneely misses two point jump shot",1040,"Missed Two","misses","Isaac McKneely",3,2,"Cavs","vsNCST",10
+1,"17:06","Casey Morsell defensive rebound",1026,"Def Rebound","defensive rebound","Casey Morsell",3,2,"Opp","vsNCST",11
+1,"16:43","D.J. Burns Jr. makes two point layup",1003,"Made Two","makes","D.J. Burns Jr.",3,4,"Cavs","vsNCST",12
+1,"16:41","Andrew Rohde misses two point jump shot",1001,"Missed Two","misses","Andrew Rohde",3,4,"Cavs","vsNCST",12
+1,"16:22","DJ Horne defensive rebound",982,"Def Rebound","defensive rebound","DJ Horne",3,4,"Opp","vsNCST",13
+1,"16:20","D.J. Burns Jr. misses two point jump shot",980,"Missed Two","misses","D.J. Burns Jr.",3,4,"Opp","vsNCST",13
+1,"16:02","Ryan Dunn defensive rebound",962,"Def Rebound","defensive rebound","Ryan Dunn",3,4,"Cavs","vsNCST",14
+1,"15:53","Wolfpack lineup change (DJ Horne, Michael O'Connell, Dennis Parker Jr., Casey Morsell, Ben Middlebrooks)",953,"Opp Sub"," ","Wolfpack",3,4,"Cavs","vsNCST",14
+1,"15:51","Andrew Rohde misses three point jump shot",951,"Missed Three","misses","Andrew Rohde",3,4,"Cavs","vsNCST",14
+1,"15:25","Ben Middlebrooks defensive rebound",925,"Def Rebound","defensive rebound","Ben Middlebrooks",3,4,"Opp","vsNCST",15
+1,"15:23","Casey Morsell misses three point stepback jump shot",923,"Missed Three","misses","Casey Morsell",3,4,"Opp","vsNCST",15
+1,"15:06","Blake Buchanan defensive rebound",906,"Def Rebound","defensive rebound","Blake Buchanan",3,4,"Cavs","vsNCST",16
+1,"15:06","Ryan Dunn makes two point dunk (Andrew Rohde assists)",906,"Made Two","makes","Ryan Dunn",5,4,"Cavs","vsNCST",16
+1,"15:06","Dennis Parker Jr. shooting foul (Ryan Dunn draws the foul)",906,"Foul","shooting foul","Dennis Parker Jr.",5,4,"Cavs","vsNCST",16
+1,"15:06","TV timeout",906,""," ","TV",5,4,"Cavs","vsNCST",16
+1,"15:06","Wolfpack lineup change (DJ Horne, Mohamed Diarra, Michael O'Connell, Casey Morsell, Ben Middlebrooks)",906,"Opp Sub"," ","Wolfpack",5,4,"Cavs","vsNCST",16
+1,"15:06","Cavaliers lineup change (Blake Buchanan, Reece Beekman, Andrew Rohde, Jacob Groves, Ryan Dunn)",906,"Cav Sub"," ","Cavaliers",5,4,"Cavs","vsNCST",16
+1,"15:06","Ryan Dunn misses regular free throw 1 of 1",906,"Missed FT","misses","Ryan Dunn",5,4,"Cavs","vsNCST",16
+1,"14:42","Mohamed Diarra defensive rebound",882,"Def Rebound","defensive rebound","Mohamed Diarra",5,4,"Opp","vsNCST",17
+1,"14:24","Casey Morsell turnover (bad pass) (Ryan Dunn steals)",864,"Turnover","turnover","Casey Morsell",5,4,"Cavs","vsNCST",18
+1,"14:22","Jacob Groves misses two point jump shot",862,"Missed Two","misses","Jacob Groves",5,4,"Cavs","vsNCST",18
+1,"14:07","Mohamed Diarra defensive rebound",847,"Def Rebound","defensive rebound","Mohamed Diarra",5,4,"Opp","vsNCST",19
+1,"14:04","Casey Morsell misses three point jump shot",844,"Missed Three","misses","Casey Morsell",5,4,"Opp","vsNCST",19
+1,"14:04","Ryan Dunn defensive rebound",844,"Def Rebound","defensive rebound","Ryan Dunn",5,4,"Cavs","vsNCST",20
+1,"13:36","Wolfpack lineup change (DJ Horne, Michael O'Connell, Jayden Taylor, Mohamed Diarra, Ben Middlebrooks)",816,"Opp Sub"," ","Wolfpack",5,4,"Cavs","vsNCST",20
+1,"13:34","Jacob Groves misses three point jump shot",814,"Missed Three","misses","Jacob Groves",5,4,"Cavs","vsNCST",20
+1,"13:28","Ryan Dunn offensive rebound",808,"Off Rebound","offensive rebound","Ryan Dunn",5,4,"Cavs","vsNCST",20
+1,"13:26","Jacob Groves misses two point layup",806,"Missed Two","misses","Jacob Groves",5,4,"Cavs","vsNCST",20
+1,"13:25","Ryan Dunn offensive rebound",805,"Off Rebound","offensive rebound","Ryan Dunn",5,4,"Cavs","vsNCST",20
+1,"13:11","Ryan Dunn makes two point putback layup",791,"Made Two","makes","Ryan Dunn",7,4,"Opp","vsNCST",21
+1,"13:11","Wolfpack lineup change (DJ Horne, Jayden Taylor, Michael O'Connell, Mohamed Diarra, D.J. Burns Jr.)",791,"Opp Sub"," ","Wolfpack",7,4,"Opp","vsNCST",21
+1,"13:07","Cavaliers lineup change (Blake Buchanan, Reece Beekman, Taine Murray, Isaac McKneely, Jacob Groves)",787,"Cav Sub"," ","Cavaliers",7,4,"Opp","vsNCST",21
+1,"13:05","DJ Horne misses three point jump shot",785,"Missed Three","misses","DJ Horne",7,4,"Opp","vsNCST",21
+1,"13:00","Mohamed Diarra offensive rebound",780,"Off Rebound","offensive rebound","Mohamed Diarra",7,4,"Opp","vsNCST",21
+1,"12:58","Mohamed Diarra misses two point layup",778,"Missed Two","misses","Mohamed Diarra",7,4,"Opp","vsNCST",21
+1,"12:50","Jacob Groves defensive rebound",770,"Def Rebound","defensive rebound","Jacob Groves",7,4,"Cavs","vsNCST",22
+1,"12:48","Isaac McKneely misses three point jump shot",768,"Missed Three","misses","Isaac McKneely",7,4,"Cavs","vsNCST",22
+1,"12:29","Michael O'Connell defensive rebound",749,"Def Rebound","defensive rebound","Michael O'Connell",7,4,"Opp","vsNCST",23
+1,"12:28","Michael O'Connell makes three point jump shot (D.J. Burns Jr. assists)",748,"Made Three","makes","Michael O'Connell",7,7,"Opp","vsNCST",23
+1,"12:28","Reece Beekman shooting foul (Michael O'Connell draws the foul)",748,"Foul","shooting foul","Reece Beekman",7,7,"Opp","vsNCST",23
+1,"12:28","Wolfpack lineup change (MJ Rice, Jayden Taylor, Michael O'Connell, Casey Morsell, D.J. Burns Jr.)",748,"Opp Sub"," ","Wolfpack",7,7,"Opp","vsNCST",23
+1,"12:28","Michael O'Connell misses regular free throw 1 of 1",748,"Missed FT","misses","Michael O'Connell",7,7,"Opp","vsNCST",23
+1,"12:16","Isaac McKneely defensive rebound",736,"Def Rebound","defensive rebound","Isaac McKneely",7,7,"Cavs","vsNCST",24
+1,"11:58","Jacob Groves makes two point layup (Reece Beekman assists)",718,"Made Two","makes","Jacob Groves",9,7,"Opp","vsNCST",25
+1,"11:56","D.J. Burns Jr. misses two point layup",716,"Missed Two","misses","D.J. Burns Jr.",9,7,"Opp","vsNCST",25
+1,"11:54","MJ Rice offensive rebound",714,"Off Rebound","offensive rebound","MJ Rice",9,7,"Opp","vsNCST",25
+1,"11:31","MJ Rice makes two point layup",691,"Made Two","makes","MJ Rice",9,9,"Cavs","vsNCST",26
+1,"11:14","Isaac McKneely makes two point pullup jump shot",674,"Made Two","makes","Isaac McKneely",11,9,"Opp","vsNCST",27
+1,"11:05","D.J. Burns Jr. turnover (bad pass) (Taine Murray steals)",665,"Turnover","turnover","D.J. Burns Jr.",11,9,"Cavs","vsNCST",28
+1,"11:03","Isaac McKneely misses three point jump shot",663,"Missed Three","misses","Isaac McKneely",11,9,"Cavs","vsNCST",28
+1,"10:58","Casey Morsell defensive rebound",658,"Def Rebound","defensive rebound","Casey Morsell",11,9,"Opp","vsNCST",29
+1,"10:56","Jayden Taylor misses two point jump shot",656,"Missed Two","misses","Jayden Taylor",11,9,"Opp","vsNCST",29
+1,"10:52","Reece Beekman defensive rebound",652,"Def Rebound","defensive rebound","Reece Beekman",11,9,"Cavs","vsNCST",30
+1,"10:52","Michael O'Connell personal foul (Reece Beekman draws the foul)",652,"Foul","personal foul","Michael O'Connell",11,9,"Cavs","vsNCST",30
+1,"10:52","TV timeout",652,""," ","TV",11,9,"Cavs","vsNCST",30
+1,"10:31","Cavaliers lineup change (Blake Buchanan, Reece Beekman, Taine Murray, Andrew Rohde, Jacob Groves)",631,"Cav Sub"," ","Cavaliers",11,9,"Cavs","vsNCST",30
+1,"10:09","Reece Beekman makes two point pullup jump shot",609,"Made Two","makes","Reece Beekman",13,9,"Opp","vsNCST",31
+1,"10:07","MJ Rice misses three point jump shot",607,"Missed Three","misses","MJ Rice",13,9,"Opp","vsNCST",31
+1,"9:54","Taine Murray defensive rebound",594,"Def Rebound","defensive rebound","Taine Murray",13,9,"Cavs","vsNCST",32
+1,"9:32","Blake Buchanan makes two point dunk (Reece Beekman assists)",572,"Made Two","makes","Blake Buchanan",15,9,"Opp","vsNCST",33
+1,"9:07","D.J. Burns Jr. makes two point hook shot",547,"Made Two","makes","D.J. Burns Jr.",15,11,"Cavs","vsNCST",34
+1,"9:05","Taine Murray misses two point driving layup",545,"Missed Two","misses","Taine Murray",15,11,"Cavs","vsNCST",34
+1,"9:00","MJ Rice defensive rebound",540,"Def Rebound","defensive rebound","MJ Rice",15,11,"Opp","vsNCST",35
+1,"8:58","Michael O'Connell misses two point driving layup",538,"Missed Two","misses","Michael O'Connell",15,11,"Opp","vsNCST",35
+1,"8:56","MJ Rice offensive rebound",536,"Off Rebound","offensive rebound","MJ Rice",15,11,"Opp","vsNCST",35
+1,"8:36","MJ Rice makes two point putback layup",516,"Made Two","makes","MJ Rice",15,13,"Cavs","vsNCST",36
+1,"8:36","D.J. Burns Jr. shooting foul (Reece Beekman draws the foul)",516,"Foul","shooting foul","D.J. Burns Jr.",15,13,"Cavs","vsNCST",36
+1,"8:36","Reece Beekman makes regular free throw 1 of 2",516,"Made FT","makes","Reece Beekman",16,13,"Cavs","vsNCST",36
+1,"8:36","Wolfpack lineup change (Jayden Taylor, DJ Horne, Dennis Parker Jr., Casey Morsell, D.J. Burns Jr.)",516,"Opp Sub"," ","Wolfpack",16,13,"Cavs","vsNCST",36
+1,"8:36","Cavaliers lineup change (Blake Buchanan, Reece Beekman, Andrew Rohde, Taine Murray, Ryan Dunn)",516,"Cav Sub"," ","Cavaliers",16,13,"Cavs","vsNCST",36
+1,"8:36","Reece Beekman makes regular free throw 2 of 2",516,"Made FT","makes","Reece Beekman",17,13,"Opp","vsNCST",37
+1,"8:16","Cavaliers lineup change (Blake Buchanan, Isaac McKneely, Andrew Rohde, Taine Murray, Ryan Dunn)",496,"Cav Sub"," ","Cavaliers",17,13,"Opp","vsNCST",37
+1,"8:16","D.J. Burns Jr. makes two point layup",496,"Made Two","makes","D.J. Burns Jr.",17,15,"Opp","vsNCST",37
+1,"8:16","Blake Buchanan shooting foul (D.J. Burns Jr. draws the foul)",496,"Foul","shooting foul","Blake Buchanan",17,15,"Opp","vsNCST",37
+1,"8:16","D.J. Burns Jr. misses regular free throw 1 of 1",496,"Missed FT","misses","D.J. Burns Jr.",17,15,"Opp","vsNCST",37
+1,"7:54","Taine Murray defensive rebound",474,"Def Rebound","defensive rebound","Taine Murray",17,15,"Cavs","vsNCST",38
+1,"7:22","Ryan Dunn makes two point layup (Andrew Rohde assists)",442,"Made Two","makes","Ryan Dunn",19,15,"Opp","vsNCST",39
+1,"7:22","TV timeout",442,""," ","TV",19,15,"Opp","vsNCST",39
+1,"7:21","Cavaliers lineup change (Blake Buchanan, Andrew Rohde, Reece Beekman, Isaac McKneely, Ryan Dunn)",441,"Cav Sub"," ","Cavaliers",19,15,"Opp","vsNCST",39
+1,"6:58","Dennis Parker Jr. makes three point jump shot (Casey Morsell assists)",418,"Made Three","makes","Dennis Parker Jr.",19,18,"Cavs","vsNCST",40
+1,"6:41","Andrew Rohde turnover (bad pass)",401,"Turnover","turnover","Andrew Rohde",19,18,"Opp","vsNCST",41
+1,"6:07","DJ Horne makes two point pullup jump shot",367,"Made Two","makes","DJ Horne",19,20,"Cavs","vsNCST",42
+1,"6:05","Isaac McKneely misses two point jump shot",365,"Missed Two","misses","Isaac McKneely",19,20,"Cavs","vsNCST",42
+1,"5:56","Dennis Parker Jr. defensive rebound",356,"Def Rebound","defensive rebound","Dennis Parker Jr.",19,20,"Opp","vsNCST",43
+1,"5:54","DJ Horne misses three point jump shot",354,"Missed Three","misses","DJ Horne",19,20,"Opp","vsNCST",43
+1,"5:39","Isaac McKneely defensive rebound",339,"Def Rebound","defensive rebound","Isaac McKneely",19,20,"Cavs","vsNCST",44
+1,"5:21","Andrew Rohde makes two point jump shot (Reece Beekman assists)",321,"Made Two","makes","Andrew Rohde",21,20,"Opp","vsNCST",45
+1,"5:19","Casey Morsell misses three point jump shot",319,"Missed Three","misses","Casey Morsell",21,20,"Opp","vsNCST",45
+1,"5:03","Blake Buchanan defensive rebound",303,"Def Rebound","defensive rebound","Blake Buchanan",21,20,"Cavs","vsNCST",46
+1,"5:01","Andrew Rohde misses three point jump shot",301,"Missed Three","misses","Andrew Rohde",21,20,"Cavs","vsNCST",46
+1,"4:49","Jayden Taylor defensive rebound",289,"Def Rebound","defensive rebound","Jayden Taylor",21,20,"Opp","vsNCST",47
+1,"4:44","Dennis Parker Jr. turnover (bad pass) (Isaac McKneely steals)",284,"Turnover","turnover","Dennis Parker Jr.",21,20,"Cavs","vsNCST",48
+1,"4:38","Reece Beekman turnover (bad pass) (Dennis Parker Jr. steals)",278,"Turnover","turnover","Reece Beekman",21,20,"Opp","vsNCST",49
+1,"4:35","Dennis Parker Jr. turnover (lost ball) (Reece Beekman steals)",275,"Turnover","turnover","Dennis Parker Jr.",21,20,"Cavs","vsNCST",50
+1,"4:29","Reece Beekman misses two point layup",269,"Missed Two","misses","Reece Beekman",21,20,"Cavs","vsNCST",50
+1,"4:29","DJ Horne defensive rebound",269,"Def Rebound","defensive rebound","DJ Horne",21,20,"Opp","vsNCST",51
+1,"4:29","Casey Morsell makes three point jump shot (DJ Horne assists)",269,"Made Three","makes","Casey Morsell",21,23,"Cavs","vsNCST",52
+1,"4:29","Cavaliers 30 second timeout",269,"Timeout","second timeout","Cavaliers 30",21,23,"Cavs","vsNCST",52
+1,"4:29","TV timeout",269,""," ","TV",21,23,"Cavs","vsNCST",52
+1,"4:29","Cavaliers lineup change (Jacob Groves, Reece Beekman, Andrew Rohde, Isaac McKneely, Ryan Dunn)",269,"Cav Sub"," ","Cavaliers",21,23,"Cavs","vsNCST",52
+1,"3:58","Wolfpack lineup change (DJ Horne, Michael O'Connell, Dennis Parker Jr., Casey Morsell, Ben Middlebrooks)",238,"Opp Sub"," ","Wolfpack",21,23,"Cavs","vsNCST",52
+1,"3:56","Jacob Groves misses three point jump shot",236,"Missed Three","misses","Jacob Groves",21,23,"Cavs","vsNCST",52
+1,"3:34","DJ Horne defensive rebound",214,"Def Rebound","defensive rebound","DJ Horne",21,23,"Opp","vsNCST",53
+1,"3:32","DJ Horne misses three point jump shot",212,"Missed Three","misses","DJ Horne",21,23,"Opp","vsNCST",53
+1,"3:11","Isaac McKneely defensive rebound",191,"Def Rebound","defensive rebound","Isaac McKneely",21,23,"Cavs","vsNCST",54
+1,"3:09","Jacob Groves misses two point cutting layup",189,"Missed Two","misses","Jacob Groves",21,23,"Cavs","vsNCST",54
+1,"2:59","DJ Horne defensive rebound",179,"Def Rebound","defensive rebound","DJ Horne",21,23,"Opp","vsNCST",55
+1,"2:31","Dennis Parker Jr. makes three point jump shot (Michael O'Connell assists)",151,"Made Three","makes","Dennis Parker Jr.",21,26,"Cavs","vsNCST",56
+1,"2:29","Ryan Dunn misses three point jump shot",149,"Missed Three","misses","Ryan Dunn",21,26,"Cavs","vsNCST",56
+1,"2:22","Ben Middlebrooks defensive rebound",142,"Def Rebound","defensive rebound","Ben Middlebrooks",21,26,"Opp","vsNCST",57
+1,"2:20","Dennis Parker Jr. misses three point jump shot",140,"Missed Three","misses","Dennis Parker Jr.",21,26,"Opp","vsNCST",57
+1,"2:18","Ben Middlebrooks offensive rebound",138,"Off Rebound","offensive rebound","Ben Middlebrooks",21,26,"Opp","vsNCST",57
+1,"2:03","Ben Middlebrooks makes two point layup",123,"Made Two","makes","Ben Middlebrooks",21,28,"Cavs","vsNCST",58
+1,"1:55","Cavaliers lineup change (Reece Beekman, Andrew Rohde, Isaac McKneely, Ryan Dunn, Blake Buchanan)",115,"Cav Sub"," ","Cavaliers",21,28,"Cavs","vsNCST",58
+1,"1:35","Blake Buchanan makes two point layup (Reece Beekman assists)",95,"Made Two","makes","Blake Buchanan",23,28,"Opp","vsNCST",59
+1,"1:10","Ben Middlebrooks makes two point layup",70,"Made Two","makes","Ben Middlebrooks",23,30,"Cavs","vsNCST",60
+1,"1:10","Ben Middlebrooks shooting foul (Ryan Dunn draws the foul)",70,"Foul","shooting foul","Ben Middlebrooks",23,30,"Cavs","vsNCST",60
+1,"1:10","Ryan Dunn misses regular free throw 1 of 2",70,"Missed FT","misses","Ryan Dunn",23,30,"Cavs","vsNCST",60
+1,"0:55","Ryan Dunn makes regular free throw 2 of 2",55,"Made FT","makes","Ryan Dunn",24,30,"Opp","vsNCST",61
+1,"0:40","Ben Middlebrooks makes two point layup (Michael O'Connell assists)",40,"Made Two","makes","Ben Middlebrooks",24,32,"Cavs","vsNCST",62
+1,"0:40","Ben Middlebrooks shooting foul (Reece Beekman draws the foul)",40,"Foul","shooting foul","Ben Middlebrooks",24,32,"Cavs","vsNCST",62
+1,"0:40","Reece Beekman makes regular free throw 1 of 2",40,"Made FT","makes","Reece Beekman",25,32,"Cavs","vsNCST",62
+1,"0:40","Wolfpack lineup change (DJ Horne, Dennis Parker Jr., Michael O'Connell, Casey Morsell, D.J. Burns Jr.)",40,"Opp Sub"," ","Wolfpack",25,32,"Cavs","vsNCST",62
+1,"0:35","Reece Beekman makes regular free throw 2 of 2",35,"Made FT","makes","Reece Beekman",26,32,"Opp","vsNCST",63
+1,"0:14","Wolfpack 30 second timeout",14,"Timeout","second timeout","Wolfpack 30",26,32,"Opp","vsNCST",63
+1,"0:02","DJ Horne makes three point jump shot (D.J. Burns Jr. assists)",2,"Made Three","makes","DJ Horne",26,35,"Cavs","vsNCST",64
+2,"20:00","2ND HALF",1200,""," ","2ND",26,35,"Cavs","vsNCST",64
+2,"20:00","Wolfpack lineup change (DJ Horne, Dennis Parker Jr., Jayden Taylor, Casey Morsell, D.J. Burns Jr.)",1200,"Opp Sub"," ","Wolfpack",26,35,"Cavs","vsNCST",64
+2,"19:38","Open inbound Cavaliers",1178,""," ","Open",26,35,"Cavs","vsNCST",64
+2,"19:10","Andrew Rohde turnover (DJ Horne steals)",1150,"Turnover","turnover","Andrew Rohde",26,35,"Opp","vsNCST",65
+2,"19:10","Dennis Parker Jr. makes two point dunk (D.J. Burns Jr. assists)",1150,"Made Two","makes","Dennis Parker Jr.",26,37,"Opp","vsNCST",65
+2,"19:10","Ryan Dunn shooting foul (Dennis Parker Jr. draws the foul)",1150,"Foul","shooting foul","Ryan Dunn",26,37,"Opp","vsNCST",65
+2,"18:57","Dennis Parker Jr. makes regular free throw 1 of 1",1137,"Made FT","makes","Dennis Parker Jr.",26,38,"Cavs","vsNCST",66
+2,"18:55","Blake Buchanan misses two point jump shot",1135,"Missed Two","misses","Blake Buchanan",26,38,"Cavs","vsNCST",66
+2,"18:38","Dennis Parker Jr. defensive rebound",1118,"Def Rebound","defensive rebound","Dennis Parker Jr.",26,38,"Opp","vsNCST",67
+2,"18:36","Casey Morsell misses three point jump shot",1116,"Missed Three","misses","Casey Morsell",26,38,"Opp","vsNCST",67
+2,"18:21","Ryan Dunn defensive rebound",1101,"Def Rebound","defensive rebound","Ryan Dunn",26,38,"Cavs","vsNCST",68
+2,"18:19","Reece Beekman misses two point layup",1099,"Missed Two","misses","Reece Beekman",26,38,"Cavs","vsNCST",68
+2,"18:19","Blake Buchanan offensive rebound",1099,"Off Rebound","offensive rebound","Blake Buchanan",26,38,"Cavs","vsNCST",68
+2,"18:19","DJ Horne shooting foul (Blake Buchanan draws the foul)",1099,"Foul","shooting foul","DJ Horne",26,38,"Cavs","vsNCST",68
+2,"18:19","Blake Buchanan misses regular free throw 1 of 2",1099,"Missed FT","misses","Blake Buchanan",26,38,"Cavs","vsNCST",68
+2,"18:19","Blake Buchanan misses regular free throw 2 of 2",1099,"Missed FT","misses","Blake Buchanan",26,38,"Cavs","vsNCST",68
+2,"18:01","Dennis Parker Jr. defensive rebound",1081,"Def Rebound","defensive rebound","Dennis Parker Jr.",26,38,"Opp","vsNCST",69
+2,"17:33","Dennis Parker Jr. makes three point jump shot (DJ Horne assists)",1053,"Made Three","makes","Dennis Parker Jr.",26,41,"Cavs","vsNCST",70
+2,"17:09","Ryan Dunn makes two point layup (Reece Beekman assists)",1029,"Made Two","makes","Ryan Dunn",28,41,"Opp","vsNCST",71
+2,"17:07","Casey Morsell misses three point jump shot",1027,"Missed Three","misses","Casey Morsell",28,41,"Opp","vsNCST",71
+2,"17:07","Blake Buchanan defensive rebound",1027,"Def Rebound","defensive rebound","Blake Buchanan",28,41,"Cavs","vsNCST",72
+2,"17:07","D.J. Burns Jr. personal foul (Blake Buchanan draws the foul)",1027,"Foul","personal foul","D.J. Burns Jr.",28,41,"Cavs","vsNCST",72
+2,"17:07","Cavaliers lineup change (Jacob Groves, Reece Beekman, Andrew Rohde, Isaac McKneely, Ryan Dunn)",1027,"Cav Sub"," ","Cavaliers",28,41,"Cavs","vsNCST",72
+2,"16:48","Wolfpack lineup change (DJ Horne, Jayden Taylor, Dennis Parker Jr., Michael O'Connell, Ben Middlebrooks)",1008,"Opp Sub"," ","Wolfpack",28,41,"Cavs","vsNCST",72
+2,"16:48","DJ Horne shooting foul (Isaac McKneely draws the foul)",1008,"Foul","shooting foul","DJ Horne",28,41,"Cavs","vsNCST",72
+2,"16:48","Isaac McKneely makes regular free throw 1 of 2",1008,"Made FT","makes","Isaac McKneely",29,41,"Cavs","vsNCST",72
+2,"16:20","Isaac McKneely makes regular free throw 2 of 2",980,"Made FT","makes","Isaac McKneely",30,41,"Opp","vsNCST",73
+2,"16:13","Ben Middlebrooks makes two point jump shot",973,"Made Two","makes","Ben Middlebrooks",30,43,"Cavs","vsNCST",74
+2,"16:13","Ryan Dunn offensive foul",973,""," ","Ryan",30,43,"Cavs","vsNCST",74
+2,"16:00","Ryan Dunn turnover (offensive foul)",960,"Turnover","turnover","Ryan Dunn",30,43,"Opp","vsNCST",75
+2,"15:40","DJ Horne makes three point jump shot",940,"Made Three","makes","DJ Horne",30,46,"Cavs","vsNCST",76
+2,"15:40","TV timeout",940,""," ","TV",30,46,"Cavs","vsNCST",76
+2,"15:30","Cavaliers lineup change (Reece Beekman, Andrew Rohde, Isaac McKneely, Ryan Dunn, Taine Murray)",930,"Cav Sub"," ","Cavaliers",30,46,"Cavs","vsNCST",76
+2,"15:28","Jayden Taylor blocks Reece Beekman's two point layup",928,"Block","block","Jayden Taylor",30,46,"Cavs","vsNCST",76
+2,"15:00","Ben Middlebrooks defensive rebound",900,"Def Rebound","defensive rebound","Ben Middlebrooks",30,46,"Opp","vsNCST",77
+2,"14:58","Michael O'Connell misses three point jump shot",898,"Missed Three","misses","Michael O'Connell",30,46,"Opp","vsNCST",77
+2,"14:53","Dennis Parker Jr. offensive rebound",893,"Off Rebound","offensive rebound","Dennis Parker Jr.",30,46,"Opp","vsNCST",77
+2,"14:53","Dennis Parker Jr. makes two point layup",893,"Made Two","makes","Dennis Parker Jr.",30,48,"Opp","vsNCST",77
+2,"14:53","Ryan Dunn shooting foul (Dennis Parker Jr. draws the foul)",893,"Foul","shooting foul","Ryan Dunn",30,48,"Opp","vsNCST",77
+2,"14:46","Dennis Parker Jr. makes regular free throw 1 of 1",886,"Made FT","makes","Dennis Parker Jr.",30,49,"Cavs","vsNCST",78
+2,"14:46","Ryan Dunn misses two point jump shot",886,"Missed Two","misses","Ryan Dunn",30,49,"Cavs","vsNCST",78
+2,"14:46","Ben Middlebrooks defensive rebound",886,"Def Rebound","defensive rebound","Ben Middlebrooks",30,49,"Opp","vsNCST",79
+2,"14:44","DJ Horne misses three point jump shot",884,"Missed Three","misses","DJ Horne",30,49,"Opp","vsNCST",79
+2,"14:37","Reece Beekman defensive rebound",877,"Def Rebound","defensive rebound","Reece Beekman",30,49,"Cavs","vsNCST",80
+2,"14:35","Taine Murray misses two point layup",875,"Missed Two","misses","Taine Murray",30,49,"Cavs","vsNCST",80
+2,"14:27","Taine Murray offensive rebound",867,"Off Rebound","offensive rebound","Taine Murray",30,49,"Cavs","vsNCST",80
+2,"14:08","Ryan Dunn makes two point layup (Reece Beekman assists)",848,"Made Two","makes","Ryan Dunn",32,49,"Opp","vsNCST",81
+2,"14:06","Dennis Parker Jr. misses two point jump shot",846,"Missed Two","misses","Dennis Parker Jr.",32,49,"Opp","vsNCST",81
+2,"13:51","Taine Murray defensive rebound",831,"Def Rebound","defensive rebound","Taine Murray",32,49,"Cavs","vsNCST",82
+2,"13:49","Andrew Rohde misses three point jump shot",829,"Missed Three","misses","Andrew Rohde",32,49,"Cavs","vsNCST",82
+2,"13:44","DJ Horne defensive rebound",824,"Def Rebound","defensive rebound","DJ Horne",32,49,"Opp","vsNCST",83
+2,"13:26","DJ Horne makes two point layup",806,"Made Two","makes","DJ Horne",32,51,"Cavs","vsNCST",84
+2,"13:23","Isaac McKneely makes three point jump shot (Reece Beekman assists)",803,"Made Three","makes","Isaac McKneely",35,51,"Opp","vsNCST",85
+2,"13:23","Cavaliers 30 second timeout",803,"Timeout","second timeout","Cavaliers 30",35,51,"Opp","vsNCST",85
+2,"13:23","TV timeout",803,""," ","TV",35,51,"Opp","vsNCST",85
+2,"13:23","Cavaliers lineup change (Reece Beekman, Jacob Groves, Taine Murray, Isaac McKneely, Leon Bond III)",803,"Cav Sub"," ","Cavaliers",35,51,"Opp","vsNCST",85
+2,"13:09","Wolfpack lineup change (MJ Rice, Jayden Taylor, Casey Morsell, Michael O'Connell, D.J. Burns Jr.)",789,"Opp Sub"," ","Wolfpack",35,51,"Opp","vsNCST",85
+2,"12:54","Jayden Taylor makes three point jump shot (Michael O'Connell assists)",774,"Made Three","makes","Jayden Taylor",35,54,"Cavs","vsNCST",86
+2,"12:38","Reece Beekman makes two point layup",758,"Made Two","makes","Reece Beekman",37,54,"Opp","vsNCST",87
+2,"12:18","MJ Rice makes three point jump shot (Michael O'Connell assists)",738,"Made Three","makes","MJ Rice",37,57,"Cavs","vsNCST",88
+2,"12:16","Leon Bond III misses two point jump shot",736,"Missed Two","misses","Leon Bond III",37,57,"Cavs","vsNCST",88
+2,"11:49","MJ Rice defensive rebound",709,"Def Rebound","defensive rebound","MJ Rice",37,57,"Opp","vsNCST",89
+2,"11:49","Michael O'Connell makes two point layup",709,"Made Two","makes","Michael O'Connell",37,59,"Opp","vsNCST",89
+2,"11:49","Leon Bond III shooting foul (Michael O'Connell draws the foul)",709,"Foul","shooting foul","Leon Bond III",37,59,"Opp","vsNCST",89
+2,"11:49","TV timeout",709,""," ","TV",37,59,"Opp","vsNCST",89
+2,"11:49","Cavaliers lineup change (Reece Beekman, Blake Buchanan, Isaac McKneely, Andrew Rohde, Ryan Dunn)",709,"Cav Sub"," ","Cavaliers",37,59,"Opp","vsNCST",89
+2,"11:36","Michael O'Connell makes regular free throw 1 of 1",696,"Made FT","makes","Michael O'Connell",37,60,"Cavs","vsNCST",90
+2,"11:28","Isaac McKneely turnover (bad pass) (MJ Rice steals)",688,"Turnover","turnover","Isaac McKneely",37,60,"Opp","vsNCST",91
+2,"11:26","Ryan Dunn blocks Jayden Taylor's two point layup",686,"Block","block","Ryan Dunn",37,60,"Opp","vsNCST",91
+2,"11:09","Ryan Dunn defensive rebound",669,"Def Rebound","defensive rebound","Ryan Dunn",37,60,"Cavs","vsNCST",92
+2,"11:07","Isaac McKneely misses two point layup",667,"Missed Two","misses","Isaac McKneely",37,60,"Cavs","vsNCST",92
+2,"10:54","D.J. Burns Jr. defensive rebound",654,"Def Rebound","defensive rebound","D.J. Burns Jr.",37,60,"Opp","vsNCST",93
+2,"10:52","D.J. Burns Jr. misses two point jump shot",652,"Missed Two","misses","D.J. Burns Jr.",37,60,"Opp","vsNCST",93
+2,"10:45","Blake Buchanan defensive rebound",645,"Def Rebound","defensive rebound","Blake Buchanan",37,60,"Cavs","vsNCST",94
+2,"10:15","Reece Beekman makes two point layup",615,"Made Two","makes","Reece Beekman",39,60,"Opp","vsNCST",95
+2,"9:52","Casey Morsell makes two point jump shot",592,"Made Two","makes","Casey Morsell",39,62,"Cavs","vsNCST",96
+2,"9:41","Isaac McKneely turnover (bad pass) (Casey Morsell steals)",581,"Turnover","turnover","Isaac McKneely",39,62,"Opp","vsNCST",97
+2,"9:15","Jayden Taylor turnover (bad pass) (Isaac McKneely steals)",555,"Turnover","turnover","Jayden Taylor",39,62,"Cavs","vsNCST",98
+2,"8:48","Isaac McKneely makes three point jump shot",528,"Made Three","makes","Isaac McKneely",42,62,"Opp","vsNCST",99
+2,"8:38","Blake Buchanan personal foul (Casey Morsell draws the foul)",518,"Foul","personal foul","Blake Buchanan",42,62,"Opp","vsNCST",99
+2,"8:38","Cavaliers lineup change (Taine Murray, Ryan Dunn, Andrew Rohde, Isaac McKneely, Jordan Minor)",518,"Cav Sub"," ","Cavaliers",42,62,"Opp","vsNCST",99
+2,"8:38","Wolfpack lineup change (DJ Horne, MJ Rice, Michael O'Connell, Casey Morsell, Ben Middlebrooks)",518,"Opp Sub"," ","Wolfpack",42,62,"Opp","vsNCST",99
+2,"8:36","Ryan Dunn blocks Casey Morsell's two point layup",516,"Block","block","Ryan Dunn",42,62,"Opp","vsNCST",99
+2,"8:21","Andrew Rohde defensive rebound",501,"Def Rebound","defensive rebound","Andrew Rohde",42,62,"Cavs","vsNCST",100
+2,"8:19","Andrew Rohde misses two point layup",499,"Missed Two","misses","Andrew Rohde",42,62,"Cavs","vsNCST",100
+2,"7:57","Ben Middlebrooks defensive rebound",477,"Def Rebound","defensive rebound","Ben Middlebrooks",42,62,"Opp","vsNCST",101
+2,"7:35","DJ Horne makes two point layup (Casey Morsell assists)",455,"Made Two","makes","DJ Horne",42,64,"Cavs","vsNCST",102
+2,"7:25","Andrew Rohde turnover (bad pass) (DJ Horne steals)",445,"Turnover","turnover","Andrew Rohde",42,64,"Opp","vsNCST",103
+2,"7:23","Michael O'Connell misses two point layup",443,"Missed Two","misses","Michael O'Connell",42,64,"Opp","vsNCST",103
+2,"7:12","Andrew Rohde defensive rebound",432,"Def Rebound","defensive rebound","Andrew Rohde",42,64,"Cavs","vsNCST",104
+2,"7:12","Cavaliers 30 second timeout",432,"Timeout","second timeout","Cavaliers 30",42,64,"Cavs","vsNCST",104
+2,"7:12","TV timeout",432,""," ","TV",42,64,"Cavs","vsNCST",104
+2,"7:12","Wolfpack lineup change (DJ Horne, Jayden Taylor, Michael O'Connell, Dennis Parker Jr., Ben Middlebrooks)",432,"Opp Sub"," ","Wolfpack",42,64,"Cavs","vsNCST",104
+2,"6:55","Cavaliers lineup change (Elijah Gertrude, Taine Murray, Isaac McKneely, Ryan Dunn, Jordan Minor)",415,"Cav Sub"," ","Cavaliers",42,64,"Cavs","vsNCST",104
+2,"6:53","Elijah Gertrude misses three point jump shot",413,"Missed Three","misses","Elijah Gertrude",42,64,"Cavs","vsNCST",104
+2,"6:20","Ben Middlebrooks defensive rebound",380,"Def Rebound","defensive rebound","Ben Middlebrooks",42,64,"Opp","vsNCST",105
+2,"6:18","DJ Horne misses three point jump shot",378,"Missed Three","misses","DJ Horne",42,64,"Opp","vsNCST",105
+2,"6:05","Cavaliers defensive rebound",365,"Def Rebound","defensive rebound","Cavaliers",42,64,"Cavs","vsNCST",106
+2,"5:41","Isaac McKneely makes two point layup (Ryan Dunn assists)",341,"Made Two","makes","Isaac McKneely",44,64,"Opp","vsNCST",107
+2,"5:39","Dennis Parker Jr. misses three point jump shot",339,"Missed Three","misses","Dennis Parker Jr.",44,64,"Opp","vsNCST",107
+2,"5:30","Elijah Gertrude defensive rebound",330,"Def Rebound","defensive rebound","Elijah Gertrude",44,64,"Cavs","vsNCST",108
+2,"5:28","Ben Middlebrooks blocks Elijah Gertrude's two point layup",328,"Block","block","Ben Middlebrooks",44,64,"Cavs","vsNCST",108
+2,"5:27","DJ Horne defensive rebound",327,"Def Rebound","defensive rebound","DJ Horne",44,64,"Opp","vsNCST",109
+2,"5:27","Jayden Taylor makes two point layup (DJ Horne assists)",327,"Made Two","makes","Jayden Taylor",44,66,"Opp","vsNCST",109
+2,"5:27","Isaac McKneely shooting foul (Jayden Taylor draws the foul)",327,"Foul","shooting foul","Isaac McKneely",44,66,"Opp","vsNCST",109
+2,"5:27","Wolfpack lineup change (DJ Horne, Jayden Taylor, Dennis Parker Jr., Casey Morsell, Ben Middlebrooks)",327,"Opp Sub"," ","Wolfpack",44,66,"Opp","vsNCST",109
+2,"5:27","Jayden Taylor makes regular free throw 1 of 1",327,"Made FT","makes","Jayden Taylor",44,67,"Cavs","vsNCST",110
+2,"5:00","Cavaliers lineup change (Taine Murray, Reece Beekman, Elijah Gertrude, Ryan Dunn, Jordan Minor)",300,"Cav Sub"," ","Cavaliers",44,67,"Cavs","vsNCST",110
+2,"4:28","Ryan Dunn makes three point jump shot (Reece Beekman assists)",268,"Made Three","makes","Ryan Dunn",47,67,"Opp","vsNCST",111
+2,"4:26","Jayden Taylor misses three point jump shot",266,"Missed Three","misses","Jayden Taylor",47,67,"Opp","vsNCST",111
+2,"4:04","Jordan Minor defensive rebound",244,"Def Rebound","defensive rebound","Jordan Minor",47,67,"Cavs","vsNCST",112
+2,"4:04","DJ Horne shooting foul (Jordan Minor draws the foul)",244,"Foul","shooting foul","DJ Horne",47,67,"Cavs","vsNCST",112
+2,"4:04","Jordan Minor makes regular free throw 1 of 2",244,"Made FT","makes","Jordan Minor",48,67,"Cavs","vsNCST",112
+2,"4:04","Wolfpack lineup change (DJ Horne, Jayden Taylor, Dennis Parker Jr., Casey Morsell, D.J. Burns Jr.)",244,"Opp Sub"," ","Wolfpack",48,67,"Cavs","vsNCST",112
+2,"3:47","Jordan Minor makes regular free throw 2 of 2",227,"Made FT","makes","Jordan Minor",49,67,"Opp","vsNCST",113
+2,"3:45","Jayden Taylor misses three point jump shot",225,"Missed Three","misses","Jayden Taylor",49,67,"Opp","vsNCST",113
+2,"3:40","Jordan Minor defensive rebound",220,"Def Rebound","defensive rebound","Jordan Minor",49,67,"Cavs","vsNCST",114
+2,"3:20","Ryan Dunn makes two point layup (Reece Beekman assists)",200,"Made Two","makes","Ryan Dunn",51,67,"Opp","vsNCST",115
+2,"3:20","Elijah Gertrude personal foul (Jayden Taylor draws the foul)",200,"Foul","personal foul","Elijah Gertrude",51,67,"Opp","vsNCST",115
+2,"3:20","TV timeout",200,""," ","TV",51,67,"Opp","vsNCST",115
+2,"3:20","Cavaliers lineup change (Reece Beekman, Taine Murray, Isaac McKneely, Ryan Dunn, Jordan Minor)",200,"Cav Sub"," ","Cavaliers",51,67,"Opp","vsNCST",115
+2,"3:20","Jayden Taylor makes regular free throw 1 of 2",200,"Made FT","makes","Jayden Taylor",51,68,"Opp","vsNCST",115
+2,"3:20","Wolfpack lineup change (DJ Horne, Jayden Taylor, Michael O'Connell, Casey Morsell, Ben Middlebrooks)",200,"Opp Sub"," ","Wolfpack",51,68,"Opp","vsNCST",115
+2,"2:55","Jayden Taylor makes regular free throw 2 of 2",175,"Made FT","makes","Jayden Taylor",51,69,"Cavs","vsNCST",116
+2,"2:31","Isaac McKneely makes three point jump shot",151,"Made Three","makes","Isaac McKneely",54,69,"Opp","vsNCST",117
+2,"2:31","Isaac McKneely personal foul (Jayden Taylor draws the foul)",151,"Foul","personal foul","Isaac McKneely",54,69,"Opp","vsNCST",117
+2,"2:31","Wolfpack lineup change (DJ Horne, Jayden Taylor, Michael O'Connell, Casey Morsell, D.J. Burns Jr.)",151,"Opp Sub"," ","Wolfpack",54,69,"Opp","vsNCST",117
+2,"2:31","Jayden Taylor makes regular free throw 1 of 2",151,"Made FT","makes","Jayden Taylor",54,70,"Opp","vsNCST",117
+2,"2:15","Jayden Taylor makes regular free throw 2 of 2",135,"Made FT","makes","Jayden Taylor",54,71,"Cavs","vsNCST",118
+2,"2:13","Isaac McKneely misses three point jump shot",133,"Missed Three","misses","Isaac McKneely",54,71,"Cavs","vsNCST",118
+2,"2:04","Michael O'Connell defensive rebound",124,"Def Rebound","defensive rebound","Michael O'Connell",54,71,"Opp","vsNCST",119
+2,"2:04","Reece Beekman personal foul (DJ Horne draws the foul)",124,"Foul","personal foul","Reece Beekman",54,71,"Opp","vsNCST",119
+2,"2:04","Cavaliers lineup change (Reece Beekman, Taine Murray, Isaac McKneely, Leon Bond III, Jordan Minor)",124,"Cav Sub"," ","Cavaliers",54,71,"Opp","vsNCST",119
+2,"2:04","DJ Horne makes regular free throw 1 of 2",124,"Made FT","makes","DJ Horne",54,72,"Opp","vsNCST",119
+2,"2:04","Cavaliers lineup change (Andrew Rohde, Taine Murray, Isaac McKneely, Jordan Minor, Leon Bond III)",124,"Cav Sub"," ","Cavaliers",54,72,"Opp","vsNCST",119
+2,"2:04","Wolfpack lineup change (DJ Horne, Jayden Taylor, Michael O'Connell, Casey Morsell, Ben Middlebrooks)",124,"Opp Sub"," ","Wolfpack",54,72,"Opp","vsNCST",119
+2,"2:04","DJ Horne makes regular free throw 2 of 2",124,"Made FT","makes","DJ Horne",54,73,"Cavs","vsNCST",120
+2,"1:55","Cavaliers lineup change (Andrew Rohde, Taine Murray, Elijah Gertrude, Jordan Minor, Leon Bond III)",115,"Cav Sub"," ","Cavaliers",54,73,"Cavs","vsNCST",120
+2,"1:53","Leon Bond III misses two point layup",113,"Missed Two","misses","Leon Bond III",54,73,"Cavs","vsNCST",120
+2,"1:48","Jordan Minor offensive rebound",108,"Off Rebound","offensive rebound","Jordan Minor",54,73,"Cavs","vsNCST",120
+2,"1:30","Jordan Minor makes two point dunk",90,"Made Two","makes","Jordan Minor",56,73,"Opp","vsNCST",121
+2,"1:28","DJ Horne misses two point jump shot",88,"Missed Two","misses","DJ Horne",56,73,"Opp","vsNCST",121
+2,"1:06","Andrew Rohde defensive rebound",66,"Def Rebound","defensive rebound","Andrew Rohde",56,73,"Cavs","vsNCST",122
+2,"1:04","Leon Bond III misses two point jump shot",64,"Missed Two","misses","Leon Bond III",56,73,"Cavs","vsNCST",122
+2,"0:39","Michael O'Connell defensive rebound",39,"Def Rebound","defensive rebound","Michael O'Connell",56,73,"Opp","vsNCST",123
+2,"0:15","Jayden Taylor makes three point jump shot (Michael O'Connell assists)",15,"Made Three","makes","Jayden Taylor",56,76,"Cavs","vsNCST",124
+2,"0:00","Reece Beekman makes two point pullup jump shot",0,"Made Two","makes","Reece Beekman",58,76,"Opp","vsNCST",125
+2,"0:00","Jordan Minor makes two point dunk (Taine Murray assists)",0,"Made Two","makes","Jordan Minor",60,76,"Cavs","vsNCST",126

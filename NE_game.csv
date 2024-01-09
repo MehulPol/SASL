@@ -1,0 +1,298 @@
+"Half","Time","Description","Time_in_sec","Event","Token","Player","UVA_score","Opp_score","Possession","Opps","Possession Number"
+1,"20:00","1ST HALF",1200,""," ","1ST",0,0,"Cavs","vsNE",1
+1,"20:00","Cavaliers lineup change (Isaac McKneely,Reece Beekman,Andrew Rohde,Ryan Dunn,Jacob Groves)",1200,"Cav Sub"," ","Cavaliers",0,0,"","vsNE",2
+1,"19:45","Chris Doherty vs. Ryan Dunn (Huskies gains possession)",1185,""," ","Chris",0,0,"Opp","vsNE",3
+1,"19:20","Jared Turner makes three point jump shot (Joe Pridgen assists)",1160,"Made Three","makes","Jared Turner",0,3,"Cavs","vsNE",4
+1,"19:18","Reece Beekman misses two point layup",1158,"Missed Two","misses","Reece Beekman",0,3,"Cavs","vsNE",4
+1,"19:13","Joe Pridgen defensive rebound",1153,"Def Rebound","defensive rebound","Joe Pridgen",0,3,"Opp","vsNE",5
+1,"18:56","Joe Pridgen misses three point jump shot",1136,"Missed Three","misses","Joe Pridgen",0,3,"Opp","vsNE",5
+1,"18:45","Masai Troutman offensive rebound",1125,"Off Rebound","offensive rebound","Masai Troutman",0,3,"Opp","vsNE",5
+1,"18:32","Chris Doherty turnover (bad pass) (Reece Beekman steals)",1112,"Turnover","turnover","Chris Doherty",0,3,"Cavs","vsNE",6
+1,"18:11","Reece Beekman makes two point stepback jump shot",1091,"Made Two","makes","Reece Beekman",2,3,"Opp","vsNE",7
+1,"17:49","Masai Troutman makes three point jump shot (Chris Doherty assists)",1069,"Made Three","makes","Masai Troutman",2,6,"Cavs","vsNE",8
+1,"17:47","Andrew Rohde misses two point layup",1067,"Missed Two","misses","Andrew Rohde",2,6,"Cavs","vsNE",8
+1,"17:32","Jared Turner defensive rebound",1052,"Def Rebound","defensive rebound","Jared Turner",2,6,"Opp","vsNE",9
+1,"17:30","Masai Troutman misses three point jump shot",1050,"Missed Three","misses","Masai Troutman",2,6,"Opp","vsNE",9
+1,"17:20","Chris Doherty offensive rebound",1040,"Off Rebound","offensive rebound","Chris Doherty",2,6,"Opp","vsNE",9
+1,"17:18","Ryan Dunn blocks Chris Doherty's two point layup",1038,"Block","block","Ryan Dunn",2,6,"Opp","vsNE",9
+1,"17:06","Huskies offensive rebound",1026,"Off Rebound","offensive rebound","Huskies",2,6,"Opp","vsNE",9
+1,"17:04","Luka Sakota misses three point jump shot",1024,"Missed Three","misses","Luka Sakota",2,6,"Opp","vsNE",9
+1,"16:47","Ryan Dunn defensive rebound",1007,"Def Rebound","defensive rebound","Ryan Dunn",2,6,"Cavs","vsNE",10
+1,"16:45","Reece Beekman misses two point jump shot",1005,"Missed Two","misses","Reece Beekman",2,6,"Cavs","vsNE",10
+1,"16:35","Joe Pridgen defensive rebound",995,"Def Rebound","defensive rebound","Joe Pridgen",2,6,"Opp","vsNE",11
+1,"16:35","Jacob Groves shooting foul (Joe Pridgen draws the foul)",995,"Foul","shooting foul","Jacob Groves",2,6,"Opp","vsNE",11
+1,"16:35","Joe Pridgen misses regular free throw 1 of 2",995,"Missed FT","misses","Joe Pridgen",2,6,"Opp","vsNE",11
+1,"16:35","Joe Pridgen misses regular free throw 2 of 2",995,"Missed FT","misses","Joe Pridgen",2,6,"Opp","vsNE",11
+1,"16:19","Cavaliers defensive rebound",979,"Def Rebound","defensive rebound","Cavaliers",2,6,"Cavs","vsNE",12
+1,"16:11","Isaac McKneely misses two point jump shot",971,"Missed Two","misses","Isaac McKneely",2,6,"Cavs","vsNE",12
+1,"15:56","Joe Pridgen defensive rebound",956,"Def Rebound","defensive rebound","Joe Pridgen",2,6,"Opp","vsNE",13
+1,"15:53","Jared Turner misses three point jump shot",953,"Missed Three","misses","Jared Turner",2,6,"Opp","vsNE",13
+1,"15:53","Chris Doherty offensive rebound",953,"Off Rebound","offensive rebound","Chris Doherty",2,6,"Opp","vsNE",13
+1,"15:35","Chris Doherty makes two point layup",935,"Made Two","makes","Chris Doherty",2,8,"Cavs","vsNE",14
+1,"15:35","Jared Turner personal foul",935,"Foul","personal foul","Jared Turner",2,8,"Cavs","vsNE",14
+1,"15:35","TV timeout",935,""," ","TV",2,8,"Cavs","vsNE",14
+1,"15:35","Cavaliers lineup change (Reece Beekman, Andrew Rohde, Isaac McKneely, Ryan Dunn, Blake Buchanan)",935,"Cav Sub"," ","Cavaliers",2,8,"Cavs","vsNE",14
+1,"15:22","Huskies lineup change (Joe Pridgen, Rashad King, Harold Woods, Jared Turner, Chris Doherty)",922,"Opp Sub"," ","Huskies",2,8,"Cavs","vsNE",14
+1,"15:20","Andrew Rohde misses three point jump shot",920,"Missed Three","misses","Andrew Rohde",2,8,"Cavs","vsNE",14
+1,"15:01","Huskies defensive rebound",901,"Def Rebound","defensive rebound","Huskies",2,8,"Opp","vsNE",15
+1,"14:59","Joe Pridgen misses two point layup",899,"Missed Two","misses","Joe Pridgen",2,8,"Opp","vsNE",15
+1,"14:39","Harold Woods offensive rebound",879,"Off Rebound","offensive rebound","Harold Woods",2,8,"Opp","vsNE",15
+1,"14:11","Joe Pridgen turnover (lost ball) (Blake Buchanan steals)",851,"Turnover","turnover","Joe Pridgen",2,8,"Cavs","vsNE",16
+1,"14:09","Isaac McKneely misses three point jump shot",849,"Missed Three","misses","Isaac McKneely",2,8,"Cavs","vsNE",16
+1,"14:03","Joe Pridgen defensive rebound",843,"Def Rebound","defensive rebound","Joe Pridgen",2,8,"Opp","vsNE",17
+1,"14:03","Joe Pridgen makes two point layup",843,"Made Two","makes","Joe Pridgen",2,10,"Cavs","vsNE",18
+1,"13:44","Huskies lineup change (Masai Troutman, Rashad King, Harold Woods, Jared Turner, Chris Doherty)",824,"Opp Sub"," ","Huskies",2,10,"Cavs","vsNE",18
+1,"13:42","Reece Beekman misses two point layup",822,"Missed Two","misses","Reece Beekman",2,10,"Cavs","vsNE",18
+1,"13:39","Reece Beekman offensive rebound",819,"Off Rebound","offensive rebound","Reece Beekman",2,10,"Cavs","vsNE",18
+1,"13:21","Reece Beekman makes two point layup",801,"Made Two","makes","Reece Beekman",4,10,"Opp","vsNE",19
+1,"13:05","Masai Troutman makes two point layup (Rashad King assists)",785,"Made Two","makes","Masai Troutman",4,12,"Cavs","vsNE",20
+1,"13:01","Isaac McKneely turnover (bad pass) (Rashad King steals)",781,"Turnover","turnover","Isaac McKneely",4,12,"Opp","vsNE",21
+1,"12:51","Chris Doherty turnover (bad pass) (Blake Buchanan steals)",771,"Turnover","turnover","Chris Doherty",4,12,"Cavs","vsNE",22
+1,"12:51","Rashad King personal foul",771,"Foul","personal foul","Rashad King",4,12,"Cavs","vsNE",22
+1,"12:45","Cavaliers lineup change (Blake Buchanan, Reece Beekman, Andrew Rohde, Isaac McKneely, Leon Bond III)",765,"Cav Sub"," ","Cavaliers",4,12,"Cavs","vsNE",22
+1,"12:43","Isaac McKneely misses two point jump shot",763,"Missed Two","misses","Isaac McKneely",4,12,"Cavs","vsNE",22
+1,"12:29","Harold Woods defensive rebound",749,"Def Rebound","defensive rebound","Harold Woods",4,12,"Opp","vsNE",23
+1,"12:14","Harold Woods makes two point layup (Masai Troutman assists)",734,"Made Two","makes","Harold Woods",4,14,"Cavs","vsNE",24
+1,"12:14","Cavaliers lineup change (Blake Buchanan, Reece Beekman, Elijah Gertrude, Isaac McKneely, Leon Bond III)",734,"Cav Sub"," ","Cavaliers",4,14,"Cavs","vsNE",24
+1,"12:04","Huskies lineup change (Masai Troutman, Rashad King, Harold Woods, Joe Pridgen, Collin Metcalf)",724,"Opp Sub"," ","Huskies",4,14,"Cavs","vsNE",24
+1,"12:02","Reece Beekman misses two point jump shot",722,"Missed Two","misses","Reece Beekman",4,14,"Cavs","vsNE",24
+1,"11:46","Rashad King defensive rebound",706,"Def Rebound","defensive rebound","Rashad King",4,14,"Opp","vsNE",25
+1,"11:20","Joe Pridgen makes two point layup (Collin Metcalf assists)",680,"Made Two","makes","Joe Pridgen",4,16,"Cavs","vsNE",26
+1,"11:07","Blake Buchanan makes two point hook shot",667,"Made Two","makes","Blake Buchanan",6,16,"Opp","vsNE",27
+1,"10:57","Collin Metcalf turnover (bad pass) (Elijah Gertrude steals)",657,"Turnover","turnover","Collin Metcalf",6,16,"Cavs","vsNE",28
+1,"10:55","Reece Beekman misses two point layup",655,"Missed Two","misses","Reece Beekman",6,16,"Cavs","vsNE",28
+1,"10:54","Blake Buchanan offensive rebound",654,"Off Rebound","offensive rebound","Blake Buchanan",6,16,"Cavs","vsNE",28
+1,"10:54","Collin Metcalf shooting foul (Blake Buchanan draws the foul)",654,"Foul","shooting foul","Collin Metcalf",6,16,"Cavs","vsNE",28
+1,"10:54","TV timeout",654,""," ","TV",6,16,"Cavs","vsNE",28
+1,"10:54","Cavaliers lineup change (Blake Buchanan, Andrew Rohde, Isaac McKneely, Elijah Gertrude, Leon Bond III)",654,"Cav Sub"," ","Cavaliers",6,16,"Cavs","vsNE",28
+1,"10:54","Huskies lineup change (Joe Pridgen, Masai Troutman, Luka Sakota, Harold Woods, Chris Doherty)",654,"Opp Sub"," ","Huskies",6,16,"Cavs","vsNE",28
+1,"10:54","Blake Buchanan makes regular free throw 1 of 2",654,"Made FT","makes","Blake Buchanan",7,16,"Cavs","vsNE",28
+1,"10:53","Blake Buchanan misses regular free throw 2 of 2",653,"Missed FT","misses","Blake Buchanan",7,16,"Cavs","vsNE",28
+1,"10:43","Huskies defensive rebound",643,"Def Rebound","defensive rebound","Huskies",7,16,"Opp","vsNE",29
+1,"10:41","Luka Sakota misses three point jump shot",641,"Missed Three","misses","Luka Sakota",7,16,"Opp","vsNE",29
+1,"10:39","Masai Troutman offensive rebound",639,"Off Rebound","offensive rebound","Masai Troutman",7,16,"Opp","vsNE",29
+1,"10:22","Masai Troutman turnover (bad pass)",622,"Turnover","turnover","Masai Troutman",7,16,"Cavs","vsNE",30
+1,"9:55","Leon Bond III makes two point jump shot (Blake Buchanan assists)",595,"Made Two","makes","Leon Bond III",9,16,"Opp","vsNE",31
+1,"9:53","Joe Pridgen misses two point layup",593,"Missed Two","misses","Joe Pridgen",9,16,"Opp","vsNE",31
+1,"9:33","Isaac McKneely defensive rebound",573,"Def Rebound","defensive rebound","Isaac McKneely",9,16,"Cavs","vsNE",32
+1,"9:31","Elijah Gertrude misses two point layup",571,"Missed Two","misses","Elijah Gertrude",9,16,"Cavs","vsNE",32
+1,"9:08","Joe Pridgen defensive rebound",548,"Def Rebound","defensive rebound","Joe Pridgen",9,16,"Opp","vsNE",33
+1,"8:49","Joe Pridgen makes two point layup (Harold Woods assists)",529,"Made Two","makes","Joe Pridgen",9,18,"Cavs","vsNE",34
+1,"8:47","Isaac McKneely misses three point jump shot",527,"Missed Three","misses","Isaac McKneely",9,18,"Cavs","vsNE",34
+1,"8:41","Masai Troutman defensive rebound",521,"Def Rebound","defensive rebound","Masai Troutman",9,18,"Opp","vsNE",35
+1,"8:39","Luka Sakota misses three point jump shot",519,"Missed Three","misses","Luka Sakota",9,18,"Opp","vsNE",35
+1,"8:30","Elijah Gertrude defensive rebound",510,"Def Rebound","defensive rebound","Elijah Gertrude",9,18,"Cavs","vsNE",36
+1,"8:28","Leon Bond III misses two point layup",508,"Missed Two","misses","Leon Bond III",9,18,"Cavs","vsNE",36
+1,"8:11","Masai Troutman defensive rebound",491,"Def Rebound","defensive rebound","Masai Troutman",9,18,"Opp","vsNE",37
+1,"8:09","Masai Troutman misses three point jump shot",489,"Missed Three","misses","Masai Troutman",9,18,"Opp","vsNE",37
+1,"7:57","Andrew Rohde defensive rebound",477,"Def Rebound","defensive rebound","Andrew Rohde",9,18,"Cavs","vsNE",38
+1,"7:32","Isaac McKneely makes two point jump shot (Andrew Rohde assists)",452,"Made Two","makes","Isaac McKneely",11,18,"Opp","vsNE",39
+1,"7:22","Chris Doherty turnover (lost ball) (Isaac McKneely steals)",442,"Turnover","turnover","Chris Doherty",11,18,"Cavs","vsNE",40
+1,"7:20","Elijah Gertrude misses two point jump shot",440,"Missed Two","misses","Elijah Gertrude",11,18,"Cavs","vsNE",40
+1,"7:04","Chris Doherty defensive rebound",424,"Def Rebound","defensive rebound","Chris Doherty",11,18,"Opp","vsNE",41
+1,"7:03","Chris Doherty turnover (bad pass)",423,"Turnover","turnover","Chris Doherty",11,18,"Cavs","vsNE",42
+1,"7:03","TV timeout",423,""," ","TV",11,18,"Cavs","vsNE",42
+1,"7:03","Cavaliers lineup change (Reece Beekman, Taine Murray, Ryan Dunn, Elijah Gertrude, Jacob Groves)",423,"Cav Sub"," ","Cavaliers",11,18,"Cavs","vsNE",42
+1,"6:50","Huskies lineup change (Joe Pridgen, Glen McClintock, Rashad King, Jared Turner, Chris Doherty)",410,"Opp Sub"," ","Huskies",11,18,"Cavs","vsNE",42
+1,"6:34","Jacob Groves makes two point layup (Reece Beekman assists)",394,"Made Two","makes","Jacob Groves",13,18,"Opp","vsNE",43
+1,"6:25","Joe Pridgen turnover (bad pass)",385,"Turnover","turnover","Joe Pridgen",13,18,"Cavs","vsNE",44
+1,"6:25","Chris Doherty shooting foul (Jacob Groves draws the foul)",385,"Foul","shooting foul","Chris Doherty",13,18,"Cavs","vsNE",44
+1,"6:25","Jacob Groves makes regular free throw 1 of 2",385,"Made FT","makes","Jacob Groves",14,18,"Cavs","vsNE",44
+1,"6:25","Huskies lineup change (Joe Pridgen, Glen McClintock, Rashad King, Jared Turner, Collin Metcalf)",385,"Opp Sub"," ","Huskies",14,18,"Cavs","vsNE",44
+1,"6:09","Jacob Groves makes regular free throw 2 of 2",369,"Made FT","makes","Jacob Groves",15,18,"Opp","vsNE",45
+1,"6:07","Rashad King misses three point jump shot",367,"Missed Three","misses","Rashad King",15,18,"Opp","vsNE",45
+1,"5:53","Elijah Gertrude defensive rebound",353,"Def Rebound","defensive rebound","Elijah Gertrude",15,18,"Cavs","vsNE",46
+1,"5:51","Ryan Dunn misses two point jump shot",351,"Missed Two","misses","Ryan Dunn",15,18,"Cavs","vsNE",46
+1,"5:26","Joe Pridgen defensive rebound",326,"Def Rebound","defensive rebound","Joe Pridgen",15,18,"Opp","vsNE",47
+1,"5:26","Collin Metcalf offensive foul",326,""," ","Collin",15,18,"Opp","vsNE",47
+1,"5:17","Collin Metcalf turnover (offensive foul)",317,"Turnover","turnover","Collin Metcalf",15,18,"Cavs","vsNE",48
+1,"5:10","Reece Beekman makes two point layup",310,"Made Two","makes","Reece Beekman",17,18,"Opp","vsNE",49
+1,"5:05","Glen McClintock turnover (bad pass) (Elijah Gertrude steals)",305,"Turnover","turnover","Glen McClintock",17,18,"Cavs","vsNE",50
+1,"5:05","Joe Pridgen shooting foul (Elijah Gertrude draws the foul)",305,"Foul","shooting foul","Joe Pridgen",17,18,"Cavs","vsNE",50
+1,"5:05","Elijah Gertrude misses regular free throw 1 of 2",305,"Missed FT","misses","Elijah Gertrude",17,18,"Cavs","vsNE",50
+1,"5:05","Huskies lineup change (Joe Pridgen, Harold Woods, Luka Sakota, Jared Turner, Masai Troutman)",305,"Opp Sub"," ","Huskies",17,18,"Cavs","vsNE",50
+1,"5:05","Elijah Gertrude misses regular free throw 2 of 2",305,"Missed FT","misses","Elijah Gertrude",17,18,"Cavs","vsNE",50
+1,"4:39","Joe Pridgen defensive rebound",279,"Def Rebound","defensive rebound","Joe Pridgen",17,18,"Opp","vsNE",51
+1,"4:37","Elijah Gertrude blocks Joe Pridgen's two point layup",277,"Block","block","Elijah Gertrude",17,18,"Opp","vsNE",51
+1,"4:31","Elijah Gertrude defensive rebound",271,"Def Rebound","defensive rebound","Elijah Gertrude",17,18,"Cavs","vsNE",52
+1,"4:31","Elijah Gertrude makes two point layup",271,"Made Two","makes","Elijah Gertrude",19,18,"Cavs","vsNE",52
+1,"4:31","Masai Troutman shooting foul (Elijah Gertrude draws the foul)",271,"Foul","shooting foul","Masai Troutman",19,18,"Cavs","vsNE",52
+1,"4:31","Elijah Gertrude makes regular free throw 1 of 1",271,"Made FT","makes","Elijah Gertrude",20,18,"Opp","vsNE",53
+1,"4:04","Huskies lineup change (Chris Doherty, Masai Troutman, Luka Sakota, Harold Woods, Jared Turner)",244,"Opp Sub"," ","Huskies",20,18,"Opp","vsNE",53
+1,"3:46","Luka Sakota makes two point jump shot",226,"Made Two","makes","Luka Sakota",20,20,"Cavs","vsNE",54
+1,"3:46","Jacob Groves offensive foul",226,""," ","Jacob",20,20,"Cavs","vsNE",54
+1,"3:46","Jacob Groves turnover (offensive foul)",226,"Turnover","turnover","Jacob Groves",20,20,"Opp","vsNE",55
+1,"3:46","TV timeout",226,""," ","TV",20,20,"Opp","vsNE",55
+1,"3:19","Cavaliers lineup change (Reece Beekman, Blake Buchanan, Elijah Gertrude, Ryan Dunn, Isaac McKneely)",199,"Cav Sub"," ","Cavaliers",20,20,"Opp","vsNE",55
+1,"3:03","Jared Turner makes three point jump shot (Chris Doherty assists)",183,"Made Three","makes","Jared Turner",20,23,"Cavs","vsNE",56
+1,"3:03","Jared Turner shooting foul (Blake Buchanan draws the foul)",183,"Foul","shooting foul","Jared Turner",20,23,"Cavs","vsNE",56
+1,"3:03","Blake Buchanan misses regular free throw 1 of 2",183,"Missed FT","misses","Blake Buchanan",20,23,"Cavs","vsNE",56
+1,"3:03","Blake Buchanan misses regular free throw 2 of 2",183,"Missed FT","misses","Blake Buchanan",20,23,"Cavs","vsNE",56
+1,"3:03","Huskies defensive rebound",183,"Def Rebound","defensive rebound","Huskies",20,23,"Opp","vsNE",57
+1,"2:41","Cavaliers lineup change (Blake Buchanan, Reece Beekman, Isaac McKneely, Andrew Rohde, Ryan Dunn)",161,"Cav Sub"," ","Cavaliers",20,23,"Opp","vsNE",57
+1,"2:39","Masai Troutman misses two point layup",159,"Missed Two","misses","Masai Troutman",20,23,"Opp","vsNE",57
+1,"2:24","Reece Beekman defensive rebound",144,"Def Rebound","defensive rebound","Reece Beekman",20,23,"Cavs","vsNE",58
+1,"2:19","Ryan Dunn turnover (lost ball) (Luka Sakota steals)",139,"Turnover","turnover","Ryan Dunn",20,23,"Opp","vsNE",59
+1,"2:19","Harold Woods makes two point layup (Luka Sakota assists)",139,"Made Two","makes","Harold Woods",20,25,"Opp","vsNE",59
+1,"2:19","Andrew Rohde shooting foul (Harold Woods draws the foul)",139,"Foul","shooting foul","Andrew Rohde",20,25,"Opp","vsNE",59
+1,"2:19","Huskies lineup change (Joe Pridgen, Luka Sakota, Harold Woods, Jared Turner, Chris Doherty)",139,"Opp Sub"," ","Huskies",20,25,"Opp","vsNE",59
+1,"2:19","Harold Woods misses regular free throw 1 of 1",139,"Missed FT","misses","Harold Woods",20,25,"Opp","vsNE",59
+1,"1:56","Ryan Dunn defensive rebound",116,"Def Rebound","defensive rebound","Ryan Dunn",20,25,"Cavs","vsNE",60
+1,"1:54","Andrew Rohde misses two point jump shot",114,"Missed Two","misses","Andrew Rohde",20,25,"Cavs","vsNE",60
+1,"1:35","Chris Doherty defensive rebound",95,"Def Rebound","defensive rebound","Chris Doherty",20,25,"Opp","vsNE",61
+1,"1:20","Chris Doherty makes two point hook shot",80,"Made Two","makes","Chris Doherty",20,27,"Cavs","vsNE",62
+1,"0:50","Reece Beekman makes two point layup",50,"Made Two","makes","Reece Beekman",22,27,"Opp","vsNE",63
+1,"0:46","Joe Pridgen makes three point jump shot (Chris Doherty assists)",46,"Made Three","makes","Joe Pridgen",22,30,"Cavs","vsNE",64
+1,"0:46","Cavaliers 30 second timeout",46,"Timeout","second timeout","Cavaliers 30",22,30,"Cavs","vsNE",64
+1,"0:46","Cavaliers lineup change (Blake Buchanan, Reece Beekman, Elijah Gertrude, Isaac McKneely, Ryan Dunn)",46,"Cav Sub"," ","Cavaliers",22,30,"Cavs","vsNE",64
+1,"0:31","Huskies lineup change (Joe Pridgen, Luka Sakota, Harold Woods, Masai Troutman, Chris Doherty)",31,"Opp Sub"," ","Huskies",22,30,"Cavs","vsNE",64
+1,"0:11","Reece Beekman makes two point fadeaway jump shot (Ryan Dunn assists)",11,"Made Two","makes","Reece Beekman",24,30,"Opp","vsNE",65
+1,"0:11","Huskies 30 second timeout",11,"Timeout","second timeout","Huskies 30",24,30,"Opp","vsNE",65
+1,"0:06","Huskies lineup change (Joe Pridgen, Masai Troutman, Luka Sakota, Jared Turner, Chris Doherty)",6,"Opp Sub"," ","Huskies",24,30,"Opp","vsNE",65
+1,"0:01","Reece Beekman personal foul (Luka Sakota draws the foul)",1,"Foul","personal foul","Reece Beekman",24,30,"Opp","vsNE",65
+2,"20:00","2ND HALF",1200,""," ","2ND",24,30,"Opp","vsNE",65
+2,"20:00","Cavaliers lineup change (Blake Buchanan, Reece Beekman, Isaac McKneely, Andrew Rohde, Ryan Dunn)",1200,"Cav Sub"," ","Cavaliers",24,30,"Opp","vsNE",65
+2,"19:32","Open inbound Cavaliers",1172,""," ","Open",24,30,"Cavs","vsNE",66
+2,"19:30","Ryan Dunn misses three point jump shot",1170,"Missed Three","misses","Ryan Dunn",24,30,"Cavs","vsNE",66
+2,"19:12","Joe Pridgen defensive rebound",1152,"Def Rebound","defensive rebound","Joe Pridgen",24,30,"Opp","vsNE",67
+2,"19:00","Chris Doherty makes two point layup (Joe Pridgen assists)",1140,"Made Two","makes","Chris Doherty",24,32,"Cavs","vsNE",68
+2,"18:47","Reece Beekman turnover (lost ball) (Masai Troutman steals)",1127,"Turnover","turnover","Reece Beekman",24,32,"Opp","vsNE",69
+2,"18:15","Luka Sakota makes three point jump shot (Chris Doherty assists)",1095,"Made Three","makes","Luka Sakota",24,35,"Cavs","vsNE",70
+2,"18:08","Masai Troutman personal foul",1088,"Foul","personal foul","Masai Troutman",24,35,"Cavs","vsNE",70
+2,"18:06","Isaac McKneely misses two point layup",1086,"Missed Two","misses","Isaac McKneely",24,35,"Cavs","vsNE",70
+2,"18:04","Isaac McKneely offensive rebound",1084,"Off Rebound","offensive rebound","Isaac McKneely",24,35,"Cavs","vsNE",70
+2,"18:03","Isaac McKneely misses two point layup",1083,"Missed Two","misses","Isaac McKneely",24,35,"Cavs","vsNE",70
+2,"17:57","Joe Pridgen defensive rebound",1077,"Def Rebound","defensive rebound","Joe Pridgen",24,35,"Opp","vsNE",71
+2,"17:57","Masai Troutman makes two point layup (Joe Pridgen assists)",1077,"Made Two","makes","Masai Troutman",24,37,"Cavs","vsNE",72
+2,"17:57","Cavaliers 30 second timeout",1077,"Timeout","second timeout","Cavaliers 30",24,37,"Cavs","vsNE",72
+2,"17:57","TV timeout",1077,""," ","TV",24,37,"Cavs","vsNE",72
+2,"17:40","Cavaliers lineup change (Leon Bond III, Reece Beekman, Andrew Rohde, Isaac McKneely, Jacob Groves)",1060,"Cav Sub"," ","Cavaliers",24,37,"Cavs","vsNE",72
+2,"17:40","Masai Troutman shooting foul (Reece Beekman draws the foul)",1060,"Foul","shooting foul","Masai Troutman",24,37,"Cavs","vsNE",72
+2,"17:40","Reece Beekman makes regular free throw 1 of 2",1060,"Made FT","makes","Reece Beekman",25,37,"Cavs","vsNE",72
+2,"17:40","Huskies lineup change (Joe Pridgen, Harold Woods, Luka Sakota, Jared Turner, Chris Doherty)",1060,"Opp Sub"," ","Huskies",25,37,"Cavs","vsNE",72
+2,"17:40","Reece Beekman misses regular free throw 2 of 2",1060,"Missed FT","misses","Reece Beekman",25,37,"Cavs","vsNE",72
+2,"17:13","Chris Doherty defensive rebound",1033,"Def Rebound","defensive rebound","Chris Doherty",25,37,"Opp","vsNE",73
+2,"16:55","Chris Doherty turnover (traveling)",1015,"Turnover","turnover","Chris Doherty",25,37,"Cavs","vsNE",74
+2,"16:36","Leon Bond III makes two point layup (Andrew Rohde assists)",996,"Made Two","makes","Leon Bond III",27,37,"Opp","vsNE",75
+2,"16:15","Jared Turner turnover (traveling)",975,"Turnover","turnover","Jared Turner",27,37,"Cavs","vsNE",76
+2,"15:49","Reece Beekman makes two point dunk",949,"Made Two","makes","Reece Beekman",29,37,"Opp","vsNE",77
+2,"15:46","TV timeout",946,""," ","TV",29,37,"Opp","vsNE",77
+2,"15:44","Jared Turner misses three point jump shot",944,"Missed Three","misses","Jared Turner",29,37,"Opp","vsNE",77
+2,"15:33","Reece Beekman defensive rebound",933,"Def Rebound","defensive rebound","Reece Beekman",29,37,"Cavs","vsNE",78
+2,"15:08","Leon Bond III makes two point dunk (Andrew Rohde assists)",908,"Made Two","makes","Leon Bond III",31,37,"Opp","vsNE",79
+2,"15:06","Harold Woods misses three point jump shot",906,"Missed Three","misses","Harold Woods",31,37,"Opp","vsNE",79
+2,"14:57","Reece Beekman defensive rebound",897,"Def Rebound","defensive rebound","Reece Beekman",31,37,"Cavs","vsNE",80
+2,"14:55","Jacob Groves misses three point jump shot",895,"Missed Three","misses","Jacob Groves",31,37,"Cavs","vsNE",80
+2,"14:44","Chris Doherty defensive rebound",884,"Def Rebound","defensive rebound","Chris Doherty",31,37,"Opp","vsNE",81
+2,"14:38","Isaac McKneely personal foul (Chris Doherty draws the foul)",878,"Foul","personal foul","Isaac McKneely",31,37,"Opp","vsNE",81
+2,"14:27","Jared Turner makes three point jump shot (Luka Sakota assists)",867,"Made Three","makes","Jared Turner",31,40,"Cavs","vsNE",82
+2,"14:04","Reece Beekman makes two point layup (Andrew Rohde assists)",844,"Made Two","makes","Reece Beekman",33,40,"Opp","vsNE",83
+2,"14:04","Chris Doherty misses two point hook shot",844,"Missed Two","misses","Chris Doherty",33,40,"Opp","vsNE",83
+2,"14:04","Isaac McKneely defensive rebound",844,"Def Rebound","defensive rebound","Isaac McKneely",33,40,"Cavs","vsNE",84
+2,"14:04","Harold Woods personal foul",844,"Foul","personal foul","Harold Woods",33,40,"Cavs","vsNE",84
+2,"13:46","Huskies lineup change (Joe Pridgen, Masai Troutman, Harold Woods, Rashad King, Chris Doherty)",826,"Opp Sub"," ","Huskies",33,40,"Cavs","vsNE",84
+2,"13:44","Andrew Rohde misses three point jump shot",824,"Missed Three","misses","Andrew Rohde",33,40,"Cavs","vsNE",84
+2,"13:18","Chris Doherty defensive rebound",798,"Def Rebound","defensive rebound","Chris Doherty",33,40,"Opp","vsNE",85
+2,"13:16","Joe Pridgen misses three point jump shot",796,"Missed Three","misses","Joe Pridgen",33,40,"Opp","vsNE",85
+2,"12:49","Jacob Groves defensive rebound",769,"Def Rebound","defensive rebound","Jacob Groves",33,40,"Cavs","vsNE",86
+2,"12:29","Reece Beekman makes two point jump shot",749,"Made Two","makes","Reece Beekman",35,40,"Opp","vsNE",87
+2,"12:29","Joe Pridgen offensive foul",749,""," ","Joe",35,40,"Opp","vsNE",87
+2,"12:29","Joe Pridgen turnover (offensive foul)",749,"Turnover","turnover","Joe Pridgen",35,40,"Cavs","vsNE",88
+2,"12:29","Cavaliers lineup change (Reece Beekman, Andrew Rohde, Isaac McKneely, Jacob Groves, Ryan Dunn)",749,"Cav Sub"," ","Cavaliers",35,40,"Cavs","vsNE",88
+2,"12:29","Huskies 30 second timeout",749,"Timeout","second timeout","Huskies 30",35,40,"Cavs","vsNE",88
+2,"12:29","TV timeout",749,""," ","TV",35,40,"Cavs","vsNE",88
+2,"12:18","Cavaliers lineup change (Reece Beekman, Elijah Gertrude, Isaac McKneely, Ryan Dunn, Jacob Groves)",738,"Cav Sub"," ","Cavaliers",35,40,"Cavs","vsNE",88
+2,"12:16","Rashad King blocks Ryan Dunn's two point layup",736,"Block","block","Rashad King",35,40,"Cavs","vsNE",88
+2,"12:07","Cavaliers offensive rebound",727,"Off Rebound","offensive rebound","Cavaliers",35,40,"Cavs","vsNE",88
+2,"11:44","Jacob Groves makes two point jump shot (Reece Beekman assists)",704,"Made Two","makes","Jacob Groves",37,40,"Opp","vsNE",89
+2,"11:44","Jacob Groves personal foul",704,"Foul","personal foul","Jacob Groves",37,40,"Opp","vsNE",89
+2,"11:44","Huskies lineup change (Joe Pridgen, Masai Troutman, Rashad King, Jared Turner, Chris Doherty)",704,"Opp Sub"," ","Huskies",37,40,"Opp","vsNE",89
+2,"11:32","Cavaliers lineup change (Reece Beekman, Isaac McKneely, Elijah Gertrude, Ryan Dunn, Blake Buchanan)",692,"Cav Sub"," ","Cavaliers",37,40,"Opp","vsNE",89
+2,"11:14","Masai Troutman makes two point layup (Chris Doherty assists)",674,"Made Two","makes","Masai Troutman",37,42,"Cavs","vsNE",90
+2,"11:12","Reece Beekman misses three point jump shot",672,"Missed Three","misses","Reece Beekman",37,42,"Cavs","vsNE",90
+2,"10:59","Jared Turner defensive rebound",659,"Def Rebound","defensive rebound","Jared Turner",37,42,"Opp","vsNE",91
+2,"10:50","Joe Pridgen turnover (bad pass) (Reece Beekman steals)",650,"Turnover","turnover","Joe Pridgen",37,42,"Cavs","vsNE",92
+2,"10:48","Isaac McKneely misses three point jump shot",648,"Missed Three","misses","Isaac McKneely",37,42,"Cavs","vsNE",92
+2,"10:26","Joe Pridgen defensive rebound",626,"Def Rebound","defensive rebound","Joe Pridgen",37,42,"Opp","vsNE",93
+2,"10:24","Chris Doherty misses two point hook shot",624,"Missed Two","misses","Chris Doherty",37,42,"Opp","vsNE",93
+2,"10:13","Elijah Gertrude defensive rebound",613,"Def Rebound","defensive rebound","Elijah Gertrude",37,42,"Cavs","vsNE",94
+2,"10:13","Joe Pridgen personal foul (Elijah Gertrude draws the foul)",613,"Foul","personal foul","Joe Pridgen",37,42,"Cavs","vsNE",94
+2,"10:06","Huskies lineup change (Joe Pridgen, Masai Troutman, Rashad King, Jared Turner, Bryce Johnson)",606,"Opp Sub"," ","Huskies",37,42,"Cavs","vsNE",94
+2,"10:04","Joe Pridgen blocks Isaac McKneely's two point jump shot",604,"Block","block","Joe Pridgen",37,42,"Cavs","vsNE",94
+2,"10:01","Masai Troutman defensive rebound",601,"Def Rebound","defensive rebound","Masai Troutman",37,42,"Opp","vsNE",95
+2,"10:01","Elijah Gertrude personal foul",601,"Foul","personal foul","Elijah Gertrude",37,42,"Opp","vsNE",95
+2,"9:59","Cavaliers lineup change (Andrew Rohde, Leon Bond III, Isaac McKneely, Elijah Gertrude, Ryan Dunn)",599,"Cav Sub"," ","Cavaliers",37,42,"Opp","vsNE",95
+2,"9:57","Jared Turner misses three point jump shot",597,"Missed Three","misses","Jared Turner",37,42,"Opp","vsNE",95
+2,"9:36","Elijah Gertrude defensive rebound",576,"Def Rebound","defensive rebound","Elijah Gertrude",37,42,"Cavs","vsNE",96
+2,"9:10","Isaac McKneely makes three point jump shot (Andrew Rohde assists)",550,"Made Three","makes","Isaac McKneely",40,42,"Opp","vsNE",97
+2,"8:45","Bryce Johnson makes two point layup (Masai Troutman assists)",525,"Made Two","makes","Bryce Johnson",40,44,"Cavs","vsNE",98
+2,"8:45","Masai Troutman shooting foul (Elijah Gertrude draws the foul)",525,"Foul","shooting foul","Masai Troutman",40,44,"Cavs","vsNE",98
+2,"8:45","Elijah Gertrude makes regular free throw 1 of 2",525,"Made FT","makes","Elijah Gertrude",41,44,"Cavs","vsNE",98
+2,"8:45","Huskies lineup change (Luka Sakota, Harold Woods, Chris Doherty, Jared Turner, Bryce Johnson)",525,"Opp Sub"," ","Huskies",41,44,"Cavs","vsNE",98
+2,"8:24","Elijah Gertrude makes regular free throw 2 of 2",504,"Made FT","makes","Elijah Gertrude",42,44,"Opp","vsNE",99
+2,"8:22","Luka Sakota misses three point jump shot",502,"Missed Three","misses","Luka Sakota",42,44,"Opp","vsNE",99
+2,"7:55","Leon Bond III defensive rebound",475,"Def Rebound","defensive rebound","Leon Bond III",42,44,"Cavs","vsNE",100
+2,"7:53","Andrew Rohde misses three point jump shot",473,"Missed Three","misses","Andrew Rohde",42,44,"Cavs","vsNE",100
+2,"7:39","Chris Doherty defensive rebound",459,"Def Rebound","defensive rebound","Chris Doherty",42,44,"Opp","vsNE",101
+2,"7:39","Leon Bond III personal foul",459,"Foul","personal foul","Leon Bond III",42,44,"Opp","vsNE",101
+2,"7:39","TV timeout",459,""," ","TV",42,44,"Opp","vsNE",101
+2,"7:22","Cavaliers lineup change (Andrew Rohde, Isaac McKneely, Reece Beekman, Ryan Dunn, Jacob Groves)",442,"Cav Sub"," ","Cavaliers",42,44,"Opp","vsNE",101
+2,"7:20","Jared Turner misses three point jump shot",440,"Missed Three","misses","Jared Turner",42,44,"Opp","vsNE",101
+2,"7:01","Isaac McKneely defensive rebound",421,"Def Rebound","defensive rebound","Isaac McKneely",42,44,"Cavs","vsNE",102
+2,"6:27","Isaac McKneely makes three point jump shot (Andrew Rohde assists)",387,"Made Three","makes","Isaac McKneely",45,44,"Opp","vsNE",103
+2,"6:25","Harold Woods misses two point jump shot",385,"Missed Two","misses","Harold Woods",45,44,"Opp","vsNE",103
+2,"6:09","Andrew Rohde defensive rebound",369,"Def Rebound","defensive rebound","Andrew Rohde",45,44,"Cavs","vsNE",104
+2,"6:07","Reece Beekman misses three point jump shot",367,"Missed Three","misses","Reece Beekman",45,44,"Cavs","vsNE",104
+2,"5:50","Bryce Johnson defensive rebound",350,"Def Rebound","defensive rebound","Bryce Johnson",45,44,"Opp","vsNE",105
+2,"5:43","Chris Doherty turnover (bad pass) (Isaac McKneely steals)",343,"Turnover","turnover","Chris Doherty",45,44,"Cavs","vsNE",106
+2,"5:41","Ryan Dunn makes two point alley-oop dunk (Reece Beekman assists)",341,"Made Two","makes","Ryan Dunn",47,44,"Opp","vsNE",107
+2,"5:41","Huskies 30 second timeout",341,"Timeout","second timeout","Huskies 30",47,44,"Opp","vsNE",107
+2,"5:13","Huskies lineup change (Luka Sakota, Rashad King, Jared Turner, Joe Pridgen, Chris Doherty)",313,"Opp Sub"," ","Huskies",47,44,"Opp","vsNE",107
+2,"4:56","Luka Sakota makes two point jump shot (Joe Pridgen assists)",296,"Made Two","makes","Luka Sakota",47,46,"Cavs","vsNE",108
+2,"4:54","Reece Beekman misses two point layup",294,"Missed Two","misses","Reece Beekman",47,46,"Cavs","vsNE",108
+2,"4:52","Reece Beekman offensive rebound",292,"Off Rebound","offensive rebound","Reece Beekman",47,46,"Cavs","vsNE",108
+2,"4:50","Reece Beekman misses two point layup",290,"Missed Two","misses","Reece Beekman",47,46,"Cavs","vsNE",108
+2,"4:25","Chris Doherty defensive rebound",265,"Def Rebound","defensive rebound","Chris Doherty",47,46,"Opp","vsNE",109
+2,"4:25","Joe Pridgen turnover (bad pass)",265,"Turnover","turnover","Joe Pridgen",47,46,"Cavs","vsNE",110
+2,"4:22","Huskies lineup change (Joe Pridgen, Masai Troutman, Luka Sakota, Jared Turner, Chris Doherty)",262,"Opp Sub"," ","Huskies",47,46,"Cavs","vsNE",110
+2,"4:22","Ryan Dunn offensive foul (Jared Turner draws the foul)",262,""," ","Ryan",47,46,"Cavs","vsNE",110
+2,"4:08","Ryan Dunn turnover (offensive foul)",248,"Turnover","turnover","Ryan Dunn",47,46,"Opp","vsNE",111
+2,"3:52","Chris Doherty makes two point layup (Luka Sakota assists)",232,"Made Two","makes","Chris Doherty",47,48,"Cavs","vsNE",112
+2,"3:50","Isaac McKneely misses three point jump shot",230,"Missed Three","misses","Isaac McKneely",47,48,"Cavs","vsNE",112
+2,"3:49","Ryan Dunn offensive rebound",229,"Off Rebound","offensive rebound","Ryan Dunn",47,48,"Cavs","vsNE",112
+2,"3:49","Jared Turner personal foul (Ryan Dunn draws the foul)",229,"Foul","personal foul","Jared Turner",47,48,"Cavs","vsNE",112
+2,"3:49","TV timeout",229,""," ","TV",47,48,"Cavs","vsNE",112
+2,"3:49","Ryan Dunn makes regular free throw 1 of 2",229,"Made FT","makes","Ryan Dunn",48,48,"Cavs","vsNE",112
+2,"3:49","Ryan Dunn misses regular free throw 2 of 2",229,"Missed FT","misses","Ryan Dunn",48,48,"Cavs","vsNE",112
+2,"3:31","Huskies defensive rebound",211,"Def Rebound","defensive rebound","Huskies",48,48,"Opp","vsNE",113
+2,"3:12","Chris Doherty makes two point driving reverse layup",192,"Made Two","makes","Chris Doherty",48,50,"Cavs","vsNE",114
+2,"2:47","Jacob Groves makes two point jump shot (Reece Beekman assists)",167,"Made Two","makes","Jacob Groves",50,50,"Opp","vsNE",115
+2,"2:45","Luka Sakota misses three point jump shot",165,"Missed Three","misses","Luka Sakota",50,50,"Opp","vsNE",115
+2,"2:24","Ryan Dunn defensive rebound",144,"Def Rebound","defensive rebound","Ryan Dunn",50,50,"Cavs","vsNE",116
+2,"1:59","Ryan Dunn makes two point dunk (Reece Beekman assists)",119,"Made Two","makes","Ryan Dunn",52,50,"Opp","vsNE",117
+2,"1:57","Ryan Dunn blocks Joe Pridgen's two point layup",117,"Block","block","Ryan Dunn",52,50,"Opp","vsNE",117
+2,"1:54","Joe Pridgen offensive rebound",114,"Off Rebound","offensive rebound","Joe Pridgen",52,50,"Opp","vsNE",117
+2,"1:34","Joe Pridgen makes two point layup",94,"Made Two","makes","Joe Pridgen",52,52,"Cavs","vsNE",118
+2,"1:32","Jacob Groves misses three point jump shot",92,"Missed Three","misses","Jacob Groves",52,52,"Cavs","vsNE",118
+2,"1:11","Joe Pridgen defensive rebound",71,"Def Rebound","defensive rebound","Joe Pridgen",52,52,"Opp","vsNE",119
+2,"1:09","Isaac McKneely personal foul (Masai Troutman draws the foul)",69,"Foul","personal foul","Isaac McKneely",52,52,"Opp","vsNE",119
+2,"0:52","Chris Doherty makes two point layup (Luka Sakota assists)",52,"Made Two","makes","Chris Doherty",52,54,"Cavs","vsNE",120
+2,"0:52","Masai Troutman shooting foul (Reece Beekman draws the foul)",52,"Foul","shooting foul","Masai Troutman",52,54,"Cavs","vsNE",120
+2,"0:52","Huskies lineup change (Joe Pridgen, Rashad King, Luka Sakota, Jared Turner, Chris Doherty)",52,"Opp Sub"," ","Huskies",52,54,"Cavs","vsNE",120
+2,"0:52","Reece Beekman makes regular free throw 1 of 2",52,"Made FT","makes","Reece Beekman",53,54,"Cavs","vsNE",120
+2,"0:52","Reece Beekman makes regular free throw 2 of 2",52,"Made FT","makes","Reece Beekman",54,54,"Opp","vsNE",121
+2,"0:26","Cavaliers 30 second timeout",26,"Timeout","second timeout","Cavaliers 30",54,54,"Opp","vsNE",121
+2,"0:24","Jacob Groves blocks Chris Doherty's two point layup",24,"Block","block","Jacob Groves",54,54,"Opp","vsNE",121
+2,"0:05","Reece Beekman defensive rebound",5,"Def Rebound","defensive rebound","Reece Beekman",54,54,"Cavs","vsNE",122
+2,"0:03","Reece Beekman makes two point jump shot",3,"Made Two","makes","Reece Beekman",56,54,"Opp","vsNE",123
+2,"0:03","Huskies 60 second timeout",3,"Timeout","second timeout","Huskies 60",56,54,"Opp","vsNE",123
+2,"0:03","Huskies lineup change (Joe Pridgen, Harold Woods, Luka Sakota, Jared Turner, Chris Doherty)",3,"Opp Sub"," ","Huskies",56,54,"Opp","vsNE",123
+2,"0:02","Cavaliers 60 second timeout",2,"Timeout","second timeout","Cavaliers 60",56,54,"Opp","vsNE",123
+2,"0:01","Harold Woods turnover (bad pass)",1,"Turnover","turnover","Harold Woods",56,54,"Cavs","vsNE",124
+2,"0:01","Joe Pridgen personal foul (Andrew Rohde draws the foul)",1,"Foul","personal foul","Joe Pridgen",56,54,"Cavs","vsNE",124
+2,"0:00","Luka Sakota misses three point jump shot",0,"Missed Three","misses","Luka Sakota",56,54,"Cavs","vsNE",124
+2,"0:00","Cavaliers defensive rebound",0,"Def Rebound","defensive rebound","Cavaliers",56,54,"Opp","vsNE",125
+2,"0:00","Andrew Rohde misses regular free throw 1 of 1",0,"Missed FT","misses","Andrew Rohde",56,54,"Opp","vsNE",125
+2,"0:00","Joe Pridgen defensive rebound",0,"Def Rebound","defensive rebound","Joe Pridgen",56,54,"Cavs","vsNE",126
+2,"0:00","Joe Pridgen misses three point jump shot",0,"Missed Three","misses","Joe Pridgen",56,54,"Cavs","vsNE",126
+2,"0:00","Cavaliers defensive rebound",0,"Def Rebound","defensive rebound","Cavaliers",56,54,"Opp","vsNE",127
