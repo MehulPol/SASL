@@ -18,6 +18,12 @@ WVU_stats = read.csv('WVU_stats.csv')
 TXAM_stats = read.csv('TXAM_stats.csv')
 SYR_stats = read.csv('SYR_stats.csv')
 NCCU_stats = read.csv('NCCU_stats.csv')
+NE_stats = read.csv('NE_stats.csv')
+MEM_stats = read.csv('MEM_stats.csv')
+MORG_stats = read.csv('MORG_stats.csv')
+ND_stats = read.csv('ND_stats.csv')
+LOU_stats = read.csv('LOU_stats.csv')
+NCST_stats = read.csv('NCST_stats.csv')
 
 szn_stats = TARL_stats %>% 
   full_join(FLA_stats)%>%
@@ -28,6 +34,12 @@ szn_stats = TARL_stats %>%
   full_join(TXAM_stats)%>%
   full_join(SYR_stats)%>%
   full_join(NCCU_stats)%>%
+  full_join(NE_stats)%>%
+  full_join(MEM_stats)%>%
+  full_join(MORG_stats)%>%
+  full_join(ND_stats)%>%
+  full_join(LOU_stats)%>%
+  full_join(NCST_stats)%>%
   group_by(Player)%>%
   summarise_all(sum)
 
@@ -70,6 +82,12 @@ WVU_game = read.csv('WVU_game.csv')
 TXAM_game = read.csv('TXAM_game.csv')
 SYR_game = read.csv('SYR_game.csv')
 NCCU_game = read.csv('NCCU_game.csv')
+NE_game = read.csv('NE_game.csv')
+MEM_game = read.csv('MEM_game.csv')
+MORG_game = read.csv('MORG_game.csv')
+ND_game = read.csv('ND_game.csv')
+LOU_game = read.csv('LOU_game.csv')
+NCST_game = read.csv('NCST_game.csv')
 
 game1 = TARL_game %>% 
   full_join(FLA_game)%>%
@@ -79,7 +97,13 @@ game1 = TARL_game %>%
   full_join(WVU_game)%>%
   full_join(TXAM_game)%>%
   full_join(SYR_game)%>%
-  full_join(NCCU_game)
+  full_join(NCCU_game)%>%
+  full_join(NE_game)%>%
+  full_join(MEM_game)%>%
+  full_join(MORG_game)%>%
+  full_join(ND_game)%>%
+  full_join(LOU_game)%>%
+  full_join(NCST_game)
 Lineup_stats = tibble(On_court_time = 0,Possessions = 0, Pts= 0, Pts_against = 0, Tnovers = 0, FG_made = 0, FG_att = 0, Three_made =0, Three_att = 0,Rebounds = 0,Defensive_plays = 0)
 starting_lineup1 = "Isaac McKneely,Reece Beekman,Andrew Rohde,Ryan Dunn,Jacob Groves"
 starting = lapply(strsplit(starting_lineup1, split = ","),sort)
